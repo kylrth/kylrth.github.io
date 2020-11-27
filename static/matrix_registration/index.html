@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+    <title>Matrix</title>
+</head>
+
+<h1 id="encrypted-rooms-on-matrix-what-we-know-so-far">our Matrix server</h1>
+
+<img src="images/federation.png" alt="Matrix federation" align="right">
+
+<p>Matrix is a federated, open source chat system. By <i>federated</i>, we mean that people can
+    communicate across different servers, like in the image on the right. In that way, it works sort
+    of like email: even though you may use you@gmail.com and I might use me@kylrth.com, we can still
+    write each other emails.</p>
+
+<p>In our case, I host the server at matrix.kylrth.com, and you and I can connect to it with various
+    <a href="https://matrix.org/clients-matrix/">clients</a>. We can write each other messages, but
+    we can also communicate with people on other Matrix servers. There are a ton of cool features to
+    Matrix, such as <a href="https://matrix.org/bridges/">bridging</a>, voice and video calls (still
+    not supported by my server), and encryption. You can read more on the Matrix <a
+        href="https://matrix.org">website</a>.</p>
+
+<h2>getting started</h2>
+<p>Go to <a href="https://chat.kylrth.com/register">chat.kylrth.com/register</a> to create your
+    account. By using this registration page, you're making an account on my homeserver,
+    matrix.kylrth.com. Feel free to use your own name as the username, because it's highly unlikely
+    someone has already used it. (Currently we're at ~30 users.) Also, remember that you can always
+    change your display name, which is separate from your username. To register, you'll need to ask
+    me for a token. Once you've successfully registered, log in from your phone or computer. (If
+    you're going to log in on the computer, it'll be easier to download the <a
+        href="https://element.io/get-started">desktop version</a>, so that in the future you don't
+    lose your session when you clear cookies.)
+</p>
+<p>To sign in, you'll need to change the homeserver URL from matrix.org to matrix.kylrth.com.
+    (Otherwise, it won't know who you are because you don't have an account on matrix.org.) On
+    Android this is found under "advanced server options". Once you've signed in, the first thing
+    it'll do is ask you to set up a recovery passphrase. There is an option to skip this step, but
+    we want you to use cross-signing, so please do set it up. (This will make sense when you read
+    the section on cross-signing.)</p>
+<p><strong>If you don&#39;t see a prompt to set up cross-signing</strong>, don&#39;t worry. You can
+    set it up from somewhere in settings.</p>
+<p>Once you've set up cross-signing, send me a message @kyle:kylrth.com. Please keep reading to
+    understand how you will sign in to multiple devices.</p>
+
+<h2 id="cross">cross-signing</h2>
+<p>One of the cool parts about Matrix is that you can use end-to-end encryption to secure your
+    chats. This means that when you send your message it is encoded so that not even my server can
+    read your message. Then, when the server sends it to the receiving device, the receiving device
+    can decrypt it.</p>
+<p>Using encryption this way requires us to perform an extra step, called verification. Verification
+    is used to ensure that you trust the devices that messages are being sent to. For example, if
+    you send me a message, the message will show up on my laptop as well as my phone. You want to be
+    sure that my laptop and phone are the devices you think they are. So, before sending me any
+    encrypted messages, you and I perform verification. This can be done by going to the list of
+    people in a chat room, clicking on me, and then choosing to verify. During verification, you and
+    I will be shown a set of emojis, and we need to use an external mode of communication to confirm
+    they're the same. Obviously the most secure would be to do it in person, but I usually do it
+    over Facebook Messenger or by text. Verification only needs to be performed once between you and
+    each person you chat with.</p>
+<p>In order for all of our devices to trust each other, it's best to use cross-signing.
+    Cross-signing means that you perform verification <i>with yourself</i> when you log in to a new
+    device. So if you set up your account on desktop and now you want to sign in on an iPhone, when
+    you sign in you'll be prompted to verify from your desktop login. This is sort of like 2-factor
+    authentication, if you've ever done that. <strong>Cross-signing means that all of my devices
+        will automatically trust your new device, even though I haven't verified with that
+        device.</strong> If you ever lose your other logged-in devices, you can enter your recovery
+    passphrase to achieve the same result.
+</p>
+<p>In general it's important to limit the number of logged-in sessions. You can log out other
+    sessions within Element. Any time you log in with a new session, make sure to cross-verify from
+    your phone or other device so that other people know to trust your new device.</p>
+
+</html>
