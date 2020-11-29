@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-categories: ["blog-post"]
+categories: ["paper-notes"]
 thumbnail: "path/thumbnail.jpg"
+link: "link://to.abstract.com/"
 ---
