@@ -1,5 +1,15 @@
 {{ if or ( $.Param "medium" ) ( $.Param "twitter" ) ( $.Param "facebook" ) ( $.Param "instagram" ) ( $.Param "github" ) ( $.Param "gitlab" ) ( $.Param "npm" ) ( $.Param "codepen" ) ( $.Param "dribbble" ) ( $.Param "fivehundredpx" ) ( $.Param "flickr" ) ( $.Param "pinterest" ) ( $.Param "tumblr" ) ( $.Param "vimeo" ) ( $.Param "youtube" ) ( $.Param "linkedin" ) ( $.Param "strava" ) }}
 <ul class="c-links">
+  {{ with ($.Param "matrix") }}
+  <li class="c-links__item">
+    <a href="https://matrix.to/#/{{ . }}" target="_blank">
+      <svg viewBox="0 0 30 28" class="c-links__icon">
+        <title>matrix</title>
+        <use xlink:href="#icon-matrix"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
   {{ with ($.Param "medium") }}
   <li class="c-links__item">
     <a href="https://medium.com/{{ . }}" target="_blank">

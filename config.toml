@@ -18,6 +18,7 @@ paginate = 5
   twitter = "kylrth"
   github = "kylrth"
   linkedin = "kyle-roth"
+  matrix = "@kyle:kylrth.com"
 
 [[menu.main]]
     name = "homepage"
