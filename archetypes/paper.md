@@ -1,8 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " }}"
+link: "link://to.abstract.com/"
 date: {{ .Date }}
 draft: true
-categories: ["paper-notes"]
+tags: []
 thumbnail: "path/thumbnail.jpg"
-link: "link://to.abstract.com/"
+mathjax: true
 ---

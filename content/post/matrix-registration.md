@@ -1,10 +1,11 @@
 ---
-title: "Matrix Registration"
-date: 2020-02-02T00:00:00-00:00
+title: "Matrix registration"
+date: 2020-02-02T12:34:56-07:00
 draft: false
+tags: ["matrix"]
 ---
 
-{{< zoom-img src="/images/matrix-registration/federation.png" >}}
+{{< zoom-img src="federation.png" >}}
 
 Matrix is a *federated*, open source chat system. By federated, we mean that people can communicate across different servers, like in the image on the right. In that way, it works sort of like email: even though you may use `you@gmail.com` and I might use `me@kylrth.com`, we can still write each other emails.
 
