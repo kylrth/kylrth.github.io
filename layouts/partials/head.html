@@ -1,11 +1,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  {{ with .Title | default .Site.Title }}
-  <title>{{ . }}</title>
+  {{ $title := .Title | default .Site.Title }}
+  {{ if .Page.IsSection }}
+  <title>{{ $title | lower }}</title>
+  {{ else }}
+  <title>{{ $title }}</title>
+  {{ end }}
   <meta property="og:title" content="{{ . }}" />
   <meta name="twitter:title" content="{{ . }}" />
-  {{ end }}
 
   {{ with .Description | default ($.Param "subtitle") }}
   <meta name="description" content="{{ . }}">
@@ -13,7 +16,7 @@
   <meta name="twitter:description" content="{{ . | truncate 200 }}">
   {{ end }}
 
-  <meta name="author" content="{{ $.Param "author" }}"/>
+  <meta name="author" content="{{ $.Param "author" }}" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
 
@@ -39,24 +42,20 @@
   <!-- Hugo Version Number -->
   {{ hugo.Generator -}}
 
-  {{ if not .Site.IsServer }}
-  {{ template "_internal/google_analytics_async.html" . }}
-  {{ end }}
-
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
-  <!-- Custom css files as define in config.toml -->
+  <!-- Custom css files as defined in config.toml -->
   {{ range ($.Param "custom_css") -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+  <link rel="stylesheet" href="{{ . | absURL }}">
   {{- end }}
   {{- with ($.Param "favicon") }}
   <link rel='icon' type='image/x-icon' href="{{ . | absURL }}" />
   {{- end -}}
   {{ if eq .RelPermalink "/" }}
   {{ with .OutputFormats.Get "RSS" -}}
-  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml"
+    title="{{ $.Site.Title }}" />
   {{ end -}}
   {{ end }}
   {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
   <script type="text/javascript" src="{{ .Site.BaseURL }}js/bundle.js"></script>
-  {{ partial "head_custom.html" . }}
 </head>

@@ -4,17 +4,58 @@ title = "Kyle Roth"
 
 copyright = "&copy; Kyle Roth"
 
+paginate = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allow LaTeX display mode
+
+[taxonomies]
+  tag = "tags"
+
 [params]
   twitter = "kylrth"
   github = "kylrth"
   linkedin = "kyle-roth"
 
 [[menu.main]]
-    name = "About"
+    name = "homepage"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url = "/blog"
+    name = "posts"
+    url = "/post"
     weight = 2
+
+[[menu.main]]
+    name = "paper notes"
+    url = "/paper"
+    weight = 3
+
+[[menu.main]]
+    name = "book notes"
+    url = "/book"
+    weight = 4
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 60
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = true
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
