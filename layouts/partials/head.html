@@ -42,7 +42,7 @@
   <!-- Hugo Version Number -->
   {{ hugo.Generator -}}
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
+  <link rel="stylesheet" href="/css/style.css" />
   <!-- Custom css files as defined in config.toml -->
   {{ range ($.Param "custom_css") -}}
   <link rel="stylesheet" href="{{ . | absURL }}">
@@ -57,5 +57,5 @@
   {{ end -}}
   {{ end }}
   {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
-  <script type="text/javascript" src="{{ .Site.BaseURL }}js/bundle.js"></script>
+  <script type="text/javascript" src="/js/bundle.js"></script>
 </head>
