@@ -2,7 +2,7 @@
 title: "Cross-lingual alignment of contextual word embeddings, with applications to zero-shot dependency parsing"
 link: "https://arxiv.org/abs/1902.09492"
 date: 2020-12-11T06:30:43-07:00
-draft: true
+draft: false
 tags: ["nlp", "embedding"]
 mathjax: true
 ---
@@ -20,9 +20,9 @@ The authors then list some key properties of this learned contextualized embeddi
 
 ## context-independent alignment
 
-Whether a dictionary is available or not, the authors assume a linear transformation exists between languages; that is, for an embedding `\(e_i^s\)` of token `\(i\)` in language `\(s\)`, the embedding `\(e_i^t\)` in language `\(t\)` is approximated by `\(We_i^s\)`, where `\(W\)` is learned. The learned transition matrix `\(W^{s\rightarrow t}\)` can be found by solving the following optimization problem:
+Whether a dictionary is available or not, the authors assume a linear transformation exists between languages; that is, for an embedding `\(\mathbf e_i^s\)` of token `\(i\)` in language `\(s\)`, the embedding `\(\mathbf e_i^t\)` in language `\(t\)` is approximated by `\(W\mathbf e_i^s\)`, where `\(W\)` is learned. The learned transition matrix `\(W^{s\rightarrow t}\)` can be found by solving the following optimization problem:
 
-<div>\[W^{s\rightarrow t}=\underset{W\in O_d(\mathbb R)}{\operatorname{argmin}}\sum_{i=1}^n\left|\left|We_i^s-e_i^t\right|\right|^2\]</div>
+<div>\[W^{s\rightarrow t}=\underset{W\in O_d(\mathbb R)}{\operatorname{argmin}}\sum_{i=1}^n\left|\left|W\mathbf e_i^s-\mathbf e_i^t\right|\right|^2\]</div>
 
 where `\(O_d(\mathbb R)\)` is the space of orthogonal matrices. This makes the solution `\(W^{s\rightarrow t}=UV^\top\)` where `\(U\)` and `\(V\)` are the `\(U\)` and `\(V\)` from the SVD of the multiplication of the source and (transposed) target embedding matrices. This can be calculated directly if there is a dictionary, but if there is none adversarial training can generate a dictionary to trick a discriminator trained to distinguish between embeddings from the target and embeddings from aligned source.
 
@@ -38,6 +38,24 @@ In the previous discussion the authors started from separate pretrained embeddin
 
 > Our key idea is to constrain the embeddings across languages such that word translations will be close to each other in the embedding space.
 
-They implement this as an actual regularization term for the loss function (with `\(v_i^s\)` being the word representation prior to the context-aware part):
+They implement this as an actual regularization term for the loss function (with `\(\mathbf v_i^s\)` being the word representation prior to the context-aware part):
 
-<div>\[\lambda_{\text{anchor}}\cdot\sum_i\left|\left|v_i^s-v_{D(i)}^t\right|\right|_2^2\]</div>
+<div>\[\lambda_{\text{anchor}}\cdot\sum_i\left|\left|\mathbf v_i^s-\mathbf v_{D(i)}^t\right|\right|_2^2\]</div>
+
+## multilingual parsing with alignment
+
+To train a multilingual model to produce these embeddings, they align the contextual word embeddings for all languages in a joint space. The contextual word embeddings are obtained through a language-specific linear transformation to the joint space `\(J\)`:
+
+<div>\[\mathbf e_{i,s}^{\ell\rightarrow J}=W^{\ell\rightarrow J}\mathbf e_{i,s}\]</div>
+
+This alignment is learned by applying the regularization described above, prior to the parser training. For their experiments, they use the space of the training language as the joint space, and align the tested language to *it*.
+
+## results
+
+The unsupervised context-based model performed better on some languages than the anchored one, but failed to converge on Swedish.
+
+In the zero-shot case, the parser was trained on the five other languages plus English, and the embeddings for all six languages were aligned to English. The model outperformed all others in five of the six languages, even without supervised alignment with a dictionary or POS tags. The one language where performance decreased was also the language that had the best LAS scores.
+
+In the extremely low-resource setting of Kazakh, the model improved LAS-F1 from 31.93 to 36.98. This tree-bank only has 38 trees in the training set, and no POS tags.
+
+The model also drastically improves scores over limited unlabeled data, as evidenced by the Spanish results.
