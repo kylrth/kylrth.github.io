@@ -10,11 +10,16 @@ I have undergone a faith transition, and here I'm going to record here all of th
 ## impactful posts, articles, videos, or podcasts
 
 - this [meme](https://www.reddit.com/r/exmormon/comments/fm0cio/applicable/) commiserating about bringing faith transition stuff up with family
+- this person's reasonable [Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
+- this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
 
 ## to do
 
-- read [Line upon Line](http://signaturebookslibrary.org/line-upon-line/)
-- read "Repicturing the Restoration"
+- read Repicturing the Restoration
+- read [Line upon Line: Essays on Mormon Doctrine](http://signaturebookslibrary.org/line-upon-line/)
+- read The LDS Gospel Topics Series: A Scholarly Engagement
+- read An Insider's View of Mormon Origins
+- read No Man Knows My History
 - this guy's [investigation](https://faenrandir.github.io/a_careful_examination/) into the truth claims
 - check out [Fuller Consideration](http://fullerconsideration.com/)
 - listen to this [interview](https://www.mormonstories.org/podcast/sandra-and-jerald-tanner-the-early-years/) with the Tanners
@@ -28,21 +33,21 @@ The church teaches that the way to know the truth is by reading the Book of Morm
 
 My problem is that there are lots of churches, religions, and cults that tell you to discover truth this way. [This video](https://youtu.be/ycUvC9s4VYA) shows some examples of people who feel convinced of the truth of Islam, the RLDS and FLDS churches, and even some strange suicide cults. They all seemed to come to their faith by this process of studying and thinking about what was being taught, and then having feelings they attributed to God that told them what they were learning was true. While there are certainly truths and good things in most religions, if the same mechanism is in place for determining the goodness of *any* religion, how does my spiritual witness of the truth of this church confirm to me that this is the *most correct* religion of all? It seems like the likely explanation is that the brain itself is capable of producing feelings of peace as a result of a real desire to know the truth.
 
-Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) from ZOTS that does a good job explaining this problem with confirming the truth of the existence of God.
+Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) from ZOTS that does a good job explaining this problem with confirming the truth of the existence of God. Here's a [post on r/exchristian](https://www.reddit.com/r/exchristian/comments/gb687d/but_the_bible_says_so/) saying that the same standard of proof we require of other gods should be required of our own god.
 
 In the church we talk about how great it is to have both a modern prophet and personal revelation. But there's a problem as soon as we acknowledge the fallibility of both the prophet and our internal sense for truth. As soon as those conflict we don't have a clear method of determining truth, and this is important because of issues like caring for LGBTQ people or protesting systemic racism.
 
 ### to do
 
 - [ ] read my mission journal
+- [ ] read Faith is Not Blind
+- [ ] read The Infinite Atonement
 - get to know the stories of other people of faith
   - [ ] continue listening to the Preach podcast
   - [ ] find out why other Christians believe what they do
   - [ ] find out why people of indigenous faith believe what they do
   - [ ] find out why Buddhists/Hindus/Sikhs/Taoists believe what they do
   - [ ] read studies about spiritual experience
-- find out if there are other reasons to participate in religion
-  - [ ] read "Cloud of the Impossible"
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
@@ -73,9 +78,13 @@ Similar issues occur all over the text, and more discussion is available [here](
 
 ### to do
 
+- [ ] read Understanding the Book of Mormon: A Reader's Guide
 - decide whether I think deutero-Isaiah was written after 600 BCE
   - [ ] read arguments for the one Isaiah theory
   - [ ] study Isaiah with a faithful manual and scholarly one
+- [ ] read Producing Ancient Scripture
+- [ ] read Book of Mormon Authorship: New Light on Ancient Origins
+- [ ] read Lehi in the Desert, The World of the Jaredites, and There Were Jaredites
 - decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
   - [ ] study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
   - [ ] study what modern prophets say about the truthfulness of the Book of Mormon
@@ -103,6 +112,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] find out if the numbers in the Book of Mormon satisfy Benford's law
 - [ ] study stylometry of the Book of Mormon (including style drift) (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
 - [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
+- [ ] read Are Christians Mormon?
 - [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
 
 ## narrative complexity in the Book of Mormon
@@ -132,6 +142,7 @@ We don't have all of the papyri that Joseph had when he translated the Book of A
 
 ### to do
 
+- read Joseph Smith: Rough Stone Rolling
 - [ ] get sources for this
 - [ ] read [this](http://jur.byu.edu/?p=21296)
 
@@ -147,7 +158,7 @@ Joseph married 32-38 women, some of whom were only 14 years old. Others were alr
 
 The ordinances of the temple were based on rituals from the Masons, and they have been modified a lot since their revelation. The symbols used in the temple used to be explained as symbolic of the promise that you would first kill yourself rather than reveal the symbols in the temple. The symbols have changed a bit over time to reduce that symbolism.
 
-You aren't even told beforehand what you're promising, and when you're there the only way out is by standing up in front of everyone, near the beginning when the explain some of what you'll promise. No one is going to do that.
+You aren't even told beforehand what you're promising, and when you're there the only way out is by standing up in front of everyone, near the beginning when they explain some of what you'll promise. No one is going to do that.
 
 ### to do
 
@@ -163,3 +174,4 @@ The church spends billions of dollars on building temples, while spending far le
 - [ ] study sources on the church's humanitarian efforts
 - [ ] look up statistics of suicide for LGBTQ+ members/Utahns
 - [ ] listen to this [interview](https://www.mormonstories.org/podcast/tom-phillips-and-the-second-anointing/) with Tom Phillips about the Second Anointing
+- [ ] read Insights from a Prophet's Life: Russell M Nelson
