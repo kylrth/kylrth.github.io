@@ -1,6 +1,6 @@
 ---
 title: "Tools and weapons: the promise and peril of the digital age"
-author: "Author Name"
+author: "Brad Smith, Carol Ann Browne"
 goodreads: "https://www.goodreads.com/book/show/44334073-tools-and-weapons"
 date: 2020-12-03T20:58:02-07:00
 draft: true
@@ -34,3 +34,7 @@ Six principles at Microsoft:
 - accountability (to society): humans need to be in the loop, and governance needs to be a part of the process
 
 Microsoft chose to continue working on defense contracts with the US government, because they felt that participating in the work would give them a chance to guide some of the ethical choices being made. They feel good about working on defense projects with any democratic government that they feel they can trust to be responsible. They also did not force any of their employees to work on defense contracts if their nationality or political ideology conflicted with that work.
+
+## China and the US
+
+It isn't just that China has protected itself and created parallel products, it's that the products meet the needs of Chinese consumers in a way American products have not.
