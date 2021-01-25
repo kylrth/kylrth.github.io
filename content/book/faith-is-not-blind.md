@@ -51,3 +51,11 @@ While this is true, this could also be mischaracterizing the kinds of attacks le
 There is ambiguity in life because there are competing values. The Hafens share the example of women gaining education. The church teaches that a woman's primary responsibility is to care for her children, but also teaches that it is good for both genders to gain as much education as they desire. These principles could be considered conflicting, and it's up to each person to choose what mix of these principles will rule in their life.
 
 In faith it is okay (necessary?) to feel uncertain about the choice. We hear stories of faith in church history, but forget that they also were just as afraid to sacrifice as I might be. Besides, is it really a sacrifice if we aren't afraid to do it?
+
+## the head and the heart paradox
+
+In the church there are those who say that we need to err on the side of listening closely to the authority of church leadership and not get too creative or intellectual. On the other hand there are those who say God has given us natural talents that we need to exercise creatively on our own. The Hafens point out that people can fall from the church in both directions, so there needs to be a "simple balance" between reason and faith, authoritarianism and individualism.
+
+Modern Christianity inherits an interesting mix of Greco-Roman philosophy with Hebraic philosophy. Kitto referred to their contributions as "the religious earnestness of the Hebrews [and] the reason and humanity of the Greeks". We can see this reflected in the two mottos on American coins: "Liberty" and "In God we trust".
+
+Our church inherits this same duality. We're invited to "study it out in your mind" (D&C 9:8), but also taught that obedience is the first law of heaven. The Hafens think that there is a space in which we can abide by both faith and reason, both obedience and individuality.
