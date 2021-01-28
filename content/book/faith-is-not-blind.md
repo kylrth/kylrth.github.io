@@ -59,3 +59,29 @@ In the church there are those who say that we need to err on the side of listeni
 Modern Christianity inherits an interesting mix of Greco-Roman philosophy with Hebraic philosophy. Kitto referred to their contributions as "the religious earnestness of the Hebrews [and] the reason and humanity of the Greeks". We can see this reflected in the two mottos on American coins: "Liberty" and "In God we trust".
 
 Our church inherits this same duality. We're invited to "study it out in your mind" (D&C 9:8), but also taught that obedience is the first law of heaven. The Hafens think that there is a space in which we can abide by both faith and reason, both obedience and individuality.
+
+## beyond balance
+
+For faith to really pay out, there needs to be sacrifice involved. According to the Hafens, characterizing your faith as an "intelligent faith" necessarily limits the potential of that faith. The sanctifying experiences of faithful people come because of their faith, not because they rationally understand the truth of the church.
+
+I don't really see how taking a reasoned approach to faith could limit my potential for growth. Reason won't stop me from savoring life despite my wife's death or my multiple sclerosis, for example.
+
+The Hafens point out that it's still valuable to try to "make sense of mortality", but when we are stretched to our extremes it's faith that we need to rely on, not reason. And I think that makes sense; what keeps you going when life seems awful is the belief that life still has meaning and that you will grow from your experience. That strength doesn't come from reason at all.
+
+I guess by telling us to go "beyond balance", they're really saying that at the end of the day faith is more important than reason, because it's what strengthens us during trials and allows us to see life as a progression toward God.
+
+Elder Maxwell said that we should have "citizenship in Jerusalem with a passport to Athens". He worried about scholars who spent more time examining the gospel and the church through their academic disciplines than examining their academic disciplines through the lense of the gospel. When Elder Maxwell encountered adversity (he fought leukemia for 7 years), he chose (through faith) to see it as a learning experience given to him by a loving Heavenly Father. He used it as an opportunity to understand others better. I want to see my experiences that way too.
+
+> The simplicity beyond complexity doesn't ask us to give up anything of value in our reasoning, though it does recognize reason's limits.
+
+I think the point of this chapter is that reason doesn't accomplish what faith does. Faith is what moves us toward godliness; reason cannot do that.
+
+## When do the angels come?
+
+The Hafens compare our experience with complexity to the contrast between the Kirtland and Nauvoo temple dedications. At Kirtland there was this great outpouring of miracles and visions, while the dedication in Nauvoo was immediately after Joseph's death, as the Saints were preparing to leave for the Salt Lake valley. The Hafens think it's important that in Nauvoo we don't forget the miracles and blessings of Kirtland. Just because we experience difficulty and don't see heavenly manifestations now doesn't mean we should dismiss those we've experienced in the past.
+
+To continue the comparison with church history, when we choose to push past the complexity and continue in our path, God will manifest Himself again, but probably in a way that we cannot see as clearly as back in Kirtland. He will guide our steps and strengthen us to withstand the trials ahead. We may one day be able to have the same obvious manifestations as we did in Kirtland, but we're okay not to.
+
+The only experience I can use as my Kirtland experience was a sort of burning in the bosom feeling that I remember having when I finished the Book of Mormon for the first time when I was seven.
+
+To the Hafens, the simplicity beyond complexity allows our faith to be fueled by early miraculous experiences, despite the complexities that have arisen since then.
