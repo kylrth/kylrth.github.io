@@ -85,3 +85,9 @@ To continue the comparison with church history, when we choose to push past the 
 The only experience I can use as my Kirtland experience was a sort of burning in the bosom feeling that I remember having when I finished the Book of Mormon for the first time when I was seven.
 
 To the Hafens, the simplicity beyond complexity allows our faith to be fueled by early miraculous experiences, despite the complexities that have arisen since then.
+
+## the value of the veil
+
+Atheists point out that there are no rational arguments to show that God exists. The Hafens argue that the universe and life are so complex that the probability of the world occurring naturally is infinitesimal. They point out the complexities of DNA as an example. But more than that, they think there's a particular reason that God doesn't allow us to prove His existence. He is behind a veil, and we cannot rationally perceive Him. For some reason, we need the experience of seeking Him through faith in order to prepare for the Celestial Kingdom.
+
+The Hafens believe that preparing for salvation/exaltation is about picking up skills, rather than knowledge, and if we knew by pure reason that Jesus is the Savior, we would no longer be free to learn by experience. I don't think that makes much sense. People can be presented with logical explanations for things and still believe otherwise, and even if we were presented with an undeniable demonstration of the truth we would still have to have the experience of learning to be like Christ. To turn around their example of Stradivarius' violin-making, this would be like saying that if we were able to *know with certainty* that the violin produces good sound, we wouldn't need to go to Stradivarius himself to learn how to make one. Knowing that God exists with certainty is not the same as perfectly understanding His attributes and what we need to do to attain them.
