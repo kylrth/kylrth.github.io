@@ -111,3 +111,28 @@ James points out that faith is like leaping over an abyss. If you believe you'll
 Victor Frankl says that we choose to make life meaningful when we have a healthy tension "between what one is and what one should become" (p. 86). I think that's true. Life loses its meaning when there is no earnest striving. The Hafens point out that "believers who 'receive Him' gradually develop Christlike capacities and skills that other people don't stretch toward," (p. 87). James argues that our very natures make us feel like we're in a fight to improve, to close the gap, and that fight feels real.
 
 I really like these statements about reaching for the ideal. It is undeniable that that is the motivation for most of the things we do here in the universe. It's what drives my passion for family, career, and service. I just don't see why that then implies that the Mormon church is true. At most it feels like the church can be part of my personal answer, but not the whole thing. Many of the things we do in the church are about obedience to the institution, not striving to be more like the ideal of Christ. I can set up a Christ character as my perfect example without paying tithing, keeping the Word of Wisdom, or attending the temple.
+
+## a witness more powerful than sight
+
+It's one thing to learn about Jesus by reading the scriptures, and it's another to see Jesus face to face. But it's another entirely to come to *know* Him. The Hafens use the examples of Paul and Joseph Smith to demonstrate that seeing Jesus is not the same as knowing Him. We come to know Jesus "in our extremities", when we sacrifice ourselves to serve Him. To the Hafens, this coming to know Jesus is a witness more powerful than sight.
+
+## climbing to know God
+
+When we struggle through adversity, the beliefs we *do* have become more precious to us. When we have questions it can be either an opportunity for growth or a crisis to fall into.
+
+## life and my life
+
+For most of history humans have found purpose and meaning in the framework provided to us by society, whether that was religious, political, moral, or aesthetic. In the last century or so that box has widened because of our efforts to increase personal freedom. But with the box now basically nonexistent it's up to us to determine that purpose and meaning.
+
+The Hafens argue that it's "difficult, perhaps impossible to infer general cosmic meaning" simply from personal experience (p. 106). This is a good point, but I don't think this means we have to turn back to equally fallible societal sources in search of a framework of absolute truth.
+
+They teach that the box provided by the church is more useful than old boxes provided by society in the past because "the gospel's universal truths thus teach us how to engage in a personal quest for freedom and meaning," (p. 107). I honestly don't see that at all. I think that the message of the church caused me to close my mind to the big questions because I felt I had answers to all of it. The church gave me some specific rules to keep and told me several times that all I needed to do was be worthy of a temple recommend and I would make it. The church also teaches eternal progression and the assimilation of Christlike attributes, and I did feel like I was improving myself and my desires to serve others, but often this striving boiled down to a search to become more "holy" and a better listener to the Spirit. To me this doesn't feel like increased freedom and meaning. Whether or not I stay in the church, I need to focus future efforts to improve on those attributes that I think are most meaningful: love and service. I think this is where the Hafens are going with the concept of stage 3: that we use the stage 1 framework to combat stage 2 complexity in a way that improves us in individual ways.
+
+The Hafens point out that the religion Jesus taught on the Earth was more about personal freedom than the medieval churches that followed, which I think is definitely true. I also think he was more about personal choice and morality than this church is today.
+
+The Hafens talk about two kinds of people who leave the church:
+
+- There are some who leave but don't have anywhere better to go, so they lose their broader frame of reference about meaning and fall into "the cosmic loneliness that leads to agnosticism or atheism," (p. 109). This description completely misses the point that *if* religions are not true then the best answer is to be agnostic or atheist. They're giving up something in exchange for nothing, it's true, but in their mind that something has led to negative externalities and is likely false.
+- Others leave but retain their Mormon values or practices because they're familiar to them and feel right. They've left not because they think the framework is wrong but because they take issue with some specific historical or personal problem. The Hafens assume these people will return eventually but in the mean time they'll do damage to their family or others.
+
+I feel like this whole book is an attempt to abstract away from the problems just enough that they can ignore the possibility that "stage 2 complexity" is really just a manifestation of holes in the stage 1 framework.
