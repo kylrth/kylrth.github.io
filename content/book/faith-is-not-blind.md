@@ -136,3 +136,40 @@ The Hafens talk about two kinds of people who leave the church:
 - Others leave but retain their Mormon values or practices because they're familiar to them and feel right. They've left not because they think the framework is wrong but because they take issue with some specific historical or personal problem. The Hafens assume these people will return eventually but in the mean time they'll do damage to their family or others.
 
 I feel like this whole book is an attempt to abstract away from the problems just enough that they can ignore the possibility that "stage 2 complexity" is really just a manifestation of holes in the stage 1 framework.
+
+## the benefit of the doubt and moving beyond complexity
+
+Khumbulani Mdletshe was a man who converted to the church in South Africa, served a mission in England, attended BYU, worked for an NGO in South Africa and then in CES for most of his career, and later became an area seventy. The Hafens walk us through his life and show us how at different stages he was satisfied by different kinds of answers for his questions about the racial priesthood ban.
+
+- He first learned about the ban **on his mission**, and was finally satisfied by his mission president who said that we don't know the reasons for the ban but what's important is that now all worthy men can receive the priesthood.
+- Before joining CES, he began to be "troubled that the origins of the policy in Church history were so unclear," (p. 113). **As a CES director** he would explain that "a revelation was needed to enlighten Church members ... and to assist Church leaders who needed a doctrinal tool to teach those who would question ... the change in policy. ...the revelation was needed as the Church matured in order that it might reach out to all people of the world," (p. 114).
+- **As a seventy** at one of the leadership meetings before General Conference, President Monson approached the three African Area Seventies and told them, "Brethren, I would like to tell you that I worked with the man who gave the priesthood to all men," (p. 115). With that comment came a spirit of peace that resolved any concerns any of them might have had about race and the priesthood.
+
+I think the key point the Hafens make is this: "when we choose to give the Lord the benefit of the doubt, our righteous desires will help us find, understand, and teach a *plausible* pattern that supports some divine instruction---knowing that we can almost never "prove" conclusively that the pattern has a divine source," (p. 114). When Richard Bushman encounters "unanswerable puzzles", he asks himself, "What can this teach me about God?" (p. 115).
+
+Finally, the Hafens argue that faith is more necessary for a relationship with Jesus than explanations are. It's through faith that we come to understand him better and love him. To the Hafens, thinking about the unanswerable puzzles is only useful when we use it as a tool to understand God and to sacrifice to do his will.
+
+I'm interested in Bushman's approach to thinking about these problems and I think I should be more willing to let God work however he would like. But I'm not interested in demarcating the church's teachings as untouchable and then trying to logically work around that.
+
+## the spirit of the army
+
+In regards to the priesthood ban, the Hafens want to make it clear that it's perfectly ok to believe that the reasons given for the priesthood ban were wrong. (The church's "Race and the Priesthood" essay states that the contemporary explanations for the curse of Cain were wrong.) But believing that the ban was a *mistake* makes us less willing to sacrifice and give the church the benefit of the doubt about other issues. One can turn to primary sources and evidence to try to understand the issue and come to an informed decision, but the Hafens suggest that we shouldn't always do that. It's easy to get bogged down in the details of which evidence is important and lose focus on "the ultimate and very personal process of deciding how, where, and to whom we should give the benefit of the doubt in close cases," (p. 120).
+
+I disagree on a couple of points.
+
+- Why are we drawing a line between revealed policy and revealed explanation for that policy? Are we only required to view the policy as correct, and not the teaching behind it, in order to call these men prophets of God? Why would God let prophets lead the people to believe horribly racist things about black people? Isn't that "leading us astray" more than a ban on blacks receiving the priesthood does?
+- I think *carefully and objectively* studying the sources surrounding the priesthood ban, for example, can only make a belief in prophets more correct and useful. It can help us understand how prophets make mistakes, and where to draw the line in these "close cases".
+
+The Hafens think God wants us to trust him and his prophets enough to *not* look into the factual sources on every issue. When we try to use reason to guide us, instead of trusting God we are "bargaining" with God, expecting to find a particular answer to the issue and becoming less believing when we don't find that answer.
+
+What *absolute garbage*. Church history is just like any history: there is a lot you can learn from the historical sources and it won't *prove* wrong anything that's true. The church should have nothing to hide from those who are truly willing to give the church the benefit of the doubt, because if the church's truth claims are true any answers derived from history shouldn't cast shade on the true prophetic and authoritative role of the church.
+
+The Hafens warn that relying on reason will bring us to answers that make us less likely to sacrifice for the church, but if that's true then should we really be sacrificing for the church in that way? For example, if I decide that the priesthood ban was a mistake, I'm more likely to view the current doctrinal stance on LGBTQ people as a mistake as well. This means that I might be more tolerant of LGBTQ members of the church and pray for the day that they can be meaningfully included in our theology. I can still believe in the prophetic role of the prophets, but now my faith is more nuanced and so I am able to be more unconditional in my love for others and my Christlike compassion for the marginalized. I will be glad that my rational study of the priesthood ban has refined my understanding of prophetic authority. This process of *discovery* is far more valuable than being *told* to love LGBTQ people; "we do value what we *discover* far more than we value what we're *told*," (p. 122).
+
+My thoughts above work well with the Hafens' point about "noncontingent trust". They define noncontingent trust as trust that doesn't depend on a particular outcome. If our faith is contingent on a particular assumption about a sticky problem like race and the priesthood, that's stage one simplistic faith. But if we're able to tackle stage two complexity and promise God that we'll trust Him no matter what the outcome is, that's stage three. I don't see why the Hafens think we need to avoid rational study of the sticky problems in order to maintain faith.
+
+The Hafens apply the "faith not to be healed" concept to these sticky issues. Do I have the faith to find an answer that changes my view of modern prophets? Do I have the faith to not find proof of *any* explanation at all for a difficult issue?
+
+## descending to ascend
+
+Above all experiences and arguments, the Hafens point to the companionship with Jesus Christ that so many members of the church feel. That is beautiful regardless of what is true about the priesthood ban or any other historical matter. The gospel of Jesus Christ gives people confidence to overcome obstacles and become our best selves.

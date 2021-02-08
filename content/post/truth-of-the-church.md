@@ -37,6 +37,8 @@ Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon
 
 In the church we talk about how great it is to have both a modern prophet and personal revelation. But there's a problem as soon as we acknowledge the fallibility of both the prophet and our internal sense for truth. As soon as those conflict we don't have a clear method of determining truth, and this is important because of issues like caring for LGBTQ people or protesting systemic racism.
 
+In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder and Sister Hafen talk about "a witness more powerful than sight". To them, that witness is the closeness you feel to the Savior when you sacrifice to serve Him. You can see this happen to missionaries both ancient and modern. I thought I had truly felt that on my mission as well, but [TODO read mission journal]. I think this happens for all religious people.
+
 ### to do
 
 - [ ] read my mission journal
