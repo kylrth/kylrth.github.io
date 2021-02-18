@@ -42,7 +42,6 @@ In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder an
 ### to do
 
 - [ ] read my mission journal
-- [ ] read Faith is Not Blind
 - [ ] read The Infinite Atonement
 - get to know the stories of other people of faith
   - [ ] continue listening to the Preach podcast
@@ -138,6 +137,14 @@ The Tower of Babel is impossible because of what we know about how languages dev
 
 - [ ] improve explanations for the impossibility of these myths
 
+## "Where did he come up with the doctrine?"
+
+This is a common argument for divine origin of the Book of Mormon.
+
+### to do
+
+- [ ] read On Bullshit
+
 ## other translation efforts of Joseph Smith
 
 We don't have all of the papyri that Joseph had when he translated the Book of Abraham, but what we do have left over are just standard Egyptian funerary texts. The interpretations Joseph provided for the facsimiles are definitely wrong though, and those facsimiles are all present on the funerary texts that we still have. Even apologists are often left arguing that Joseph was simply inspired by the presence of the papyri to create a "translation" that he received directly from God. But that translation looks a lot like what you'd expect to appear, given popular opinion of the day about the pseudepigraphal Book of Enoch and about black people being the cursed descendants of Cain. The church now disavows that racist idea, but it's present in the Book of Abraham.
@@ -168,9 +175,16 @@ You aren't even told beforehand what you're promising, and when you're there the
 
 ## the modern church
 
-The church fosters a culture that socially reinforces belief. We are asked to bear our testimonies, which is a common cult tactic used to reinforce belief ([relevant Reddit comment](https://www.reddit.com/r/exmormon/comments/k67xs1/what_was_the_first_thing_that_started_your_search/gejdpre/)). We are trained (and train our kids) to say "I know" when in fact it is just a belief.
+The faith-reinforcing teachings and culture of the church are common to other faiths and especially high-demand religions. The documentary "Going Clear: Scientology and the Prison of Belief" ([YouTube](https://www.youtube.com/watch?v=OLLKsMxPqn0)) demonstrates that other high-demand religions use similar tactics to get people to keep *themselves* within the faith.
+
+- We are asked to bear our testimonies, which is a common cult tactic used to reinforce belief ([relevant Reddit comment](https://www.reddit.com/r/exmormon/comments/k67xs1/what_was_the_first_thing_that_started_your_search/gejdpre/)). We are trained (and train our kids) to say "I know" when in fact it is just a belief. President Boyd Packer taught that "a testimony is to be found in the bearing of it". (See [this blog post](https://www.patheos.com/blogs/faithpromotingrumor/2010/12/revisiting-a-testimony-is-to-be-found-in-the-bearing-of-it/) for a valuable discussion of the context of this quote.)
+- The way Miscavage (second leader of Scientology) talks about preaching Scientology is designed to threaten you into guilt over it. "When your head hits the pillow, can you rest easy knowing you've done enough?"
+- Another tool shared between Scientology and Mormonism is demonstrated in this quote from an ex-Scientologist: "Scientology was really good at getting you to feel like a scoundrel." In both Mormonism and Scientology, rules and confession to breaking those rules are used to make the believer feel that any unhappiness they feel in the religion is their own fault due to disobedience, rather than an external issue. This is much more strongly used in Scientology but is still present in Mormonism.
+- In a 2018 conference talk entitled "Truth and the Plan" ([link](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan)), President Oaks talked about discovering religious truth. Here's one quote that really bothered me: "We should not consider secular prominence or authority as qualified sources of truth." This is a classic conspiracy tactic designed to get you to reject other sources of knowledge. I used to be comfortable with using the epistemology of science for scientific things and the epistemology of faith for religious things, but one thing us religious people have often ignored is that true things can withstand scrutiny from all valid truth-seeking approaches. We may not be able to scientifically determine if God exists, but we can perform linguistic studies of the Book of Mormon text to discover if it relies on 19th century books available to Joseph Smith. "What we know will always trump what we do not know" is problematic when it causes us to reject information that ought to modify our working hypothesis.
 
 The church spends billions of dollars on building temples, while spending far less on humanitarian efforts. (See [this Reddit post](https://www.reddit.com/r/exmormon/comments/7lccwv/they_rob_the_poor_because_of_their_fine/) about how we might not need to spend so much on temples.)
+
+## to do
 
 - [ ] watch movies about cults to provide a source for "a common cult tactic"
 - [ ] study sources on the church's humanitarian efforts
