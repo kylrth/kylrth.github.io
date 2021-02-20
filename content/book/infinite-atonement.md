@@ -42,12 +42,25 @@ We make attempts to understand all the whys and hows, but we won't be able to gr
 
 Just as we are to become one with God in state and likeness, he became like us in state and likeness (mortality) "without ever abandoning his godlike character". The Atonement can be symbolized by an embrace, and the promise is that there will be an actual embrace at the gate to heaven. Elder Maxwell thinks the reason Christ "employs no servant there" (2 Nephi 9:41) is because he wants to personally welcome us. (I don't think that's what Nephi was getting at, but it could still be true.)
 
-To really grasp the atonement we need to believe that all need to be saved from personal sin.
+## the Fall of Adam
+
+To really grasp the Atonement we need to believe that all need to be saved from personal sin.
 
 *My question: why does the Fall imply that we will all sin?*
 
-To attempt a mastery of the Atonement without first comprehending the Fall would be tantamount to confronting geometry without a grasp of basic algebraic principles. *(Note: this is funny because studying geometry doesn't require algebra, but I get his point.)*
+To attempt a mastery of the Atonement without first comprehending the Fall would be tantamount to confronting geometry without a grasp of basic algebraic principles. *(This is funny because studying geometry doesn't require algebra, but I get his point.)*
 
 *My question: was it really a choice to eat the apple if they were in a state of "spiritual sterility" without temptations or obstacles?*
 
 Callister thinks maybe the conflict of commandments in the garden was necessary so that man could not claim God forced him to accept the responsibility of mortality. But wasn't that the point of choosing to accept the plan in heaven? What about the feelings of everyone else besides Adam and Eve on the matter? It had to be a choice to fall into mortality, "in apparent opposition to God's command". I don't think this makes a ton of sense. It feels like a formality at no one's request.
+
+## the relationship between the Fall and the Atonement
+
+The Atonement overcomes the first spiritual death by returning us to God to be judged, and also overcomes the second spiritual death (for those who repent) by cleansing us of our sins. This distinction is important because the Atonement must have saved us from *all* the consequences of the Fall.
+
+In Mormon theology there are four kinds of "saved":
+
+1. We are all **saved** from physical death because we will all be resurrected.
+1. All but the sons of perdition are **saved** from the "power and dominion of Satan" because we will end up in one of the three kingdoms of glory.
+1. Those who inherit the celestial kingdom are "**saved** in the sense that they are not banished from the Father's presence.
+1. Those who are exalted are **saved** from "every form of damnation" because they are entitled to eternal increase and become like God himself. Elder McConkie taught that most scriptural references to salvation actually refer to exaltation.
