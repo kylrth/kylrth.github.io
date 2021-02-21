@@ -64,3 +64,15 @@ In Mormon theology there are four kinds of "saved":
 1. All but the sons of perdition are **saved** from the "power and dominion of Satan" because we will end up in one of the three kingdoms of glory.
 1. Those who inherit the celestial kingdom are "**saved** in the sense that they are not banished from the Father's presence.
 1. Those who are exalted are **saved** from "every form of damnation" because they are entitled to eternal increase and become like God himself. Elder McConkie taught that most scriptural references to salvation actually refer to exaltation.
+
+## the consequences if there had been no Atonement
+
+Brigham Young taught that the Atonement was necessary in order for us to reach any kingdom of glory. Without the Atonement, the plan of coming to Earth and then returning to God in any sense would have failed. Here Callister tries to threaten us with the thought that if life ends then it has no meaning.
+
+## the infinite nature of the Atonement
+
+The Atonement is infinite because it was performed by a God who is infinite, but B H Roberts also thought that the word "infinite" was used "to express the idea of the sufficiency of [the Atonement]; its completeness; the universality and power of it," (p. 59).
+
+### infinite in power
+
+In the scriptures we hear about Christ receiving "all power ... in heaven and in earth" (Matthew 28:18). Callister believes that Christ's life and atonement were a chance for his divine attributes to act in such a benevolent way that he gained the power necessary to save us (in all the forms of salvation discussed above). He did not have that power before performing these acts.
