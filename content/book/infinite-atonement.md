@@ -76,3 +76,15 @@ The Atonement is infinite because it was performed by a God who is infinite, but
 ### infinite in power
 
 In the scriptures we hear about Christ receiving "all power ... in heaven and in earth" (Matthew 28:18). Callister believes that Christ's life and atonement were a chance for his divine attributes to act in such a benevolent way that he gained the power necessary to save us (in all the forms of salvation discussed above). He did not have that power before performing these acts.
+
+### infinite in time
+
+The scriptures promise that the Atonement applies retroactively (Ether 3:13; Mosiah 3:13). Callister explains that this is possible because God (and all of humanity) trusted Jesus' credibility when he promised to perform the Atonement. "This is why the laws of justice could recognize the benefits of the Atonement *before* the purchase price was ever paid, because his promise, his pledge, his credit was 'good for it,' and everone who honored their first estate knew it," (p. 74). And we know full well that Jehovah/Christ does not break his covenants (D&C 58:31; Numbers 23:19; 1 Kings 7:56; Abraham 3:17; Nehemiah 9:32).
+
+Callister suggests that the Atonement covers even the sins we committed in our premortal life. The statement that "no unclean thing can dwell with God" appears to be true only in the context of post-judgment life, and we're also told that people were more or less valiant in the premortal life (see Alma 13), which implies that people were not perfect then. *(If this is true, my question is this: if Adam and Eve had been sinning since their spirits were created, what's so special about their first mortal transgression that caused them to fall from the presence of God at that point?)* D&C 93:38 seems to confirm that, for those of us who "kept our first estate" and were born into this world, the Atonement has redeemed us from the sins of that first estate as a part of redeeming us from the Fall.
+
+While the Atonement is infinite in time, Callister is clear to point out that "the time for repentance is not," (p. 81).
+
+### infinite in coverage
+
+The Atonement saves all plants, animals, and even this planet from physical death (no salvation from spiritual death necessary). The Atonement saves all the people in the whole universe, in all the worlds God created. It was performed here on this planet, possibly because this planet was the most wicked (Moses 7:36), because Israel was a nation that would crucify their God (2 Nephi 10:3), or because here God could find the full range of people from best to worst to witness and reject/accept the Atonement.
