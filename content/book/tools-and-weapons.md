@@ -3,12 +3,12 @@ title: "Tools and weapons: the promise and peril of the digital age"
 author: "Brad Smith, Carol Ann Browne"
 goodreads: "https://www.goodreads.com/book/show/44334073-tools-and-weapons"
 date: 2020-12-03T20:58:02-07:00
-draft: true
+draft: false
 tags: ["modernism", "technology"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556243936l/44334073.jpg"
 ---
 
-< previous chapters >
+*I started taking notes later in the book. There were lots of good insights in the first half. Sorry!*
 
 ## broadband access
 
