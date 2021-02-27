@@ -41,6 +41,8 @@ In the church we talk about how great it is to have both a modern prophet and pe
 
 In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder and Sister Hafen talk about "a witness more powerful than sight". To them, that witness is the closeness you feel to the Savior when you sacrifice to serve Him. You can see this happen to missionaries both ancient and modern. I thought I had truly felt that on my mission as well, but [TODO read mission journal]. I think this happens for all religious people.
 
+It was a big realization for me that signs had *not* followed me despite my belief in Jesus Christ, contrary to what Ether 4:18 promises. And that verse isn't a fluke; Joseph Smith makes the same promise of miracles and signs in Lectures on Faith. As a believer there are two ways to overcome this: you can think your faith is inadequate, or you can see miracles and signs in ordinary events in your life. The human brain is very good at self-doubt and at recognizing meaning in randomness, so this usually works well enough to get you to ignore the problem.
+
 ### to do
 
 - [ ] read my mission journal

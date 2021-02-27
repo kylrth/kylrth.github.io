@@ -88,3 +88,17 @@ While the Atonement is infinite in time, Callister is clear to point out that "t
 ### infinite in coverage
 
 The Atonement saves all plants, animals, and even this planet from physical death (no salvation from spiritual death necessary). The Atonement saves all the people in the whole universe, in all the worlds God created. It was performed here on this planet, possibly because this planet was the most wicked (Moses 7:36), because Israel was a nation that would crucify their God (2 Nephi 10:3), or because here God could find the full range of people from best to worst to witness and reject/accept the Atonement.
+
+### infinite in depth
+
+The Atonement involved taking on all forms of human suffering:
+
+- suffering caused by sin, even for those who do not repent
+  - Here Callister explains that those who deny the Holy Ghost cannot be forgiven because they have chosen to reject the Atonement. But why does that leave them with no chance for repentance afterward? It does seem like this action is not covered.
+  - I think Callister succinctly explained an important component of how Mormons solve the problem of evil: "true omnipotence is being able to do anything, anytime, anyplace *within the confines of the inexorable laws of justice*," (p. 100).
+  - Here's a great example of circular reasoning: "The Atonement of the Savior covers every repentable sin known to man," (p. 101). Of course "the Atonement cannot ... exalt anyone who has ... irreversibly closed the doors of repentance" (p. 102) because the Atonement defines the terms of repentance! The only reasons denying the Holy Ghost cannot be forgiven are that either the person never repented afterward or the Atonement doesn't cover it.
+- suffering from innocent transgression
+- suffering due to trials that have nothing to do with transgression
+- suffering due to confronting temptation
+- suffering due to the exercise of faith
+  - Callister argues that because Jesus did not have full omnipotence while on Earth (see Luke 2:52), there were times when he had to trust the Father against his reason (see for example Matthew 26:39). Because of this, Jesus understands what it's like to have to exercise faith in God without a sure knowledge.
