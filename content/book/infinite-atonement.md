@@ -102,3 +102,28 @@ The Atonement involved taking on all forms of human suffering:
 - suffering due to confronting temptation
 - suffering due to the exercise of faith
   - Callister argues that because Jesus did not have full omnipotence while on Earth (see Luke 2:52), there were times when he had to trust the Father against his reason (see for example Matthew 26:39). Because of this, Jesus understands what it's like to have to exercise faith in God without a sure knowledge.
+
+### infinite in suffering
+
+Jesus suffered the Atonement as a man, not as a God. "He took not on him the nature of angels; but he took on him the seed of Abraham," (Hebrews 2:16-17). Callister thinks that Jesus only used his godlike powers to keep from going unconscious or dying.
+
+There is no good explanation for why Jesus' blood had to be shed in addition to suffering the pain of the Atonement. There's a lot of symbolic metaphor that can be taught with it, but no real reason for it.
+
+Callister, McConkie, and others believe that the strengthening angel might have been Adam, mostly for symbolic reasons.
+
+Callister thinks there were more cataclysmic signs of Christ's death in the New World to compensate for not being able to witness the actual event. "Those lands where the Savior's physical presence was absent no doubt responded with more powerful elemental reactions as a compensating witness," (p. 126). Nice symbolism, but the potency of the events in the Lehite lands around the Savior's death is not matched by anything else in recorded history in any other land far from Jerusalem.
+
+The Savior's experience of the effects of sin would have been more difficult for him because he had never sinned or felt guilt in his life up until that point, and because he could feel that his people (the world) loved darkness rather than light. The fact that he knew more and cared more meant that he suffered more. And the scriptures and prophets point out that this wasn't a passive suffering; he actively "broke the bands of death" and had to contend with Satan.
+
+Next Callister discusses the concept of a personal atonement, where Christ suffered for the sins and death of each of us individually. There's actually less canonized scriptural backing for this idea than I thought; the idea is drawn through analogy from Isaiah 53:10, 3 Nephi 11:15, and 3 Nephi 17:21. But several modern writers (including President Heber Grant) have described the individualness of the Atonement, and it seems to make sense in light of other prophets' visions of all the souls of humanity (Moses 1:28; Ether 3:25).
+
+Christ suffered the withdrawal of the Father's presence in order to fully experience what we experience when we sin (see Mosiah 2:36) and to pay the price of sin completely by his own power (see Isaiah 63:3, 5). Callister points out that Joseph Smith experienced a small degree of the withdrawal of the Spirit when the 116 pages were lost, and that day was terrible for everyone in the house. Callister draws a comparison with that story to illustrate the intensity of Jesus' experiencing the full measure of separation from God.
+
+Callister offers four possible explanations for why Jesus' suffering could fit into so finite a period:
+
+- God doesn't experience time the way we do (D&C 38:2).
+- Jesus could squeeze more suffering into a moment of time than anyone else can.
+- Jesus suffered the pain of anticipation ever since he promised to perform the Atonement.
+- Jesus suffers for the sins of the world any time he observes them, into the future. "Giving life costs God something as it costs us something," as BH Roberts said (p. 150).
+
+Callister points out that Jesus knew exactly what was in store for him before performing the Atonement. If he had submitted without full recognition, it would not have been an agentic action. Still, despite his perfect intellectual understanding of the event, he could not have fully comprehended the *experience* of the Atonement, just as we don't really understand falling in love until it happens to us.
