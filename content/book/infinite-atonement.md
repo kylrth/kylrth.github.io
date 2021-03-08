@@ -127,3 +127,7 @@ Callister offers four possible explanations for why Jesus' suffering could fit i
 - Jesus suffers for the sins of the world any time he observes them, into the future. "Giving life costs God something as it costs us something," as BH Roberts said (p. 150).
 
 Callister points out that Jesus knew exactly what was in store for him before performing the Atonement. If he had submitted without full recognition, it would not have been an agentic action. Still, despite his perfect intellectual understanding of the event, he could not have fully comprehended the *experience* of the Atonement, just as we don't really understand falling in love until it happens to us.
+
+## infinite in love
+
+Jesus' motivation to perform the Atonement was love, not any desire for glory or reward (see Romans 5:7-8; 1 Nephi 19:9). The Father also had the difficult task of letting his son suffer and die, when he had the power to save him. This is well illustrated by comparing the Atonement to the commandment for Abraham to sacrifice his son Isaac.
