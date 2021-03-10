@@ -131,3 +131,15 @@ Callister points out that Jesus knew exactly what was in store for him before pe
 ## infinite in love
 
 Jesus' motivation to perform the Atonement was love, not any desire for glory or reward (see Romans 5:7-8; 1 Nephi 19:9). The Father also had the difficult task of letting his son suffer and die, when he had the power to save him. This is well illustrated by comparing the Atonement to the commandment for Abraham to sacrifice his son Isaac.
+
+## the blessing of the Resurrection
+
+Callister paints a picture of the Resurrection as a power that counteracts the chaotic, entropic power of the devil to bring death and decay to things in the world. It doesn't just revert the effects of entropy; it also permanently stops the effects of entropy on the body.
+
+Everyone will be saved from physical death because it was brought upon us by the Fall through no action of our own (see 1 Corinthians 15:22).
+
+## the blessing of repentance
+
+Just as Jesus saves us from the physical entropy of mortality, he saves us from the spiritual entropy of sin. But this benefit is conditional upon our repentance, because we are responsible for our own sins.
+
+True repentance "is a melting, softening, refining process that brings about a mighty change of heart," (p. 178). It requires "an honest, unqualified recognition, not a rationalization, of our sins," (p. 180). This life is a probationary state that tests our willingness to repent and follow Christ. That's why it's possible for the unrepentant to become "ripe for destruction" (Helaman 13:14).

@@ -15,3 +15,7 @@ We talk a lot about parent involvement but we do pretty well in the US with that
 In the US we have lots of superintendents over small school districts, so there's a lot of overhead without much benefit.
 
 South Korean kids are successful on PISA. The Korean school system is spoken well of throughout the world, except in South Korea where everyone feels like there's too much pressure. The kids are unhappy and unproductive during public school hours (they learn more in private school at night).
+
+Authoritative vs authoritarian vs permissive parents.
+
+In America we have the belief that there are people who are good at math and bad at math, whereas we think everyone ought to become good at reading.
