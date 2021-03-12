@@ -143,3 +143,19 @@ Everyone will be saved from physical death because it was brought upon us by the
 Just as Jesus saves us from the physical entropy of mortality, he saves us from the spiritual entropy of sin. But this benefit is conditional upon our repentance, because we are responsible for our own sins.
 
 True repentance "is a melting, softening, refining process that brings about a mighty change of heart," (p. 178). It requires "an honest, unqualified recognition, not a rationalization, of our sins," (p. 180). This life is a probationary state that tests our willingness to repent and follow Christ. That's why it's possible for the unrepentant to become "ripe for destruction" (Helaman 13:14).
+
+True repentance requires **true sorrow** for the sins we've committed. This sorrow means regretting the action itself, not the consequences.
+
+True repentance also requires **forsaking** the sin. The way to measure this is not in terms of time without sin, but by whether "there is a mighty change of heart and ... an unequivocal resolve to put behind us our former ways," (p. 186). "We have forsaken when we have mastered the habit under any set of circumstances that may be thrown at us," (p. 187).
+
+True repentance also requires **restitution** of whatever is in our power to restore.
+
+Finally, true repentance requires **confession**. When he was 15 Gandhi once stole from his brother, and then feeling guilty restored it to him, forsook stealing, and asked his forgiveness. He also felt he needed to confess to his father, which he did. "A clean confession, combined with a promise never to commit the sin again, when offered before one who has the right to receive it, is the purest type of repentance," (p. 192). I think this is true. When we cleanly confess to those who we have wronged or who have been responsible for us, we increase our bonds of trust and affection with them. In addition, Callister sees confession as a means to humble ourselves and demonstrate that we are willing to surface our sins and not hide them.
+
+When we truly repent, we become as clean as if the sin had never been committed (see Psalm 51:2, 7; Isaiah 1:18).
+
+## the blessing of peace of mind
+
+Sometimes people feel that the Savior must not have forgiven them for their sins even though they've repented. We often feel that way because we continue to feel guilty for our sins even though we've felt true sorrow, forsaken the sin, done restitution, and confessed appropriately. One of the blessings of the Atonement is consolation. (See Alma 33:16; John 14:27; 2 Thessalonians 2:16.) It sounds like Callister is saying that sometimes we reject this blessing by not forgiving ourselves, but that we should seek that blessing by having faith in the infinite power of the Atonement to cleanse and heal us, even of those sins we find most difficult to forgive ourselves for.
+
+In the scriptures there are plenty of examples of times when the truly repentant were blessed with peace and hope where before they were immobilized by despair. (A good example of this is Alma 24:10.) The Savior is the only source of this peace. One good example is when the woman with the issue of blood touched Jesus' garment (Luke 8:43-48). Callister argues that the woman may have felt guilty that her deed had been done in secret, and so the Savior lovingly recognized her need for spiritual healing as well and spoke to her directly, telling her that her faith had made her whole and to "go in peace" (Luke 8:48). He offered her peace of mind in addition to physical healing.
