@@ -159,3 +159,15 @@ When we truly repent, we become as clean as if the sin had never been committed 
 Sometimes people feel that the Savior must not have forgiven them for their sins even though they've repented. We often feel that way because we continue to feel guilty for our sins even though we've felt true sorrow, forsaken the sin, done restitution, and confessed appropriately. One of the blessings of the Atonement is consolation. (See Alma 33:16; John 14:27; 2 Thessalonians 2:16.) It sounds like Callister is saying that sometimes we reject this blessing by not forgiving ourselves, but that we should seek that blessing by having faith in the infinite power of the Atonement to cleanse and heal us, even of those sins we find most difficult to forgive ourselves for.
 
 In the scriptures there are plenty of examples of times when the truly repentant were blessed with peace and hope where before they were immobilized by despair. (A good example of this is Alma 24:10.) The Savior is the only source of this peace. One good example is when the woman with the issue of blood touched Jesus' garment (Luke 8:43-48). Callister argues that the woman may have felt guilty that her deed had been done in secret, and so the Savior lovingly recognized her need for spiritual healing as well and spoke to her directly, telling her that her faith had made her whole and to "go in peace" (Luke 8:48). He offered her peace of mind in addition to physical healing.
+
+## the blessing of succor
+
+Jesus not only understands the suffering of all things, but he actually suffered them himself. This makes him a perfectly empathetic, wounded God who can succor us in all things.
+
+## the blessing of motivation
+
+The Atonement acts on those with open hearts to invite them to do good and come unto him before any sins are committed. Suffering has an intense "moral appeal", like when Gandhi fasted or when Lamanites were converted after killing Anti-Nephi-Lehites without resistance.
+
+> Suffering in behalf of another seems to have it's major impact for good when at least four elements are present. First, the sufferer is pure and worthy. In this sense there was only one completely without blemish, one worthy of suffering spiritually for all others. Second, the cause for which he suffers is just. There is no worthier cause than that for which the Savior suffered, namely, bringing to pass 'the immortality and eternal life of man'. Third, the recipient knows and loves the sufferer. And fourth, the recipient appreciates the cause for which the suffering occurs. When these four elements simultaneously exist, the chemistry for human behavioral change is explosive, (p. 217).
+
+It is to accomplish the third and fourth components of that recipe that we spend so much time in the church talking and thinking about Jesus' atonement.
