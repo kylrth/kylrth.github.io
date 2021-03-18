@@ -144,6 +144,17 @@ The Tower of Babel is impossible because of what we know about how languages dev
 
 - [ ] improve explanations for the impossibility of these myths
 
+## the First Vision
+
+The First Vision is confusing because:
+
+- There are four different accounts that contradict one another, and the story tends to be embellished over time.
+- Earlier accounts do not reference the visit of both God the Father and Jesus Christ as two individuals, which lines up with the trinitarian view that Joseph Smith had at the beginning of his prophetic career. It also lines up with the trinitarian language present in the earliest version of the Book of Mormon.
+
+## to do
+
+- [ ] get sources for this
+
 ## "Where did he come up with the doctrine?"
 
 This is a common argument for divine origin of the Book of Mormon.
