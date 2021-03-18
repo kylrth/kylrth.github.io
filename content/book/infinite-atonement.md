@@ -171,3 +171,25 @@ The Atonement acts on those with open hearts to invite them to do good and come 
 > Suffering in behalf of another seems to have it's major impact for good when at least four elements are present. First, the sufferer is pure and worthy. In this sense there was only one completely without blemish, one worthy of suffering spiritually for all others. Second, the cause for which he suffers is just. There is no worthier cause than that for which the Savior suffered, namely, bringing to pass 'the immortality and eternal life of man'. Third, the recipient knows and loves the sufferer. And fourth, the recipient appreciates the cause for which the suffering occurs. When these four elements simultaneously exist, the chemistry for human behavioral change is explosive, (p. 217).
 
 It is to accomplish the third and fourth components of that recipe that we spend so much time in the church talking and thinking about Jesus' atonement.
+
+## the blessing of exaltation
+
+The Atonement does not just pay for our committed sins, but perfects us and develops our "saintly nature" (p. 223) to eventually become like God. There's a great quote from Bruce Hafen on page 223:
+
+> The Savior's victory can compensate not only for our sins but also for our inadequacies; not only for our deliberate mistakes but also for our sins committed in ignorance, our errors of judgment, and our unavoidable imperfections.
+
+One important point to make is that in Mormon theology we do not eternally suffer for our unrepented sins (see D&C 19:3, 10-12). But Callister makes it clear that the penance paid by the unrepentant does not cleanse them or perfect them (see D&C 88:35). Repentance is what makes us "malleable ... in the hands of the Great Physician," (p. 225). Those who pay what justice requires for their sins have not been prepared for godhood and so cannot enter the celestial kingdom.
+
+The promise of Ether 12:26-27 is that Christ will not only strengthen us to combat our sins and misdeeds but also our weaknesses. Callister compares the parallel stories of Moses and Enoch to demonstrate how God gives us the chance to overcome our weaknesses if we trust in him, but he will not force us.
+
+Callister then cites a multitude of scriptures to demonstrate that God's goal is for us to eventually become like him. One that stood out to me in particular was Philippians 2:5-6 (emphasis added by Callister):
+
+> Let this mind be in you, which was also in Christ Jesus: who, being in the form of God, *thought it not robbery to be equal with God*.
+
+Callister's "logical" argument to support the doctrine of deification is that "like begets like", and that deification of the offspring really does no harm to the glory of the parent. It's really an appeal to metaphor, rather than a logical argument.
+
+Here's a nice quote from C S Lewis: "The job will not be completed in this life: but He means to get us as far as possible before death."
+
+Here's another true statement, this time from Callister: "One man may respond to the seemingly disastrous events of life with vengeance and venom; another may respond with hummble submissiveness to God's will, an appreciation for life as it is, and a firm resolve to be better."
+
+Finally, in a sort of reverse theodicy, Callister argues that an **omnipotent**, **perfectly-loving**, **fathering** God could destine us for anything less than Godhood.
