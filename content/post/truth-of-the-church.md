@@ -12,6 +12,9 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [meme](https://www.reddit.com/r/exmormon/comments/fm0cio/applicable/) commiserating about bringing faith transition stuff up with family
 - this person's reasonable [Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
 - this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
+- Sam Harris in this [debate video](https://youtu.be/AcO4TnrskE0):
+
+    > I'm not the first person to notice that it's a very strange sort of loving god who would make salvation depend on believing in him on bad evidence.
 
 ## to do
 
