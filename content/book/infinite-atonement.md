@@ -192,4 +192,20 @@ Here's a nice quote from C S Lewis: "The job will not be completed in this life:
 
 Here's another true statement, this time from Callister: "One man may respond to the seemingly disastrous events of life with vengeance and venom; another may respond with hummble submissiveness to God's will, an appreciation for life as it is, and a firm resolve to be better."
 
-Finally, in a sort of reverse theodicy, Callister argues that an **omnipotent**, **perfectly-loving**, **fathering** God could destine us for anything less than Godhood.
+Finally, in a sort of reverse theodicy, Callister argues that an **omnipotent**, **perfectly-loving**, **fathering** God could not destine us for anything less than Godhood.
+
+## the blessing of freedom
+
+> To be free is to be like God. (p. 251)
+
+A god is completely agentic. They act and are not acted upon. The Atonement places us in a similar state by making us free to live according to our will and pleasure by postponing the eternal consequences of our actions, while giving us the knowledge necessary to inform and empower our actions.
+
+Callister points out that commandments do not restrict our freedom, but rather inform us and give us power to achieve the consequences we desire:
+
+> Commandments are no more restrictive to the spiritual man than street signs are to the motorist. Neither prohibits our progress; to the contrary, they enhance it by serving as guideposts or directional signs to help us find and reach our destination.
+
+Callister then argues that obedience to God *increases* our freedom. I disagree. Obedience to God certainly frees us from the devil, but any time we make a choice (whether toward Satan or God) we lose a bit of freedom because of the consequences of that action. Callister is including in the definition of freedom the increase of power that God promises us when we choose him. (You can see this when Callister says, "Obedience is one of the prime keys that unlock the *power of godhood*, bringing *freedom* in its fullest and grandest measure" (p. 260, emphasis added).)
+
+It does seem to me that God's *choice to reveal* commandments can increase our freedom by increasing our knowledge of the results of our actions. If commandments are totally reflective of the actions and consequences that made us more powerful and godlike, then they would be only useful and not restrictive. But when commandments are given without increasing our knowledge, blind obedience to them cannot produce godlike virtue or an increase of power, because we are blind to the possible consequences of obedience and disobedience.
+
+Unfortunately, we are only promised that we will understand once we've already obeyed. "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself" (John 7:17). As we obey we will be taught "precept upon precept; line upon line" (Isaiah 28:10), which doesn't really give us the chance to knowingly decide at the outset.
