@@ -209,3 +209,17 @@ Callister then argues that obedience to God *increases* our freedom. I disagree.
 It does seem to me that God's *choice to reveal* commandments can increase our freedom by increasing our knowledge of the results of our actions. If commandments are totally reflective of the actions and consequences that made us more powerful and godlike, then they would be only useful and not restrictive. But when commandments are given without increasing our knowledge, blind obedience to them cannot produce godlike virtue or an increase of power, because we are blind to the possible consequences of obedience and disobedience.
 
 Unfortunately, we are only promised that we will understand once we've already obeyed. "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself" (John 7:17). As we obey we will be taught "precept upon precept; line upon line" (Isaiah 28:10), which doesn't really give us the chance to knowingly decide at the outset.
+
+## the blessing of grace
+
+Callister argues that grace is necessary not only to forgive us of our sins but also to perfect us and exalt us.
+
+The Bible Dictionary entry for grace says that grace allows us "to do good works that [men] otherwise would not be able to maintain if left to their own means." That's confusing to me because some of the greatest workers of good have not been Christian (e.g. Gandhi), and I wouldn't say Christians on average are any better than non-Christians in terms of doing good works.
+
+A baby has the potential to grow to become like their adult parents, but will die or not develop correctly if not cared for by their parents. Similarly, we require external help from God in order to become like Him. That gift is the gift of grace, according to Callister.
+
+Here's a good quote:
+
+> Innocence is the *entrance* to the straight and narrow path; perfection is the *destination*. (p. 266)
+
+According to Callister, the Atonement cleanses us of sin and makes us innocent, and also perfects us eventually by allowing us to do good works we otherwise could not do. Callister seems to imply that perfection is equivalent to exaltation. All of the perfected qualities we seek, whether qualities of character or skill, are acquired by grace through gifts of the Spirit. Here Callister expands the definition of *gifts of the Spirit* to include characteristics and skills that make us partakers of the divine nature, closer to the perfection that God possesses. To get these gifts of the Spirit we need to be obedient to the commandments and then ask for them sincerely and fervently. Hugh Nibley thought that we observe the gift of healing in our church because we ask for it, but the other scriptural spiritual gifts don't appear as often now because we've stopped asking for them (see p. 275).
