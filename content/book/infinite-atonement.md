@@ -233,3 +233,52 @@ Animal sacrifices, the ordinances of the pre-Christ law, were symbolic of the fu
 I don't think these ancient animal sacrifices would have pointed people to Christ as obviously as Callister thinks. Animal sacrifices were a part of other local religions that the Israelites were aware of, and those of the Israelite religion likely stemmed from the same theology as the surrounding practices. Certainly in these neighboring theologies, animal sacrifices were meant to appease gods, not to teach about a future appeasement for all mankind.
 
 Each of the ordinances we have in the church are symbolic of the Atonement. Baptism is symbolic of the Savior's sacrifice in that we are buried and resurrected like he was, now as cleansed people dedicated to following Him. The sacrament is a memorial of Christ's suffering and death, to remind us of the source of the grace we receive. The sacrament also provides a place for us to ponder and perform introspection. Finally, the ordinances of the temple are full of symbols and references to the Atonement.
+
+## How do justice and mercy relate to the Atonement?
+
+Callister begins by stating that there are eternal laws that not even God created or breaks. Among those, there are laws that cannot be broken (like gravity) and those that can be broken with agency. These "spiritual laws" are laws that increase our power when kept and decrease our power when broken. This is why some scriptures talk about how if God were not just he would cease to be God, because he would lose power.
+
+Here's something interesting:
+
+> The Savior observed every spiritual law with undeviating exactness. Apparently because of his compliance with each one, he received power upon power until he acquired the attributes of God, even in premortal times. (p. 301)
+
+If he attained the attributes of God without a mortal experience, that must mean that we needed to come to Earth because we were imperfect in the pre-mortal existence. Otherwise, a mortal life would not have been necessary, since it wasn't necessary for Jesus to become like God.
+
+Elder Callister says that asking why eternal laws exist is like asking why matter exists or why the sky is endless: there's no answer to that question. Nothing was there to create or cause these laws. Callister differentiates between these eternal laws and God's laws ("God's justice"). God defines laws to supplement the eternal system and help us progress.
+
+Joseph Smith is quoted as saying that we were all present and participants in the grand council that determined these laws in the pre-mortal existence. For Joseph and other early church members, the concept of common consent was an extremely important doctrine. According to Mormon theology, we all consented to be subject to God's supplementary laws so that we could eventually gain exaltation like God. Those who did not consent were cast out, because the eternal laws of justice could not allow them to progress.
+
+Callister gives a solid discussion of the classic grace vs. works topic. My favorite part was where he quoted C S Lewis: "while discussing the superiority of faith or works, C. S. Lewis responded in his characteristically pragmatic fashion, 'It does seem to me like asking which blade in a pair of scissors is most necessary,'" (p. 312).
+
+Justice does not allow mercy to apply to the unrepentant, according to Callister. The unrepentant are "exposed to the whole law of the demands of justice," (Alma 34:16). The Doctrine and Covenants teach that the "eternal punishment" of the unrepentant will actually be of a finite duration (D&C 19:4-12), and Brigham Young backs that up:
+
+> Those who do not repent will suffer everything, Brigham Young said, that "justice can require of them; and when they have suffered the wrath of God till the utmost farthing is paid, they will be brought out of prison." (p. 314)
+
+The repentant still have a price to pay (that of repentance), but the cost is possible to pay.
+
+Christ is our advocate before the Father. Callister points out that this could be seen to "change the nature of an already perfect God" (p. 318), but reconciles this by arguing that there must be some eternal law that requires advocacy in order to receive divine pardon and still satisfy the demands of justice. "It may be that the ardor of the Savior's request for mercy---coupled with his infinite sacrifice---permits the God of heaven, under the laws of justice, to respond in like fashion. ... Faith precedes miracles, asking precipitates revelation, and pleading prompts pardons," (p. 319).
+
+## Was the Atonement necessary or was there another way?
+
+Man, having sinned, cannot pull himself up into salvation. "Since man had fallen he could not merit anything of himself" (Alma 22:14). And as has been discussed before, God cannot save us simply because He wants to. Callister then explores possible reasons for why this is the case:
+
+1. **Eternal law**: There is some eternal law (as discussed above) that requires an infinite sacrifice in order to save someone who has sinned.
+1. **God's nature**: Something about God's nature requires this to be the method of salvation. If there had been any other method, the Father would have chosen one that required less suffering on the part of Jesus.
+1. **Common sense of fairness**: The spirits who became part of God's kingdom felt the need for an atoning act. By common consent, they agreed to a plan that would require this great sacrifice. "This concept suggests that the shared sense of fairness or equity held by the members of God's kingdom may help give support to the laws of justice in the universe," (p. 325). Later in the chapter Callister paints another image to back up this reasoning:
+
+    > The magnitude of suffering was so intense, so deep, so overwhelming and unrelenting that perhaps all of the spirits of the universe, even the most hardened, may have cried out in universal accord, "It is enough." The collective spirits of God's handiwork may have been so touched, so moved by the awesome intensity of Christ's suffering that they would yield to his request to save the repentant, not because any mortal earned the right, but solely because Christ had earned the right for them. (p. 328)
+
+1. **Motivation**: "God may have chosen the Atonement because it was the most persuasive power in the universe to bring us back home," (p. 325).
+1. **Instinctual fairness**: "[The Atonement] may have been the only event that could sufficiently appeal on a universal basis to the instinctual sense of fairness in God's children, who might otherwise complain under the laws of justice that some had come to exaltation without 'earning' their thrones," (p. 325).
+
+Regardless of the reason, the Atonement had to be a sacrifice (rather than some other form of payment), and there was no other person or way by which our debts could be paid.
+
+## appreciation for the Atonement
+
+This penultimate paragraph was awesome:
+
+> I have been trained by career to be a skeptic; it is inherent in the legal experience. But when it comes to the Savior, I am like a little child. I believe every written and spoken word of which he is the author. I accept every miracle "as is." I believe in every aspect of his divinity and rejoice in every drop of his mercy. I thank him again adn again for his atoning sacrifice, but it is never enough---nor will it ever be. His redeeming act shall be remembered and savored "forever and ever" (D&C 133:52). (p. 334-335)
+
+As I read this, I truly wanted it for myself. Believing in the Atonement and being grateful for it brings such peace, because you know you can be free from your imperfections and it is all thanks to him.
+
+But I can't have those things. I can't turn my skeptical eye from "every written and spoken word of which he is the author" (p. 335). If I really want to believe in and follow Jesus Christ, I have to try my best to find out what he really is and what he really said, because there are a lot of people who claim to know those things (and they contradict each other). God wants us to be as children *not in our willingness to blindly believe everything said about him* but in being "submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon [us]" (Mosiah 3:19).

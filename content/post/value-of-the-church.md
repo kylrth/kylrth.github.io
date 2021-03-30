@@ -22,3 +22,4 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [ ] read "Cloud of the Impossible"
 - [ ] study good church history to get a better sense for how my modern lived religion has come to be
   - [ ] books mentioned in the S&S episodes on *Producing Ancient Scripture* and *Frontier Religion*
+- [ ] learn about unitarian universalism
