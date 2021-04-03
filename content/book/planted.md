@@ -31,3 +31,9 @@ Here are some of the common concerns of those close to someone in faith crisis:
 
 - **parents**: that person will be missing from family events, but more importantly missing from the celestial kingdom
 - **spouse**: the basis for the marriage (temple covenants) is no longer believed in or held sacred by the person. So much of their life together has been built around church events, gospel practice, and social relationships built in the church. What will happen to the marriage? to their relationships with others? What will happen when one parent doesn't want their kids in the  church but the other does? Will we become the outcasts or projects of the ward?
+
+Mason emphasizes that it is usually not a desire to sin that leads people to come up with issues with church history so they can have an excuse not to believe. In addition, reading scriptures and praying are rarely enough to solve life's hardest problems, including a faith crisis. The scriptures themselves tell us to mourn with people who mourn, and comfort and bless people who are struggling (Mosiah 18:8-9), so giving a "formulaic answer" leaves people feeling unloved.
+
+Secularism isn't an inherently bad thing like some religious people believe. Secularism provides religious freedom and makes it possible for people of different religions to successfully share the same nation and work together. It also has brought us the preeminence of science and reason in our society. Secularism hasn't brought the end of religion like some thought it would.
+
+Many of the arguments we find online look like new information, because they're from recent blog posts and they present information that's new to us. That makes it hard to recognize that there are people out there who are aware of the factual information presented but still faithfully believe in the church's teachings. That's why it's important to remember to look for answers from inside the church as well.
