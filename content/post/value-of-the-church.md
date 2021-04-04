@@ -23,3 +23,11 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [ ] study good church history to get a better sense for how my modern lived religion has come to be
   - [ ] books mentioned in the S&S episodes on *Producing Ancient Scripture* and *Frontier Religion*
 - [ ] learn about unitarian universalism
+- [ ] think about respecting the LDS religion and the people in it (see [this Twitter post](https://twitter.com/zelphontheshelf/status/1349162735691436032))
+- [ ] talk about the difference between religion and morality and my newfound desire to find my own morality (see [this relevant joke](https://www.reddit.com/r/exmormon/comments/8axzf6/relevant_standupshot/))
+- [ ] [Recovering From Religion](https://www.recoveringfromreligion.org)
+- [ ] [this](https://www.reddit.com/r/exmormon/comments/lbt3hr/exercising_healthy_boundaries_is_an_important/)
+- [ ] [this](https://www.reddit.com/r/mormon/comments/lf3bis/what_was_the_final_push_big_or_small_that_made/)
+- [ ] think about street epistemology
+- [ ] these [quotes](https://www.reddit.com/r/mormon/comments/m1pg65/what_quotes_helped_you_move_past_the_church_or/) that helped people move past the church
+- [ ] this [Mormon Stories episode](https://www.mormonstories.org/podcast/contemplative-mormonism-jana-spangler/) about staying in despite knowing the problems

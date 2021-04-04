@@ -16,6 +16,10 @@ I have undergone a faith transition, and here I'm going to record here all of th
 
     > I'm not the first person to notice that it's a very strange sort of loving god who would make salvation depend on believing in him on bad evidence.
 
+- this [absolutely hilarious life story video](https://youtu.be/FzGn7dQabTA)
+- this [comic and the comments below](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous context
+- this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting the what Mormon history and culture looks like from the outside
+
 ## to do
 
 - read Repicturing the Restoration
@@ -29,6 +33,18 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - listen to this [interview](https://www.mormonstories.org/podcast/mormon-stories-030-031-032-and-033-an-insiders-view-of-mormon-origins-an-interview-with-grant-palmer/) with Grant Palmer
 - check out these [resources](https://www.mormonstories.org/faith-crisis-resources/) from Mormon Stories
 - read this [article](http://www.mormonthink.com/files/restoration-sacred-mushroom.pdf) that considers the idea that Joseph used hallucinogens to induce visions
+- check out this [huge website](https://ldsconcerns.blogspot.com/)
+- check out [these people's concerns](https://www.reddit.com/r/exmormon/comments/m6t0qx/well_i_guess_im_out_and_damn_i_dont_know_what_to/)
+- listen to some of these [top podcast episodes](https://www.reddit.com/r/exmormon/comments/l67del/still_dealing_with_broken_shelf_looking_for/)
+- read this guy's [big post](https://www.reddit.com/r/exmormon/comments/madju3/everything_i_find_wrong_with_the_church_of_jesus/)
+- this guy's [take](https://www.reddit.com/r/mormon/comments/l9x8q6/overall_summary_of_why_the_ces_letter_content_is/) on the most important points of the CES letter
+- these [arguments for atheism](https://whynogod.wordpress.com/)
+- this [discussion of the origins of Christianity and Judaism](https://www.reddit.com/r/exmormon/comments/l0ut6u/neither_can_a_corrupt_tree_bring_forth_good_fruit/) plus the response to my comment
+  - also this [video](https://youtu.be/qpJojm9nAH8)
+- this [graphic](https://www.reddit.com/r/mormon/comments/lrldb1/if_the_prophet_says_so_that_is_good_enough_for_me/)
+- this guy who [thinks like me](https://ohsaywhatistruth.org/2020/08/23/a-letter-to-my-family/)
+- this person's [comprehensive notes](https://docs.google.com/document/d/130L36aAJ7XnowmG5XkD6vpMqMsHOe3RxWrMev8oiXNI/edit#heading=h.r03d93vttokr)
+- MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
 
@@ -56,6 +72,10 @@ It was a big realization for me that signs had *not* followed me despite my beli
   - [ ] find out why people of indigenous faith believe what they do
   - [ ] find out why Buddhists/Hindus/Sikhs/Taoists believe what they do
   - [ ] read studies about spiritual experience
+- [ ] read [this](https://www.ldsdiscussions.com/testimonies)
+- [ ] include [this diagram](https://www.reddit.com/r/mormon/comments/lolr6d/a_diagram_i_made_on_how_to_know_the_lds_church_is/)
+- [ ] faith should not override science (see [this](https://www.reddit.com/r/exmormon/comments/luwut3/rm_reading_the_ce_letter_for_the_first_time/))
+- [ ] this person's [personal journey](https://www.youtube.com/watch?v=6nXDzbxhqfE)
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
@@ -90,6 +110,8 @@ Similar issues occur all over the text, and more discussion is available [here](
 - decide whether I think deutero-Isaiah was written after 600 BCE
   - [ ] read arguments for the one Isaiah theory
   - [ ] study Isaiah with a faithful manual and scholarly one
+- [ ] read [this essay at BYU](https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon)
+- [ ] read [this essay at BYU](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) about 2 Nephi 12:16
 - [ ] read Producing Ancient Scripture
 - [ ] read Book of Mormon Authorship: New Light on Ancient Origins
 - [ ] read Lehi in the Desert, The World of the Jaredites, and There Were Jaredites
@@ -105,7 +127,7 @@ One hole in their analysis is that they fail to consider the effect that strong 
 
 Here are some smaller mistakes in the Book of Mormon:
 
-- Mosiah 1:3-4 says that the plates of brass were written in Egyptian, which is totally unlikely. The Old Testament texts were written in Hebrew.
+- Mosiah 1:3-4 says that the plates of brass were written in Egyptian, which is totally unlikely. The Old Testament texts were written in Hebrew. (TODO add more info and original sources ([here?](https://www.reddit.com/r/mormon/comments/l5l24f/brass_plates_in_egyptian/))to prove why this makes sense in Joseph's time and why it makes no sense for Lehi and Nephi.)
 - In Alma 14:29 Mormon compares Alma and Amulek to lions. This could make sense if he were referring to mountain lions, but I'm not sure what they called them in New York in the 1820s.
 - Lots of horses and chariots in Alma 17-20. They're always coupled together, and they're used for travel. Apologists argue that chariots may not have been what we think of as chariots, but we know they were combined with horses in order to travel.
 
@@ -122,6 +144,16 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
 - [ ] read Are Christians Mormon?
 - [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
+- [ ] talk about the lack of Book of Mormon externalities as seen in [this post](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/)
+- [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
+
+## similarity of the Book of Mormon to its 19th century theological context
+
+### to do
+
+- [ ] describe and fact-check the interesting points from [this discussion](https://www.reddit.com/r/mormon/comments/kuw026/19nth_century_idiosyncrasies_more/)
+- [ ] and [this one](https://www.ldsdiscussions.com/influences)
+- [ ] watch this [video](https://www.youtube.com/watch?v=0AwHLRqX3Qk) about the Second Great Awakening
 
 ## narrative complexity in the Book of Mormon
 
@@ -133,6 +165,7 @@ This is the one thing about the church that is hard to explain from a critical s
 
 - [ ] read this document more carefully
 - [ ] study historical sources relating to the translation process of the Book of Mormon
+- [ ] [how might Joseph have written it](https://www.mormonstories.org/podcast/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-william-l-davis/)
 
 ## scriptural literalism in the Book of Mormon
 
@@ -202,10 +235,21 @@ The faith-reinforcing teachings and culture of the church are common to other fa
 
 The church spends billions of dollars on building temples, while spending far less on humanitarian efforts. (See [this Reddit post](https://www.reddit.com/r/exmormon/comments/7lccwv/they_rob_the_poor_because_of_their_fine/) about how we might not need to spend so much on temples.)
 
-## to do
+### to do
 
 - [ ] watch movies about cults to provide a source for "a common cult tactic"
 - [ ] study sources on the church's humanitarian efforts
 - [ ] look up statistics of suicide for LGBTQ+ members/Utahns
 - [ ] listen to this [interview](https://www.mormonstories.org/podcast/tom-phillips-and-the-second-anointing/) with Tom Phillips about the Second Anointing
 - [ ] read Insights from a Prophet's Life: Russell M Nelson
+- [ ] talk about how the church is constantly walking back what past prophets have said and done "as men" ([source](https://www.reddit.com/r/exmormon/comments/l5gpsf/church_gaslighting_the_journal_of_discourses/))
+- [ ] compare to [QAnon](https://www.reddit.com/r/QAnonCasualties/comments/l3yhqc/im_an_ex_q_former_conspiracy_theorist_ama/)
+- [ ] false prophecies of Joseph Smith ([source](http://20truths.info/mormon/prophecies.html))
+- [ ] Joseph and the Council of 50 ([source](https://www.reddit.com/r/mormon/comments/ltone5/til_joseph_smith_established_a_church/))
+- [ ] [SCMC](https://www.reddit.com/r/exmormon/comments/m2nx08/ysk_the_strengthening_church_members_committee/)
+
+## the theology is problematic
+
+### to do
+
+- [ ] talk about how the concept of sin is psychologically harmful, like in [this meme](https://www.reddit.com/r/exmormon/comments/m9op82/what_a_loving_god/)
