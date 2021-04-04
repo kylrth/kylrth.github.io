@@ -31,3 +31,7 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [ ] think about street epistemology
 - [ ] these [quotes](https://www.reddit.com/r/mormon/comments/m1pg65/what_quotes_helped_you_move_past_the_church_or/) that helped people move past the church
 - [ ] this [Mormon Stories episode](https://www.mormonstories.org/podcast/contemplative-mormonism-jana-spangler/) about staying in despite knowing the problems
+- [ ] read the [Universal Declaration of Human Rights](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf)
+- [ ] think about how Mormonism helps with activism (and read this [talk from Sharon Eubank](https://speeches.byu.edu/talks/sharon-eubank/turning-enemies-into-friends/))
+- [ ] this inspiring [article](http://matt.might.net/articles/tenure/) in which he talks about what matters
+- [ ] ["where will you go?"](https://www.reddit.com/r/exmormon/comments/l6mie1/where_will_you_go/)
