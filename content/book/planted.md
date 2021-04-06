@@ -37,3 +37,30 @@ Mason emphasizes that it is usually not a desire to sin that leads people to com
 Secularism isn't an inherently bad thing like some religious people believe. Secularism provides religious freedom and makes it possible for people of different religions to successfully share the same nation and work together. It also has brought us the preeminence of science and reason in our society. Secularism hasn't brought the end of religion like some thought it would.
 
 Many of the arguments we find online look like new information, because they're from recent blog posts and they present information that's new to us. That makes it hard to recognize that there are people out there who are aware of the factual information presented but still faithfully believe in the church's teachings. That's why it's important to remember to look for answers from inside the church as well.
+
+## testimony
+
+> One of the primary ways that Christianity scandalizes the twenty-first-century mind is in its insistence that all people, whatever the location or condition of their birth, must believe in and follow the singular Way, Truth, and Life that is Jesus Christ. (p. 26)
+
+In Mormon theology, we are all eternal beings who chose to become God's children. We had personalities before this life, and those personalities are then filtered through the great variety of human experience to become our individual characters. Mason broadens the definition of *testimony* to include all experience with God and any commitment to live a religious life.
+
+In the premodern world, the concept of changing religions or leaving a religion was basically non-existent. Communities tended to believe similar things to those next to them, and radical changes were the exception. Religion was not a separate category of human activity from anything else. "In the space of a few short centuries we went 'from a society in which it was virtually impossible not to believe in God, to one in which faith, even for the staunchest believer, is [only] one human possibility among others,'" (p. 28). It is natural for a religion to be a relationship: you hold onto it through testimony, and it holds onto you through family, obligation, and community.
+
+Nephi's faith took belief as a given and focused on faithfulness, while both Almas' faith focused on becoming truly converted to the Savior and his gospel. The Book of Mormon illustrates these two different types of testimony, and Mason argues that there are as many kinds of testimony as there are people who believe. In this age, it is very common for a testimony to have to interact with doubt on some level.
+
+Our level of faith or doubt is often inherited by upbringing. Apparently, there are even genetic factors associated with belief. Unfortunately, in our church we sometimes treat doubt as a character flaw. We should be as inclusive as possible to people's doubts (or lack thereof).
+
+Why does God allow doubt to be so pervasive for many of us? Why did God allow Mother Teresa to spend most of her life anxiously searching for the divine, but without any response? The philosopher Michael Rae offers a few ideas:
+
+- to preserve human freedom and the integrity of moral choice. An important trope in *The Good Place* is that once you know how the system works you're basically doomed to the Bad Place because you won't do anything good out of unselfishness. A hidden God makes it possible for us to do good without knowing for sure what the rewards will be.
+- the cultivation of attributes like patience, hunger for the divine, and gratitude for the communication we do receive
+- to teach us that God cannot be manipulated by us
+- to teach us that God values *communion* at least as much as he values direct communication
+
+Pondering or questioning the mechanics of belief doesn't have to be seen as an attack on belief, but can be the driving force behind our religious action.
+
+> I go to church with people who see God in the little things---when their car breaks down and someone on the freeway stops to help them or in the check that inexplicably arrives in the mail when times are tight. Other active Mormons don't live that way and instead find God in scripture, the temple, the sacrament, church social events, or personal meditation. Others still, whom we might call religious but not spiritual, are drawn to and anchored by the community, tradition, and structure of Mormonism but infrequently have transcendent "spiritual experiences" to bear testimony of. (p. 36-37)
+
+"[God's] hiddenness does not constitute abandonment or even necessarily a rebuke," (p. 37). It's hard for anyone to imagine questioning Mother Teresa's integrity or telling her to try harder. "Teresa's discipleship was a life choice based on her commitment to Jesus and was not reliant on constant reaffirmations," (p. 38).
+
+I think that I have the motivation within me to dedicate my life to doing good like Mother Teresa, without the need for a witness that there is a god watching my actions. That much I can do. Maybe the difference is that I'm not willing to do it within a religious context?
