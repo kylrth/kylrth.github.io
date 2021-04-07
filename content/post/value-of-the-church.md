@@ -35,3 +35,4 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [ ] think about how Mormonism helps with activism (and read this [talk from Sharon Eubank](https://speeches.byu.edu/talks/sharon-eubank/turning-enemies-into-friends/))
 - [ ] this inspiring [article](http://matt.might.net/articles/tenure/) in which he talks about what matters
 - [ ] ["where will you go?"](https://www.reddit.com/r/exmormon/comments/l6mie1/where_will_you_go/)
+- quote from a Preach interview with a Catholic nun: "Faith is like riding a river. ... It's a mindset you have; it's an attitude toward something; like you're a scientist so you gonna pursue something that's a hunch or it's a theory and you're gonna work to prove your hypothesis. It sets you on a path. Faith sets you on a path to try to look past, as best you can, just the veneer of life."

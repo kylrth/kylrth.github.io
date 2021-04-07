@@ -76,6 +76,12 @@ It was a big realization for me that signs had *not* followed me despite my beli
 - [ ] include [this diagram](https://www.reddit.com/r/mormon/comments/lolr6d/a_diagram_i_made_on_how_to_know_the_lds_church_is/)
 - [ ] faith should not override science (see [this](https://www.reddit.com/r/exmormon/comments/luwut3/rm_reading_the_ce_letter_for_the_first_time/))
 - [ ] this person's [personal journey](https://www.youtube.com/watch?v=6nXDzbxhqfE)
+- [ ] truth shouldn't require you to confirm it to yourself over and over again ([source](https://www.reddit.com/r/exmormon/comments/mkdgsu/just_a_reminder_that_if_something_is_true_you/))
+- [ ] talk about how Preach gives you the perspective of other people who have different faith experiences than you, in Mormonism and in other religions
+- [ ] talk about how Mason and the Givens and others point out that it's impossible to be perfectly objective. But the world has vastly improved since we decided to become more objective and rely on reason and the scientific method. People can look at the same facts with different perspectives, and arrive at opposite conclusions. Faith takes advantage of our cognitive biases to help us arrive at conclusions that are less likely than conclusions arrived at with rationality. Now that I've show you in this section that faith is an unreliable and contradictory source of truth, below I'll detail some facts that will give you pause and make you view the Mormon religion in a different light than you might have before. It's important to remember that many members of the church already know these facts, but because of their faith they see them from a perspective that makes these unproblematic. I think it is often the combination of the following things that make deconversion possible:
+  - surprise at previously unknown details of church history, doctrine, or policy, along with their implications for the truth claims of the church
+  - doubt of the viability of faith as a way to arrive at truth
+  - any discomfort with teachings, practices, or culture of the church
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
