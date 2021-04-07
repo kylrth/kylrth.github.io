@@ -64,3 +64,9 @@ Pondering or questioning the mechanics of belief doesn't have to be seen as an a
 "[God's] hiddenness does not constitute abandonment or even necessarily a rebuke," (p. 37). It's hard for anyone to imagine questioning Mother Teresa's integrity or telling her to try harder. "Teresa's discipleship was a life choice based on her commitment to Jesus and was not reliant on constant reaffirmations," (p. 38).
 
 I think that I have the motivation within me to dedicate my life to doing good like Mother Teresa, without the need for a witness that there is a god watching my actions. That much I can do. Maybe the difference is that I'm not willing to do it within a religious context?
+
+All of us are born with proclivities and gifts that make our religious experience unique. It is wrong to measure other people's faith through the lense of our own journey. Mason illustrates this by talking about a mission companion he had who would much rather "dig wells or build houses somewhere in Africa" than preach the gospel in Seattle. For Mason, serving the Lord meant teaching the gospel, but this missionary felt more inspired by something else.
+
+> The quest to eradicate all doubt becomes counterproductive to God's call for us to live by faith in a mortal existence where uncertainty is so often the norm. ... The call to belief is not a decree to deny our doubts. It is rather to "give place for a portion" of God's light---whatever portion we have received, in whatever form---to be planted and then grow within us. (p. 43)
+
+I think I have faith in a few things. At my core I choose to believe that doing good to others is my moral obligation. I also choose to believe that most people are doing the best they can with the knowledge and experience that they have. I can hold to these things despite what others say or do. These can be the tenets of my personal faith.
