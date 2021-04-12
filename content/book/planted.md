@@ -98,3 +98,33 @@ Here's a great quote that reflects Mason's argument:
 > There is nothing more unstable than basing one's life and outlook purely on the latest scholarship, let alone one's casual perusal of it. (p. 72)
 
 I don't like this because it leads one to believe that they cannot interpret the past well enough to make any condemning judgments. He advocates "reasoned faith" and the discussion of difficult issues, but he seems to be setting up the reader to believe that it's impossible to use historical facts to discredit the church, which I think is misleading.
+
+## a principled approach to church history
+
+> In their effort to put the church's best foot forward and offer inspiration, hope, and guidance to the Saints, church leaders and teachers have usually steered clear of the more controversial aspects of our past. (p. 79)
+
+Mason points out that sometimes this has been taken to an extreme, like when the first volume of *Teachings of the Presidents of the Church* changed all of Brigham Young's references to his "wives" to "wife" to meet the teaching needs of the modern church. But the church is taking steps to improve its historical transparency, by publishing historical documents, covering the issues in Gospel Topics essays, and updating the materials used in seminary and institute to cover these issues.
+
+Mason invites everyone, not just those who struggle or those who are interested in history, to study and try to make sense of these difficult problems. "Given that so many people are struggling with their membership in the church because of some of these issues, finding better ways to think and talk about the issues is an act of compassion in the original sense of the word---'to suffer with,'" (p. 80).
+
+Mason describes five broad principles for approaching church history:
+
+### tell the truth
+
+Many people are less bothered by the facts themselves than the feeling that they were deceived. Being honest and willing to talk about any issue helps those who feel misled. Leonard Arrington is a church historian who is a great example of this. We should be correcting people who are giving lessons in church, but when it's our turn to teach we should take advantage of the opportunity to spread the right narrative.
+
+### do your homework
+
+The Lord invites those who "have not faith" to study, not to hide their questions (D&C 88:118). It's important to look to "respectable, evidence-driven, peer-reviewed scholarship" rather than "the random thoughts of a blogger whose musings happen to come up on the first page of our Google search," (p. 86). A comparison Mason makes is insightful:
+
+> If you think you might have cancer, you don't begin and end your search for answers by consulting WebMD. You probably won't even stop by seeing just one doctor. If your life is at stake, and serious treatments are being suggested, you will probably want to receive multiple expert opinions. You don't rely on just the good news or listen only to the people who tell you what you want to hear. It's perfectly reasonable to search out contrary opinions and weigh the worst-case scenario with the best. Once you have identified a treatment regimen that you believe will help, you are willing to spend however many hours, weeks, months, or even years it takes in order to return to health. If one course of treatment makes you worse or otherwise doesn't work, you try another one. You approach the issue with utmost seriousness, not as a casual hobby. (p. 87)
+
+### the past is a foreign country
+
+### there is none good but God
+
+### learn the lessons of history
+
+The past is complex and nuanced, and history is up to interpretation. People are human, and neither entirely good nor bad. I've always disliked this sentiment that Mason shares: "Rather than abandoning the accumulated wisdom already gained by ourselves and our people, ... 'hold fast to what you already know and stand strong until additional knowledge comes,'" (p. 96). This flies in the face of real, humble, skeptical truth-seeking because it requires you to ignore possibly contradictory evidence! I guess maybe Mason's point is that "matters as fundamentally spiritual as the prophetic calling of Joseph Smith cannot be arbitrated by history alone," (p. 95).
+
+While I understand why this point is valid, I don't think prophetic fallibility absolves history of any pertenance to the veracity of Joseph's calling as a prophet. As we'll see in the next chapter, Mason acknowledges that what God allows His fallible prophets to do says something about God's nature.
