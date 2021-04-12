@@ -128,3 +128,37 @@ The Lord invites those who "have not faith" to study, not to hide their question
 The past is complex and nuanced, and history is up to interpretation. People are human, and neither entirely good nor bad. I've always disliked this sentiment that Mason shares: "Rather than abandoning the accumulated wisdom already gained by ourselves and our people, ... 'hold fast to what you already know and stand strong until additional knowledge comes,'" (p. 96). This flies in the face of real, humble, skeptical truth-seeking because it requires you to ignore possibly contradictory evidence! I guess maybe Mason's point is that "matters as fundamentally spiritual as the prophetic calling of Joseph Smith cannot be arbitrated by history alone," (p. 95).
 
 While I understand why this point is valid, I don't think prophetic fallibility absolves history of any pertenance to the veracity of Joseph's calling as a prophet. As we'll see in the next chapter, Mason acknowledges that what God allows His fallible prophets to do says something about God's nature.
+
+## in all patience and faith
+
+Mason outlines the issue with the priesthood and temple ban for people of African descent:
+
+> - Does God love everyone? Yes.
+> - Does God love white people more than black people? No.
+> - Does God want everyone to follow the gospel and receive all the ordinances of the church? Yes.
+> - Does God lead his church through prophets? Yes.
+> - Then why did God either inspire prophets to create a policy, or at the very least allow prophets to perpetuate a policy, that barred blacks from full participation in the church? And even if the policy had originated in something other than direct revelation, why didn't God intervene until 1978---almost a quarter century after the Montgomery Bus Boycott? Shouldn't prophets be a step ahead, not a step behind? (p. 100)
+
+This is an inherently theological issue, not an issue of facts. It is a question about God's way of dealing with his prophets.
+
+Mason freely admits that prophets "are liable to sin and error not only before their prophetic calling (which we can all readily admit) but also during their prophetic ministry (a somewhat tougher pill to swallow)," (p. 104). Moroni asks the reader of the Book of Mormon to "*give thanks unto God* that he hath made manifest unto you our [the prophets'] imperfections, that ye may learn to be more wise than we have been," (Mormon 9:31; emphasis added). We should take advantage of seeing prophetic shortcomings as an opportunity to improve ourselves.
+
+What believers should *not* do, according to Mason, is defend the prophet's character at all costs. Having a testimony of the prophetic calling of Joseph Smith or Brigham Young does not mean we believe they made the moral choice in all moments. Here's a fun quote:
+
+> To require God's work to go forward exclusively under the supervision of incorruptible paragons of virtue whose every word comes straight like lightning from heaven and whose every action is godly in both purpose and execution is unrealistic, unscriptural, and frankly, borderline idolatrous. (p. 107)
+
+Here's another quote that really resonated with me:
+
+> Part of the essence of Mormonism is trusting the revelation of other fallible human beings. In a secular age already suffering from a deficit of trust, this is perhaps one of our greatest collective challenges. (p. 110)
+
+Mason returns to the problem of the priesthood-temple ban, quoting the Race and the Priesthood essay to explain that the church now disavows the theories used to defend the ban in the past. He then points out that President Kimball described the process of receiving the revelation to overturn the ban in terms of "fight[ing] ... himself, largely" (p. 111). Kimball even admitted before the lifting of the ban that God might need to "forgive the possible error which brought about the deprivation," (p. 111).
+
+> Some assume that for many decades prophets had patiently waited on God to reveal if and when the policy should change. Based on Kimball's self-assessment, perhaps it was the case that God was patiently waiting on his prophets.
+
+This is a great idea and it makes it possible to love and believe an imperfect church, but I think it creates more holes than it fills. The fact is that God apparently *does* intervene when prophets are wrong. He intervened with an angel with a flaming sword to convince Joseph to practice polygamy with a few more women, even though at that time Joseph was already married to several women. Why would God choose to intervene so that Joseph could marry young women, but stay silent for 150 years on something that matters a lot more? Is this all to create stumbling stones and rocks of offense so that the doubtful leave? Mason thinks these events are "uniquely designed to help us learn and practice grace," (p. 113). He points to the example of Nephi who still trusted his father's prophetic calling even when Lehi complained and turned from the Lord momentarily (see 1 Nephi 16:20-25).
+
+"What happens when we disagree with a prophet, not out of convenience or whim but out of deep-seated and gospel-inspired moral conviction?"
+
+> Sustaining another fallible human being as a coworker with God will sometimes be in creative tension with following our own inner light and personal revelation. There are no rules for what to do in every case, only principles to apply with the assistance of the Spirit. We find ways to balance faith, patience, grace, forgiveness, integrity, conscience, community, and covenant. (p. 116)
+>
+> Following the apostles and prophets has brought me thus far to Christ, so I will continue to walk the path with them. (p. 116)
