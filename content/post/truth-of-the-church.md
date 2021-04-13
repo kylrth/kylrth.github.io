@@ -129,6 +129,7 @@ Similar issues occur all over the text, and more discussion is available [here](
 - decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
   - [ ] study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
   - [ ] study what modern prophets say about the truthfulness of the Book of Mormon
+- [ ] take a look at [this discussion](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) of "ships of Tarshish" and "without a cause"
 
 ## historical mistakes in the Book of Mormon
 
