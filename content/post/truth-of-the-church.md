@@ -165,6 +165,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] describe and fact-check the interesting points from [this discussion](https://www.reddit.com/r/mormon/comments/kuw026/19nth_century_idiosyncrasies_more/)
 - [ ] and [this one](https://www.ldsdiscussions.com/influences)
 - [ ] watch this [video](https://www.youtube.com/watch?v=0AwHLRqX3Qk) about the Second Great Awakening
+- [ ] show how Joseph's magical world view influenced the coming forth and contents of the Book of Mormon ([source](https://www.reddit.com/r/mormon/comments/mppgtc/a_brief_summary_of_the_magical_origins_of_the/))
 
 ## narrative complexity in the Book of Mormon
 
