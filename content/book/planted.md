@@ -162,3 +162,27 @@ This is a great idea and it makes it possible to love and believe an imperfect c
 > Sustaining another fallible human being as a coworker with God will sometimes be in creative tension with following our own inner light and personal revelation. There are no rules for what to do in every case, only principles to apply with the assistance of the Spirit. We find ways to balance faith, patience, grace, forgiveness, integrity, conscience, community, and covenant. (p. 116)
 >
 > Following the apostles and prophets has brought me thus far to Christ, so I will continue to walk the path with them. (p. 116)
+
+## abide in the vine
+
+> When we abide in the True Vine, the various individual branches---whether it is Joseph Smith's character, the method of his translation of the Book of Mormon, Brigham Young's teachings about blood atonement, or even continuing patriarchy in the church---can be viewed in broader perspective and not bear so much moral weight. (p. 119)
+
+He's not saying we give church history a free pass, but he is saying we should view the mistakes made along the way as forgivable and even meriting grace. A good example of this is the Mountain Meadows Massacre, which the church denied for a long time but eventually came to full reconciliation on. If we focus on the misdeeds, we say "How could the true church do this?" but put into the perspective of the Atonement we see it as an awful mistake made by imperfect people in the church, which can be repented of.
+
+But how can we be expected to put our trust and hope in leaders who cover up massacres and institute temple bans? The answer is that we don't. We put our faith and hope in Jesus. "God points us to prophets and the church not because they can save or redeem us, but because they are the temporal means by which he orients us to our Savior and Redeemer," (p. 125).
+
+Since the message of Christ is the fundamental message---the vine---it's easy for Mason to see appendage teachings---branches---as subject to change. For example, polygamy used to be taught as essential to salvation, but now is only practiced in a theological sense when a widower is sealed to a second wife. "Mormon theology actually allows for [two options]: prophets can be wrong, and God's revelation today can trump his revelation yesterday," (p. 128).
+
+> Beyond fundamental principles such as faith and repentance, what God requires of his children has clearly changed over time, and the promises he has offered to one person have not always matched those offered to another. (p. 128)
+
+I've often thought about whether Jesus studied the scriptures every day. I'm sure he studied them a lot, but did he really follow the modern commandment to read them every day? Scripture study seems to be a good example of something God requires of his followers now but not in past times.
+
+This chapter opens up a lot of leeway for the church to be wrong without being "false"; it seems like to Mason what matters is whether the church's teachings (mostly) bring us to Jesus. This leaves me wondering what's special about this church then, since plenty of other churches teach about Jesus and bring their believers to him. He'll address this more in chapter 8.
+
+## a meditation on "Doubting" Thomas
+
+It's probably best if you just read some of it yourself:
+
+> Had Thomas set off on his own on Good Friday, when things looked so bleak ... had he separated himself from the company of his fellow apostles---most of whom were also more full of doubt than belief in those days---then he would never have witnessed the miraculous manifestation of the risen Christ.
+>
+> In the moment of his greatest crisis, when he had absolutely no reason to believe and even less to stay, when it looked like everything he had lived and sacrificed for over the past three years was a complete sham, Thomas encountered Jesus, and he did so in communion with the apostles. He came to believe, spiritually, because he came, physically, to believe. It was the church, for all its early faithlessness and imperfections, which was Thomas's salvation and ultimately the agent of God's grace in his life and in the world. (p. 132)
