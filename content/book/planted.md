@@ -186,3 +186,21 @@ It's probably best if you just read some of it yourself:
 > Had Thomas set off on his own on Good Friday, when things looked so bleak ... had he separated himself from the company of his fellow apostles---most of whom were also more full of doubt than belief in those days---then he would never have witnessed the miraculous manifestation of the risen Christ.
 >
 > In the moment of his greatest crisis, when he had absolutely no reason to believe and even less to stay, when it looked like everything he had lived and sacrificed for over the past three years was a complete sham, Thomas encountered Jesus, and he did so in communion with the apostles. He came to believe, spiritually, because he came, physically, to believe. It was the church, for all its early faithlessness and imperfections, which was Thomas's salvation and ultimately the agent of God's grace in his life and in the world. (p. 132)
+
+## the church is true
+
+Mormonism is an inherently social religion that cannot be practiced alone. Claudia Bushman compares it to a melting pot full of people who vary widely in style and belief. Church living "is not a final product delivered straight from heaven to earth... It is inseparable from, and defined by, the lives and actions of its members," (p. 135). Here's Richard Bushman:
+
+> What it comes down to is that I believe in the founding events [of Joseph Smith's visions and the inspired translation of the Book of Mormon]. I think of them as the foundation of my faith. But they are the foundation, and I do not live in the cellar. I live in the rooms built on these events---the way of life, the attitudes, the institutions, the relationships, the experiences they support.
+>
+> ... I frequently feel inadequate to my responsibilities. At the same time, I know I can be better, and when I live the Mormon way, I am lifted up. I see things more clearly. I can figure out how I really feel. I know how to relate to my wife and children and colleagues. On bad days, Claudia and I often say we are out of sync with the universe. Over the many years I have been in the Church, I find that following the Mormon path puts me back in sync. I don't use the word "know" a lot, but I do know I am a better person for being a Mormon.
+>
+> ... While I do not diminish the importance of rationality and facing up to every challenge and doubt, I feel a prior obligation to be a good man. I cannot wait for the scholars to settle all the issues that arise before I decide, especially when as a historian I know these issues come and go. I have to go on living. I can't afford to ground my life in transient concerns. My first concern is to be a good and useful person. Mormonism helps me to live that way. (p. 136-137)
+
+Mason again: "Creeds, confessions, articles of faith, and other elements of orthodoxy, or right belief, are significant only insofar as they orient our minds and hearts toward orthopraxis, or right living," (p. 138). But he recognizes that "the pursuit of righteousness is separated from hypocrisy and pharisaism by only a hair's width. Ritual displays, checked boxes, and achieved goals, however worthy, can easily obscure 'the weightier matters of the law, judgment, mercy, and faith' (Matthew 23:23)," (p. 138-139). We have to continually focus on forgiveness and patience in order to maintain a healthy community where people feel safe to come live the Mormon experience.
+
+So what is it that makes the church true? Mason recognizes that the typical answer (that the LDS Church has exclusive access to priesthood authority to perform saving ordinances) is insufficient because we also promise to perform those saving ordinances for everyone regardless of whether they join the church in this life.
+
+Here's Lowell Bennion's thought:
+
+> On its own, ... theology too easily becomes "theoretical and abstract" and thus is "sterile and ineffectual when considered apart from religion." At the same time, true religion needs "an intelligent theology" for grounding and direction, so the two operate hand in hand. Both are necessary, but they remain distinct. Bennion compares it to the relationship of science and medicine. (p. 140)
