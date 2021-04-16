@@ -214,3 +214,39 @@ In the end, what makes the church true according to Bennion is that "it is the w
 Eugene England believed that the church is as true as the gospel. Just like the gospel, the church (imperfections and all) is a tool God uses to save us. "The church provides the best context for struggling with, working through, enduring, and being redeemed by those paradoxes and oppositions that give energy and meaning to the universe," (p. 145). It's a place where we can learn to serve people who we otherwise wouldn't encounter, and so we learn to love unconditionally. I love the example Mason gives of a man who is a professor at a liberal arts college and a bishop over a ward that includes a wealthy area and a poor area. His academic colleagues "make comments about how nice it must be for him to leave the Mormon bubble and come to campus where he can engage the real world. ... To be sure, his research and teaching include great debates over pressing international political and economic matters. But ... he encounters the real world when he steps off campus and into his calling as a bishop. It is there that he encounters broken marriages, drug and alcohol addiction, multigenerational poverty, homelessness, mental illness, spiritual crises, teenage stupidity, interpersonal conflicts, sickness and death, and hopelessness and despair. ... In which of these two places---at work or in church---is my friend more likely to encounter the face of God?" (p. 146) To England, "the Church is not a place to go for comfort, to get our own prejudices validated, but a place to comfort others, even to be afflicted by them," (p. 147).
 
 "The standard of the church's divinity is not its perfection but its ability to serve as a schoolmaster for gods in embryo," (p. 148).
+
+## when church is hard
+
+Mason offers some practical suggestions for when church living feels unbearable in some way:
+
+### simplify
+
+The church is a huge institution that offers many activities, ideas for things to improve, and ways we're expected to keep up. If that's starting to feel oppressive, simplify the expectations you have for yourself. Choose a favorite scripture and live by that. Pick one rule to focus on. A bishop has a plethora of responsibilities, and "their spiritual survival and ours depends on seeing each day as a set of possibilities for doing good, not an endless set of ways to fall short," (p. 155).
+
+Claudia Bushman's anchor is the sacrament prayers. When she concentrates on those promises and expectations at church and throughout the week, she finds a renewed focus and "everything else falls into place," (p. 155). Mason himself likes Micah 6:8. "I can ask myself at the end of the day, Have I been just? Have I been merciful (or at least loved mercy if I didn't always show it)? Have I been humble? Have I tried to walk with God? If so, it's been a good, successful day---at home, at work, at church, or wherever life took me. And that's enough," (p. 155-156).
+
+### creatively work it out
+
+"The church is made up of its members---in many significant respects, we *are* the church, and we determine its course and future," (p. 156). Creatively approaching solutions to our problems without trampling rudely on other people's efforts can bring about the change one might want to see in the church.
+
+### create spaces of inclusion
+
+Mason thinks ring ceremonies are a great idea, because they are a way for people who can't attend the temple to not feel entirely left out of a wedding. Some church leaders think they take away from the ordinance, but Mason disagrees. We can work around the official rules in a respectful way that still allows people to feel included. A good example is when women do a mother's prayer for a new baby at home with some of their female friends. They create a similar sense of bonding as exists in the circle at a baby blessing, without breaking any rules. We can find ways for young women to feel prominently included in the ward just like the young men do as they administer the sacrament. Our goal should be for church to be "a place where all types of people want to be and where they feel genuinely valued when they are there," (p. 158).
+
+### make a place for yourself
+
+If you feel you don't quite fit into a ward, carve out a special role for yourself by serving others in a unique way. Make them miss you when you're gone.
+
+### use the church to accomplish good things
+
+One of the great things about the church is that most people will say yes when asked to help with any kind of service. That means you can mobilize the ward to accomplish good things for whatever community effort drives you. "If we see something that we should be doing in the church, we can do it, and we can recruit people to help us," (p. 159).
+
+### work with church leaders
+
+It's important in all the efforts mentioned above to remember to work *with* church leaders, not against them.
+
+> Consider the example of Maxine Hanks. In the 1980s she became disenchanted with gender inequities she saw in the church, while at the same time being inspired by the nineteenth-century LDS women who gave blessings, engaged in political activism, and referred to their Reief Society leaders with titles such as "priestess" and "presidentess." In 1992 Hanks compiled and edited the book *Women and Authority: Re-emerging Mormon Feminism*. For her outspoken views directly challenging church authority, she became one of six LDS intellectuals and feminists excommunicated in September 1993.
+>
+> Almost twenty years later, in February 2012, Hanks was rebaptized as a member of the church in full fellowship. The following year she spoke at an annual FairMormon Conference about her experiences as a Mormon feminist. With composure and frankness, she admitted that despite the firmness of her belief in the principles she espoused two decades earlier, her approach was wrong. At the time, she confessed, she did not love and respect the men in the leadership of the church, both locally and on a general level. She thought she had to fight them and that they were obstacles in the way of progress. During the inrervening years, self-reflection led Hanks to realize that she had been just as stubborn and obstinate as her leaders had been and that she had not extended the same charity and tolerance toward them as she expected them to extend toward her. She decided that she could accomplish mroe by working *with* church leaders than by working against them. In her interviews preparatory to rebaptism, she did not recant her feminist views or apoogize for her book---nor was she required to. She simply accepted the leaders of the church as her brothers whom God has called at this time and as fellow Saints that she could labor alongside in cooperatively building Zion. That was enough---for Hanks and for the church, which is so much stronger for having her back on the inside. (p. 160-161)
+
+Terryl Givens points out that the biggest tension in Mormon theology is balancing the two competing values of obedience to church leaders and exercising agency to effect the moral change we feel is right. The right approach according to Mason is not to drop one value in favor of the other, but to develop the confidence we need with one another to have serious conversations (publicly or privately) and trust uncynically that we're all trying to love one another and be like Jesus.
