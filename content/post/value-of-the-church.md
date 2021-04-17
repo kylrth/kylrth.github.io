@@ -38,3 +38,5 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - quote from a Preach interview with a Catholic nun: "Faith is like riding a river. ... It's a mindset you have; it's an attitude toward something; like you're a scientist so you gonna pursue something that's a hunch or it's a theory and you're gonna work to prove your hypothesis. It sets you on a path. Faith sets you on a path to try to look past, as best you can, just the veneer of life."
 - Preach interview with the Yoruban guy that talks about a practice that's similar to patriarchal blessings. Rituals can be useful!
 - [sex positivity in the church](https://www.reddit.com/r/exmormon/comments/mreos0/mormonism_a_sex_positive_religion_found_this_gem/)
+- [disenchanted Mormonism](https://www.fairlatterdaysaints.org/conference/august-2013/disenchanted-mormonism)
+- [religion without God?](https://www.nytimes.com/2014/12/25/opinion/religion-without-god.html)
