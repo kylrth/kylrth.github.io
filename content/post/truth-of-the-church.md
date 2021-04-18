@@ -44,6 +44,7 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [graphic](https://www.reddit.com/r/mormon/comments/lrldb1/if_the_prophet_says_so_that_is_good_enough_for_me/)
 - this guy who [thinks like me](https://ohsaywhatistruth.org/2020/08/23/a-letter-to-my-family/)
 - this person's [comprehensive notes](https://docs.google.com/document/d/130L36aAJ7XnowmG5XkD6vpMqMsHOe3RxWrMev8oiXNI/edit#heading=h.r03d93vttokr)
+- [Why the true church cannot be perfect](https://www.dialoguejournal.com/articles/why-the-true-church-cannot-be-perfect/)
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
