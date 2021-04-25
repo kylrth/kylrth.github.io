@@ -40,3 +40,5 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [sex positivity in the church](https://www.reddit.com/r/exmormon/comments/mreos0/mormonism_a_sex_positive_religion_found_this_gem/)
 - [disenchanted Mormonism](https://www.fairlatterdaysaints.org/conference/august-2013/disenchanted-mormonism)
 - [religion without God?](https://www.nytimes.com/2014/12/25/opinion/religion-without-god.html)
+- [this short story](https://www.nature.com/articles/35014679)
+- [this post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/)
