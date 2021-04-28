@@ -8,6 +8,8 @@ tags: ["religion", "mormonism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388188757l/236609.jpg"
 ---
 
+*I'm reading this book at the same time as* [No man knows my history: the life of Joseph Smith]({{< relref "no-man-knows.md" >}}) *by Fawn Brodie, and I'm comparing what the two cover. Interesting things that appear in both books might be covered here or there.*
+
 ## preface
 
 > A believing historian like myself cannot hope to rise above these battles or pretend nothing personal is at stake. For a character as controversial as Smith, pure objectivity is impossible. What I can do is look frankly at all sides of Joseph Smith, facing up to his mistakes and flaws. (Preface)
