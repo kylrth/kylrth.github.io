@@ -19,6 +19,7 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [absolutely hilarious life story video](https://youtu.be/FzGn7dQabTA)
 - this [comic and the comments below](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous context
 - this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting the what Mormon history and culture looks like from the outside
+- this [Twitter post](https://www.reddit.com/r/exmormon/comments/b0am6n/just_sayin/) reminding us to look into things we're asked not to look into
 
 ## to do
 
