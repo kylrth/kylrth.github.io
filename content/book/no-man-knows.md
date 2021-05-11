@@ -34,3 +34,12 @@ Brodie recounts Joseph's autobiographical telling of the First Vision experience
 I think Brodie makes her point most clearly here: "Joseph's first published autobiographical sketch of 1834, already noted, contained no whisper of an event that, if it had happened, would have been the most soul-shattering experience of his whole youth." The accounts that we do have grow progressively in detail and theological importance. Brodie thinks the later accounts were "probably the elaboration of some half-remembered dream stimulated by the early revival excitement and reinforced by the rich folklore of visions circulating in his neighborhood. Or it may have been some sheer invention."
 
 Another interesting note from a neighbor: "Joseph had a little ambition, and some very laudable aspirations; his mother's intellect shone out in him feebly, especially when he used to help us solve some portentous questions of moral or political ethics in our juvenile debating club ... And subsequently, after catching a spark of Methodism in the camp meeting, away down in the woods, on the Vienna road, he was a very passable exhorter in the evening meetings."
+
+## chapter 3
+
+Brodie documents some accounts of the time that demonstrated the common belief that the Moundbuilders had been more advanced than the Iroquois and were killed in a great slaughter. For example, "William Henry Harrison, shortly before his election to the Presidency, wrote that the last great battle took place on the banks of the Ohio, where 'a feeble band was collected, remnant of mighty battles fought in vain, to make a last effort for the country of their birth, the ashes of their ancestors and the altars of their gods.'"
+
+Here are some important events demonstrating Joseph's exposure to and interest in the Moundbuilder lore:
+
+- (before Nov 1823) Joseph gives imaginative descriptions of the Moundbuilder people to his family for entertainment.
+- (1827) Joseph mentions to Peter Ingersoll that someone in Canada had found a history of the Indians at the base of a hollow tree. This discovery was mentioned in a Palmyra newspaper in 1821.
