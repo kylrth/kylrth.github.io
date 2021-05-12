@@ -43,3 +43,6 @@ Here are some important events demonstrating Joseph's exposure to and interest i
 
 - (before Nov 1823) Joseph gives imaginative descriptions of the Moundbuilder people to his family for entertainment.
 - (1827) Joseph mentions to Peter Ingersoll that someone in Canada had found a history of the Indians at the base of a hollow tree. This discovery was mentioned in a Palmyra newspaper in 1821.
+- (Sept 22, 1827) According to Lucy Smith, Joseph and Emma bring the plates, Urim and Thummim, and breastplate home, and show all but the plates to Lucy.
+
+Lucy told a few stories of hijinks where a diviner and a glass-looker both divined the location of the plates, but Joseph was able to remove them just in time.
