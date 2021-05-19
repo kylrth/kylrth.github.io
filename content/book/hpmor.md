@@ -8,6 +8,8 @@ tags: ["rationality"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293582551l/10016013.jpg"
 ---
 
+***Spoiler warning***
+
 ## science is at least as beautiful as magic
 
 In chapter 7 Harry introduces Draco to the beauty of scientific advancement, and it actually moved me to tears. Read the [whole thing](https://www.hpmor.com/chapter/7), but here are some of the best quotes:
@@ -181,3 +183,11 @@ The answer is that what is beneath the cloak of a Dementor is death. That is wha
 > They were all looking at him like they'd just seen him destroy a Dementor.
 >
 > The tattered cloak lay empty within the cage.
+
+## breaking patterns
+
+In a moment of anger in chapter 90, Harry tells Professor McGonagall that most people don't hold themselves absolutely responsible for events around them. Instead, they play roles. "There's a picture in your head of a stern disciplinarian and you do whatever that picture would do, whether or not it makes any sense. A stern disciplinarian would order the students back to their rooms, even if there was a troll roaming the hallways. A stern disciplinarian would order students not to leave the Hall on pain of expulsion. And the little picture of Professor McGonagall that you have in your head can't learn from experience or change herself, so there isn't any point to this conversation. People like you aren't responsible for anything, people like me are, and when we fail there's no one else to blame."
+
+But the lesson is that anyone can do it; anyone can break from these roles. Later, McGonagall uses this self-awareness to consciously change. Harry and Quirrell refer to this as her "going off-script". It's what brings her into her own when she becomes Headmistress of Hogwarts.
+
+(mention Hermione's breaking patterns)

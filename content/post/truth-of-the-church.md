@@ -49,6 +49,7 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - look at [lesswrong.com](https://www.lesswrong.com)
 - this [post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/) about how Mormonism asks you to not take philosophy seriously
 - this [discussion](https://www.reddit.com/r/mormon/comments/n2kghu/need_some_insights_on_visions_and_miracles_of_lds/) about miracles in Mormonism
+- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nb628x/gods_plan_send_jesus_to_teach_truth_and_establish/) about how confusing it would be for God to use Joseph to reveal the one true church
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
@@ -92,6 +93,7 @@ It was a big realization for me that signs had *not* followed me despite my beli
   - surprise at previously unknown details of church history, doctrine, or policy, along with their implications for the truth claims of the church
   - doubt of the viability of faith as a way to arrive at truth
   - any discomfort with teachings, practices, or culture of the church
+- [ ] include this thought I had: "If you are mistaken in your perception of the Spirit's promptings, it's your fault and you need to improve. This leaves no room for you to construct a test to determine whether the Spirit actually makes sense at all as an external influence."
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
@@ -173,6 +175,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] watch this [video](https://www.youtube.com/watch?v=0AwHLRqX3Qk) about the Second Great Awakening
 - [ ] show how Joseph's magical world view influenced the coming forth and contents of the Book of Mormon ([source](https://www.reddit.com/r/mormon/comments/mppgtc/a_brief_summary_of_the_magical_origins_of_the/))
   - [ ] look at Peter Ingersoll's affidavit (1833) in *Mormonism Unvailed*
+- [ ] look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
 
 ## narrative complexity in the Book of Mormon
 
@@ -271,6 +274,9 @@ The church spends billions of dollars on building temples, while spending far le
 - [ ] Joseph and the Council of 50 ([source](https://www.reddit.com/r/mormon/comments/ltone5/til_joseph_smith_established_a_church/))
 - [ ] [SCMC](https://www.reddit.com/r/exmormon/comments/m2nx08/ysk_the_strengthening_church_members_committee/)
 - [ ] look into George Albert Smith promising that tithing would go away once the church was in a good financial position
+- [ ] check out this [post](https://www.reddit.com/r/mormon/comments/n5ieyg/i_am_having_a_panic_attack_after_doing_some/) about thought control groups
+- [ ] this [Tweet](https://twitter.com/zelphontheshelf/status/1387142154871443456) about how Heber Grant said God had not appeared to anyone since Joseph
+- [ ] this [post](https://sunstonemagazine.com/background-and-fallout/) about how the church handled historical research into polygamy after the manifesto
 
 ## the theology is problematic
 

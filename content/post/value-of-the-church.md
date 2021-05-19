@@ -42,3 +42,4 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [religion without God?](https://www.nytimes.com/2014/12/25/opinion/religion-without-god.html)
 - [this short story](https://www.nature.com/articles/35014679)
 - [this post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/)
+- this thought I had: "The church doesn't really bring anything useful to the table. It doesn't advise anything about morality today, like whether day trading is bad, new addictions to avoid (and how to avoid them), real marriage advice, etc. Their advice on all of that is not unique."

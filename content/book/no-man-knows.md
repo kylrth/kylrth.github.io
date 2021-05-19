@@ -46,3 +46,72 @@ Here are some important events demonstrating Joseph's exposure to and interest i
 - (Sept 22, 1827) According to Lucy Smith, Joseph and Emma bring the plates, Urim and Thummim, and breastplate home, and show all but the plates to Lucy.
 
 Lucy told a few stories of hijinks where a diviner and a glass-looker both divined the location of the plates, but Joseph was able to remove them just in time.
+
+## chapter 4
+
+The first 116 pages were really slow, less than two pages a day. The scribes used no punctuation, so the typesetters broke up clauses as they saw fit. Of the first 200 sentences, 140 started with "And."
+
+Brodie says that when Harris lost the 116 pages he was already too far invested in the tale: Emma and Martin trusted his story, Isaac Hale would hate him, and his family needed the money from the sales. Brodie thinks this is a turning point for Joseph. He doubled down on the story, got a revelation through the Urim and Thummim to help him continue the work, and this time the work would be religious in nature, rather than just an Indian political history.
+
+By the time they resumed writing, it had been a year since Joseph had gotten the plates.
+The harsh anti-Catholic rhetoric in the beginning of the BoM is reflective of some anti-Catholic sentiment that existed in the area due to an influx of Irish labor for the Erie Canal.
+
+Brodie points out that Lucy likely did not borrow Joseph Sr's vision of the tree from the Book of Mormon, since she also recounts five other dreams of his in detail.
+
+Oliver Cowdery "had seasons of skepticism, in which I did seriously wonder whether the prophet and I were men in our sober senses when we would be translating from plates through 'the Urim and Thummim' and the plates not be in sight at all."
+
+David Whitmer: "At times, when Brother Joseph would attempt to translate, he would look into the hat in which the stone was placed, he found that he was spiritually blind and could not translate. He told us that his mind dwelt too much on earthly things, and various causes would make him incapable of proceeding with the translation. When in this condition he would go out and pray; and when he became sufficiently humble before God, he could then proceed with the translation."
+
+Despite the fact that the early pages of the first complete manuscript are written in Oliver's hand, Harris maintains that he recorded as much as a third of the book. It's possible that Oliver copied the pages Harris had already translated.
+
+> His talent, it is true, was not exceptional, for his book lacked subtlety, wit, and style. He was chiefly a tale-teller and preacher. His characters were pale, humorless stereotypes; the prophets were always holy, and in three thousand years of history not a single harlot was made to speak. But he began the book with a first-class murder, added assassinations, and piled up battles by the score. There was plenty of bloodshed and slaughter to make up for the lack of gaiety and the stuff of humanity.
+
+One thing Brodie's explanation of the book of Mormon doesn't account for are the backreferences made in the book. That would be very difficult when dictating from memory.
+
+Stories copied from the Bible:
+
+- Salome and the daughter of Jared both danced before a king and brought about a decapitation.
+- Aminadi and Daniel both deciphered handwriting on a wall.
+- Alma and Paul were converted in basically the same way.
+- The daughters of the Lamanites and the daughters of Shiloh were all abducted while dancing.
+- Ammon and David both killed enemies with a sling.
+
+Joseph was writing the BoM exactly in the middle of some tremendous anti-Mason fervor. It has sparked around a murder in western New York, and eventually involved presidential candidate Andrew Jackson, who was a high-ranking Mason.
+
+## chapter 5
+
+> It is easy enough to deride its style, and painstaking research can uncover the sources of all its ideas. But nothing can detract from the fact that many people have found it convincing history.
+
+Brodie says the story of Ether answers the question of the origin of animals in the New World.
+
+Joseph was one of the most charismatic people in American history, according to Brodie. Cowdery referred to his "mysterious power, which even now I fail to fathom." He was also a talented leader, and could make people see visions.
+
+Fawn Brodie thinks Joseph's talent was for hypnosis. The local press reported different accounts from each of the three witnesses, which leads her to believe that the witnesses weren't confederate but tricked.
+
+- Harris's account was that he saw the plates with the eye of faith, though covered with a cloth. Then later in life he said he saw the angel turn the pages of the plates in front of him.
+- David Whitmer said Joseph led him to an open field where the plates were lying open on the ground, but later in life included a table and an angel and all the related objects (sword, Liahona, etc.).
+
+Fawn Brodie thinks hypnosis might have been involved. But the craziest thing to her is that Joseph acted and sounded more and more believing over time, rather than more cynical as you might expect from a trickster.
+
+On the subject of selling the copyright in Canada, Brodie shares that when Cowdery and Page returned from Toronto without success, Joseph told them that some revelations are from man and come from his carnal desires.
+
+Brodie quotes Lehi in saying that a dream is equivalent to a vision. She thinks Joseph's concept of dreams/visions/reality was very fluid.
+
+Brodie related a few stories that show us how Joseph interfaced with his young congregation as a prophet of God:
+
+- He convinced Martin Harris that Jesus had walked through the room while he was preaching, but the people hadn't been prepared to see him.
+- Joseph healed Newel Knight from a devil that was plaguing him, probably over concern for his sins.
+
+The first story demonstrates Joseph's ability to spin convincing experiences for his converts, and the second demonstrates how an experience like exorcism (common in this time period) might have simultaneously increased Joseph's confidence in his own authority.
+
+Emma wasn't baptized until six weeks after the founding of the church, and she especially struggled when Joseph received the revelation to leave behind his "temporal labors" and seek support from the church.
+
+Joseph's enamor with Rigdon hurt the feelings of others, especially when the revelation asked the church to uproot and move to Ohio.
+
+The main components of Joseph's church in this period were lay preaching, authoritarianism, millennialism, and communalism.
+
+Joseph's first action in Ohio was basically to end the revivalist spirits and tongues in the church. This was not a revivalist sect, and Joseph appealed to reason as much as emotion. This gave Mormonism an intellectual appeal that would draw from a broader class of people than those who joined cults.
+
+Joseph blessed Lyman Johnson, William Smith (his brother), and Orson Hyde with the promise that they would see the Savior come, and stand on earth until then.
+
+The exodus to Missouri was precipitated by two events: his failure to heal several people at a conference, and the retraction of the offer of land that the New York church members were going to use as a part of the United Order.
