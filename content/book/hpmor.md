@@ -1,18 +1,18 @@
 ---
 title: "Harry Potter and the methods of rationality"
-author: "Author Name"
+author: "Eliezer Yudkowsky"
 goodreads: "https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality"
-date: TODO
-draft: true
+date: 2021-05-20T07:25:00-06:00
+draft: false
 tags: ["rationality"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293582551l/10016013.jpg"
 ---
 
-***Spoiler warning***
+***Spoiler warning: no plot held back in this review.***
 
 ## science is at least as beautiful as magic
 
-In chapter 7 Harry introduces Draco to the beauty of scientific advancement, and it actually moved me to tears. Read the [whole thing](https://www.hpmor.com/chapter/7), but here are some of the best quotes:
+In chapter 7 Harry introduces Draco to the beauty of scientific advancement, and it actually moved me to tears. You should read the [whole thing](https://www.hpmor.com/chapter/7), but here are some of the best quotes:
 
 > "Anyway," Harry said, "I'm saying that you don't seem to have been paying much attention to what goes on in the Muggle world." Probably because the whole wizarding world seemed to regard the rest of Earth as a slum, deserving around as much news coverage as the Financial Times awarded to the routine agonies of Burundi. "All right. Quick check. Have wizards ever been to the Moon? You know, that thing?" Harry pointed up to that huge and distant globe.
 >
@@ -190,4 +190,20 @@ In a moment of anger in chapter 90, Harry tells Professor McGonagall that most p
 
 But the lesson is that anyone can do it; anyone can break from these roles. Later, McGonagall uses this self-awareness to consciously change. Harry and Quirrell refer to this as her "going off-script". It's what brings her into her own when she becomes Headmistress of Hogwarts.
 
-(mention Hermione's breaking patterns)
+One of the most important plot drivers in the book is Hermione's resistance to becoming Harry's sidekick. She's desperate to become a heroine in her own right, but at the same time she wonders if that's really what she wants. In the end, Hermione learns that she doesn't need to fit the mold of "sidekick" or even that of "heroine" to do the Good that she wants to do.
+
+Chapter 122 ends the book the best way I could have possibly imagined. It perfectly resolves this tension, with the lesson that our utmost goal should be to Do Good, regardless of the patterns we break (or follow):
+
+> Hermione stood up from her cushion, and turned to face Harry. "I'm done with trying to be a heroine," said Hermione Granger with the eastern sky brightening around her. "I shouldn't ever have gone along with that entire line of thinking. There are just people who do what they can, whatever they can. And there are also people who don't even try to do what they can, and yes, those people are doing something wrong. I'm not ever going to try to be a hero again. I'm not going to *think* in heroic terms if I can help it. But I won't do any less than I can - or not a lot less, I mean, I'm only human." Harry had never understood what was supposed to be mysterious about the Mona Lisa, but if he could have taken a picture of Hermione's resigned/joyous smile just then, he had the sense that he could have looked at it for hours without understanding, and that Dumbledore could have read through it at a glance. "I won't learn my lesson. I *will* be that stupid. I'll go on trying to do most of what I can, or at least *some* of what I can - oh, you know what I mean. Even if it means risking my life again, so long as it's worth the risk and isn't being, you know, *actually* stupid. That's my answer." Hermione took a deep breath, but her face was resolute. "So, is there something I can do?"
+
+Later, Hermione asks if they can finish their conversation about their relationship:
+
+> After a while, Hermione spoke. "*Do* you suppose we'll fall in love with each other later on?"
+>
+> "I don't know any better than you do, Hermione. But why does it have to be about that? Seriously, why does it always have to be about that? Maybe when we're older we'll fall in love, and maybe we won't. Maybe we'll stay in love, and maybe we won't. ... No matter how it goes, we shouldn't try to force our lives into a pattern. I think when people try to *force* patterns onto this sort of thing, that's when they end up unhappy."
+>
+> "No forced patterns?" Hermione said. Her eyes had taken on a mischievous look. "That sounds like a more complicated way of saying *no rules*. Which I guess seems a lot more reasonable to me than it would've at the start of this year. If I'm going to be a Sparkling Unicorn Princess and have my own time machine, I might as well give up on rules, I suppose."
+>
+> "I'm not saying that rules are always bad, especially when they actually fit people, instead of them being blindly imitated like Quidditch. But weren't you the one who rejected the 'hero' pattern in favor of just doing the things she could?"
+>
+> "I suppose so. ... You said, Harry, that you thought I was always destined to be the hero. I've been considering, and I suspect you're completely wrong. If this had been *meant* to be, things would've been easier all round. Just doing the things you can do - you have to *make* that happen, you have to choose it, over and over again."
