@@ -50,6 +50,7 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/) about how Mormonism asks you to not take philosophy seriously
 - this [discussion](https://www.reddit.com/r/mormon/comments/n2kghu/need_some_insights_on_visions_and_miracles_of_lds/) about miracles in Mormonism
 - this [Reddit post](https://www.reddit.com/r/exmormon/comments/nb628x/gods_plan_send_jesus_to_teach_truth_and_establish/) about how confusing it would be for God to use Joseph to reveal the one true church
+- The way Mormons talk about Satan's fight against the church is similar to conspiracy theories. Mormonism has certainly had its share of miracles, but it's also had its fair share of demonic possessions and stuff. Why does the rate of *both* increase? Is this observable in other religions?
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit

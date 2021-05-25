@@ -110,3 +110,15 @@ The major themes of the Book of Moses were these:
 Joseph's expansion on the story of Enoch was happening just as "a vast apocryphal literature on Enoch was first being rediscovered," but it's unlikely Joseph knew about the Ethiopic text in time. The two are only similar in that they make references to the Son of Man and other New Testament titles for Christ.
 
 Joseph identified with Enoch the most. He used the name as a pseudonym later in life.
+
+## chapter 7
+
+Visionaries were an important part of American religion since before the American revolution. The Freewill Baptists, the Universalists, and the Shakers all "had their 'ultimate source' in 'the charismatic, visionary experience of prophetic leaders.'" Even Methodism, the fastest-growing sect of the time, was initialy basically supported by stories of visions and dreams, despite later efforts to "tam[e] extravagant impulses".
+
+The Campbellites, from which several Kirtland converts had come, were focused on reforming the church back to its original form and structure. Walter Scott, a Campbellite, "reduced the Gospel to five simple points: faith, repentance, baptism by immersion, remission of sins, and the gift of the Holy Spirit." Sound familiar?
+
+The visionary impulse of the first Mormons in Kirtland attracted many people to the faith, but it began to get out of hand after the New York missionaries continued on to Missouri. When Joseph arrived, he couldn't just tell them all they were false visions. So instead he made clear that he was the only person responsible to receive revelation from God. After the visions continued, a second revelation clarified that the focus should be on the "spirit of truth", rather than "spiritual exhilaration". Visions should be for knowledge.
+
+Even though the word "priesthood" is mentioned in the Book of Mormon, Joseph didn't use the word in his preaching for several years, until the meeting where he ordained several people to the high priesthood. This makes sense because New England Christians chaffed at the word as a symbol of the hierarchy of the Roman Catholic church. ("David Whitmer blamed the introduction of the priesthood on Sidney Rigdon," says a footnote.) Before this moment, people were called to church offices and given authority without mention of the specific word "priesthood". At this meeting, everyone (including Joseph Smith and people who were already ordained Elders) received the "high priesthood", the Melchisedec Priesthood. Bushman says it's pretty unmistakable that they mean the Melchisedec Priesthood and not the office of high priest. This means that at this time the ideas about priesthood offices and authority were still being formed.
+
+Priesthood is essential to Joseph's theology; it plays an integral role in preaching the gospel, as well as in performing the ordinances of the temple. Joseph first used the phrase "endowed with power from on high" to refer not to the temple but to that meeting where the high priesthood was first received.
