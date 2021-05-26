@@ -49,8 +49,6 @@ These "four horsemen" are what constitute a conversation going south in Gottman'
 
 Criticism is global, whereas complaints are specific. Contempt conveys disgust. Contempt is an accusation of a moral deficiency.
 
-I often express contempt of Bonnie's stress over things. I do that because it makes me stressed when I wouldn't be otherwise. We need a way for Bonnie to express her feelings without me feeling responsible for them.
-
 Defensiveness is a way of blaming the other, even though it may not look like that.
 
 ## the process leading to the end of a marriage
