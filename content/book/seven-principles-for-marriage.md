@@ -2,8 +2,8 @@
 title: "The seven principles for making marriage work: a practical guide from the country's foremost relationship expert"
 author: "John Gottman"
 goodreads: "https://www.goodreads.com/book/show/849380.The_Seven_Principles_for_Making_Marriage_Work"
-date: TODO
-draft: true
+date: 2021-05-26T06:52:44-06:00
+draft: false
 tags: ["relationships", "marriage"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320521960l/849380.jpg"
 ---
@@ -93,4 +93,10 @@ Women are nurturing, and men are playful, generally. So it's good to have each a
 
 ## overcoming gridlock
 
-Marriage is about helping each other accomplish your dreams.
+Marriage is about helping each other accomplish your dreams. There's no one right answer to conflicts of dreams, but it's important to support the dreams of both. When you reach gridlock, look for the hidden dreams behind it. A sign of a hidden dream is that you see it all as the other person's problem. Be sure to be friends first before trying to resolve these gridlocked differences.
+
+There are three levels of support for a spouse's dream, and they are *all* valuable:
+
+1. emotionally supportive
+1. physically supportive (like with finances, etc.)
+1. joining in on the dream
