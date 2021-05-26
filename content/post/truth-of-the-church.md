@@ -51,6 +51,10 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [discussion](https://www.reddit.com/r/mormon/comments/n2kghu/need_some_insights_on_visions_and_miracles_of_lds/) about miracles in Mormonism
 - this [Reddit post](https://www.reddit.com/r/exmormon/comments/nb628x/gods_plan_send_jesus_to_teach_truth_and_establish/) about how confusing it would be for God to use Joseph to reveal the one true church
 - The way Mormons talk about Satan's fight against the church is similar to conspiracy theories. Mormonism has certainly had its share of miracles, but it's also had its fair share of demonic possessions and stuff. Why does the rate of *both* increase? Is this observable in other religions?
+- this [Reddit post](https://www.reddit.com/r/mormon/comments/nkqfin/if_nothing_can_disprove_your_beliefs_how_do_you/) about being able to disprove beliefs
+- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nkao49/tough_questions_for_the_tbm_to_answer_part_1/) with tough questions for TBMs
+- talk about how we have to treat disaffected Mormon testimony carefully, without throwing it out. If the church were fraudulent, the disaffected members would be the ones with the true story.
+- think about how Meldrum says if we can't find the buffalo bones, it makes sense we can't find the Nephite remnants.
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
