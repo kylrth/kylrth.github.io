@@ -95,6 +95,8 @@ Fawn Brodie thinks hypnosis might have been involved. But the craziest thing to 
 
 On the subject of selling the copyright in Canada, Brodie shares that when Cowdery and Page returned from Toronto without success, Joseph told them that some revelations are from man and come from his carnal desires.
 
+## chapter 6
+
 Brodie quotes Lehi in saying that a dream is equivalent to a vision. She thinks Joseph's concept of dreams/visions/reality was very fluid.
 
 Brodie related a few stories that show us how Joseph interfaced with his young congregation as a prophet of God:
@@ -106,6 +108,8 @@ The first story demonstrates Joseph's ability to spin convincing experiences for
 
 Emma wasn't baptized until six weeks after the founding of the church, and she especially struggled when Joseph received the revelation to leave behind his "temporal labors" and seek support from the church.
 
+## chapter 7
+
 Joseph's enamor with Rigdon hurt the feelings of others, especially when the revelation asked the church to uproot and move to Ohio.
 
 The main components of Joseph's church in this period were lay preaching, authoritarianism, millennialism, and communalism.
@@ -115,3 +119,23 @@ Joseph's first action in Ohio was basically to end the revivalist spirits and to
 Joseph blessed Lyman Johnson, William Smith (his brother), and Orson Hyde with the promise that they would see the Savior come, and stand on earth until then.
 
 The exodus to Missouri was precipitated by two events: his failure to heal several people at a conference, and the retraction of the offer of land that the New York church members were going to use as a part of the United Order.
+
+## chapter 8
+
+Joseph saw in a vision "hundreds of converts awaiting them in Zion", but when they got there there were only three or four women in the Mormon colony. "Edward Partridge, who had been given control of the United Order in the new Zion. complained about the quality of the land selected for purchase. When Joseph replied with some heat that Heaven had selected the land, Partridge replied pointedly: 'I wish you not to tell us any more that you know these things by the spirit when you do not; you told us that Oliver had raised up a large church here, and there is no such thing.'" Rigdon urged Joseph to return to Ohio, and not wanting to lose him Joseph agreed, thus splitting the Mormons into the Missouri colony and the Kirtland colony.
+
+The Missouri United Order did a lot better than the Kirtland Order, because the Missouri Saints were more often penniless whereas there was more economic disparity in Kirtland to start. The Kirtland Order started making progress once it took out a $10,000 loan, which revelation said the Missouri Order would pay if the debt got out of hand.
+
+During that winter, Joseph left the United Order to others and focused on the Bible translation and on preparing his revelations for publication. To his Bible translation he added sections prophesying his own prophethood and elaborating the section of Isaiah about the learned man and the sealed book. His efforts with the Bible led to some of his most prolific revelation writing, including D&C 76 which differed prominently from the fire and brimstone theology preached in the Book of Mormon.
+
+The only violence against the Mormons in Ohio was when some disaffected Mormons tarred and feathered Joseph in the night. This is that story where Joseph preached a sermon the next morning, all covered in scars and bruises, but didn't call anyone out.
+
+Joseph headed to Missouri to quell the Missouri saints' frustrations about the United Order debt and other decisions being made without their vote or help. All three of the original witnesses were living there, but without major roles in the church. While there, Joseph and Sidney relieved tensions by setting up a nine-man board over both branches of the United Order and holding an election where Joseph was unanimously elected president of the church.
+
+After that, the Missouri group doubled in size. They were still poor, but they had unity. They struggled with the wealthier converts not being as willing to enter the United Order, and with apostatizing members sueing the Order for their property (and usually winning).
+
+Brodie sees Joseph's trip to New York as the beginning of his concern for wider world affairs. She also sees him begin to really fill out in his role as prophet over an expanding church.
+
+Joseph's revelation about South Carolina starting a civil war was given the first time South Carolina threatened seccession, 30 years before the actual civil war. It also said that that war would expand to include all nations.
+
+Joseph started the construction of the Kirtland temple, and soon after sent a revelation for the Missouri saints to begin building their temple, on threat of divine condemnation. But just at that time, Missourians had destroyed the Saints' printing press, "tarred and feathered Bishop Partridge, and ordered the whole colony to leave the county."
