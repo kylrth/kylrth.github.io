@@ -122,3 +122,17 @@ The visionary impulse of the first Mormons in Kirtland attracted many people to 
 Even though the word "priesthood" is mentioned in the Book of Mormon, Joseph didn't use the word in his preaching for several years, until the meeting where he ordained several people to the high priesthood. This makes sense because New England Christians chaffed at the word as a symbol of the hierarchy of the Roman Catholic church. ("David Whitmer blamed the introduction of the priesthood on Sidney Rigdon," says a footnote.) Before this moment, people were called to church offices and given authority without mention of the specific word "priesthood". At this meeting, everyone (including Joseph Smith and people who were already ordained Elders) received the "high priesthood", the Melchisedec Priesthood. Bushman says it's pretty unmistakable that they mean the Melchisedec Priesthood and not the office of high priest. This means that at this time the ideas about priesthood offices and authority were still being formed.
 
 Priesthood is essential to Joseph's theology; it plays an integral role in preaching the gospel, as well as in performing the ordinances of the temple. Joseph first used the phrase "endowed with power from on high" to refer not to the temple but to that meeting where the high priesthood was first received.
+
+## chapter 8
+
+Bushman feels that Joseph's expectations of finding many converts when he arrived in Missouri were not a revelation but just a hope. He paints the command to maintain the church in both Kirtland and Ohio as a way for God to temper the zeal of the church in moving to Missouri.
+
+Bushman is also willing to demonstrate how Joseph's New Jerusalem project was similar to the broader millenarianism and communitarianism of the period. Bushman says that while Mormons watched for signs of the Second Coming, they never placed an exact date on the event like other groups did. This is true, although there was certainly plenty of speculation and Bushman says that at this time Mormons thought it would be within six years. Many of Joseph's revelations at this time were about the coming calamities that would befall the unbelieving.
+
+Funny note: the original version of D&C 63:36 is found in the Book of Commandments section 64 v. 38-40 and says "I willeth that my saints should be assembled upon the land of Zion." "I willeth" is certainly a new one.
+
+The revelations never spoke about America or its Constitution as anything special until the Missouri persecutions made Mormons desire protection by rule of law.
+
+Bushman mentions that spare money often went to buying land in Missouri. This may make it seem less unfair that the Missouri United Order was expected to back the loan taken out by the Kirtland branch.
+
+As the Book of Commandments was being prepared for publication, the conference of elders asked Joseph to "correct those errors or mistakes which he may discover by the holy Spirit". Joseph's willingness to do this suggests that he never saw the wording as infallible.
