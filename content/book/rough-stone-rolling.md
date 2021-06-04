@@ -136,3 +136,15 @@ The revelations never spoke about America or its Constitution as anything specia
 Bushman mentions that spare money often went to buying land in Missouri. This may make it seem less unfair that the Missouri United Order was expected to back the loan taken out by the Kirtland branch.
 
 As the Book of Commandments was being prepared for publication, the conference of elders asked Joseph to "correct those errors or mistakes which he may discover by the holy Spirit". Joseph's willingness to do this suggests that he never saw the wording as infallible.
+
+## chapter 9
+
+Booth wrote some criticisms of Joseph in the *Ohio Star*. While Joseph denied them, Booth was right in saying that Joseph was fierce when contradicted. Bushman says it was Booth's letters that brought the sentiment against Joseph to a boiling point, causing the tar-and-feathering of Joseph and Sidney. Fawn Brodie says this was the only violence against the Mormons in Ohio, and while that might be true Bushman goes into more detail about how mobs harrassed Sidney and Joseph specifically until they were forced to go to Missouri for a while. You can read Booth's letters [here](https://en.wikisource.org/wiki/Ezra_Booth_letters).
+
+In Missouri, Joseph had Sidney and Edward Partridge make amends. Sidney had been angry with Edward for "questioning Joseph's prediction of a large branch in Jackson County in 1831." That doesn't seem to fit how Brodie thinks Sidney reacted to his first visit to Missouri.
+
+The United Order was God's way of preparing the Saints for Heaven: "If ye are not equal in earthly things, ye cannot be equal in obtaining heavenly things." This contradicted the burgeoning capitalist feeling of 19th century America, and was difficult for the Saints. Bushman states that "the system never worked properly," and it was never implemented after expulsion from Missouri in 1833. From then on, "it had a second life as an ideal invoked whenever a cooperative effort was required."
+
+Joseph was very earnest in his letters, even to his wife and close associates. His letters often evoked a sense of yearning for "communion without words". He felt he could not adequately communicate in the "little narrow prison" of a "crooked broken scattered and imperfect language."
+
+The period of 1832 and early 1833 were when Joseph received his next level of revelations, moving "beyond Zion, the gathering, and the millennium, the governing ideas of the early years, to priesthood, endowment, and exaltation, the distinguishing doctrines of later years."
