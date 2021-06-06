@@ -10,6 +10,8 @@ thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/book
 
 *I'm reading this book at the same time as* [No man knows my history: the life of Joseph Smith]({{< relref "no-man-knows.md" >}}) *by Fawn Brodie, and I'm comparing what the two cover. Interesting things that appear in both books might be covered here or there.*
 
+*I appreciate that when Bushman leaves out a primary source, he usually explains why that's a reasonable thing to do (as with the Hurlbut affidavits or Ingersoll's testimony). I also appreciate the detail with which Bushman compares Joseph's theology with the doctrines of other religious groups of the period. It gives me a good context to understand the innovations Joseph actually brought.*
+
 ## preface
 
 > A believing historian like myself cannot hope to rise above these battles or pretend nothing personal is at stake. For a character as controversial as Smith, pure objectivity is impossible. What I can do is look frankly at all sides of Joseph Smith, facing up to his mistakes and flaws. (Preface)
@@ -148,3 +150,17 @@ The United Order was God's way of preparing the Saints for Heaven: "If ye are no
 Joseph was very earnest in his letters, even to his wife and close associates. His letters often evoked a sense of yearning for "communion without words". He felt he could not adequately communicate in the "little narrow prison" of a "crooked broken scattered and imperfect language."
 
 The period of 1832 and early 1833 were when Joseph received his next level of revelations, moving "beyond Zion, the gathering, and the millennium, the governing ideas of the early years, to priesthood, endowment, and exaltation, the distinguishing doctrines of later years."
+
+## chapter 10
+
+Joseph's visions on exaltation were "undisciplined and oracular, like the Bible itself," and responded to "post-Calvinist" questions about how a just God could rightly bless or condemn certain people. "The Vision" (D&C 76) was received in view of others, as was normal, but by both Sidney and Joseph, which was not. Emanuel Swedenborg had a similar idea about dividing heaven into "celestial", "spiritual", and "natural", and his ideas may have reached Joseph by the time of the Vision, but Bushman thinks it's more likely that Corinthians 15:40-42 inspired both men.
+
+Bushman freely admits that the cosmology of the Book of Mormon was purely heaven and hell, but points out that the same month the Book of Mormon was published Joseph had a revelation stating that "endless punishment" meant God's punishment, rather than punishment without end. And D&C 76 isn't *really* universalist; there's still a hell where a few select people will end up.
+
+D&C 76 has some language ("exalted", "joint heirs with the Son of God", etc.) that possibly came from a Salem pastor named Brown Emerson. But where Protestant ideas about heaven focused on serenity and peace, Joseph's revelation focused on becoming like God in the same way Christ is like God. "'Fulness' was the critical word in Joseph's exaltation revelations."
+
+> Joseph loved "The Vision." "Nothing could be more pleasing to the Saint[s], upon the order of the kingdom of the Lord," he wrote later, remembering only the favorable reception, than the light which burst upon the world, through the foregoing vision. ... The sublimity of the ideas; the purity of the language; the scope for action; the continued duration for completion, in order that the heirs of salvation, may confess the Lord and bow the knee; The rewards for faithfulness. & the punishment of sins, are so much beyond the narrow mindedness of men, that, every honest man is constrained to exclaim; It came from God."
+
+Joseph first started talking about the endowment of power back in 1831 when the Melchizedek Priesthood was conferred, and later that year another revelation told him that the endowment of power meant coming into the presence of God. In 1832, the revelation on the priesthood connected the endowment of power with the temple. It seems to Bushman like the goal was to see God's face just as Moses tried to get his people to do (see D&C 84:23-24).
+
+Joseph started foot washing in the winter of 1833, and by 1836 he was performing washings, anointings, and sealings.
