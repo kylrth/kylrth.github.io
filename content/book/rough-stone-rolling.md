@@ -164,3 +164,23 @@ D&C 76 has some language ("exalted", "joint heirs with the Son of God", etc.) th
 Joseph first started talking about the endowment of power back in 1831 when the Melchizedek Priesthood was conferred, and later that year another revelation told him that the endowment of power meant coming into the presence of God. In 1832, the revelation on the priesthood connected the endowment of power with the temple. It seems to Bushman like the goal was to see God's face just as Moses tried to get his people to do (see D&C 84:23-24).
 
 Joseph started foot washing in the winter of 1833, and by 1836 he was performing washings, anointings, and sealings.
+
+## chapter 11
+
+Plans for the Kirtland temple were laid by spring 1833, and by that time the temple's value seemed to be as an all-purpose church building, with general meeting areas, a place for the School of the Prophets, and offices for the presidency of the church. It was also kept in mind that the temple was to be a holy place where the church would see God's face. The construction of the temple was an economic disaster: it caused the church to go into massive debt and only briefly improved the economy around Kirtland before dropping it dramatically after construction finished.
+
+In June 1833, membership in Missouri approached eight hundred, and there were fewer members in Kirtland. "Joseph usually wrote [letters] to Phelps, the newspaper editor, rather than Bishop Partridge, the man in charge of dividing properties in Zion." Joseph blamed the leadership in Missouri for the failings of the United Order, and the leaders in Zion blamed Joseph for "seeking after monarchal power and authority."
+
+An interesting note about the term "ward":
+
+> Zion was to be the capital, but Kirtland was to be a city too, implying an expandable network of urban places, with Zion first among many. People could gather to any of these cities, not to Zion alone. Joseph thought of the Church as an assemblage of cities, rather than a scattering of parishes and congregations. New converts met in branches, but only temporarily until they could gather to a city. When Joseph formed parishes in Nauvoo, he called them "wards," a term used for urban political divisons.
+
+Here Bushman makes an incredibly insightful point about how this view of the Church as a gathering to cities ended up hurting the Mormon project:
+
+> The conception of a church of cities rather than a church of congregations had wide-reaching---and disastrous---implications for the Mormons. Even in America, the scheme was doomed. No American community was ready for that degree of religious rejuvenation. What would happen to citizens who refused to put "Holiness to the Lord" on their storefronts? Zion could not be forced on a settled area without meeting resistance. Church leaders could not take over city planning, require holiness, equalize property, and control politics without making enemies. Wherever the Saints settled, conflict followed. In the thrall of his visions, Joseph overlooked the practical obstacles.
+
+In August 1833, Oliver Cowdery informed the Kirtland leaders that the Mormons had been expelled from Jackson county, which completely disrupted Joseph's plans for the city of Zion.
+
+The leaders of the Missourians who forced the Mormons out felt they had legitimate cause to do so, not as "a mob but the people in action." They were enacting democracy in self-defense. But for the Mormon minority, this was political and religious repression.
+
+This expulsion was a huge shock to Joseph, who thought God had assured him that the plans for Zion would go through. This also became the impetus for Joseph to receive his first revelations having anything to do with politics or the nation of the United States.
