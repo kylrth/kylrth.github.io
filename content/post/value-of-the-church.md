@@ -43,3 +43,8 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [this short story](https://www.nature.com/articles/35014679)
 - [this post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/)
 - this thought I had: "The church doesn't really bring anything useful to the table. It doesn't advise anything about morality today, like whether day trading is bad, new addictions to avoid (and how to avoid them), real marriage advice, etc. Their advice on all of that is not unique."
+- What can replace scriptures as motivators in the moment of temptation?
+- This [Mormon Stories interview](https://youtu.be/aXOSH5eM7tM) gives a good view of how the church brings good and bad things, and some of the good helps solve the bad it creates
+- Mormonism is even more of a Pascal's mugging than the rest of Christianity because it places the exaltation of your whole family on whether it's true or not.
+- What's missing when you leave the church is the community and the tools you give to kids. How can we replace those? [challenge journals](https://challengejournals.com)?
+- share [this](https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/) with friends

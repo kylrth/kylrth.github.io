@@ -5,7 +5,10 @@ draft: true
 tags: ["religion"]
 ---
 
-I have undergone a faith transition, and here I'm going to record here all of the conclusions I've reached pertaining to actual questions about the church's truth claims. I'm not going into personal experiences and conversations here.
+I have undergone a faith transition. It started very suddenly one day after discovering some information about church history online. Very early on I knew I needed to record my evidence and conclusions somewhere, and there are two things I want to keep in mind as I write here:
+
+- In all my reading, studying, and thinking since that moment, I've noticed that there is a *lot* of information out there, and it tends to be dumped together all at once as "unequivocal proof" that the church is false. If you add up all of these unlikelihoods, the argument goes, it becomes impossible for the church to be directed by God. This can end up overwhelming reason in a sort of [*argumentum ad nauseam*](https://en.wikipedia.org/wiki/Proof_by_assertion): if you discover that one argument against the church isn't really strong enough to be a problem for you, the attacker can say that that particular argument isn't necessary to support the conclusion because there are all these other arguments. I want to record the facts that lead me to believe that the church is not what it says it is, but I want to narrow it down to just the most compelling issues to make sure I'm not succumbing to *argumentum ad nauseam*.
+- I want to be able to back up everything I say with primary sources. It's especially good if I can back them up with sources supported by the church, like the [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) or general conference talks.
 
 ## impactful posts, articles, videos, or podcasts
 
@@ -55,6 +58,10 @@ I have undergone a faith transition, and here I'm going to record here all of th
 - this [Reddit post](https://www.reddit.com/r/exmormon/comments/nkao49/tough_questions_for_the_tbm_to_answer_part_1/) with tough questions for TBMs
 - talk about how we have to treat disaffected Mormon testimony carefully, without throwing it out. If the church were fraudulent, the disaffected members would be the ones with the true story.
 - think about how Meldrum says if we can't find the buffalo bones, it makes sense we can't find the Nephite remnants.
+- read the Urantia book
+- read about Robert Ritner's handling of the book of Abraham, starting [here](https://www.reddit.com/r/mormon/comments/nmiuaa/update_on_robert_ritner_kidney_transplant/)
+- take a look at Bennett's response to the CES letter, and [this response](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) to that response
+- The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either!
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
@@ -99,6 +106,7 @@ It was a big realization for me that signs had *not* followed me despite my beli
   - doubt of the viability of faith as a way to arrive at truth
   - any discomfort with teachings, practices, or culture of the church
 - [ ] include this thought I had: "If you are mistaken in your perception of the Spirit's promptings, it's your fault and you need to improve. This leaves no room for you to construct a test to determine whether the Spirit actually makes sense at all as an external influence."
+- [ ] another thought: "In no other area of knowledge do we have to constantly reinforce our belief that something is true. That might be fine except that other religions have to do the same thing, and it's all based on a few of the same cognitive biases. Street Epistemology videos do a good job proving this."
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
@@ -170,6 +178,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
 - [ ] talk about the lack of Book of Mormon externalities as seen in [this post](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/)
 - [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
+- [ ] the "Great Spirit", and there's proof that Americans thought the Indians believed in a Great Spirit in the [Booth letters](https://en.wikisource.org/wiki/Ezra_Booth_letters), letter VI.
 
 ## similarity of the Book of Mormon to its 19th century theological context
 
@@ -181,6 +190,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] show how Joseph's magical world view influenced the coming forth and contents of the Book of Mormon ([source](https://www.reddit.com/r/mormon/comments/mppgtc/a_brief_summary_of_the_magical_origins_of_the/))
   - [ ] look at Peter Ingersoll's affidavit (1833) in *Mormonism Unvailed*
 - [ ] look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
+- [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
 
 ## narrative complexity in the Book of Mormon
 
