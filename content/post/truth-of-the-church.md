@@ -5,23 +5,27 @@ draft: true
 tags: ["religion"]
 ---
 
-I have undergone a faith transition. It started very suddenly one day after discovering some information about church history online. Very early on I knew I needed to record my evidence and conclusions somewhere, and there are two things I want to keep in mind as I write here:
+I have undergone a faith transition. It started very suddenly one day after discovering some information about church history online. Very early on I knew I needed to record my evidence and conclusions somewhere, and there are a few things I want to keep in mind as I write here:
 
 - In all my reading, studying, and thinking since that moment, I've noticed that there is a *lot* of information out there, and it tends to be dumped together all at once as "unequivocal proof" that the church is false. If you add up all of these unlikelihoods, the argument goes, it becomes impossible for the church to be directed by God. This can end up overwhelming reason in a sort of [*argumentum ad nauseam*](https://en.wikipedia.org/wiki/Proof_by_assertion): if you discover that one argument against the church isn't really strong enough to be a problem for you, the attacker can say that that particular argument isn't necessary to support the conclusion because there are all these other arguments. I want to record the facts that lead me to believe that the church is not what it says it is, but I want to narrow it down to just the most compelling issues to make sure I'm not succumbing to *argumentum ad nauseam*.
-- I want to be able to back up everything I say with primary sources. It's especially good if I can back them up with sources supported by the church, like the [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) or general conference talks.
+- I want to be able to back up everything I say with primary sources. Here are examples of what I mean by "primary sources":
+  - the source text of the revelatory productions of Joseph Smith
+  - journals, letters, and other materials produced by people who were present
+  - [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) and [general conference talks](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), because they're the "party line" of the church
+- Church leaders have [often](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng) [asked](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=eng) us to stick to church-approved sources and arguments when looking at church history. But if, as the church suggests, Satan has put in the hearts of the enemies of the church to create anti-Mormon lies, they will be lies about facts (as in false first-hand accounts) or false argumentation. Shady facts can be handled by comparing several accounts and considering the context of the person writing, and shady argumentation can be handled by watching for fallacies and reading both sides of the argument. To only look at accounts from those who remained faithful to the church would be [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias).
 
 ## impactful posts, articles, videos, or podcasts
 
 - this [meme](https://www.reddit.com/r/exmormon/comments/fm0cio/applicable/) commiserating about bringing faith transition stuff up with family
-- this person's reasonable [Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
+- this person's [reasonable Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
 - this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
 - Sam Harris in this [debate video](https://youtu.be/AcO4TnrskE0):
 
     > I'm not the first person to notice that it's a very strange sort of loving god who would make salvation depend on believing in him on bad evidence.
 
 - this [absolutely hilarious life story video](https://youtu.be/FzGn7dQabTA)
-- this [comic and the comments below](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous context
-- this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting the what Mormon history and culture looks like from the outside
+- this [comic](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous light
+- this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting what Mormon history and culture looks like from the outside
 - this [Twitter post](https://www.reddit.com/r/exmormon/comments/b0am6n/just_sayin/) reminding us to look into things we're asked not to look into
 
 ## to do
@@ -66,47 +70,52 @@ I have undergone a faith transition. It started very suddenly one day after disc
 
 ## faith and confirmations from the Spirit
 
-The church teaches that the way to know the truth is by reading the Book of Mormon and praying to know if it's true. The promise is that if we sincerely want to know then God will manifest the truth of it through the Holy Ghost. The Holy Ghost can feel different for each person, but it generally feels like an inspiring, uplifting, motivating feeling.
+>You will not get to know it [whether the Book of Mormon is true] by trying to prove it archaeologically, or by DNA, or by anything else... Religious truth is always confirmed by what you feel. And that’s the way Heavenly Father answers prayers.” (M. Russell Ballard, Mormon Newsroom, Oct 4 2007 ([YouTube](https://youtu.be/3AQTr9oB8lw)))
+
+The church teaches that the way to know the truth is by reading the Book of Mormon and praying to know if it's true. The promise is that if we sincerely want to know then God will manifest the truth of it through the Holy Ghost (see Moroni 10:3-5). The Holy Ghost can feel different for each person (see this [New Era article](https://www.churchofjesuschrist.org/study/new-era/2014/06/what-if-i-dont-feel-a-burning-in-the-bosom?lang=eng)), but it generally feels like an inspiring, uplifting, motivating feeling.
 
 My problem is that there are lots of churches, religions, and cults that tell you to discover truth this way. Here's some evidence:
 
-- [This video](https://youtu.be/ycUvC9s4VYA) shows some examples of people who feel convinced of the truth of Islam, the RLDS and FLDS churches, and even some strange suicide cults.
-- [This Preach podcast interview with Satin Tashnizi](https://emeraldproject.org/project/preach-podcast-kuer/) investigates her process of converting to Islam. The entire Preach series is a really great look at how religion works for people for reasons that don't necessarily imply truthfulness.
+- This [video](https://youtu.be/ycUvC9s4VYA) shows some examples of people who feel convinced of the truth of Islam, the RLDS and FLDS churches, and even some strange suicide cults.
+- This [video](https://youtu.be/UJMSU8Qj6Go) has some more examples of the testimonies of people who've converted to many religions, including mainstream Mormonism. This video has some scenes taken from the previous one.
+- This [Preach podcast interview with Satin Tashnizi](https://emeraldproject.org/project/preach-podcast-kuer/) investigates her process of converting to Islam. The entire Preach series is a really great look at how religion works for people for reasons that don't necessarily imply truthfulness.
+- There are several YouTubers who practice something called [Street Epistemology](https://streetepistemology.com/). "The general goal of Street Epistemology is to help people to reflect on the reasons and methods that they use to conclude that their deeply-held beliefs are true" ([source](https://streetepistemology.com/faq)). These YouTubers interview people with a wide variety of beliefs, asking questions that help the interviewee (and us) understand their reasons for believing what they do. The following videos are pretty demonstrative:
+  - [Emily's faith in the Christian God](https://youtu.be/1RbpbWXg_Pw)
+  - [Madison's belief in the Christian God](https://youtu.be/d5tjfvPysSI)
+  - [Tia's belief in the Christian God](https://youtu.be/A-M1EyhcRS8)
+  - [Eric's belief in astrology](https://youtu.be/hl2sOsEL9v4) (minimal language warning)
+  - [Elder Macedone's belief in the Book of Mormon](https://youtu.be/DhKGiw0ZVBM)
+  - [Jenny and Anthony's belief in the Book of Mormon](https://www.youtube.com/watch?v=bh9IYjRYBx4)
 
-Many people of many different religions come to their faith by this process of studying and thinking about what is being taught, and then having feelings or experiences they attribute to God that tell them what they are learning is true. While there are certainly truths and good things in most religions, if the same mechanism is in place for determining the goodness of *any* religion, how does my spiritual witness of the truth of this church confirm to me that this is the *most correct* religion of all? A religion may even *work* for someone---bring them peace, inspire them, teach them---while not being true.
+Many people of many different religions come to their faith by this process of studying and thinking about what is being taught, and then having feelings or experiences they attribute to God that tell them what they are learning is true. While there are certainly truths and good things in most religions, if the same mechanism is in place for determining the goodness of *any* religion, how does my spiritual witness of the truth of this church confirm to me that this is the *most correct* religion of all? A religion may even *work* for someone---bring them peace, inspire them, teach them---while not being true. Check out this [video](https://youtu.be/6nXDzbxhqfE) that makes a strong case for this.
 
-A friend of mine once explained that while you can get good feelings due to the truth found in other religions, this is the only religion that invites you to seek out that confirmation by *directly asking God*. This is something I used to really focus on when I was teaching people about the church on my mission. This idea is plausible as long as the answer is distinct from that of other religions. If I pray and ask God and then feel that Mormonism is right, how is that different from doing whatever Islam requires of me in order to receive a confirmation, and then feeling that Islam is right?
+A friend of mine once explained that while you can get good feelings due to the truth found in other religions, this is the only religion that invites you to seek out that confirmation by *directly asking God*. This is something I used to really focus on when I was teaching people about the church on my mission. This idea is plausible as long as the answer is distinct from that of other religions. If I pray and ask God and then feel that Mormonism is right, how is that different from doing whatever Islam requires of me in order to receive a confirmation, and then feeling that Islam is right by the same manifestation?
 
-Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) from ZOTS that does a good job explaining this problem with confirming the truth of the existence of God. Here's a [post on r/exchristian](https://www.reddit.com/r/exchristian/comments/gb687d/but_the_bible_says_so/) arguing that the same standard of proof we require of other gods should be required of our own god.
+Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) from Zelph on the Shelf that does a good job explaining this problem with confirming the truth of the existence of God. Here's a [post on r/exchristian](https://www.reddit.com/r/exchristian/comments/gb687d/but_the_bible_says_so/) arguing that the same standard of proof we require of other gods should be required of our own god.
 
 In the church we talk about how great it is to have both a modern prophet and personal revelation. But there's a problem as soon as we acknowledge the fallibility of both the prophet and our internal sense for truth. As soon as those two sources of truth conflict, we no longer have a clear method of determining truth, and this is important because of real issues like caring for LGBTQ people or protesting systemic racism.
 
-In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder and Sister Hafen talk about "a witness more powerful than sight". To them, that witness is the closeness you feel to the Savior when you sacrifice to serve Him. You can see this happen to missionaries both ancient and modern. I thought I had truly felt that on my mission as well, but [TODO read mission journal]. I think this happens for all religious people.
+In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder and Sister Hafen talk about "a witness more powerful than sight". To them, that witness is the closeness you feel to the Savior when you sacrifice to serve Him. You can see this happen to missionaries both ancient and modern, and I think this happens for religious people regardless of the particular religion.
 
 It was a big realization for me that signs had *not* followed me despite my belief in Jesus Christ, contrary to what Ether 4:18 promises. And that verse isn't a fluke; Joseph Smith makes the same promise of miracles and signs in Lectures on Faith, and Moroni 10:23-25 says if we don't see the power of God in our lives then it's because of unbelief and none of us does any good works. As a believer there are two ways to deal with not seeing miracles in your life: you can think your faith is inadequate and blame yourself, or you can see miracles and signs in ordinary events in your life. The human brain is very good at self-doubt and also very good at recognizing meaning in randomness, so this usually works well enough to get you to ignore the problem.
+
+### more links
+
+- This [article](https://www.ldsdiscussions.com/testimonies) demonstrates how the messaging of the church uses a host of [human cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias) to reinforce faith, including the [illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect), [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), and the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect). The article also talks about the backfire effect, but this effect is not well demonstrated by research ([source](https://en.wikipedia.org/wiki/Confirmation_bias#backfire_effect)).
+- This [Reddit post](https://www.reddit.com/r/exmormon/comments/mkdgsu/just_a_reminder_that_if_something_is_true_you/) points out that in no other area of knowledge do we have to constantly reinforce our belief that something is true. That might be fine, except that other religions have to do the same thing, and it's all based on a few of the same cognitive biases. Street Epistemology videos do a good job demonstrating this.
 
 ### to do
 
 - [ ] read my mission journal
-- [ ] read The Infinite Atonement
 - get to know the stories of other people of faith
-  - [ ] continue listening to the Preach podcast
-  - [ ] find out why other Christians believe what they do
   - [ ] find out why people of indigenous faith believe what they do
   - [ ] find out why Buddhists/Hindus/Sikhs/Taoists believe what they do
   - [ ] read studies about spiritual experience
-- [ ] read [this](https://www.ldsdiscussions.com/testimonies)
-- [ ] include [this diagram](https://www.reddit.com/r/mormon/comments/lolr6d/a_diagram_i_made_on_how_to_know_the_lds_church_is/)
-- [ ] faith should not override science (see [this](https://www.reddit.com/r/exmormon/comments/luwut3/rm_reading_the_ce_letter_for_the_first_time/))
-- [ ] this person's [personal journey](https://www.youtube.com/watch?v=6nXDzbxhqfE)
-- [ ] truth shouldn't require you to confirm it to yourself over and over again ([source](https://www.reddit.com/r/exmormon/comments/mkdgsu/just_a_reminder_that_if_something_is_true_you/))
-- [ ] talk about how Preach gives you the perspective of other people who have different faith experiences than you, in Mormonism and in other religions
 - [ ] talk about how Mason and the Givens and others point out that it's impossible to be perfectly objective. But the world has vastly improved since we decided to become more objective and rely on reason and the scientific method. People can look at the same facts with different perspectives, and arrive at opposite conclusions. Faith takes advantage of our cognitive biases to help us arrive at conclusions that are less likely than conclusions arrived at with rationality. Now that I've show you in this section that faith is an unreliable and contradictory source of truth, below I'll detail some facts that will give you pause and make you view the Mormon religion in a different light than you might have before. It's important to remember that many members of the church already know these facts, but because of their faith they see them from a perspective that makes these unproblematic. I think it is often the combination of the following things that make deconversion possible:
   - surprise at previously unknown details of church history, doctrine, or policy, along with their implications for the truth claims of the church
   - doubt of the viability of faith as a way to arrive at truth
   - any discomfort with teachings, practices, or culture of the church
 - [ ] include this thought I had: "If you are mistaken in your perception of the Spirit's promptings, it's your fault and you need to improve. This leaves no room for you to construct a test to determine whether the Spirit actually makes sense at all as an external influence."
-- [ ] another thought: "In no other area of knowledge do we have to constantly reinforce our belief that something is true. That might be fine except that other religions have to do the same thing, and it's all based on a few of the same cognitive biases. Street Epistemology videos do a good job proving this."
 
 ## Deutero-Isaiah (and other inclusions of KJV text)
 
