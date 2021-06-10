@@ -13,61 +13,21 @@ I have undergone a faith transition. It started very suddenly one day after disc
   - journals, letters, and other materials produced by people who were present
   - [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) and [general conference talks](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), because they're the "party line" of the church
   - scholarly publications describing research experiments, or scholarly discussion with references to the actual experiments
-- Church leaders have [often](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng) [asked](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=eng) us to stick to church-approved sources and arguments when looking at church history. But if, as the church suggests, Satan has put in the hearts of the enemies of the church to create anti-Mormon lies, they will be lies about facts (i.e. false accounts) or false argumentation. Shady facts can be handled by comparing several accounts and considering the context of the person writing, and shady argumentation can be handled by watching for fallacies and reading both sides of the argument. To only look at accounts from those who remained faithful to the church would be [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias).
+- Church leaders have [often](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng) [asked](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=eng) us to stick to church-approved sources and arguments when looking at church history. I'm not going to do that, because if the church were fraudulent, the disaffected members would be the ones with the true story. To only look at accounts from those who remained faithful would be [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). But if, as the church suggests, Satan has put in the hearts of the enemies of the church to create anti-Mormon lies, they will either be lies about facts (i.e. false accounts) or false argumentation. Shady facts can be handled by comparing several accounts and considering the context of the person writing, and shady argumentation can be handled by watching for fallacies and reading both sides of the argument.
+
+In publishing this to a broader audience than just myself, my point is not to disparage the church or the good that it does. I am also not trying to scare believers out of the church with surprising facts. Here is what I hope to demonstrate:
+
+- The method for determining that the church is true is faulty. (spiritual witnesses)
+- The church's method for receiving revelation is faulty. (historical issues, modern issues)
+- If this church is God's best method for saving us, then he is the author of confusion and does not deserve to be followed. (philosophies of men, morality vs obedience)
 
 ## impactful posts, articles, videos, or podcasts
 
 - this [meme](https://www.reddit.com/r/exmormon/comments/fm0cio/applicable/) commiserating about bringing faith transition stuff up with family
 - this person's [reasonable Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
 - this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
-- Sam Harris in this [debate video](https://youtu.be/AcO4TnrskE0):
-
-    > I'm not the first person to notice that it's a very strange sort of loving god who would make salvation depend on believing in him on bad evidence.
-
 - this [absolutely hilarious life story video](https://youtu.be/FzGn7dQabTA)
-- this [comic](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous light
-- this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting what Mormon history and culture looks like from the outside
 - this [Twitter post](https://www.reddit.com/r/exmormon/comments/b0am6n/just_sayin/) reminding us to look into things we're asked not to look into
-
-## to do
-
-- read Repicturing the Restoration
-- read [Line upon Line: Essays on Mormon Doctrine](http://signaturebookslibrary.org/line-upon-line/)
-- read The LDS Gospel Topics Series: A Scholarly Engagement
-- read An Insider's View of Mormon Origins
-- read No Man Knows My History
-- this guy's [investigation](https://faenrandir.github.io/a_careful_examination/) into the truth claims
-- check out [Fuller Consideration](http://fullerconsideration.com/)
-- listen to this [interview](https://www.mormonstories.org/podcast/sandra-and-jerald-tanner-the-early-years/) with the Tanners
-- listen to this [interview](https://www.mormonstories.org/podcast/mormon-stories-030-031-032-and-033-an-insiders-view-of-mormon-origins-an-interview-with-grant-palmer/) with Grant Palmer
-- check out these [resources](https://www.mormonstories.org/faith-crisis-resources/) from Mormon Stories
-- read this [article](http://www.mormonthink.com/files/restoration-sacred-mushroom.pdf) that considers the idea that Joseph used hallucinogens to induce visions
-- check out this [huge website](https://ldsconcerns.blogspot.com/)
-- check out [these people's concerns](https://www.reddit.com/r/exmormon/comments/m6t0qx/well_i_guess_im_out_and_damn_i_dont_know_what_to/)
-- listen to some of these [top podcast episodes](https://www.reddit.com/r/exmormon/comments/l67del/still_dealing_with_broken_shelf_looking_for/)
-- read this guy's [big post](https://www.reddit.com/r/exmormon/comments/madju3/everything_i_find_wrong_with_the_church_of_jesus/)
-- this guy's [take](https://www.reddit.com/r/mormon/comments/l9x8q6/overall_summary_of_why_the_ces_letter_content_is/) on the most important points of the CES letter
-- these [arguments for atheism](https://whynogod.wordpress.com/)
-- this [discussion of the origins of Christianity and Judaism](https://www.reddit.com/r/exmormon/comments/l0ut6u/neither_can_a_corrupt_tree_bring_forth_good_fruit/) plus the response to my comment
-  - also this [video](https://youtu.be/qpJojm9nAH8)
-- this [graphic](https://www.reddit.com/r/mormon/comments/lrldb1/if_the_prophet_says_so_that_is_good_enough_for_me/)
-- this guy who [thinks like me](https://ohsaywhatistruth.org/2020/08/23/a-letter-to-my-family/)
-- this person's [comprehensive notes](https://docs.google.com/document/d/130L36aAJ7XnowmG5XkD6vpMqMsHOe3RxWrMev8oiXNI/edit#heading=h.r03d93vttokr)
-- [Why the true church cannot be perfect](https://www.dialoguejournal.com/articles/why-the-true-church-cannot-be-perfect/)
-- look at [lesswrong.com](https://www.lesswrong.com)
-- this [post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/) about how Mormonism asks you to not take philosophy seriously
-- this [discussion](https://www.reddit.com/r/mormon/comments/n2kghu/need_some_insights_on_visions_and_miracles_of_lds/) about miracles in Mormonism
-- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nb628x/gods_plan_send_jesus_to_teach_truth_and_establish/) about how confusing it would be for God to use Joseph to reveal the one true church
-- The way Mormons talk about Satan's fight against the church is similar to conspiracy theories. Mormonism has certainly had its share of miracles, but it's also had its fair share of demonic possessions and stuff. Why does the rate of *both* increase? Is this observable in other religions?
-- this [Reddit post](https://www.reddit.com/r/mormon/comments/nkqfin/if_nothing_can_disprove_your_beliefs_how_do_you/) about being able to disprove beliefs
-- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nkao49/tough_questions_for_the_tbm_to_answer_part_1/) with tough questions for TBMs
-- talk about how we have to treat disaffected Mormon testimony carefully, without throwing it out. If the church were fraudulent, the disaffected members would be the ones with the true story.
-- think about how Meldrum says if we can't find the buffalo bones, it makes sense we can't find the Nephite remnants.
-- read the Urantia book
-- read about Robert Ritner's handling of the book of Abraham, starting [here](https://www.reddit.com/r/mormon/comments/nmiuaa/update_on_robert_ritner_kidney_transplant/)
-- take a look at Bennett's response to the CES letter, and [this response](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) to that response
-- The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either!
-- MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
 
 ## faith and confirmations from the Spirit
 
@@ -107,6 +67,7 @@ It was a big realization for me that signs had *not* followed me despite my beli
 
 ### to do
 
+- talk about how it doesn't make sense for God to be filtering people based on who can believe on bad evidence. Respond to or use [this](https://philosophiesofmen.blogspot.com/2013/04/the-argument-from-divine-hiddenness-why.html)
 - read my mission journal
 - get to know the stories of other people of faith
   - find out why people of indigenous faith believe what they do
@@ -229,6 +190,7 @@ The First Vision is confusing because:
 ## to do
 
 - [ ] get sources for this
+- [ ] turn this into a section about how Joseph often used revelations and visions when they were useful
 
 ## "Where did he come up with the doctrine?"
 
@@ -283,23 +245,68 @@ The church spends billions of dollars on building temples, while spending far le
 
 ### to do
 
-- [ ] watch movies about cults to provide a source for "a common cult tactic"
-- [ ] study sources on the church's humanitarian efforts
-- [ ] look up statistics of suicide for LGBTQ+ members/Utahns
-- [ ] listen to this [interview](https://www.mormonstories.org/podcast/tom-phillips-and-the-second-anointing/) with Tom Phillips about the Second Anointing
-- [ ] read Insights from a Prophet's Life: Russell M Nelson
-- [ ] talk about how the church is constantly walking back what past prophets have said and done "as men" ([source](https://www.reddit.com/r/exmormon/comments/l5gpsf/church_gaslighting_the_journal_of_discourses/))
-- [ ] compare to [QAnon](https://www.reddit.com/r/QAnonCasualties/comments/l3yhqc/im_an_ex_q_former_conspiracy_theorist_ama/)
-- [ ] false prophecies of Joseph Smith ([source](http://20truths.info/mormon/prophecies.html))
-- [ ] Joseph and the Council of 50 ([source](https://www.reddit.com/r/mormon/comments/ltone5/til_joseph_smith_established_a_church/))
-- [ ] [SCMC](https://www.reddit.com/r/exmormon/comments/m2nx08/ysk_the_strengthening_church_members_committee/)
-- [ ] look into George Albert Smith promising that tithing would go away once the church was in a good financial position
-- [ ] check out this [post](https://www.reddit.com/r/mormon/comments/n5ieyg/i_am_having_a_panic_attack_after_doing_some/) about thought control groups
-- [ ] this [Tweet](https://twitter.com/zelphontheshelf/status/1387142154871443456) about how Heber Grant said God had not appeared to anyone since Joseph
-- [ ] this [post](https://sunstonemagazine.com/background-and-fallout/) about how the church handled historical research into polygamy after the manifesto
+- watch movies about cults to provide a source for "a common cult tactic"
+- study sources on the church's humanitarian efforts
+- look up statistics of suicide for LGBTQ+ members/Utahns
+- listen to this [interview](https://www.mormonstories.org/podcast/tom-phillips-and-the-second-anointing/) with Tom Phillips about the Second Anointing
+- read Insights from a Prophet's Life: Russell M Nelson
+- talk about how the church is constantly walking back what past prophets have said and done "as men" ([source](https://www.reddit.com/r/exmormon/comments/l5gpsf/church_gaslighting_the_journal_of_discourses/))
+- compare to [QAnon](https://www.reddit.com/r/QAnonCasualties/comments/l3yhqc/im_an_ex_q_former_conspiracy_theorist_ama/)
+- false prophecies of Joseph Smith ([source](http://20truths.info/mormon/prophecies.html))
+- Joseph and the Council of 50 ([source](https://www.reddit.com/r/mormon/comments/ltone5/til_joseph_smith_established_a_church/))
+- [SCMC](https://www.reddit.com/r/exmormon/comments/m2nx08/ysk_the_strengthening_church_members_committee/)
+- look into George Albert Smith promising that tithing would go away once the church was in a good financial position
+- check out this [post](https://www.reddit.com/r/mormon/comments/n5ieyg/i_am_having_a_panic_attack_after_doing_some/) about thought control groups
+- this [Tweet](https://twitter.com/zelphontheshelf/status/1387142154871443456) about how Heber Grant said God had not appeared to anyone since Joseph
+- this [post](https://sunstonemagazine.com/background-and-fallout/) about how the church handled historical research into polygamy after the manifesto
+- talk about philosophies of men mingled with scripture
+- this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting what Mormon history and culture looks like from the outside
+- The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either!
 
-## the theology is problematic
+## what this all says about God
+
+> I'm not the first person to notice that it's a very strange sort of loving god who would make salvation depend on believing in him on bad evidence. (Sam Harris, [YouTube](https://youtu.be/AcO4TnrskE0))
 
 ### to do
 
-- [ ] talk about how the concept of sin is psychologically harmful, like in [this meme](https://www.reddit.com/r/exmormon/comments/m9op82/what_a_loving_god/)
+- talk about how the concept of sin is psychologically harmful, like in [this meme](https://www.reddit.com/r/exmormon/comments/m9op82/what_a_loving_god/)
+- include this [comic](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous light
+
+## to do
+
+- read Repicturing the Restoration
+- read [Line upon Line: Essays on Mormon Doctrine](http://signaturebookslibrary.org/line-upon-line/)
+- read The LDS Gospel Topics Series: A Scholarly Engagement
+- read An Insider's View of Mormon Origins
+- read No Man Knows My History
+- this guy's [investigation](https://faenrandir.github.io/a_careful_examination/) into the truth claims
+- check out [Fuller Consideration](http://fullerconsideration.com/)
+- listen to this [interview](https://www.mormonstories.org/podcast/sandra-and-jerald-tanner-the-early-years/) with the Tanners
+- listen to this [interview](https://www.mormonstories.org/podcast/mormon-stories-030-031-032-and-033-an-insiders-view-of-mormon-origins-an-interview-with-grant-palmer/) with Grant Palmer
+- check out these [resources](https://www.mormonstories.org/faith-crisis-resources/) from Mormon Stories
+- read this [article](http://www.mormonthink.com/files/restoration-sacred-mushroom.pdf) that considers the idea that Joseph used hallucinogens to induce visions
+- check out this [huge website](https://ldsconcerns.blogspot.com/)
+- check out [these people's concerns](https://www.reddit.com/r/exmormon/comments/m6t0qx/well_i_guess_im_out_and_damn_i_dont_know_what_to/)
+- listen to some of these [top podcast episodes](https://www.reddit.com/r/exmormon/comments/l67del/still_dealing_with_broken_shelf_looking_for/)
+- read this guy's [big post](https://www.reddit.com/r/exmormon/comments/madju3/everything_i_find_wrong_with_the_church_of_jesus/)
+- this guy's [take](https://www.reddit.com/r/mormon/comments/l9x8q6/overall_summary_of_why_the_ces_letter_content_is/) on the most important points of the CES letter
+- these [arguments for atheism](https://whynogod.wordpress.com/)
+- this [discussion of the origins of Christianity and Judaism](https://www.reddit.com/r/exmormon/comments/l0ut6u/neither_can_a_corrupt_tree_bring_forth_good_fruit/) plus the response to my comment
+  - also this [video](https://youtu.be/qpJojm9nAH8)
+- this [graphic](https://www.reddit.com/r/mormon/comments/lrldb1/if_the_prophet_says_so_that_is_good_enough_for_me/)
+- this guy who [thinks like me](https://ohsaywhatistruth.org/2020/08/23/a-letter-to-my-family/)
+- this person's [comprehensive notes](https://docs.google.com/document/d/130L36aAJ7XnowmG5XkD6vpMqMsHOe3RxWrMev8oiXNI/edit#heading=h.r03d93vttokr)
+- [Why the true church cannot be perfect](https://www.dialoguejournal.com/articles/why-the-true-church-cannot-be-perfect/)
+- look at [lesswrong.com](https://www.lesswrong.com)
+- this [post](https://www.reddit.com/r/exmormon/comments/mxu9ga/one_of_the_worst_parts_of_mormonism_probably/) about how Mormonism asks you to not take philosophy seriously
+- this [discussion](https://www.reddit.com/r/mormon/comments/n2kghu/need_some_insights_on_visions_and_miracles_of_lds/) about miracles in Mormonism
+- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nb628x/gods_plan_send_jesus_to_teach_truth_and_establish/) about how confusing it would be for God to use Joseph to reveal the one true church
+- The way Mormons talk about Satan's fight against the church is similar to conspiracy theories. Mormonism has certainly had its share of miracles, but it's also had its fair share of demonic possessions and stuff. Why does the rate of *both* increase? Is this observable in other religions?
+- this [Reddit post](https://www.reddit.com/r/mormon/comments/nkqfin/if_nothing_can_disprove_your_beliefs_how_do_you/) about being able to disprove beliefs
+- this [Reddit post](https://www.reddit.com/r/exmormon/comments/nkao49/tough_questions_for_the_tbm_to_answer_part_1/) with tough questions for TBMs
+- think about how Meldrum says if we can't find the buffalo bones, it makes sense we can't find the Nephite remnants.
+- read the Urantia book
+- read about Robert Ritner's handling of the book of Abraham, starting [here](https://www.reddit.com/r/mormon/comments/nmiuaa/update_on_robert_ritner_kidney_transplant/)
+- take a look at Bennett's response to the CES letter, and [this response](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) to that response
+- work out the thesis statement a bit better
+- MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
