@@ -23,11 +23,11 @@ In publishing this to a broader audience than just myself, my point is not to di
 
 ## impactful posts, articles, videos, or podcasts
 
+- this [Twitter post](https://www.reddit.com/r/exmormon/comments/b0am6n/just_sayin/) reminding us to look into things we're asked not to look into
+- this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
 - this [meme](https://www.reddit.com/r/exmormon/comments/fm0cio/applicable/) commiserating about bringing faith transition stuff up with family
 - this person's [reasonable Facebook post](https://www.reddit.com/r/exmormon/comments/9vev1p/very_tbm_guy_from_high_school_posted_this_today/) explaining to friends and family why he's leaving the church
-- this [meme](https://www.reddit.com/r/exmormon/comments/krqisl/mormons_dont_leave_because_the_gospel_might_not/) talking about the common misunderstanding Mormons have about people who leave: that they have unresolved doubts, not resolved concerns
 - this [absolutely hilarious life story video](https://youtu.be/FzGn7dQabTA)
-- this [Twitter post](https://www.reddit.com/r/exmormon/comments/b0am6n/just_sayin/) reminding us to look into things we're asked not to look into
 
 ## faith and confirmations from the Spirit
 
@@ -67,20 +67,25 @@ It was a big realization for me that signs had *not* followed me despite my beli
 
 ### to do
 
-- talk about how it doesn't make sense for God to be filtering people based on who can believe on bad evidence. Respond to or use [this](https://philosophiesofmen.blogspot.com/2013/04/the-argument-from-divine-hiddenness-why.html)
 - read my mission journal
 - get to know the stories of other people of faith
   - find out why people of indigenous faith believe what they do
   - find out why Buddhists/Hindus/Sikhs/Taoists believe what they do
   - read studies about spiritual experience
 
-## Deutero-Isaiah (and other inclusions of KJV text)
+## inclusions of KJV text in the Book of Mormon
+
+Of the 6604 verses in the 1830 edition of the Book of Mormon ([source](https://github.com/wordtreefoundation/bomdb)), 581 are direct quotations from the KJV Bible and 442 borrow phrases found in the KJV (counting from [this list](http://web.archive.org/web/20201027171536/http://bookofmormondepot.com/kjv-verses/) using `grep -o 'tr class="vq"' bom.html | wc -l` and `grep -o 'tr class="vp"' bom.html | wc -l` respectively).
+
+A great example of the problem with borrowed phrases is 1 Nephi 1:14, which uses the phrase "Great and marvelous are thy works, O Lord God Almighty!". This exact phrase is used in Revelation 15:3, about 700 years after Lehi uses it. Similarly, both 1 Nephi 13:27 and Acts 13:10 use the phrase "pervert the right ways of the Lord". Many of the 440 other borrowings are similarly surprising. This implies that the English version of the Book of Mormon was heavily influenced by the exact wording of the KJV.
+
+More evidence of this is found if we look at the chapters quoted from the Bible. The chapters don't appear *exactly* verbatim; there is a pattern of minor differences that is pretty consistent throughout the Isaiah chapters in 2 Nephi. Often when the sentence could make sense without the italicized words from the KJV, they're removed in the BoM. A good example of this is 2 Nephi 24:32 and Isaiah 14:32: "What shall *one* then answer the messengers of the nations?" is converted to "What shall then answer the messengers of the nations?", which changes "messengers" into the subject instead of the object of the sentence. Italicized words are removed approximately 40 times more often than non-italicized words ([source](https://web.archive.org/web/20210213130210/https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/)). These don't look like corrections that demonstrate a more accurate, original version of the Isaiah text, but rather they demonstrate a 19th century understanding of "Bible errors". The common view at the time was that "the old and new testaments are filled with errors, obscurities, **italics** and contradictions, which must be the work of men" (from *The Evening and the Morning Star* in 1833 as cited [here](https://web.archive.org/web/20210213130210/https://journal.interpreterfoundation.org/missing-words-king-james-bible-italics-the-translation-of-the-book-of-mormon-and-joseph-smith-as-an-unlearned-reader/); emphasis mine).
 
 Biblical scholars are all mostly in consensus that chapters 40-66 of Isaiah were written by another author or authors after the exile into Babylon, which occurred in 586 BCE. They believe this because of abrupt changes in historical situation, use of the name "Isaiah", style, and theology ([source](https://en.wikipedia.org/wiki/Book_of_Isaiah#Authorship)). For example, the name "Cyrus" (the king who would liberate the Jews) is explicitly used in Isaiah 45, so the author of Isaiah 45 was aware of this historical event ([source](https://www.ldsdiscussions.com/deuteroisaiah)). Unfortunately, these chapters appear in the Book of Mormon nearly exactly as they appear in the King James version of the Bible. For example, 1 Nephi 20 is taken from Isaiah 48, which calls the Israelites to leave Babylon. In Isaiah this is a literal call as well as a spiritual call, because the chapter was written during Babylonian exile, a period that began several years after Lehi and his family left Jerusalem (2 Nephi 1:4).
 
 One possible solution is that these later chapters of Isaiah are actually based on primitive writings of 1st Isaiah, with specific historical details added in (Cyrus, Babylon, etc.). Then when Joseph recognized chapters of Isaiah as he translated the Book of Mormon, he switched to the King James Bible to save time in the translation process. But this solution doesn't align at all with the accounts we have of how the book was translated. All accounts of the translation process are pretty consistent in saying that Joseph would put the seer stone in a hat, place his face in the hat, and read English text from the stone. He did not use notes or a Bible, and he did not even need to have the gold plates in the room with him. To account for the King James text in the Book of Mormon, we have to reject these accounts and accept a "loose translation" theory.
 
-The chapters don't appear *exactly* verbatim; there is a pattern of minor differences that is pretty consistent throughout the Isaiah chapters in 2 Nephi. Often when the sentence could make sense without the italicized words from the KJV, they're removed in the BoM. A good example of this is 2 Nephi 24:32 and Isaiah 14:32: "What shall *one* then answer the messengers of the nations?" is converted to "What shall then answer the messengers of the nations?", which changes the meaning. To me it doesn't feel like these are corrections that demonstrate a more accurate, original version of the Isaiah text.
+The chapters don't appear *exactly* verbatim; there is a pattern of minor differences that is pretty consistent throughout the Isaiah chapters in 2 Nephi. Often when the sentence could make sense without the italicized words from the KJV, they're removed in the BoM. A good example of this is 2 Nephi 24:32 and Isaiah 14:32: "What shall *one* then answer the messengers of the nations?" is converted to "What shall then answer the messengers of the nations?", which changes the meaning. These don't look like corrections that demonstrate a more accurate, original version of the Isaiah text, but rather they demonstrate a 19th century understanding of "Bible errors".
 
 One really good example where the Book of Mormon gets it wrong is 2 Nephi 12:16:
 
@@ -261,7 +266,9 @@ The church spends billions of dollars on building temples, while spending far le
 - this [post](https://sunstonemagazine.com/background-and-fallout/) about how the church handled historical research into polygamy after the manifesto
 - talk about philosophies of men mingled with scripture
 - this [New Yorker article](https://www.newyorker.com/magazine/2012/08/13/i-nephi) documenting what Mormon history and culture looks like from the outside
-- The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either!
+- These prophets don't look like prophets. We can look at the misguided morals of past prophets and excuse them by noting that they were of a different time, but that's moral relativism (which the church abhors). The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either! Prophets really only provide "prophetic morality". They don't predict future events. They are supposed to just give us the inside scope on God's thoughts about moral action. When these prophets don't even give moral guidance that stands the test of time, but actually fight against moral progress, you know they are not Godly, just powerful and holding on to that power.
+- talk about how miracles are usually inflated (Kirtland temple miracles and [Nauvoo malaria healings](https://www.reddit.com/r/mormon/comments/nxt93k/mass_healing_in_nauvoo/))
+- Coffee has no specific ingredient we're against but it can keep you out of heaven. It's just part of the BITE model.
 
 ## what this all says about God
 
@@ -269,6 +276,7 @@ The church spends billions of dollars on building temples, while spending far le
 
 ### to do
 
+- talk about how it doesn't make sense for God to be filtering people based on who can believe on bad evidence. Respond to or use [this](https://philosophiesofmen.blogspot.com/2013/04/the-argument-from-divine-hiddenness-why.html)
 - talk about how the concept of sin is psychologically harmful, like in [this meme](https://www.reddit.com/r/exmormon/comments/m9op82/what_a_loving_god/)
 - include this [comic](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous light
 
