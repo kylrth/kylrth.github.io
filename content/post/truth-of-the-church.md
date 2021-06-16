@@ -37,20 +37,27 @@ The church teaches that the way to know the truth is by reading the Book of Morm
 
 My problem is that there are lots of churches, religions, and cults that tell you to discover truth this way. Here's some evidence:
 
-- This [video](https://youtu.be/ycUvC9s4VYA) shows some examples of people who feel convinced of the truth of Islam, the RLDS and FLDS churches, and even some strange suicide cults.
-- This [video](https://youtu.be/UJMSU8Qj6Go) has some more examples of the testimonies of people who've converted to many religions, including mainstream Mormonism. This video has some scenes taken from the previous one.
-- This [Preach podcast interview with Satin Tashnizi](https://emeraldproject.org/project/preach-podcast-kuer/) investigates her process of converting to Islam. The entire Preach series is a really great look at how religion works for people for reasons that don't necessarily imply truthfulness.
+- This [video](https://youtu.be/ycUvC9s4VYA) (14:03) shows some examples of people who feel convinced of the truth of Islam, the RLDS and FLDS churches, and even some strange suicide cults.
+- This [video](https://youtu.be/UJMSU8Qj6Go) (13:02) has some more examples of the testimonies of people who've converted to many religions, including mainstream Mormonism. This video has some scenes taken from the previous one.
+- This [Preach podcast interview with Satin Tashnizi](https://emeraldproject.org/project/preach-podcast-kuer/) (25:26) investigates her process of converting to Islam. The entire Preach series is a really great look at how religion works for people for reasons that don't necessarily imply truthfulness.
 - There are several YouTubers who practice something called [Street Epistemology](https://streetepistemology.com/). "The general goal of Street Epistemology is to help people to reflect on the reasons and methods that they use to conclude that their deeply-held beliefs are true" ([source](https://streetepistemology.com/faq)). These YouTubers interview people with a wide variety of beliefs, asking questions that help the interviewee (and us) understand their reasons for believing what they do. The following videos are pretty demonstrative:
-  - [Emily's faith in the Christian God](https://youtu.be/1RbpbWXg_Pw)
-  - [Madison's belief in the Christian God](https://youtu.be/d5tjfvPysSI)
-  - [Tia's belief in the Christian God](https://youtu.be/A-M1EyhcRS8)
-  - [Eric's belief in astrology](https://youtu.be/hl2sOsEL9v4) (minimal language warning)
-  - [Elder Macedone's belief in the Book of Mormon](https://youtu.be/DhKGiw0ZVBM)
-  - [Jenny and Anthony's belief in the Book of Mormon](https://www.youtube.com/watch?v=bh9IYjRYBx4)
+  - [Emily's faith in the Christian God](https://youtu.be/1RbpbWXg_Pw) (24:44)
+  - [Madison's belief in the Christian God](https://youtu.be/d5tjfvPysSI) (46:30)
+  - [Tia's belief in the Christian God](https://youtu.be/A-M1EyhcRS8) (11:05)
+  - [Eric's belief in astrology](https://youtu.be/hl2sOsEL9v4) (minimal language warning) (36:46)
+  - [Elder Macedone's belief in the Book of Mormon](https://youtu.be/DhKGiw0ZVBM) (31:43)
+  - [Jenny and Anthony's belief in the Book of Mormon](https://youtu.be/bh9IYjRYBx4) (1:01:30)
 
-Many people of many different religions come to their faith by this process of studying and thinking about what is being taught, and then having feelings or experiences they attribute to God that tell them that what they're learning is true. While there are certainly truths and good things in most religions, if the same mechanism is in place for determining the goodness of *any* religion, how does my spiritual witness of the truth of this church confirm to me that this is the *most correct* religion of all? A religion may even *work* for someone---bring them peace, inspire them, teach them---while not being true. Check out this [video](https://youtu.be/6nXDzbxhqfE) that makes a strong case for this.
+Many people of many different religions come to their faith by this process of studying and thinking about what is being taught, and then having feelings or experiences they attribute to God that tell them that what they're learning is true. While there are certainly truths and good things in most religions, if the same mechanism is in place for determining the goodness of *any* religion, how does my spiritual witness of the truth of this church confirm to me that this is the *most correct* religion of all? A religion may even *work* for someone---bring them peace, inspire them, teach them---while not being true. Check out this [video](https://youtu.be/6nXDzbxhqfE) (14:59) that makes a strong case for this.
 
-A friend of mine once explained that while you can get good feelings due to the truth found in other religions, this is the only religion that invites you to seek out that confirmation by *directly asking God*. This is something I used to really focus on when I was teaching people about the church on my mission. This idea is plausible as long as the answer received is distinct from that of other religions. If I pray and ask God and then feel that Mormonism is right, how is that different from doing whatever Islam requires of me in order to receive a confirmation, and then feeling that Islam is right by the same manifestation?
+A friend of mine once answered this question by saying that while you can get good feelings due to the truth found in other religions, this is the only religion that invites you to seek out that confirmation by *directly asking God*. This is something I used to really focus on when I was teaching people about the church on my mission. This idea is plausible as long as the answer received is distinct from that of other religions, but the videos I linked above make it pretty clear that's not the case. It's easy to see why this isn't a good test for truth if we compare it to healing from a sickness. Let's say you and I have the same disease, and we both take something different for it and immediately start to feel better. There are four possibilities:
+
+1. Both our remedies cured us from the illness. (both religions are true)
+1. Neither of our remedies actually cured us and we just got better naturally. (neither religion is true despite our spiritual witnesses)
+1. Yours was a cure but mine was not. (your religion is true but mine is not)
+1. Mine was a cure but yours was not. (my religion is true but yours is not)
+
+Case 1 is impossible, so at least one of us is deceived in thinking their remedy was a cure. In this hypothetical, it's easy to see that we would need a different test in order to determine which remedies were cures. If I pray and ask God and then feel that Mormonism is right, how is that different from doing whatever Islam requires of me in order to receive a confirmation, and then feeling that Islam is right in the same way?
 
 Here's an [article from Zelph on the Shelf](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) that does a good job explaining this problem with confirming the truth of the existence of God. Here's a [post on r/exchristian](https://www.reddit.com/r/exchristian/comments/gb687d/but_the_bible_says_so/) arguing that the same standard of proof we require of other gods should be required of our own god.
 
@@ -59,6 +66,8 @@ In the church we talk about how great it is to have both a modern prophet and pe
 In [*Faith is Not Blind*]({{< relref "/book/faith-is-not-blind.md" >}}) Elder and Sister Hafen talk about "a witness more powerful than sight". To them, that witness is the closeness you feel to the Savior when you sacrifice to serve Him. You can see this happen to missionaries both ancient and modern, and I think this happens for religious people regardless of the particular religion.
 
 It was a big realization for me that signs had *not* followed me despite my belief in Jesus Christ, contrary to what Ether 4:18 promises. And that verse isn't a fluke; Joseph Smith makes the same promise of miracles and signs in Lectures on Faith, and Moroni 10:23-25 says if we don't see the power of God in our lives then it's because of unbelief and none of us does any good works. As a believer there are two ways to deal with not seeing miracles in your life: you can think your faith is inadequate and blame yourself, or you can see miracles and signs in ordinary events in your life. The human brain is very good at self-doubt and also very good at recognizing meaning in randomness ([source](https://archive.is/20130121151738/http://www.dbskeptic.com/2007/11/04/apophenia-definition-and-analysis/)), so this usually works well enough to get you to ignore the problem.
+
+None of this disproves Mormonism, but it does mean that the method it asks you to use to determine its truthfulness is built on a sandy foundation (see Matthew 7:26).
 
 ### more links
 
