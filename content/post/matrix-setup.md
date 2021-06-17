@@ -20,7 +20,11 @@ cd ~/matrix
 mkdir data/postgres
 ```
 
-It's hosted on matrix.kylrth.com but the server name is kylrth.com. For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create the file `kylrth.com/.well_known/matrix/server` with the contents. `{ "m.server": "matrix.kylrth.com:443" }`.
+It's hosted on matrix.kylrth.com but the server name is kylrth.com. For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create the file `kylrth.com/.well_known/matrix/server` with the contents. `{ "m.server": "matrix.kylrth.com:443" }`. We should also add the following line to `/etc/hosts` so that the router doesn't get in the way of requests sent from one container to another:
+
+```text
+127.0.0.1 matrix.kylrth.com
+```
 
 Generate the initial configuration for Synapse:
 
