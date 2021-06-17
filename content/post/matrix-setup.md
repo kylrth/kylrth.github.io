@@ -5,7 +5,14 @@ draft: false
 tags: ["matrix"]
 ---
 
-This is how I set up my own [Matrix](https://matrix.org) server.
+This is how I set up my own [Matrix](https://matrix.org) server. First, switch the Raspberry Pi to 64-bit mode:
+
+```bash
+sudoedit /boot/config.txt  # add `arm_64bit=1` to the end of the file
+sudo systemctl reboot
+```
+
+Create a directory for Matrix stuff:
 
 ```bash
 mkdir -p ~/matrix/data/synapse
@@ -13,12 +20,7 @@ cd ~/matrix
 mkdir data/postgres
 ```
 
-It's hosted on matrix.kylrth.com but the server name is kylrth.com. For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create a `/.well_known` entry on kylrth.com.
-
-```bash
-mkdir -p ~/nginx-certbot/data/www/.well-known/matrix
-echo '{ "m.server": "matrix.kylrth.com:443" }' > ~/nginx-certbot/data/www/.well-known/matrix/server
-```
+It's hosted on matrix.kylrth.com but the server name is kylrth.com. For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create the file `kylrth.com/.well_known/matrix/server` with the contents. `{ "m.server": "matrix.kylrth.com:443" }`.
 
 Generate the initial configuration for Synapse:
 
@@ -136,3 +138,11 @@ register_new_matrix_user -c /data/homeserver.yaml http://localhost:8008
 Be sure to make yourself an admin!
 
 Be *a bajillion percent* sure that you set `host: '0.0.0.0'` in the config for the `registration` container, otherwise it won't listen to incoming traffic from outside. Once it's running, use `docker-compose exec registration python -m matrix_registration gen` to create a token so other users can join.
+
+Another note: you may want to change the DNS server to something better. I added the following line to `/etc/dhcpcd.conf`:
+
+```text
+static domain_name_servers=1.1.1.1 1.0.0.1 8.8.4.4 8.8.8.8
+```
+
+And then do `sudo service dhcpcd restart`.
