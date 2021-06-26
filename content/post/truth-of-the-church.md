@@ -101,18 +101,23 @@ One really good example where the Book of Mormon gets it wrong is 2 Nephi 12:16:
 Biblical scholars agree that the KJV use of the word "pictures" is a mistranslation ([source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms), p. 17-19), but that word appears in the Book of Mormon. The added phrase about "ships of the sea" doesn't work either. This chapter is written in *verse*, meaning that in Hebrew these were actually poetic couplets. Having both phrases there messes up the meter and meaning of the poetic couplets ([source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms), p. 16). Now, consider these two bits of information in tandem:
 
 1. The issue with "pictures" seems to imply that Joseph was either copying directly from the King James Bible or God was giving him some version of the text close to the KJV, including errors.
-1. It could be that having the two phrases about "ships of Tarshish/the sea" is the original, and a copying error was made between the time when Nephi got the brass plates (600 BC) and when the Dead Sea scrolls were produced (ca. 125 BC ([source](http://dss.collections.imj.org.il/isaiah))). (The authors of the above [source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) posit that the line "and upon all pleasant pictures" could be a concluding line that pairs with the introductory line added in the Book of Mormon in verse 13 (p. 24). But it seems unlikely that those lines would *both* be lost due to a copying error.)
+1. It could be that having the two phrases about "ships of Tarshish/the sea" is the original, and a copying error was made between the time when Nephi got the brass plates (600 BC) and when the Dead Sea scrolls were produced (ca. 125 BC ([source](http://dss.collections.imj.org.il/isaiah))). (The authors of the above [source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) posit that the line "and upon all pleasant pictures" could be a concluding line that pairs with the introductory line added in the Book of Mormon in verse 13 (p. 24). But it seems highly unlikely that those distant paired lines would *both* be lost due to a copying error.)
 
 The appearance of "pictures" seems to imply that the translation process was somehow referring to the KJV, and the addition of "ships of the sea" implies that the translation process involved incorrect changes to the text.
 
 Similar issues occur all over the Book of Mormon and demonstrate that Joseph was working from the KJV:
 
-- Jesus' Sermon at the Temple is a slightly modified version of the Sermon on the Mount in Matthew.
-  - "Farthing" is changed to "senine" but the metaphor of "compel thee to go a mile" is retained despite not making much sense to the Nephites.
-  - "Raca" is Aramaic, not Hebrew, so it shouldn't appear *in Aramaic* in the Book of Mormon.
-- Text from the KJV New Testament is included in the Book of Mormon, some of which is likely not from the original text.
-- Slight changes to paraphrased text reflect a misunderstanding of KJV grammar, e.g. [2 Nephi 15:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/15.4)'s use of "wherefore" as an introduction rather than a question as it appears in the KJV.
-- The Victorian English (especially thou vs. you) is misused in places like [Alma 17:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17.11), demonstrating that Joseph's grammar was involved in the production of the English text.
+- Slight changes to paraphrased text reflect a misunderstanding of KJV grammar, e.g. [2 Nephi 15:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/15.4)'s use of "wherefore" as an introduction rather than a question word as it is used in the KJV [Isaiah 5:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5.4). (The punctuation in the Book of Mormon was added by the printer ([source](https://web.archive.org/web/20210122043157/https://history.churchofjesuschrist.org/content/museum/the-book-of-mormon-from-manuscript-to-press?lang=eng)), but "it" and "brought" swap places to change the question into a statement.)
+- Jesus' Sermon at the Temple is clearly modified from the KJV Sermon on the Mount in Matthew.
+  - "Raca" is Aramaic, not Hebrew, so it shouldn't appear *in Aramaic* in [3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12.22) because the Nephites wouldn't have been culturally familiar with Aramaic. It seems unlikely that the word was brought by Lehi and his family and remained unaltered for 600 years.
+  - "Farthing" is changed to "senine" in [3 Nephi 12:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12.26) but "compel thee to go a mile" is retained in [v. 41](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12.41) despite the Nephites not being familiar with the mile (a Roman unit of distance).
+  - The phrase "by them of old time" is problematic in [3 Nephi 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12.27):
+
+    - Matthew 5:27 (NRSV): You have heard that it was said, "You shall not commit adultery."
+    - Matthew 5:27 (KJV): You have heard that it was said *by them of old time*, Thou shalt not commit adultery:
+    - 3 Nephi 12:27: Behold, it is written *by them of old time*, that thou shalt not commit adultery;
+
+    This phrase is translated from *τοῖς ἀρχαίοις* (*tois archaiois*), but those words are not present in the early manuscripts of the Greek New Testament. Furthermore, the KJV mistranslates this as "*by* them of old time" when it would really be "*to* them of old time".
 
 ### more links
 
@@ -120,6 +125,7 @@ Similar issues occur all over the Book of Mormon and demonstrate that Joseph was
 
 ### to do
 
+- look at *tois archaiois* [1](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi) and [2](http://signaturebookslibrary.org/book-of-mormon) some more
 - read Understanding the Book of Mormon: A Reader's Guide
 - read [this essay at BYU](https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon)
 - read Producing Ancient Scripture
@@ -159,6 +165,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] talk about the lack of Book of Mormon externalities as seen in [this post](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/)
 - [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
 - [ ] the "Great Spirit", and there's proof that Americans thought the Indians believed in a Great Spirit in the [Booth letters](https://en.wikisource.org/wiki/Ezra_Booth_letters), letter VI.
+- The Victorian English (especially thou vs. you) is misused in places like [Alma 17:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17.11), demonstrating that Joseph's grammar was involved in the production of the English text.
 
 ## similarity of the Book of Mormon to its 19th century theological context
 
@@ -171,6 +178,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
   - [ ] look at Peter Ingersoll's affidavit (1833) in *Mormonism Unvailed*
 - [ ] look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
 - [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
+- look at Grant Palmer's thoughts on the preaching
 
 ## narrative complexity in the Book of Mormon
 
