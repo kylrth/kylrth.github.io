@@ -123,13 +123,14 @@ Similar issues occur all over the Book of Mormon and demonstrate that Joseph was
 
 - For a multitude of reasons, scholars are virtually unanimous ([source](https://web.archive.org/web/20210327175123/https://ca.thegospelcoalition.org/columns/ad-fontes/what-do-you-do-with-the-end-of-marks-gospel/)) in the belief that [Mark 16:9-20](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.9-20) (the "long ending of Mark") was added later and was not in the original text of the book of Mark. Yet we find most of [Mark 16:15-18](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16.15-18) quoted verbatim in [Mormon 9:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9.22-24).
 
+Each one of these issues, taken in isolation, could be explained away by saying that current research is wrong, or by arging that something else happened to either the Nephite text or the Bible text. But combined together, you'd have to say that a lot of biblical research is incorrect or that a lot of unlikely things happened for the texts to appear as they do. It's much more reasonable to conclude that the King James Version of the Bible was a source text for the Book of Mormon.
+
 ### more links
 
-- Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv).
+- Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv), [here](https://web.archive.org/web/20210218073942/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi), and [here](https://web.archive.org/web/20210609162535/http://signaturebookslibrary.org/book-of-mormon/). This [article](https://web.archive.org/web/20210202044338/https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon) goes through differences between the KJV and Book of Mormon text, but tends to oversimplify issues and err on the side of support for the Book of Mormon in many cases. You can observe this by comparing his commentary on 2 Nephi 24:32 and 1 Nephi 20:11 with this [side-by-side English translation](http://dss.collections.imj.org.il/chapters_pg) of the Masoretic text and the Great Isaiah Scroll (IQIsa) from the Dead Sea scrolls. You'll see that the "support" he finds for the Book of Mormon is quite a stretch.
 
 ### to do
 
-- look at *tois archaiois* [1](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi) and [2](http://signaturebookslibrary.org/book-of-mormon) some more
 - read Understanding the Book of Mormon: A Reader's Guide
 - read [this essay at BYU](https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon)
 - read Producing Ancient Scripture
@@ -139,7 +140,6 @@ Similar issues occur all over the Book of Mormon and demonstrate that Joseph was
   - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
   - study what modern prophets say about the truthfulness of the Book of Mormon
 - take a look at [this discussion](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) of "ships of Tarshish" and "without a cause"
-- Talk about how each one of these issues, taken in isolation, could be explained away by saying that current research is wrong. But combined together, you'd have to say that a lot of biblical research is incorrect.
 
 ## historical mistakes in the Book of Mormon
 
