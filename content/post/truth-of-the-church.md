@@ -127,19 +127,9 @@ Each one of these issues, taken in isolation, could be explained away by saying 
 
 ### more links
 
-- Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv), [here](https://web.archive.org/web/20210218073942/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi), and [here](https://web.archive.org/web/20210609162535/http://signaturebookslibrary.org/book-of-mormon/). This [article](https://web.archive.org/web/20210202044338/https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon) goes through differences between the KJV and Book of Mormon text, but tends to oversimplify issues and err on the side of support for the Book of Mormon in many cases. You can observe this by comparing his commentary on 2 Nephi 24:32 and 1 Nephi 20:11 with this [side-by-side English translation](http://dss.collections.imj.org.il/chapters_pg) of the Masoretic text and the Great Isaiah Scroll (IQIsa) from the Dead Sea scrolls. You'll see that the "support" he finds for the Book of Mormon is quite a stretch.
-
-### to do
-
-- read Understanding the Book of Mormon: A Reader's Guide
-- read [this essay at BYU](https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon)
-- read Producing Ancient Scripture
-- read Book of Mormon Authorship: New Light on Ancient Origins
-- read Lehi in the Desert, The World of the Jaredites, and There Were Jaredites
-- decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
-  - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
-  - study what modern prophets say about the truthfulness of the Book of Mormon
-- take a look at [this discussion](https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) of "ships of Tarshish" and "without a cause"
+- This [article](https://web.archive.org/web/20210202044338/https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon) goes through differences between the KJV and Book of Mormon text, but tends to oversimplify issues and err on the side of support for the Book of Mormon in many cases. You can observe this by comparing his commentary on 2 Nephi 24:32 and 1 Nephi 20:11 with this [side-by-side English translation](http://dss.collections.imj.org.il/chapters_pg) of the Masoretic text and the Great Isaiah Scroll (IQIsa) from the Dead Sea scrolls. You'll see that the support he finds for the Book of Mormon as a translation of ancient text is quite a stretch.
+- A rather critical [piece](https://web.archive.org/web/20171002053843/http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) from Dialogue Journal explores 2 Nephi 12:16 and 3 Nephi 12:22 in depth. The main [source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) I cited in my discussion of 2 Nephi 12:16 addresses many of the arguments made in the Dialogue article.
+- Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv), [here](https://web.archive.org/web/20210218073942/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi), and [here](https://web.archive.org/web/20210609162535/http://signaturebookslibrary.org/book-of-mormon/).
 
 ## historical mistakes in the Book of Mormon
 
@@ -207,6 +197,14 @@ The Tower of Babel is impossible because of what we know about how languages dev
 ### to do
 
 - [ ] improve explanations for the impossibility of these myths
+
+## what did Joseph and others say about the Book of Mormon?
+
+### to do
+
+- decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
+  - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
+  - study what modern prophets say about the truthfulness of the Book of Mormon
 
 ## the First Vision
 
