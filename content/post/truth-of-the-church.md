@@ -3,6 +3,7 @@ title: "My search for truth about the church and its teachings"
 date: 2021-01-03T08:50:12-08:00
 draft: true
 tags: ["religion"]
+mathjax: true
 ---
 
 I have undergone a faith transition. It started very suddenly one day after discovering some information about church history online. Very early on I knew I needed to record my evidence and conclusions somewhere, and there are a few things I want to keep in mind as I write here:
@@ -21,6 +22,8 @@ In publishing this to a broader audience than just myself, my point is not to di
 - The method for determining that the church is true is faulty. (spiritual witnesses)
 - The church's method for receiving revelation is faulty. (historical issues, modern issues)
 - If this church is God's best method for saving us, then he is the author of confusion and does not deserve to be followed. (philosophies of men, morality vs obedience)
+
+TODO add a more detailed outline here so that people know what they're getting into. Convince them the church wouldn't be true if those things were true, right here.
 
 ## impactful posts, articles, videos, or podcasts
 
@@ -131,11 +134,37 @@ Each one of these issues, taken in isolation, could be explained away by saying 
 - A rather critical [piece](https://web.archive.org/web/20171002053843/http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) from Dialogue Journal explores 2 Nephi 12:16 and 3 Nephi 12:22 in depth. The main [source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) I cited in my discussion of 2 Nephi 12:16 addresses many of the arguments made in the Dialogue article.
 - Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv), [here](https://web.archive.org/web/20210218073942/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi), and [here](https://web.archive.org/web/20210609162535/http://signaturebookslibrary.org/book-of-mormon/).
 
-## historical mistakes in the Book of Mormon
+## historicity of the Book of Mormon narrative
 
-One problem with the Book of Mormon narrative is the population growth and relations between the Nephites and Lamanites. In [this article](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/), they perform a quick analysis of population growth by selecting moments from the Book of Mormon when numbers of people are reported, and comparing that information with what we know about historical population growth. They also explain why it's unlikely that descendents of Lehi mixed with indigenous people to accomplish such growth. (See 2 Nephi 1 for the prophecy that the land would be preserved for them and kept from all other nations.)
+The story in the Book of Mormon is of epic proportions: there are dozens of cities, several temples, people who miraculously convert by the thousands, and tens of thousands who die in brutal wars. The wars are especially dramatic and long-lasting: not forty years from when Lehi's family arrived in America, they "had already had wars and contentions with [their] brethren" ([2 Nephi 5:34](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.34#34)), and that continued with only short periods of peace except for a few hundred years after Jesus' visit (see [4 Nephi 1](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1), especially [v. 35-36, 47](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1.35-36,47#35)). These wars culminate in the death of 230,000 Nephites around 385 AD (see [Mormon 6:10-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6.10-15#10)). The Nephites had agriculture ([Mosiah 9:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/9.9#9)), metallurgy ([2 Nephi 5:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.15#15)), and ship building ([Alma 63:4-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/63.4-7#4)). Despite their generally larger population, the Lamanites appeared not to have those things, and for much of the timeline of the Book of Mormon appear to have been mostly hunter-gatherers with some cities later (see [Enos 1:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20#20), [2 Nephi 5:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.22-24#22), [Alma 22:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22.28#28), and [Alma 23:2-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23.2-15#2)).
 
-One hole in their analysis is that they fail to consider the effect that strong initial population growth would have on the totals. I think it's plausible that the Lehites could experience big initial population growth if they had lots of natural resources and limited contact with indigenous people during their time in the land of their first inheritance. I should do some math to determine if the numbers would be better supported by a strong initial population growth.
+There are several issues with how these nations functioned that I'll address below.
+
+### population growth
+
+For most of pre-agricultural history, the growth rate of the human world population was negligible. The agricultural revolution greatly improved the growth rate because it provided a more stable and land-dense source of food. Kunich notes that by the time of Jesus the world population had reached 200-400 million and the growth rate was around 0.04% ([source](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/), p. 240; see the sources he cites with these links: [Brown](https://web.archive.org/web/20200711175343/https://files.eric.ed.gov/fulltext/ED153893.pdf), [Catton](https://archive.org/details/overshootecologi00catt)). Because of a multitude of new processes and technologies, in the last 200 years that growth rate has increased dramatically, reaching 2.0% in 1960 (see Table 2 [here](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/) and the [estimates](https://www.census.gov/data/tables/time-series/demo/international-programs/historical-est-worldpop.html) compiled by the US Census Bureau). The rate has decreased since then as the population levels off, so 2.0% represents the fastest that the world population has ever grown.
+
+The picture that the Book of Mormon paints is of two massive and successful Bronze-age civilizations, but reasonable population growth does not support this scale. Examine Table 3 from [Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/) (p. 250), which shows how Book of Mormon populations would have grown under growth rates ranging from 0.04% (reasonable for agricultural societies) to 2.0% (the peak global population growth seen in the 1960s). Remember, the growth rate includes the deaths caused by war (see Table 4 from [Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/) p. 254), disease (see [Alma 46:40-41](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46.40-41#40)), and natural disasters (see [3 Nephi 8-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8); note that [3 Nephi 8:9-10,14-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8.9-10,14-15#9) says many cities were completely destroyed). A 2.0% or even 3.0% growth rate might have been possible for certain exceptional periods ([Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/), p. 244), but it is not reasonable to expect anything close to that for most of Nephite history ([Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/), p. 246-259).
+
+Let's see what happens when we allow as much of a growth rate as is reasonable:
+
+| year elapsed / date | growth rate up to that date `\((r)\)` | estimated population `\(\bigl(N_n=N_{n-1}e^{rt}\bigr)\)` | reasoning |
+| --- | --- | --- | --- |
+| 0 / 590 BC | 0.0% | 30 | 20 people is supported by scripture; 30 is generous ([Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/), p. 246)
+| 100 / 490 BC | 3.0% | 603 | initial expansion into unclaimed promised land may have allowed for rapid growth |
+| 430 / 160 BC | 0.2% | 1,166 | mixed hunter-gatherer/agrarian society and continual wars until King Mosiah ([Enos 1:20-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20-24#20); [Omni 1:3,5,17](https://www.churchofjesuschrist.org/study/scriptures/bofm/omni/1.3,5,17#3); [Mosiah 1:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1.1#1); [Mosiah 9:18-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/9.18-19#18), [10:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/10.20#20)); generously multiplying the post-Agricultural Revolution average (0.04%) by five |
+
+By this point there is already a problem. Around 187 BC the people of Limhi kill 3043 Lamanites (with 279 of their own dead), and then kill at least that many again (see [Mosiah 9:18-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/9.18-19#18), [10:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/10.20#20)). I'll quote from [Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/) again (p. 250):
+
+> Obviously the total Book of Mormon population at that time was much larger than 3,322 because numerous warriors were left alive after the battle as were women and male noncombatants. But even to produce a total population as large as the fatality figures for this one day would have required an average annual growth rate of 1.2 percent during the preceding four centuries. To put this into perspective, a growth rate of 1.2 percent was never achieved on a global basis or in the industrialized regions of the world as a whole until 1950-60 C.E. and was not reached in the developing regions as a whole until the 1930s (Bogue 1969, 48-49). The Nephite-Lehite rate is thirty times the rate that existed in the world as a whole during the same era. Moreover if, as is far more likely [according to the numbers of dead mentioned in these Limhite wars], the total population in 187 B.C. was in excess of 35,000, it would have taken an average annual growth rate of 1.8 percent to multiply the original thirty pioneers to that level at that time. This is a rate that has never been reached in the industrialized world and has only been achieved in the world overall since 1950 (see Table 2).
+
+Problems like this continue as the Book of Mormon story unfolds, and Kunich explains them in detail in his [article](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/). One way that people try to resolve the issue of population is by arguing that the newcomers mixed with indigenous people but didn't mentioned them "out of an ethnocentric penchant" ([Kunich](http://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-07/) p. 260). This is unlikely for the following reasons:
+
+- The Book of Mormon is quick to mention other historical events that were less notable than the act of assimilating a much larger native civilization upon arrival, let alone converting them to their religion.
+- Lehi prophesied that their promised land would "be kept as yet from the knowledge of other nations; for behold, many nations would overrun the land, that there would be no place for an inheritance" ([2 Nephi 1:8-9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/1.8-9#8)).
+- Mixing with native people might explain the dark skin acquired by the Lamanites, but the Nephites apparently remained white (see [3 Nephi 2:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/2.15#15)), which means they could not have intermarried with indigenous people.
+
+### anachronistic technologies
 
 Here are some smaller mistakes in the Book of Mormon:
 
@@ -148,18 +177,14 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 ### to do
 
 - [ ] add the example of solid gold plates from Ether
-- [ ] think about population growth in more detail
 - [ ] read [Book of Mormon Authorship](https://rsc.byu.edu/book/book-mormon-authorship)
 - [ ] find sources about Joseph's time period's interest in the Native Americans
-- [ ] find out if the numbers in the Book of Mormon satisfy Benford's law
 - [ ] study stylometry of the Book of Mormon (including style drift) (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
 - [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
-- [ ] read Are Christians Mormon?
 - [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
 - [ ] talk about the lack of Book of Mormon externalities as seen in [this post](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/)
 - [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
 - [ ] the "Great Spirit", and there's proof that Americans thought the Indians believed in a Great Spirit in the [Booth letters](https://en.wikisource.org/wiki/Ezra_Booth_letters), letter VI.
-- The Victorian English (especially thou vs. you) is misused in places like [Alma 17:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17.11#11), demonstrating that Joseph's grammar was involved in the production of the English text.
 
 ## similarity of the Book of Mormon to its 19th century theological context
 
@@ -238,7 +263,7 @@ We don't have all of the papyri that Joseph had when he translated the Book of A
 - think about these notes from a Mormon Stories interview with Jim Bennett:
   - The changing in Joseph's theology from trinitarian to split is reflected in the Lectures on Faith, the Book of Mormon, and the First Vision accounts. That's a simple, strong case.
   - With Jim Bennett, you have to believe that Joseph was making up all these authenticity stories (Abraham, Kinderhook plates, etc.) and believing them, but that they were incorrect stories.
-  - Joseph likely wasn't an intentional fraud, but we know for a fact that he said some things that were false about what he was doing.
+  - Joseph likely wasn't an intentional fraud, but we know for a fact that he said some things that were false about what he was doing. Joseph was sincere (quote his journal entry), but he believed in himself too much (Book of Abraham, Kinderhook Plates).
 
 ## polygamy
 
@@ -290,6 +315,8 @@ The church spends billions of dollars on building temples, while spending far le
 - These prophets don't look like prophets. We can look at the misguided morals of past prophets and excuse them by noting that they were of a different time, but that's moral relativism (which the church abhors). The church isn't ahead on social issues, but it isn't ahead on morality or or the Atonement either! Prophets really only provide "prophetic morality". They don't predict future events. They are supposed to just give us the inside scope on God's thoughts about moral action. When these prophets don't even give moral guidance that stands the test of time, but actually fight against moral progress, you know they are not Godly, just powerful and holding on to that power.
 - talk about how miracles are usually inflated (Kirtland temple miracles and [Nauvoo malaria healings](https://www.reddit.com/r/mormon/comments/nxt93k/mass_healing_in_nauvoo/))
 - Coffee has no specific ingredient we're against but it can keep you out of heaven. It's just part of the BITE model.
+- Mormon modesty fuels rape culture and contradicts agency. (see Mormon Stories #1360.) Bloggers and social scientists have a better answer about how to solve these problems, while church leaders are perpetuating toxic teachings.
+- Check out [this site](https://mormonknow.com/)
 
 ## what this all says about God
 
@@ -300,6 +327,7 @@ The church spends billions of dollars on building temples, while spending far le
 - talk about how it doesn't make sense for God to be filtering people based on who can believe on bad evidence. Respond to or use [this](https://philosophiesofmen.blogspot.com/2013/04/the-argument-from-divine-hiddenness-why.html)
 - talk about how the concept of sin is psychologically harmful, like in [this meme](https://www.reddit.com/r/exmormon/comments/m9op82/what_a_loving_god/)
 - include this [comic](https://www.reddit.com/r/exmormon/comments/m79dj8/the_great_apostasy_god_forgot_about_earth_for/) that put the idea of a Great Apostasy and the weird stuff of the Restoration in a humorous light
+- talk about how this religion doesn't really innovate on the subject of morality much. Mention how the world already knows a lot about safety from dangerous things (like from alcohol for example).
 
 ## to do
 
