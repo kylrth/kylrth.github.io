@@ -82,6 +82,7 @@ None of this disproves Mormonism, but it does mean that the method it asks you t
 - This [Reddit post](https://www.reddit.com/r/exmormon/comments/mkdgsu/just_a_reminder_that_if_something_is_true_you/) points out that in no other area of knowledge do we have to constantly reinforce our belief that something is true. That might be fine, except that other religions have to do the same thing, and it's all based on a few of the same cognitive biases. Street Epistemology videos do a good job demonstrating this.
 - This [Reddit post](https://www.reddit.com/r/exchristian/comments/gb687d/but_the_bible_says_so/) argues that the same standard of proof we require of other gods should be required of our own god.
 - Here's an [article](https://zelphontheshelf.com/is-god-real-a-response-to-mormon-org/) from Zelph on the Shelf that does a good job explaining this problem with confirming the truth of the existence of God through spiritual witness.
+- A better explanation for what we experience as members and see in church leadership is that *elevation emotion* (a pro-social, positive feeling produced by oxytocin [[source](https://www.sciencedirect.com/science/article/pii/S0306453013002369)]) is generally what we experience when we feel the Spirit. See this [article](http://mormonthoughts.com/?p=16) for more discussion.
 
 ### to do
 
@@ -177,15 +178,18 @@ The Book of Mormon lists the following domesticated animals: horses, cattle, oxe
 
 > Even if we grant that wild horses were around a given culture, the use of horses and chariots (or large wheeled vehicles of any kind) in the manner implied by Alma 18 and 20 is undocumented among any pre-Columbian Americans. The fallback apologetic model is that the chariot was more of a human-powered litter and the horses merely accompanied the kingly procession in order to provide food for the journey (there is some support for this in the text). Still, we expect that such a program of domestication (for food or otherwise) would have left marks in a culture’s iconography and dramatically increased the odds that horse remains would be associated with archaeological digs ... As it stands, there is no record of horses being domesticated for food by any pre-Columbian American culture of which I am aware. ([source](https://faenrandir.github.io/a_careful_examination/short-critique-horses-bom/))
 
-#### plates of brass
+#### plates of brass and plates of gold
 
-[1 Nephi 5:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5.10-13#10) notes that the plates of brass contained the five books of Moses as well as all the prophets down the Jeremiah, and [Mosiah 1:3-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1.3-4#3) says that the plates of brass were written in Egyptian. This is unlikely because the Old Testament texts were written in Hebrew and I have not found any references to Egyptian translations of the Old Testament in searching the internet. (The brass plates being in Egyptian also makes it more suspicious that the quotes from the Bible appear to be so similar to the KJV.) (TODO add more info and original sources ([here?](https://www.reddit.com/r/mormon/comments/l5l24f/brass_plates_in_egyptian/))to prove why this makes sense in Joseph's time and why it makes no sense for Lehi and Nephi.)
+> The fact is, that by the power of God I translated the book of Mormon from hierogliphics; the knowledge of which was lost to the world (Joseph Smith in a [letter](https://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1) to James Bennet, 1843)
+
+[1 Nephi 5:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5.10-13#10) notes that the plates of brass contained the five books of Moses as well as all the prophets down the Jeremiah, and [Mosiah 1:3-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1.3-4#3) says that the plates of brass were written in Egyptian. This is unlikely because the Old Testament texts were written in Hebrew and there don't appear to be any known Egyptian texts containing the Hebrew Pentateuch. (I have not found any references to Egyptian translations of the Old Testament in searching the internet.) The brass plates being in Egyptian also makes it more suspicious that the Book of Mormon Bible quotes are so similar to the KJV. The KJV Old Testament is mainly translated from the Hebrew Masoretic text, so a translation from Egyptian should not match the KJV so well.
+
+On the other hand if Joseph wrote the Book of Mormon the choice of Egyptian for both the brass and gold plates makes more sense. Early 19th-century America was fascinated with Egypt since Napoleon had recently taken control of Egypt and all sorts of artifacts were being brought back to the West, including the mummies and papyri that later came into the possession of Joseph Smith ([source](https://www.churchofjesuschrist.org/study/manual/gospel-topics/translation-and-historicity-of-the-book-of-abraham) under "Origin of the Book of Abraham"). At this time many believed that hieroglyphs were pictographic, not phonetic ([source](https://archive.org/details/egyptancientmode00russ/page/140/mode/2up), p. 140; see also Noah Webster's [definition](http://webstersdictionary1828.com/Dictionary/Hieroglyph) of *hieroglyph* from 1828). It was a common belief that Egyptian hieroglyphs could represent the equivalent of whole sentences or paragraphs in English (TODO source). If Joseph's going to translate from plates that are "six inches wide and eight inches long and not quite so thick as common tin", with the whole set "something near six inches in thickness" ([source](http://www.centerplace.org/history/ts/v3n09.htm), p. 706), an extremely compressed, undeciphered language is a good choice.
 
 In general, the Book of Mormon looks a lot like a fanciful tale compiled from what New England frontierspeople thought of Native Americans. There is no external history to back up anything the Book of Mormon says, unlike the Bible ([see this Reddit post for discussion of this point](https://www.reddit.com/r/exmormon/comments/k6h0w4/the_absolute_minimum_it_would_take_for_the_book/)).
 
 ### to do
 
-- [ ] add the example of solid gold plates from Ether
 - [ ] read [Book of Mormon Authorship](https://rsc.byu.edu/book/book-mormon-authorship)
 - [ ] find sources about Joseph's time period's interest in the Native Americans
 - [ ] study stylometry of the Book of Mormon (including style drift) (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
@@ -239,6 +243,7 @@ The Tower of Babel is impossible because of what we know about how languages dev
 - decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
   - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
   - study what modern prophets say about the truthfulness of the Book of Mormon
+- look at the [characters documents](https://www.josephsmithpapers.org/paper-summary/appendix-2-copies-of-book-of-mormon-characters-introduction/1)
 
 ## the First Vision
 
