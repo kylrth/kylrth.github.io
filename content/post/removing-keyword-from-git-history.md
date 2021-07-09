@@ -31,7 +31,7 @@ For this example, assume the keyword is "matrix". The example output shown is fr
 
     ```bash
     git rebase -i e275af8^ \
-        --exec 'grep -qri matrix . ; if [ $? -ne 1 ]; then exit 1; fi' \
+        --exec 'grep -qri --exclude-dir=.git matrix . ; if [ $? -ne 1 ]; then exit 1; fi' \
         --exec 'git log --notes | grep -qi matrix ; if [ $? -ne 1 ]; then exit 1; fi'
     ```
 
