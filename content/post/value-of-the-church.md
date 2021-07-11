@@ -48,3 +48,6 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - Mormonism is even more of a Pascal's mugging than the rest of Christianity because it places the exaltation of your whole family on whether it's true or not.
 - What's missing when you leave the church is the community and the tools you give to kids. How can we replace those? [challenge journals](https://challengejournals.com)?
 - share [this](https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/) with friends
+- thoughts on the hard problem of consciousness in this [Lex Fridman interview](https://open.spotify.com/episode/4gIFuUyepwl5V2Eh7HlW2x?si=MXkZUNBmRMiVnGER8s9cWQ&utm_source=sms&dl_branch=1)
+- It's a relatively new idea to identify ourselves according to our beliefs about things (communist, capitalist, deist, atheist, liberal, etc.). I want to be careful about the terms I use to identify myself, because I don't hold all of my beliefs with 100% confidence. So I might choose not to identify as atheist, even though I don't think that any of the religions are likely to be right.
+- Antimormonism feels so harmful and antagonistic because it IS antagonizing a culture that's just as valid as any other. Just because it's historically problematic doesn't mean it's not a valid culture and religion.
