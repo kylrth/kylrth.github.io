@@ -127,7 +127,7 @@ You can see [here](http://www.solomonspalding.com/SRP/parallels.htm) an example 
 
 > The size of the civilizations described in the Book of Mormon could not have existed and left no trace behind. The western Roman empire is roughly contemporaneous with the Book of Mormon and has left coins, pottery, weapons, etc all over the place. Even in Britain where it last appeared, there is ample evidence left behind. Modern archelogy [sic] is perfectly capable of finding evidence of civilizations of the size described in the Book of Mormon from that long ago. Nothing has been found because there is nothing to find. Or worse, what has been found has nothing to do with the Book of Mormon. Something else happened instead. ([source](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/))
 
-While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BC), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BC-800 AD), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 AD), or Inca (western South America 1300-1572 AD), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
+While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BC), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BC-800 AD), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 AD), or [Inca](https://en.wikipedia.org/wiki/Inca_Empire) (western South America 1300-1572 AD), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
 
 #### domesticated animals
 
@@ -147,7 +147,35 @@ On the other hand if Joseph wrote the Book of Mormon the choice of Egyptian for 
 
 ### 19th-century American ideas about indigenous Americans
 
-As Europeans arrived in the New World, they wanted to be able to explain the existence of the indigenous population they encountered. For Americans, a prominent source of intrigue was the mounds that could be found all over the Ohio river valley (see known mound locations [here](https://www.google.com/maps/d/viewer?msa=0&mid=1R2PaO3dIlkDTiJnG2mvYUjzEtsE)). Various theories abounded, but
+As Europeans arrived in the New World, they wanted to be able to explain the existence of the indigenous population they encountered. For Americans, a prominent source of intrigue was the mounds that could be found all over the Ohio river valley (see known mound locations [here](https://www.google.com/maps/d/viewer?msa=0&mid=1R2PaO3dIlkDTiJnG2mvYUjzEtsE)). Various theories abounded, but the major theme was that the Native Americans currently living there were not culturally capable of accomplishing such massive constructions. The overriding belief was that the "savage" Native Americans must have come and destroyed whatever civilization had built these mounds. It's now understood that the mounds were built by the same culture that lived there at the time of European arrival in Ohio in the 17th century. You can read more about the moundbuilder myth in this [Ohio history article](https://web.archive.org/web/20201112000735/https://www.ohiohistory.org/learn/collections/archaeology/archaeology-blog/2011/june-2011/the-moundbuilder-myth).
+
+This idea about a separate civilization building the mounds and then being destroyed was reflected in American popular culture, as seen in the poem "The Prairies" by William Bryant (full text [here](https://www.poetryfoundation.org/poems/55341/the-prairies)):
+
+> “Let the mighty mounds
+> That overlook the rivers, or that rise
+> In the dim forest crowded with old oaks,
+> Answer. A race, that long has passed away,
+> Built them;—a disciplined and populous race…
+>
+> In a forgotten language, and old tunes,
+> From instruments of unremembered form,
+> Gave the soft winds a voice. The red man came—
+> The roaming hunter tribes, warlike and fierce,
+> And the mound-builders vanished from the earth….
+>
+> All is gone;
+> All—save the piles of earth that hold their bones,
+> The platforms where they worshipped unknown gods,
+> The barriers which they builded from the soil
+> To keep the foe at bay—till o’er the walls
+> The wild beleaguerers broke, and, one by one,
+> The strongholds of the plain were forced, and heaped
+> With corpses. ...
+
+In 1829 President Andrew Jackson gave a speech in support of the Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)). More evidence of the importance of the moundbuilder myth to 18th-century America is the book *View of the Hebrews*, written by Ethan Smith. Smith wrote , the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many ideas about indigenous American civilizations
+
+https://en.wikipedia.org/wiki/View_of_the_Hebrews
+https://www.ldsdiscussions.com/influences
 
 ### summary
 
