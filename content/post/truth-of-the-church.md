@@ -143,7 +143,7 @@ The Book of Mormon lists the following domesticated animals: horses, cattle, oxe
 
 In addition, archaeologists have not found examples of writing on metal plates anywhere in the Americas or in the Middle East ([source](https://www.fairlatterdaysaints.org/evidences/Examples_of_ancient_writing_on_metal_plates)). The [Pyrgi plates]([Pyrgi tablets](https://en.wikipedia.org/wiki/Pyrgi_Tablets)) are dated to 500 BC and were found in Italy (relatively near Israel), but they are nothing near the scale of the Book of Mormon. For the Book of Mormon to have been written with characters the size of those on the Pyrgi plates, the golden plates would have to have been far larger than "six inches wide and eight inches long and not quite so thick as common tin", with the whole set "something near six inches in thickness" ([source](http://www.centerplace.org/history/ts/v3n09.htm), p. 706).
 
-On the other hand if Joseph wrote the Book of Mormon the choice of Egyptian for both the brass and gold plates makes more sense. Early 19th-century America was fascinated with ancient Egypt. Napoleon had recently taken control of Egypt and all sorts of artifacts were being brought back to the West, including the mummies and papyri that later came into the possession of Joseph Smith ([source](https://www.churchofjesuschrist.org/study/manual/gospel-topics/translation-and-historicity-of-the-book-of-abraham) under "Origin of the Book of Abraham"). At this time many believed that hieroglyphs were pictographic, not phonetic ([source](https://archive.org/details/egyptancientmode00russ/page/140/mode/2up), p. 140; see also Noah Webster's [definition](http://webstersdictionary1828.com/Dictionary/Hieroglyph) of *hieroglyph* from 1828). It was a common belief that Egyptian hieroglyphs could represent the equivalent of whole sentences or paragraphs in English (TODO source). An extremely compressed, undeciphered language is a good choice if Joseph's going to pretend to translate a 268,163-word book from plates that are the size mentioned above.
+On the other hand if Joseph wrote the Book of Mormon the choice of Egyptian for both the brass and gold plates makes more sense. Early 19th-century America was fascinated with ancient Egypt. Napoleon had recently taken control of Egypt and all sorts of artifacts were being brought back to the West, including the mummies and papyri that later came into the possession of Joseph Smith ([source](https://www.churchofjesuschrist.org/study/manual/gospel-topics/translation-and-historicity-of-the-book-of-abraham); look under "Origin of the Book of Abraham"). At this time many believed that hieroglyphs were pictographic, not phonetic ([source](https://archive.org/details/egyptancientmode00russ/page/140/mode/2up), p. 140; see also Noah Webster's [definition](http://webstersdictionary1828.com/Dictionary/Hieroglyph) of *hieroglyph* from 1828). It was a common belief that Egyptian hieroglyphs could represent the equivalent of whole sentences or paragraphs in English (TODO source). An extremely compressed, undeciphered language is a good choice if Joseph's going to pretend to translate a 268,163-word book from plates that are the size mentioned above.
 
 ### 19th-century American ideas about indigenous Americans
 
@@ -152,32 +152,63 @@ As Europeans arrived in the New World, they wanted to be able to explain the exi
 This idea about a separate civilization building the mounds and then being destroyed was reflected in American popular culture, as seen in the poem "The Prairies" by William Bryant (full text [here](https://www.poetryfoundation.org/poems/55341/the-prairies)):
 
 > “Let the mighty mounds
+>
 > That overlook the rivers, or that rise
+>
 > In the dim forest crowded with old oaks,
+>
 > Answer. A race, that long has passed away,
+>
 > Built them;—a disciplined and populous race…
->
+
 > In a forgotten language, and old tunes,
-> From instruments of unremembered form,
-> Gave the soft winds a voice. The red man came—
-> The roaming hunter tribes, warlike and fierce,
-> And the mound-builders vanished from the earth….
 >
+> From instruments of unremembered form,
+>
+> Gave the soft winds a voice. The red man came—
+>
+> The roaming hunter tribes, warlike and fierce,
+>
+> And the mound-builders vanished from the earth….
+
 > All is gone;
+>
 > All—save the piles of earth that hold their bones,
+>
 > The platforms where they worshipped unknown gods,
+>
 > The barriers which they builded from the soil
+>
 > To keep the foe at bay—till o’er the walls
+>
 > The wild beleaguerers broke, and, one by one,
+>
 > The strongholds of the plain were forced, and heaped
+>
 > With corpses. ...
 
-In 1829 President Andrew Jackson gave a speech in support of the Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)). More evidence of the importance of the moundbuilder myth to 18th-century America is the book *View of the Hebrews*, written by Ethan Smith. Smith wrote , the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many ideas about indigenous American civilizations
+In 1829 President Andrew Jackson gave a speech in support of the Indian Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)). More evidence of the importance of the moundbuilder myth to 18th-century America is the book *View of the Hebrews*, written by Ethan Smith (not related to Joseph). Ethan Smith was the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. He published the book twice, once in 1823 and again in 1825. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many Book of Mormon ideas about indigenous American civilizations were ideas available to Joseph at the time he produced the Book of Mormon:
 
-https://en.wikipedia.org/wiki/View_of_the_Hebrews
-https://www.ldsdiscussions.com/influences
+| **idea** | **in the Book of Mormon** | **in *View of the Hebrews*** |
+| --- | --- | --- |
+| destruction of Jerusalem | [2 Nephi 1:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/1.4#4) | [chapter 1](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_1) |
+| Israelite origin of American Indians | [Introduction, ¶2](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction.2#2) | [chapter 3](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_45-64)) |
+| book with lost language buried in the ground | [Testimony of Joseph Smith, ¶7](https://www.churchofjesuschrist.org/study/scriptures/bofm/js.7#7) | [p. 167](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_145-173)) |
 
-### summary
+Obviously there are differences between the two works:
+
+- In the Book of Mormon Jerusalem is destroyed in 600BC by the Babylonians, while in *View of the Hebrews* it's destroyed in 70 AD by the Romans.
+- In the Book of Mormon Lehi is of the tribe of Manasseh (see [Alma 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10.3#3)), while in *View of the Hebrews* those who come to the New World are of the 10 lost tribes.
+- The Book of Mormon was translated from reformed Egyptian on a set of golden plates, while *View of the Hebrews* is talking about a set of buried parchments written in Hebrew.
+
+But its clear that many of the ideas present in the Book of Mormon were available to Joseph in his environment.
+
+https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_1
+https://i1.wp.com/lifeafterministry.com/wp-content/uploads/2014/04/bom-view-of-the-hebrews-parallels.jpg
+https://read.cesletter.org/bom/#view-of-the-hebrews
+https://canonizer.com/blog/ces-reply-slogging-through-view-of-the-hebrews/
+
+### summary of the problems with the Book of Mormon narrative
 
 In general, the Book of Mormon looks a lot like a fanciful tale compiled from what New England frontierspeople thought of Native Americans. There is no external history to back up anything the Book of Mormon says, unlike the Bible (see this [Reddit post](https://www.reddit.com/r/exmormon/comments/k6h0w4/the_absolute_minimum_it_would_take_for_the_book/) for discussion of this point).
 
@@ -203,7 +234,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
 - look at Grant Palmer's thoughts on the preaching
 
-## narrative complexity in the Book of Mormon
+## Book of Mormon translation process
 
 [This interesting document](https://www.docdroid.net/sUW5NhW/book-of-mormon-details-pdf) compiles a huge list of long-range dependencies present in the Book of Mormon that Joseph would have to have kept track of in order to write the Book of Mormon himself. Critics either have to assume that he could remember all such details without notes, or that the several witnesses to the translation process (including Michael Morse, who never joined the church) were all deceived or lying when they said that he had no notes with him as he read from a seer stone inside a hat. One unlikely possibility is that he kept a pre-written manuscript inside his hat, but that seems farfetched. A more likely possibility is that most or all of the translation witnesses were in collusion with the exception of Michael Morse, who was given a false presentation of the translation process, but this again feels like shaky ground to stand on.
 
@@ -211,9 +242,10 @@ This is the one thing about the church that is hard to explain from a critical s
 
 ### to do
 
-- [ ] read this document more carefully
-- [ ] study historical sources relating to the translation process of the Book of Mormon
-- [ ] [how might Joseph have written it](https://www.mormonstories.org/podcast/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-william-l-davis/)
+- read this document more carefully
+- study historical sources relating to the translation process of the Book of Mormon
+- [how might Joseph have written it](https://www.mormonstories.org/podcast/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-william-l-davis/)
+- read the Urantia book
 
 ## scriptural literalism in the Book of Mormon
 
@@ -431,7 +463,6 @@ The church spends billions of dollars on building temples, while spending far le
 - this [Reddit post](https://www.reddit.com/r/mormon/comments/nkqfin/if_nothing_can_disprove_your_beliefs_how_do_you/) about being able to disprove beliefs
 - this [Reddit post](https://www.reddit.com/r/exmormon/comments/nkao49/tough_questions_for_the_tbm_to_answer_part_1/) with tough questions for TBMs
 - think about how Meldrum says if we can't find the buffalo bones, it makes sense we can't find the Nephite remnants.
-- read the Urantia book
 - read about Robert Ritner's handling of the book of Abraham, starting [here](https://www.reddit.com/r/mormon/comments/nmiuaa/update_on_robert_ritner_kidney_transplant/)
 - take a look at Bennett's response to the CES letter, and [this response](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) to that response
 - see if there's anything interesting in Bokovoy's [post](http://www.withoutend.org/my-new-article-with-interpreter/)
