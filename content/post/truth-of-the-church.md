@@ -187,7 +187,9 @@ This idea about a separate civilization building the mounds and then being destr
 >
 > With corpses. ...
 
-In 1829 President Andrew Jackson gave a speech in support of the Indian Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)). More evidence of the importance of the moundbuilder myth to 18th-century America is the book *View of the Hebrews*, written by Ethan Smith (not related to Joseph). Ethan Smith was the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. He published the book twice, once in 1823 and again in 1825. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many Book of Mormon ideas about indigenous American civilizations were ideas available to Joseph at the time he produced the Book of Mormon:
+In 1829 President Andrew Jackson gave a speech in support of the Indian Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)).
+
+More evidence of the influence Joseph's environment might have had on the Book of Mormon is the book *View of the Hebrews*, written by Ethan Smith (not related to Joseph). Ethan Smith was the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. He published the book twice, once in 1823 and again in 1825. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many Book of Mormon ideas about indigenous American civilizations were ideas available to Joseph at the time he produced the Book of Mormon:
 
 | **idea** | **in the Book of Mormon** | **in *View of the Hebrews*** |
 | --- | --- | --- |
@@ -196,20 +198,16 @@ In 1829 President Andrew Jackson gave a speech in support of the Indian Removal 
 | book with lost language buried in the ground | [Testimony of Joseph Smith, ¶7](https://www.churchofjesuschrist.org/study/scriptures/bofm/js.7#7) | [p. 167](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_145-173)) |
 | hieroglyphs in America based on Egyptian hieroglyphs | [1 Nephi 1:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1.2#2); in 1843 Joseph claimed to have translated the BoM from hieroglyphics ([source](https://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1)) | [p. 140](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_125-144)) |
 | Israelites in America separate; one group becomes "savage" and lives off wild game while the other remains civilized and builds forts and mounds in times of war | [2 Nephi 5:1-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.1-7#1), [Enos 1:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20#20), [2 Nephi 5:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.22-24#22), [Alma 22:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22.28#28), [Alma 49:2-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49.2-4#2) | [p. 130-131](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_125-144)) |
+| indigenous Americans will be brought the gospel by a Gentile nation, and then become part of the literal restoration of the tribes of Israel | [3 Nephi 16](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/16) | [p. 78](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_65-84)), [193](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_4) |
 
 Obviously there are differences between the two works:
 
 - In the Book of Mormon Jerusalem is destroyed in 600BC by the Babylonians, while in *View of the Hebrews* it's destroyed in 70 AD by the Romans.
-- In the Book of Mormon Lehi is of the tribe of Manasseh (see [Alma 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10.3#3)), while in *View of the Hebrews* those who come to the New World are of the 10 lost tribes.
+- In the Book of Mormon Lehi is of the tribe of Manasseh (see [Alma 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10.3#3)), while in *View of the Hebrews* those who come to the New World are of the 10 lost tribes in general.
 - The Book of Mormon was translated from reformed Egyptian on a set of golden plates, while *View of the Hebrews* is talking about a set of buried parchments written in Hebrew.
 - The Book of Mormon never mentions the word "hieroglyph".
 
-But the existence of this book makes it clear that many ideas present in the Book of Mormon were available to Joseph in his environment.
-
-https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_1
-https://i1.wp.com/lifeafterministry.com/wp-content/uploads/2014/04/bom-view-of-the-hebrews-parallels.jpg
-https://read.cesletter.org/bom/#view-of-the-hebrews
-https://canonizer.com/blog/ces-reply-slogging-through-view-of-the-hebrews/
+But the contents of this book make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
 
 ### summary of the problems with the Book of Mormon narrative
 
