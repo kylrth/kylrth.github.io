@@ -194,14 +194,17 @@ In 1829 President Andrew Jackson gave a speech in support of the Indian Removal 
 | destruction of Jerusalem | [2 Nephi 1:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/1.4#4) | [chapter 1](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_1) |
 | Israelite origin of American Indians | [Introduction, ¶2](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction.2#2) | [chapter 3](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_45-64)) |
 | book with lost language buried in the ground | [Testimony of Joseph Smith, ¶7](https://www.churchofjesuschrist.org/study/scriptures/bofm/js.7#7) | [p. 167](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_145-173)) |
+| hieroglyphs in America based on Egyptian hieroglyphs | [1 Nephi 1:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1.2#2); in 1843 Joseph claimed to have translated the BoM from hieroglyphics ([source](https://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1)) | [p. 140](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_125-144)) |
+| Israelites in America separate; one group becomes "savage" and lives off wild game while the other remains civilized and builds forts and mounds in times of war | [2 Nephi 5:1-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.1-7#1), [Enos 1:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20#20), [2 Nephi 5:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.22-24#22), [Alma 22:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22.28#28), [Alma 49:2-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49.2-4#2) | [p. 130-131](https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_3_(pages_125-144)) |
 
 Obviously there are differences between the two works:
 
 - In the Book of Mormon Jerusalem is destroyed in 600BC by the Babylonians, while in *View of the Hebrews* it's destroyed in 70 AD by the Romans.
 - In the Book of Mormon Lehi is of the tribe of Manasseh (see [Alma 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10.3#3)), while in *View of the Hebrews* those who come to the New World are of the 10 lost tribes.
 - The Book of Mormon was translated from reformed Egyptian on a set of golden plates, while *View of the Hebrews* is talking about a set of buried parchments written in Hebrew.
+- The Book of Mormon never mentions the word "hieroglyph".
 
-But its clear that many of the ideas present in the Book of Mormon were available to Joseph in his environment.
+But the existence of this book makes it clear that many ideas present in the Book of Mormon were available to Joseph in his environment.
 
 https://en.wikisource.org/wiki/View_of_the_Hebrews/Chapter_1
 https://i1.wp.com/lifeafterministry.com/wp-content/uploads/2014/04/bom-view-of-the-hebrews-parallels.jpg
