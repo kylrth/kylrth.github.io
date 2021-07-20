@@ -127,7 +127,13 @@ You can see [here](http://www.solomonspalding.com/SRP/parallels.htm) an example 
 
 > The size of the civilizations described in the Book of Mormon could not have existed and left no trace behind. The western Roman empire is roughly contemporaneous with the Book of Mormon and has left coins, pottery, weapons, etc all over the place. Even in Britain where it last appeared, there is ample evidence left behind. Modern archelogy [sic] is perfectly capable of finding evidence of civilizations of the size described in the Book of Mormon from that long ago. Nothing has been found because there is nothing to find. Or worse, what has been found has nothing to do with the Book of Mormon. Something else happened instead. ([source](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/))
 
-While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BC), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BC-800 AD), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 AD), or [Inca](https://en.wikipedia.org/wiki/Inca_Empire) (western South America 1300-1572 AD), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
+While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BC), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BC-800 AD), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 AD), or [Inca](https://en.wikipedia.org/wiki/Inca_Empire) (western South America 1300-1572 AD), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the scant parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
+
+Sometimes it's argued that God wiped away the evidence of Book of Mormon peoples in order to test our faith. This quote describes how inconsistent that is with the way God works generally:
+
+> As for locations being hidden to test faith, the old testament mentions hundreds of identified locations. Why did God not also test our faith by vanishing Egypt, Jericho, Jerusalem, Babylon, the whole of Greece and Rome, and any existence of their empires, or any records of their existence, except for one invisible manuscript that could only be seen by a group of eleven people and translated by just one of them four thousand years later? ... Did God hide all of this in the new world to test our faith, but in his infinite wisdom, leave the exact same type of evidence completely intact in the old world? It seems God left the old world almost unscathed, while wiping the Western hemisphere clean of any such corroborating details. Remember, "The Lord's house is a house of order". ([source](https://www.reddit.com/r/exmormon/comments/k6h0w4/the_absolute_minimum_it_would_take_for_the_book/))
+
+It doesn't seem reasonable for God to hide so much evidence in the New World just to leave room for faith in Joseph Smith's story later, and not do the same thing with the Old World.
 
 #### domesticated animals
 
@@ -189,7 +195,7 @@ This idea about a separate civilization building the mounds and then being destr
 
 In 1829 President Andrew Jackson gave a speech in support of the Indian Removal Act, in which he mentions that "in the monuments and fortresses of an unknown people, spread over the extensive regions of the West, we behold the memorials of a once powerful race, which was exterminated or has disappeared to make room for the existing savage tribes" ([source](https://web.archive.org/web/20210414150407/https://www.mtholyoke.edu/acad/intrel/andrew.htm)).
 
-More evidence of the influence Joseph's environment might have had on the Book of Mormon is the book *View of the Hebrews*, written by Ethan Smith (not related to Joseph). Ethan Smith was the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. He published the book twice, once in 1823 and again in 1825. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many Book of Mormon ideas about indigenous American civilizations were ideas available to Joseph at the time he produced the Book of Mormon:
+More evidence of the influence Joseph's environment might have had on the Book of Mormon narrative is the book *View of the Hebrews*, written by Ethan Smith (not related to Joseph). Ethan Smith was the pastor of a church in Poultney, Vermont, that Oliver Cowdery attended. He published the book twice, once in 1823 and again in 1825. It's unclear whether Oliver Cowdery and Ethan Smith ever met or knew each other personally ([source](https://web.archive.org/web/20210323194433/https://byustudies.byu.edu/wp-content/uploads/2020/02/39.1MorrisOliver-8f403b91-8468-424d-8789-a99672f16e4b.pdf)), but *View of the Hebrews* strongly demonstrates that many Book of Mormon ideas about indigenous American civilizations were ideas available to Joseph at the time he produced the Book of Mormon:
 
 | **idea** | **in the Book of Mormon** | **in *View of the Hebrews*** |
 | --- | --- | --- |
@@ -209,14 +215,8 @@ Obviously there are differences between the two works:
 
 But the contents of this book make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
 
-### summary of the problems with the Book of Mormon narrative
-
-In general, the Book of Mormon looks a lot like a fanciful tale compiled from what New England frontierspeople thought of Native Americans. There is no external history to back up anything the Book of Mormon says, unlike the Bible (see this [Reddit post](https://www.reddit.com/r/exmormon/comments/k6h0w4/the_absolute_minimum_it_would_take_for_the_book/) for discussion of this point).
-
 ### to do
 
-- [ ] study stylometry of the Book of Mormon (including style drift) (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
-- [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
 - [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
 - [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
 
@@ -234,6 +234,7 @@ In general, the Book of Mormon looks a lot like a fanciful tale compiled from wh
 - [ ] look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
 - [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
 - look at Grant Palmer's thoughts on the preaching
+- [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
 
 ## Book of Mormon translation process
 
@@ -247,6 +248,7 @@ This is the one thing about the church that is hard to explain from a critical s
 - study historical sources relating to the translation process of the Book of Mormon
 - [how might Joseph have written it](https://www.mormonstories.org/podcast/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-william-l-davis/)
 - read the Urantia book
+- [ ] talk about how stylometry demonstrates that Joseph had a reasonable level of influence on the English text of the Book of Mormon (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
 
 ## scriptural literalism in the Book of Mormon
 
@@ -267,6 +269,7 @@ The Tower of Babel is impossible because of what we know about how languages dev
   - study what modern prophets say about the truthfulness of the Book of Mormon
 - look at the [characters documents](https://www.josephsmithpapers.org/paper-summary/appendix-2-copies-of-book-of-mormon-characters-introduction/1)
 - The Book of Mormon can't be true and also not historical. Let's see what Joseph was saying about it. Would God trick him?
+- Here are some [sources](https://www.reddit.com/r/mormon/comments/ok6ljb/processing_the_real_book_of_mormon_my_experience/) for what Joseph and others said.
 
 ## the First Vision
 
@@ -417,6 +420,7 @@ The church spends billions of dollars on building temples, while spending far le
 - [failed prophecies](https://www.reddit.com/r/mormon/comments/oenfth/what_are_things_that_mormons_prophets_have_said/)
 - [happiness is not a good test for truth of the church](https://www.reddit.com/r/exmormon/comments/o8zhdg/the_mormon_churchs_claimed_monopoly_on_happiness/)
 - The church's population and evolution are exactly what you'd expect from a relatively high-demand religion produced in America.
+- The First Presidency announced in 1969 that God himself commanded the treatment of black people. Also check out this First Presidency [official statement](https://faenrandir.github.io/a_careful_examination/aug-2020-church-historian-communication-on-1949-first-presidency-statement/).
 
 ## what this all says about God
 
