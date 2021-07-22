@@ -86,6 +86,7 @@ Each one of these issues, taken in isolation, could be explained away by saying 
 - This [article](https://web.archive.org/web/20210202044338/https://rsc.byu.edu/isaiah-prophets/isaiah-variants-book-mormon) goes through differences between the KJV and Book of Mormon text, but tends to oversimplify issues and err on the side of support for the Book of Mormon in many cases. You can observe this by comparing his commentary on 2 Nephi 24:32 and 1 Nephi 20:11 with this [side-by-side English translation](http://dss.collections.imj.org.il/chapters_pg) of the Masoretic text and the Great Isaiah Scroll (IQIsa) from the Dead Sea scrolls. You'll see that the support he finds for the Book of Mormon as a translation of ancient text is quite a stretch.
 - A rather critical [piece](https://web.archive.org/web/20171002053843/http://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V36N01_171.pdf) from Dialogue Journal explores 2 Nephi 12:16 and 3 Nephi 12:22 in depth. The main [source](https://web.archive.org/web/20200709051157/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1377&context=jbms) I cited in my discussion of 2 Nephi 12:16 addresses many of the arguments made in that article.
 - Further discussion of the inclusion of KJV text in the Book of Mormon can be found [here](https://www.ldsdiscussions.com/kjv), [here](https://web.archive.org/web/20210218073942/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1088&context=mi), and [here](https://web.archive.org/web/20210609162535/http://signaturebookslibrary.org/book-of-mormon/).
+- One prominent issue I did not discuss is the inclusion of Duetero-Isaiah text in the Book of Mormon. All mainstream biblical scholars agree that Isaiah 40-66 was written after the Babylonian exile by someone else, meaning that text wouldn't have been available to Lehi and his family when they left for the New World. You can read David Bokovoy's discussion of the evidence for this in two parts, [one](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson/) and [two](https://rationalfaiths.com/truthfulness-deutero-isaiah-response-kent-jackson-part-2/), and this [article](https://www.ldsdiscussions.com/deuteroisaiah) discusses the implications of this evidence on the production of the Book of Mormon.
 
 ## historicity of the Book of Mormon narrative
 
@@ -145,7 +146,11 @@ The Book of Mormon lists the following domesticated animals: horses, cattle, oxe
 
 > The fact is, that by the power of God I translated the book of Mormon from hierogliphics; the knowledge of which was lost to the world (Joseph Smith in a [letter](https://www.josephsmithpapers.org/paper-summary/letter-to-james-arlington-bennet-13-november-1843/1) to James Bennet, 1843)
 
-[1 Nephi 5:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5.10-13#10) notes that the plates of brass contained the five books of Moses as well as all the prophets down the Jeremiah, and [Mosiah 1:3-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1.3-4#3) says that the plates of brass were written in Egyptian. This is unlikely because the Old Testament texts were written in Hebrew and there don't appear to be any known Egyptian texts containing the Hebrew Pentateuch. (I have not found any references to Egyptian translations of the Old Testament in searching the internet.) The brass plates being in Egyptian also makes it more suspicious that the Book of Mormon Bible quotes are so similar to the KJV. The KJV Old Testament is mainly translated from the Hebrew Masoretic text, so a translation from Egyptian should not match the KJV so well.
+[1 Nephi 5:10-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/5.10-13#10) notes that the plates of brass contained the five books of Moses as well as all the prophets down the Jeremiah, and [Mosiah 1:3-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/1.3-4#3) says that the plates of brass were written in Egyptian. David Bokovoy discusses how unlikely this is:
+
+> And we should note that even that material [the Dead Sea scrolls] is not a Bible. The concept of a book, you know, bringing all this material together and putting it in a book, that is a medieval notion or creation, of bringing things together like that. ... It is even more difficult for the Book of Mormon unfortunately---or challenging for traditional understandings or perceptions---because not only with the Pentateuch those five books have to exist as a bound book, but they'd have to be bound with the other material including Isaiah ... Going back to then the BoM, not only did that material not exist, but it would have had to have been translated (according to the BoM) into Egyptian. ... So not only would that material (for the Book of Mormon's traditional assumption) have to exist, but a *translation* of it would have to exist---into Egyptian! And as a historian I just can't find any way that that would mesh with the data. ... We will see translations of that sacred material put together but that'll be part of the Septuagint which is a Greek translation done in Alexandria, Egypt, you know, a couple of centuries before Jesus was born. (from an [interview](https://youtu.be/A4gSrxVa5To) with Mormon Stories, starting at [46:52](https://youtu.be/A4gSrxVa5To?t=2812))
+
+The brass plates being in Egyptian also makes it more suspicious that the Book of Mormon Bible quotes are so similar to the KJV. The KJV Old Testament is mainly translated from the Hebrew Masoretic text and never passed through Egyptian, so a translation from Egyptian should not match the KJV so well.
 
 In addition, archaeologists have not found examples of writing on metal plates anywhere in the Americas or in the Middle East ([source](https://www.fairlatterdaysaints.org/evidences/Examples_of_ancient_writing_on_metal_plates)). The [Pyrgi plates]([Pyrgi tablets](https://en.wikipedia.org/wiki/Pyrgi_Tablets)) are dated to 500 BC and were found in Italy (relatively near Israel), but they are nothing near the scale of the Book of Mormon. For the Book of Mormon to have been written with characters the size of those on the Pyrgi plates, the golden plates would have to have been far larger than "six inches wide and eight inches long and not quite so thick as common tin", with the whole set "something near six inches in thickness" ([source](http://www.centerplace.org/history/ts/v3n09.htm), p. 706).
 
@@ -213,11 +218,10 @@ Obviously there are differences between the two works:
 - The Book of Mormon was translated from reformed Egyptian on a set of golden plates, while *View of the Hebrews* is talking about a set of buried parchments written in Hebrew.
 - The Book of Mormon never mentions the word "hieroglyph".
 
-But the contents of this book make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
+But the contents of *View of the Hebrews* make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
 
 ### to do
 
-- [ ] check out this [interview](https://www.mormonstories.org/podcast/applying-higher-criticism-to-mormon-scripture-david-bokovoy/) with David Bokovoy about higher criticism
 - [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
 
 ## similarity of the Book of Mormon to its 19th century theological context
@@ -235,6 +239,7 @@ But the contents of this book make it clear that many ideas present in the Book 
 - [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
 - look at Grant Palmer's thoughts on the preaching
 - [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
+- Discuss Bokovoy's thoughts on the Christology in the Book of Mormon
 
 ## Book of Mormon translation process
 
