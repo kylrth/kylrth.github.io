@@ -184,3 +184,11 @@ In August 1833, Oliver Cowdery informed the Kirtland leaders that the Mormons ha
 The leaders of the Missourians who forced the Mormons out felt they had legitimate cause to do so, not as "a mob but the people in action." They were enacting democracy in self-defense. But for the Mormon minority, this was political and religious repression.
 
 This expulsion was a huge shock to Joseph, who thought God had assured him that the plans for Zion would go through. This also became the impetus for Joseph to receive his first revelations having anything to do with politics or the nation of the United States.
+
+## chapter 12
+
+Joseph created the 1832 account of his life sort of in response to the publishing of the Hurlbut affidavits. In it he talked about his youth as "anguished and searching"; "the failure of religious people to follow a 'holy walk' was 'a grief to my Soul.'" This is not how Lucy described him, much less the Hurlbut affidavits.
+
+"[Joseph's] journal entries, usually five or six lines jotted down casually when he had a spare moment, reveal a striving young man uncertain of his standing with God, yearning to be worthy, grateful when he finds peace," (p. 234). A lot of his journal entries were prayers to God, for forgiveness, for guidance, for safety, or for specific needs.
+
+Bushman notes that the Book of Mormon does not give very helpful guidance on the question of violence: "The *Book of Mormon* contained examples of extreme pacifism and equally vigorous militarism," (p. 235).
