@@ -22,7 +22,7 @@ I have undergone a faith transition. It started very suddenly one day after disc
 In publishing this to a broader audience than just myself, my point is not to disparage the church or the good that it does. I am also not trying to scare believers out of the church with surprising facts. Here is what I hope to demonstrate:
 
 - The Book of Mormon is likely not an ancient document because
-  - it contains borrowed text and themes that did not exist until after Moroni supposedly buried the record in 400 AD, and
+  - it contains borrowed text and themes that did not exist until after Moroni supposedly buried the record in 400 CE, and
   - its story is not plausible when compared with data that we do have about ancient America.
 - The method for determining that the church is true (i.e. "Moroni's Promise") functions by the same method that convinces all religious people of their respective beliefs.
 - The church's method for receiving revelation is faulty because prophets have claimed to be speaking for God when proclaiming doctrine and principles which were later recanted by the church. This leaves us without a way to reliably determine what God wants us to think when facing modern problems.
@@ -90,7 +90,7 @@ Each one of these issues, taken in isolation, could be explained away by saying 
 
 ## historicity of the Book of Mormon narrative
 
-The story in the Book of Mormon is of epic proportions: there are dozens of cities, several temples, people who miraculously convert by the thousands, and tens of thousands who die in brutal wars. The wars are especially dramatic and long-lasting: not forty years from when Lehi's family arrived in America, they "had already had wars and contentions with [their] brethren" ([2 Nephi 5:34](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.34#34)), and that continued with only short periods of peace except for a few hundred years after Jesus' visit (see [4 Nephi 1](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1), especially [v. 35-36, 47](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1.35-36,47#35)). These wars culminate in the death of at least 230,000 Nephites around 385 AD (see [Mormon 6:10-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6.10-15#10)). The Nephites had agriculture ([Mosiah 9:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/9.9#9)), metallurgy ([2 Nephi 5:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.15#15)), and ship building ([Alma 63:4-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/63.4-7#4)). Despite their generally larger population, for much of the timeline of the Book of Mormon the Lamanites appear to have been mostly hunter-gatherers with some cities later (see [Enos 1:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20#20), [2 Nephi 5:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.22-24#22), [Alma 22:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22.28#28), and [Alma 23:2-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23.2-15#2)).
+The story in the Book of Mormon is of epic proportions: there are dozens of cities, several temples, people who miraculously convert by the thousands, and tens of thousands who die in brutal wars. The wars are especially dramatic and long-lasting: not forty years from when Lehi's family arrived in America, they "had already had wars and contentions with [their] brethren" ([2 Nephi 5:34](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.34#34)), and that continued with only short periods of peace except for a few hundred years after Jesus' visit (see [4 Nephi 1](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1), especially [v. 35-36, 47](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1.35-36,47#35)). These wars culminate in the death of at least 230,000 Nephites around 385 CE (see [Mormon 6:10-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6.10-15#10)). The Nephites had agriculture ([Mosiah 9:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/9.9#9)), metallurgy ([2 Nephi 5:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.15#15)), and ship building ([Alma 63:4-7](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/63.4-7#4)). Despite their generally larger population, for much of the timeline of the Book of Mormon the Lamanites appear to have been mostly hunter-gatherers with some cities later (see [Enos 1:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/enos/1.20#20), [2 Nephi 5:22-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5.22-24#22), [Alma 22:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22.28#28), and [Alma 23:2-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/23.2-15#2)).
 
 There are several issues with how these nations functioned that I'll address below.
 
@@ -117,6 +117,7 @@ Problems like this continue as the Book of Mormon story unfolds, and Kunich expl
 - The Book of Mormon is quick to mention other historical events that were less notable than the act of assimilating a much larger native civilization upon arrival, let alone converting them to their religion.
 - Lehi prophesied that their promised land would "be kept as yet from the knowledge of other nations; for behold, many nations would overrun the land, that there would be no place for an inheritance" ([2 Nephi 1:8-9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/1.8-9#8)).
 - Mixing with native people might explain the dark skin acquired by the Lamanites, but the Nephites apparently remained white (see [3 Nephi 2:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/2.15#15)), which means they could not have intermarried with indigenous people on the scale required for such population growth.
+- If descendents of Lehi intermixed with indigenous populations, we would see near-Eastern DNA remnants in modern native American DNA. Instead, we see 99.6% of native American DNA attributable to Asian populations that crossed the Bering Strait many thousands of years before (TODO source).
 
 ### archaeology
 
@@ -128,7 +129,7 @@ You can see [here](http://www.solomonspalding.com/SRP/parallels.htm) an example 
 
 > The size of the civilizations described in the Book of Mormon could not have existed and left no trace behind. The western Roman empire is roughly contemporaneous with the Book of Mormon and has left coins, pottery, weapons, etc all over the place. Even in Britain where it last appeared, there is ample evidence left behind. Modern archelogy [sic] is perfectly capable of finding evidence of civilizations of the size described in the Book of Mormon from that long ago. Nothing has been found because there is nothing to find. Or worse, what has been found has nothing to do with the Book of Mormon. Something else happened instead. ([source](https://www.reddit.com/r/mormon/comments/m9wnbj/the_book_of_mormon_has_not_been_affirmatively/))
 
-While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BC), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BC-800 AD), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 AD), or [Inca](https://en.wikipedia.org/wiki/Inca_Empire) (western South America 1300-1572 AD), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the scant parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
+While there were relatively large civilizations like the [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (eastern Mexico 1500-400 BCE), [Maya](https://en.wikipedia.org/wiki/Maya_civilization) (southern Mexico and Guatemala 2000 BCE-800 CE), [Aztecs](https://en.wikipedia.org/wiki/Aztecs) (southern Mexico 1300-1521 CE), or [Inca](https://en.wikipedia.org/wiki/Inca_Empire) (western South America 1300-1572 CE), none come close to matching the time period and events described in the Book of Mormon. This is much stronger evidence than the scant parallels that have been drawn between Book of Mormon civilizations and the wide variety of civilizations that existed in the Americas.
 
 Sometimes it's argued that God wiped away the evidence of Book of Mormon peoples in order to test our faith. This quote describes how inconsistent that is with the way God works generally:
 
@@ -213,32 +214,39 @@ More evidence of the influence Joseph's environment might have had on the Book o
 
 Obviously there are differences between the two works:
 
-- In the Book of Mormon Jerusalem is destroyed in 600BC by the Babylonians, while in *View of the Hebrews* it's destroyed in 70 AD by the Romans.
+- The Book of Mormon is talking about the Babylonian destruction of Jerusalem in 600 BCE, while it's the 70 CE Roman destruction of Jerusalem that appears in *View of the Hebrews*.
 - In the Book of Mormon Lehi is of the tribe of Manasseh (see [Alma 10:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/10.3#3)), while in *View of the Hebrews* those who come to the New World are of the 10 lost tribes in general.
 - The Book of Mormon was translated from reformed Egyptian on a set of golden plates, while *View of the Hebrews* is talking about a set of buried parchments written in Hebrew.
 - The Book of Mormon never mentions the word "hieroglyph".
 
 But the contents of *View of the Hebrews* make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
 
+### todo
+
+- God's revelations clearly talk about the Lamanites as the native Americans in the North American west ([source](https://www.ldsdiscussions.com/dna))
+
+## similarity of the Book of Mormon's theology to its 19th century theological context
+
+> "And then there is the fact that there is phrasing everywhere---long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament. That is, it has Christ in it the way Protestants saw Christ everywhere in the Old Testament. That’s why we now call it “Hebrew Bible” because the Jews never saw it quite that way. So, these are all problems we have to deal with." -- Richard Bushman, Church historian ([source](http://www.mormondiscussionpodcast.org/2017/05/premium-book-mormon-historicity/))
+
 ### to do
 
-- [ ] talk about DNA issues ([source](https://www.mormonstories.org/podcast/three-geneticists-respond-lds-essay-dna-book-of-mormon-michael-ash/))
+- Trinity vs. Godhead
+- Isaiah with 19th-century interpretation (Bokovoy's rise/sit down)
+- hidden/slippery treasures (*The Magus and Agrippa*, [ldsdiscussions](https://www.ldsdiscussions.com/influences))
+- Gadianton robbers as Masons (Helaman 6:21-22, [ldsdiscussions](https://www.ldsdiscussions.com/influences))
+- charismatic revivals
+- concepts of the Atonement: "Atonement theology took many decades to develop in the first century of the Christian movement, and continued to develop beyond that time. But it appears more or less fully developed among the Nephites many centuries before even the birth of Jesus. Penal Substitution theory is quite late, modeled on feudalistic crime and punishment, but it's in the BOM. The earliest form of atonement theology is the ransom theory of atonement (first century CE), but it's not in the BOM." ([source](https://www.reddit.com/r/mormon/comments/ayfqas/there_is_no_case_to_be_made_for_a_historical_book/))
+- "A Christology among the Nephites that seems to be influenced by the Gospel of John - that is to say, a Jesus who was Son of God from before his birth, as opposed to a Jesus who was adopted as God's son at his birth or baptism as an adult, as is taught in the earlier gospels." ([source](https://www.reddit.com/r/mormon/comments/ayfqas/there_is_no_case_to_be_made_for_a_historical_book/))
+- the concept of heaven and hell ([source](https://www.reddit.com/r/mormon/comments/ayfqas/there_is_no_case_to_be_made_for_a_historical_book/))
 
-## similarity of the Book of Mormon to its 19th century theological context
-
-> "And then there is the fact that there is phrasing everywhere–long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament. That is, it has Christ in it the way Protestants saw Christ everywhere in the Old Testament. That’s why we now call it “Hebrew Bible” because the Jews never saw it quite that way. So, these are all problems we have to deal with." -- Richard Bushman, Church historian ([source](http://www.mormondiscussionpodcast.org/2017/05/premium-book-mormon-historicity/))
-
-### to do
-
-- [ ] describe and fact-check the interesting points from [this discussion](https://www.reddit.com/r/mormon/comments/kuw026/19nth_century_idiosyncrasies_more/)
-- [ ] and [this one](https://www.ldsdiscussions.com/influences)
-- [ ] watch this [video](https://www.youtube.com/watch?v=0AwHLRqX3Qk) about the Second Great Awakening
-- [ ] show how Joseph's magical world view influenced the coming forth and contents of the Book of Mormon ([source](https://www.reddit.com/r/mormon/comments/mppgtc/a_brief_summary_of_the_magical_origins_of_the/))
-  - [ ] look at Peter Ingersoll's affidavit (1833) in *Mormonism Unvailed*
-- [ ] look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
-- [ ] look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
+- [source](https://www.reddit.com/r/mormon/comments/ayfqas/there_is_no_case_to_be_made_for_a_historical_book/)
+- watch this [video](https://www.youtube.com/watch?v=0AwHLRqX3Qk) about the Second Great Awakening
+- show how Joseph's magical world view influenced the coming forth and contents of the Book of Mormon ([source](https://www.reddit.com/r/mormon/comments/mppgtc/a_brief_summary_of_the_magical_origins_of_the/))
+- look at this [article](https://www.reddit.com/r/exmormon/comments/n8dtcm/this_is_probably_the_best_article_ive_seen_on_the/) about Captain Kidd and how the story may have influenced Joseph Smith
+- look into Bokovoy's opinions about the Book of Mormon, starting with [this summary post](https://www.reddit.com/r/mormon/comments/nlsihc/david_bokovoys_take_on_the_bom/)
 - look at Grant Palmer's thoughts on the preaching
-- [ ] read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
+- read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
 - Discuss Bokovoy's thoughts on the Christology in the Book of Mormon
 
 ## Book of Mormon translation process
@@ -253,48 +261,10 @@ This is the one thing about the church that is hard to explain from a critical s
 - study historical sources relating to the translation process of the Book of Mormon
 - [how might Joseph have written it](https://www.mormonstories.org/podcast/visions-in-a-seer-stone-joseph-smith-and-the-making-of-the-book-of-mormon-william-l-davis/)
 - read the Urantia book
-- [ ] talk about how stylometry demonstrates that Joseph had a reasonable level of influence on the English text of the Book of Mormon (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
-
-## scriptural literalism in the Book of Mormon
-
-The Book of Mormon takes as literal the stories of the Tower of Babel, the Flood, and Adam and Eve. But these stories weren't well-known before the compilation of Genesis, which didn't happen until the 6th or 5th century BC. These stories are based on similar myths told in the societies close to Israel at that time, and were likely included in the Hebrew canon at that time.
-
-The Tower of Babel is impossible because of what we know about how languages develop and diverge. The Flood is impossible because Noah could not have built an ark that would carry all the animals of the Earth along with all their necessary food for that amount of time. Adam and Eve may have existed, but there were certainly humans existing tens of thousands of years before them. Either those humans didn't have souls, or they didn't exist and we have to believe that "true" humanity has only been around for 6000-7000 years.
-
-### to do
-
-- [ ] improve explanations for the impossibility of these myths
-
-## what did Joseph and others say about the Book of Mormon?
-
-### to do
-
-- decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
-  - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
-  - study what modern prophets say about the truthfulness of the Book of Mormon
-- look at the [characters documents](https://www.josephsmithpapers.org/paper-summary/appendix-2-copies-of-book-of-mormon-characters-introduction/1)
-- The Book of Mormon can't be true and also not historical. Let's see what Joseph was saying about it. Would God trick him?
-- Here are some [sources](https://www.reddit.com/r/mormon/comments/ok6ljb/processing_the_real_book_of_mormon_my_experience/) for what Joseph and others said.
-
-## the First Vision
-
-The First Vision is confusing because:
-
-- There are four different accounts that contradict one another, and the story tends to be embellished over time.
-- Earlier accounts do not reference the visit of both God the Father and Jesus Christ as two individuals, which lines up with the trinitarian view that Joseph Smith had at the beginning of his prophetic career. It also lines up with the trinitarian language present in the earliest version of the Book of Mormon.
-
-## to do
-
-- [ ] get sources for this
-- [ ] turn this into a section about how Joseph often used revelations and visions when they were useful
-
-## "Where did he come up with the doctrine?"
-
-This is a common argument for divine origin of the Book of Mormon.
-
-### to do
-
-- [ ] read On Bullshit
+- talk about how stylometry demonstrates that Joseph had a reasonable level of influence on the English text of the Book of Mormon (see [this](http://www.withoutend.org/stylistic-drift-book-mormon-dictation/))
+- read *On Bullshit*
+- mention how the revelations in the BoM are very specific (Jesus, America, Joseph son of Joseph, etc.), but then not so specific afterward ([ldsdiscussions](https://www.ldsdiscussions.com/influences))
+  - also the 116 pages and how sketchy that is
 
 ## other translation efforts of Joseph Smith
 
@@ -310,6 +280,31 @@ We don't have all of the papyri that Joseph had when he translated the Book of A
   - With Jim Bennett, you have to believe that Joseph was making up all these authenticity stories (Abraham, Kinderhook plates, etc.) and believing them, but that they were incorrect stories.
   - Joseph likely wasn't an intentional fraud, but we know for a fact that he said some things that were false about what he was doing. Joseph was sincere (quote his journal entry), but he believed in himself too much (Book of Abraham, Kinderhook Plates).
 - [Ritner](https://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/Translation%20and%20Historicity%20of%20the%20Book%20of%20Abraham_Revised.pdf) on the BoA
+- Bokovoy on D&C 93
+
+## what did Joseph and others say about the Book of Mormon and other revelatory works?
+
+### to do
+
+- decide whether it's ok that the Book of Mormon is not an ancient record but an inspired creation
+  - study what Joseph Smith and the witnesses to the translation process said about the Book of Mormon
+  - study what modern prophets say about the truthfulness of the Book of Mormon
+- look at the [characters documents](https://www.josephsmithpapers.org/paper-summary/appendix-2-copies-of-book-of-mormon-characters-introduction/1)
+- The Book of Mormon can't be true and also not historical. Let's see what Joseph was saying about it. Would God trick him?
+- Here are some [sources](https://www.reddit.com/r/mormon/comments/ok6ljb/processing_the_real_book_of_mormon_my_experience/) for what Joseph and others said.
+- The Book of Mormon was written *to* the Lamanites, but now we don't know where they are (DNA evidence).
+
+## the First Vision
+
+The First Vision is confusing because:
+
+- There are four different accounts that contradict one another, and the story tends to be embellished over time.
+- Earlier accounts do not reference the visit of both God the Father and Jesus Christ as two individuals, which lines up with the trinitarian view that Joseph Smith had at the beginning of his prophetic career. It also lines up with the trinitarian language present in the earliest version of the Book of Mormon.
+
+## to do
+
+- [ ] get sources for this
+- [ ] turn this into a section about how Joseph often used revelations and visions when they were useful
 
 ## polygamy
 
