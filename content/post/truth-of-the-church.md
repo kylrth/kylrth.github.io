@@ -24,9 +24,12 @@ In publishing this to a broader audience than just myself, my point is not to di
 - The Book of Mormon is likely not an ancient document because
   - it contains borrowed text and themes that did not exist until after Moroni supposedly buried the record in 400 CE, and
   - its story is not plausible when compared with data that we do have about ancient America.
+- The other revelatory productions of Joseph Smith are most easily explained as pseudepigrapha rather than authentic translations or revelations.
 - The method for determining that the church is true (i.e. "Moroni's Promise") functions by the same method that convinces all religious people of their respective beliefs.
 - The church's method for receiving revelation is faulty because prophets have claimed to be speaking for God when proclaiming doctrine and principles which were later recanted by the church. This leaves us without a way to reliably determine what God wants us to think when facing modern problems.
 - The church is full of "philosophies of men" and prizes obedience more highly than morality.
+
+Like I said earlier, this doesn't contain every single reason not to believe in the church, but these are what I believe to be the strongest reasons.
 
 ## impactful posts, articles, videos, or podcasts
 
@@ -117,7 +120,6 @@ Problems like this continue as the Book of Mormon story unfolds, and Kunich expl
 - The Book of Mormon is quick to mention other historical events that were less notable than the act of assimilating a much larger native civilization upon arrival, let alone converting them to their religion.
 - Lehi prophesied that their promised land would "be kept as yet from the knowledge of other nations; for behold, many nations would overrun the land, that there would be no place for an inheritance" ([2 Nephi 1:8-9](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/1.8-9#8)).
 - Mixing with native people might explain the dark skin acquired by the Lamanites, but the Nephites apparently remained white (see [3 Nephi 2:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/2.15#15)), which means they could not have intermarried with indigenous people on the scale required for such population growth.
-- If descendents of Lehi intermixed with indigenous populations, we would see near-Eastern DNA remnants in modern native American DNA. Instead, we see 99.6% of native American DNA attributable to Asian populations that crossed the Bering Strait many thousands of years before (TODO source).
 
 ### archaeology
 
@@ -221,19 +223,23 @@ Obviously there are differences between the two works:
 
 But the contents of *View of the Hebrews* make it clear that many ideas present in the Book of Mormon reflect the views Americans had of indigenous people at the time.
 
-### todo
-
-- God's revelations clearly talk about the Lamanites as the native Americans in the North American west ([source](https://www.ldsdiscussions.com/dna))
+It's important to note that in multiple locations in the Doctrine and Covenants we see God referring to the native Americans west of the United States as Lamanites (see [D&C 28:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/28.8#8), [54:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/54.8#8), ; see also the heading "The Book of Mormon and the Lamanites" [here](https://www.ldsdiscussions.com/dna)), so it's clear that the Book of Mormon is talking about these people and not others.
 
 ## similarity of the Book of Mormon's theology to its 19th century theological context
 
 > "And then there is the fact that there is phrasing everywhere---long phrases that if you google them you will find them in 19th century writings. The theology of the Book of Mormon is very much 19th century theology, and it reads like a 19th century understanding of the Hebrew Bible as an Old Testament. That is, it has Christ in it the way Protestants saw Christ everywhere in the Old Testament. That’s why we now call it “Hebrew Bible” because the Jews never saw it quite that way. So, these are all problems we have to deal with." -- Richard Bushman, Church historian ([source](http://www.mormondiscussionpodcast.org/2017/05/premium-book-mormon-historicity/))
 
+The Book of Mormon contains 19th-century Christian theology that would not have existed at the time Lehi left Jerusalem.
+
+- The Book of Mormon taught a rather trinitarian view of God, in contrast with Joseph's later revelations on the Godhead. You can see this in [Mosiah 15:1-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15.1-5#1), but also in several locations of the 1830 edition of the Book of Mormon that were changed later. Here the bold text is added from the 1837 edition forward:
+  - 1 Nephi 11:18: Behold, the virgin whom thou seest is the mother **of the son** of God ([modern](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11.18#18), [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31))
+  - 1 Nephi 11:21: Behold, the Lamb of God, yea, even **the Son of** the Eternal Father! ([modern](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11.21#21), [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31))
+  - 1 Nephi 11:32: yea, **the Son of** the everlasting God was judged of the world ([modern](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11.32#32), [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32))
+  - 1 Nephi 13:40: the Lamb of God is **the Son of** the Eternal Father, and the Savior of the world ([modern](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13.40#40), [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/38))
+- The Book of Mormon mentions "slippery treasures" ([Helaman 12:18-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/12.18-19#18), [13:35](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/13.35#35); [Mormon 1:18-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/1.18-19#18)), which was a common theme from 19th-century treasure digging. You can see this in accounts of Joseph's treasure digs, like [this one](https://www.josephsmithpapers.org/paper-summary/appendix-docket-entry-20-march-1826-people-v-js/1#ft-source-note).
+
 ### to do
 
-- Trinity vs. Godhead
-- Isaiah with 19th-century interpretation (Bokovoy's rise/sit down)
-- hidden/slippery treasures (*The Magus and Agrippa*, [ldsdiscussions](https://www.ldsdiscussions.com/influences))
 - Gadianton robbers as Masons (Helaman 6:21-22, [ldsdiscussions](https://www.ldsdiscussions.com/influences))
 - charismatic revivals
 - concepts of the Atonement: "Atonement theology took many decades to develop in the first century of the Christian movement, and continued to develop beyond that time. But it appears more or less fully developed among the Nephites many centuries before even the birth of Jesus. Penal Substitution theory is quite late, modeled on feudalistic crime and punishment, but it's in the BOM. The earliest form of atonement theology is the ransom theory of atonement (first century CE), but it's not in the BOM." ([source](https://www.reddit.com/r/mormon/comments/ayfqas/there_is_no_case_to_be_made_for_a_historical_book/))
@@ -471,6 +477,7 @@ The church spends billions of dollars on building temples, while spending far le
 - read about Robert Ritner's handling of the book of Abraham, starting [here](https://www.reddit.com/r/mormon/comments/nmiuaa/update_on_robert_ritner_kidney_transplant/)
 - take a look at Bennett's response to the CES letter, and [this response](https://www.reddit.com/r/mormonscholar/comments/b0ig4a/a_pointed_response_to_jim_bennetts_a_faithful/) to that response
 - see if there's anything interesting in Bokovoy's [post](http://www.withoutend.org/my-new-article-with-interpreter/)
+- some [info](https://www.reddit.com/r/mormon/comments/oq9x6s/ask_an_egyptologist/) on Egyptology
 - work out the thesis statement a bit better
 - What I'm really emphasizing are sources that can be backed up from right at home using your computer.
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
