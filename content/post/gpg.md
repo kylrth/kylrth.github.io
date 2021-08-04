@@ -11,4 +11,4 @@ Git commit authorship can be modified by anyone, as demonstrated by [this tool](
 
 First, upload your GPG public key to GitHub through the Settings page. Then, tell git about your signing key by following the instructions [here](https://docs.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key).
 
-From now on, add `-S` to your `git commit` invocation, and `-s` to your `git tag` invocation. Add `"git.enableCommitSigning": true,` to your VS Code `settings.json` so that VS Code signs commits for you. You can even [forward your GPG keys to remote SSH sessions](https://wiki.gnupg.org/AgentForwarding).
+From now on, add `-S` to your git invocations that create commits (`commit`, `rebase`, etc.), and `-s` to your `git tag` invocations. Add `"git.enableCommitSigning": true,` to your VS Code `settings.json` so that VS Code signs commits for you. You can even [forward your GPG keys to remote SSH sessions](https://wiki.gnupg.org/AgentForwarding).
