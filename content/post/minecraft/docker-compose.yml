@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  acmecraft:
+    image: dlord/spigot
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./data/server:/var/lib/minecraft
+      - ./data/spigot:/opt/minecraft
+    ports:
+      - "25567:25565"
+    environment:
+      - DEFAULT_OP=<your username>
+      - MINECRAFT_EULA=true
+      - MINECRAFT_VERSION=1.16.1
