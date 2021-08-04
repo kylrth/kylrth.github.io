@@ -13,7 +13,7 @@ This is the paper describing the Transformer, a sequence-to-sequence model based
 
 ## model overview
 
-![overview of the transformer model](transformer.png)
+{{< zoom-img src="transformer.png" >}}
 
 From this picture, I think the following things need explaining:
 
@@ -27,7 +27,7 @@ From this picture, I think the following things need explaining:
 
 ### multi-head attention
 
-![a depiction of multi-head attention with optional masking](multi-head-attention.png)
+{{< zoom-img src="multi-head-attention.png" >}}
 
 The "Mask (opt.)" can be ignored because that's for masked attention, described above.
 

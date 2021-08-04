@@ -43,7 +43,7 @@ After these optimizations, building a 200k word piece inventory can take a few h
 
 They also do something important to make sure the ASR output text has spaces formatted reasonably. It's best explained in the following image from the paper:
 
-![steps of segmentation and space-marking with underscores](spaces.png)
+{{< zoom-img src="spaces.png" >}}
 
 ## LM
 
