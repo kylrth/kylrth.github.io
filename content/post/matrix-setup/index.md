@@ -2,7 +2,7 @@
 title: "Matrix setup with Synapse, Postgres, Maubot, and matrix-registration"
 date: 2021-08-02T10:30:00-06:00
 draft: false
-tags: ["matrix"]
+tags: ["self-hosted", "matrix"]
 ---
 
 This is how I set up my own [Matrix](https://matrix.org) server on a Raspberry Pi with Docker. Unfortunately, the Matrix community has stopped releasing ARM images, so the latest version that will work on ARM is v1.26.0. The instructions will work the same for x86_64 systems, except you'll be able to use the default x86_64 images in the docker-compose file.

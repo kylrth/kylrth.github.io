@@ -2,7 +2,7 @@
 title: "Minecraft in Docker with SpigotMC"
 date: 2021-08-02T13:25:28-06:00
 draft: false
-tags: ["minecraft", "docker"]
+tags: ["self-hosted", "minecraft"]
 ---
 
 SpigotMC is a reimplementation of Minecraft with some optimizations and the ability to run mods. I choose to use it because there's a Docker image that makes it easy to host. This guide shows how to host multiple Minecraft servers on a single machine.

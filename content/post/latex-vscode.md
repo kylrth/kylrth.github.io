@@ -2,7 +2,7 @@
 title: "I really just want to edit and compile my LaTeX files in VS Code"
 date: 2021-07-12T21:43:47-06:00
 draft: false
-tags: ["programming"]
+tags: ["self-hosted", "programming"]
 ---
 
 LaTeX has a ton of different flavors, releases, and installations: [MacTeX](https://en.wikipedia.org/wiki/MacTeX), [MiKTeX](https://en.wikipedia.org/wiki/MiKTeX), [TeXworks](https://en.wikipedia.org/wiki/TeXworks), [XeTeX](https://en.wikipedia.org/wiki/XeTeX), [pdfTeX](https://en.wikipedia.org/wiki/PdfTeX), [LuaTeX](https://en.wikipedia.org/wiki/LuaTeX)... If you're using Linux and just want to edit LaTeX files in Visual Studio Code and have them automatically rendered as PDFs, follow these instructions:

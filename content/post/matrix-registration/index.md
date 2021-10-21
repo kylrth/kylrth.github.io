@@ -2,7 +2,7 @@
 title: "using Matrix"
 date: 2020-02-02T12:34:56-07:00
 draft: false
-tags: ["matrix", "security"]
+tags: ["self-hosted", "matrix", "security"]
 ---
 
 Matrix is a *federated*, open source chat system. By federated, we mean that people can communicate across different servers, like in the image below. In that way, it works sort of like email: even though you may use `you@gmail.com` and I might use `me@kylrth.com`, we can still write each other emails.
