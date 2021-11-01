@@ -63,6 +63,8 @@ Before coming to Canada we made sure we had a couple of credit cards with no for
 
 To get a bank account, you need a Social Insurance Number (SIN) from the government of Canada. You can fill out a form online to start the process, but the response time is several weeks. You can also go in person to a ServiceCanada office and get it the same day, which is what I tried to do. For me there was some kind of problem on the immigration office side, and I ended up needing to submit for it the regular way there in the ServiceCanada office. So it was a while before I got that in the mail, and then I was finally able to schedule an appointment with Scotiabank to open an account.
 
+There are a lot of options for getting our money transferred from our American account to our Canadian account, each with their own fees and rules. So far the lowest-cost option seems to be a transfer with [Wise](https://wise.com/) (direct debit, not a wire because our bank charges $30 for wires). If you do a transfer there you should contact me so I can refer you (we'll both get discounts!).
+
 ## **Welcome to Canada!** 🇨🇦
 
 {{< zoom-img src="autumn.jpg" >}}
