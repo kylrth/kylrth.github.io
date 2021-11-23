@@ -42,7 +42,14 @@ Once you've updated the Dockerfiles, you will be able to build the images by cal
 
 Now take a look at the sample [`docker-compose.yml`](https://github.com/kylrth/GPU-Jupyterhub/blob/master/docker-compose.yml). You'll notice that it mounts `./data/configs/` to the Hub container. Check out that directory yourself, and you'll find `jupyterhub_config.py` and `userlist`. Edit `userlist` to reflect the users you previously added to the Dockerfile, marking the admin users as desired. Now edit `jupyterhub_config.py`. You need to create a token for `c.ConfigurableHTTPProxy.auth_token`, and update the paths in `c.DockerSpawner.volumes` to point to the paths on the host computer where the user data and shared data will be stored. Finally, add the users you just added to the `userlist` to `c.Authenticator.allowed_users` and `c.Authenticator.admin_users`.
 
-Now run `docker-compose up` and you should be up and running!
+Now run `docker-compose up` and you should be up and running! To test your installation, run the following in a Jupyter notebook:
+
+```python
+import torch
+print(torch.rand(2, 3).cuda())
+```
+
+If you get a matrix printed back with no errors, you're good to go!
 
 Here are some **known issues**:
 
