@@ -89,6 +89,10 @@ Now you know that you're connecting to the server you think you are.
 
 Now whenever the server reboots I SSH into the dropbear instance, run `cryptroot-unlock`, and provide the decryption key. Note that if you shut down the server from inside the dropbear instance instead of booting into Ubuntu, Wake-on-LAN will not be enabled for the next boot.
 
+## systemd and docker
+
+TODO
+
 ## status checks
 
 There is some good self-hosted status check software out there, but then I'd have to be running it on another computer. So I use [UptimeRobot](https://uptimerobot.com) (not sponsored), which is free when you monitor less than 50 services. Now when something goes wrong with the server I get notifications from UptimeRobot instead of complaints from friends and family!
