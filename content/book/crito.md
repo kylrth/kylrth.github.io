@@ -3,7 +3,7 @@ title: "Crito"
 author: "Plato"
 goodreads: "https://www.goodreads.com/book/show/780072"
 date: 2021-12-27T14:05:02-07:00
-draft: true
+draft: false
 tags: ["philosophy"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348233590l/780072.jpg"
 ---
@@ -16,7 +16,7 @@ In this dialogue Crito comes to Socrates who is in prison waiting to be executed
 >
 > SOCRATES: I only wish it were so, Crito; and that the many could do the greatest evil; for then they would also be able to do the greatest good---and what a fine thing this would be! But in reality they can do neither; for they cannot make a man either wise or foolish; and whatever they do is the result of chance.
 
-Socrates seems to view the opinions of the masses to be unimportant because they are unwise. I don't understand why Socrates believes that the actions of the masses are the result of chance.
+Socrates seems to view the opinions of the masses to be unimportant because they are unwise. Socrates seems to believe that the actions of the masses are the result of chance because they don't have knowledge of the good that would allow them to do good or evil.
 
 ## "death or any other calamity"
 
@@ -38,7 +38,7 @@ Later Socrates points out that he would have been able to discard his relationsh
 
 > ... we further proclaim to any Athenian by the liberty which we allow him, that if he does not like us [the laws] when he has become of age and has seen the ways of the city, and made our [the laws'] acquaintance, he may go where he pleases and take his goods with him. None of us laws will forbit him or interfere with him. ... But he who has experience of the manner in which we order justice and administer the state, and still remains, has entered into an **implied contract** that he will do as we command him.
 
-It's interesting to see how Socrates considers himself a gadfly to the state, and yet feels completely responsible to obey the state even when it does unjustly. It's not even clear whether Socrates feels that the state has done unjustly in his condemnation.
+It's interesting to see how Socrates considers himself a gadfly to the state, and yet feels completely responsible to obey the state even when it does unjustly. This probably comes from the way that Socrates conceptualizes the implied contract between him and the state as an inherently unequal. This is different from the modern (Lockean) conception of a social contract which is one that you voluntarily enter into. (Although Socrates does point out that he could have exited the contract with the Athenian state by physically leaving.)
 
 ## "or he must change their view of what is just"
 
@@ -48,4 +48,6 @@ Socrates seems to feel that the appropriate way to correct injustice in the stat
 
 ## "to fulfil the will of God"
 
-Having convinced Crito of the injustice of escaping, Plato has Socrates conclude by saying "Leave me then, Crito, to fulfil the will of God, and to follow whither he leads." While Socrates appears to be convinced by his own arguments, in the end he seems to appeal primarily to his inner oracle as the source of his decision-making.
+Having convinced Crito of the injustice of escaping, Plato has Socrates conclude by saying "Leave me then, Crito, to fulfil the will of God, and to follow whither he leads." While Socrates appears to be convinced by his own arguments, in the end he seems to appeal primarily to his inner oracle as the source of his decision-making, and then develops rational arguments post hoc.
+
+Philosophy is not about schools of wisdom for Socrates, but about one's fundamental orientation *in the body* (i.e. in action) toward a reality which may not always be discovered by the tool of philosophy.
