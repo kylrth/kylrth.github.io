@@ -34,9 +34,9 @@ Now, clone my repo:
 git clone https://github.com/kylrth/GPU-Jupyterhub.git
 ```
 
-This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/base-notebook/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/dl-notebook/Dockerfile) used to build a CUDA-enabled Jupyter Notebook (and Lab) image. (The notebook containers run Jupyter Lab [too](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/common.html#docker-options).) The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds deep learning packages like scikit-learn and PyTorch. If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Add the packages you need before continuing.
+This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/base-notebook/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/dl-notebook/Dockerfile) used to build a CUDA-enabled Jupyter Lab image. The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds deep learning packages like PyTorch, TensorFlow, and scikit-learn. If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Add the packages you need before continuing.
 
-After modifying the notebook image builds to your taste, open the main Dockerfile. Since we're using PAM authentication for now, you actually need to manually build your usernames and passwords into the image. Edit the last few lines of this Dockerfile to refer to your own username (instead of `kyle`), and add passwords. When I get some time I'd like to switch my setup back to GitHub auth to avoid this cumbersome (and insecure) method.
+After modifying the notebook image builds to your taste, open the main Dockerfile. Since we're using PAM authentication for now, you actually need to manually build your usernames and passwords into the image. Edit the last few lines of this Dockerfile to refer to your own username (instead of `kyle`), and add passwords. When I get some time I'd like to switch my setup back to GitHub auth to avoid this cumbersome method.
 
 Once you've updated the Dockerfiles, you will be able to build the images by calling `make`.
 
@@ -46,13 +46,12 @@ Now run `docker-compose up` and you should be up and running! To test your insta
 
 ```python
 import torch
-print(torch.rand(2, 3).cuda())
+import tensorflow as tf
+print(torch.cuda.is_available())
+print(tf.config.list_physical_devices("GPU"))
 ```
-
-If you get a matrix printed back with no errors, you're good to go!
 
 Here are some **known issues**:
 
 - PAM authentication is kind of annoying here, so when I get time I'd like to switch to GitHub auth like in [this tutorial](https://github.com/jupyterhub/jupyterhub-deploy-docker).
-- For now, to use Jupyter Lab instead of Jupyter Notebook you have to change the URL from `.../tree` to `.../lab` manually. I haven't figured out how to make this the default yet.
 - When a new user is added, you'll need to manually `mkdir /path/on/HOST/to/user_data/{username}`, otherwise Docker will do it for you as root and the user won't be able to use the directory.
