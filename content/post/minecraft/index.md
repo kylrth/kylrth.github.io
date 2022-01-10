@@ -1,25 +1,27 @@
 ---
-title: "Minecraft in Docker with SpigotMC"
+title: "Minecraft in Docker"
 date: 2021-08-02T13:25:28-06:00
 draft: false
 tags: ["self-hosted", "minecraft"]
 ---
 
-SpigotMC is a reimplementation of Minecraft with some optimizations and the ability to run mods. I choose to use it because there's a Docker image that makes it easy to host. This guide shows how to host multiple Minecraft servers on a single machine.
+This guide shows how to host multiple Minecraft servers on a single machine with docker-compose.
 
 ```sh
 mkdir minecraft_server
 cd minecraft_server
-mkdir data/{server,spigot}
+mkdir data/
 wget {{< resource-ref "docker-compose.yml" >}} \
     -O docker-compose.yml
 ```
 
-If you're moving from a Spigot world, just copy the `world/` directory to `data/server/world`. If you're moving from a vanilla Minecraft world, do the following to get the different world directories in the right position:
+This docker-compose setup uses itzg's Docker image, which you see further documentation for [here](https://github.com/itzg/docker-minecraft-server).
+
+If you're moving from a vanilla Minecraft world, do the following to get the different world directories in the right position:
 
 ```sh
 cp -r ${OLD}/world data/server/world
-mkdir data/server/world_nether data/server/world_the_end
+mkdir data/server/world_{nether,the_end}
 mv data/server/world/DIM-1 data/server/world_nether/DIM-1
 mv data/server/world/DIM1 data/server/world_the_end/DIM1
 ```
@@ -30,7 +32,7 @@ Here's the map from vanilla Minecraft directories to Spigot directories:
 - `world/DIM-1 -> world_nether/DIM-1`
 - `/world/DIM1 -> world_the_end/DIM1`
 
-At this point go ahead and start it with `docker-compose up`. When it first starts, it looks for a build of SpigotMC for the Minecraft version you specified in the docker-compose config. If it's not there, it will build it. When it finishes building, your server is ready to go!
+At this point go ahead and start it with `docker-compose up`. When it first starts, it downloads the Minecraft implementation we specified with the `TYPE` environment variable (in my case [Paper](https://papermc.io/)).
 
 If you want the server to run as a Systemd service, follow the instructions for enabling a docker-compose Systemd service [here](https://kylrth.com/post/matrix-setup/#enabling-the-services-with-systemd).
 
@@ -42,3 +44,16 @@ In order to have two servers running, they'll need to be listening on different 
 - `_minecraft` `_tcp.minecraft2` `0` `5` `25567` `minecraft2.kylrth.com`
 
 Once I'd done this, I had to wait like 30 minutes to start seeing the servers show up within the Minecraft client.
+
+## administration
+
+Administration can be done with RCON by exec-ing into the container:
+
+```bash
+$ docker-compose exec minecraft rcon-cli
+> whitelist add kylrth  # add yourself to whitelist
+Added kylrth to the whitelist
+> op kylrth  # make yourself op
+> help  # see other administration options here
+...
+```

@@ -1,17 +1,35 @@
 version: '3'
 
 services:
-  acmecraft:
-    image: dlord/spigot
+  minecraft:
+    image: itzg/minecraft-server:2022.1.1
     restart: unless-stopped
     stdin_open: true
     tty: true
     volumes:
-      - ./data/server:/var/lib/minecraft
-      - ./data/spigot:/opt/minecraft
+      - ./data/:/data/
     ports:
       - "25567:25565"
     environment:
-      - DEFAULT_OP=<your username>
-      - MINECRAFT_EULA=true
-      - MINECRAFT_VERSION=1.16.1
+      EULA: "TRUE"
+      TYPE: PAPER
+      VERSION: 1.18.1
+      PAPERBUILD: 145
+      SERVER_NAME: "My Minecraft Server"
+      OVERRIDE_SERVER_PROPERTIES: "true"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "1234567"  # change me
+      MAX_MEMORY: 3G
+      MAX_PLAYERS: 30
+      ENABLE_AUTOPAUSE: "true"
+      MAX_TICK_TIME: "-1"
+      JVM_DD_OPTS: "disable.watchdog:true"
+      AUTOPAUSE_TIMEOUT_INIT: "300"  # pause after Xs from server start
+      AUTOPAUSE_TIMEOUT_EST: "300"   # pause after Xs from last logout
+      MOTD: "a Minecraft server"
+      DIFFICULTY: normal
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      SNOOPER_ENABLED: "false"
+      SEED: "1"
+      STOP_SERVER_ANNOUNCE_DELAY: 30  # seconds
