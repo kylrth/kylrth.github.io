@@ -18,6 +18,8 @@ This isn't very clear on the Canadian immigration website, but as a US citizen t
 
 If my wife had wanted a work visa, she would have applied for the CAQ and submitted her Canadian work permit application with mine. My wife and daughter did not need to apply for any visa beforehand, because they qualified as "reuniting with family". I'll explain more about that in the next section.
 
+UPDATE: We now wish that we had applied for my wife to get a work visa, because being here on just an extended visitor permit means she doesn't have a Social Insurance Number (SIN), can't put her name on a Canadian bank account, doesn't get any credit history in Canada, and can't sign up for the Communauto car share service. On top of that, her status as an extended visitor complicates things everywhere we have to prove Canadian immigration status. For example, we're not sure whether she'll be able to take the free French courses that are sponsored by the Québec government for immigrants. And then there's the obvious fact that having a work permit would give her the flexibility to find a job if she wanted.
+
 ## crossing the border
 
 We looked into other ways to get our stuff to Montréal, but shipping a small container was >$5000 and even a U-Haul was going to cost ~$3000. We decided to buy a cargo carrier for the car instead, and we managed to fit everything except large items (desks, sofas, chairs). Then we could use the money we saved on shipping to buy new stuff here.
@@ -64,6 +66,10 @@ Before coming to Canada we made sure we had a couple of credit cards with no for
 To get a bank account, you need a Social Insurance Number (SIN) from the government of Canada. You can fill out a form online to start the process, but the response time is several weeks. You can also go in person to a ServiceCanada office and get it the same day, which is what I tried to do. For me there was some kind of problem on the immigration office side, and I ended up needing to submit for it the regular way there in the ServiceCanada office. So it was a while before I got that in the mail, and then I was finally able to schedule an appointment with Scotiabank to open an account.
 
 There are a lot of options for getting our money transferred from our American account to our Canadian account, each with their own fees and rules. So far the lowest-cost option seems to be a transfer with [Wise](https://wise.com/) (direct debit, not a wire because our bank charges $30 for wires). If you do a transfer there you should contact me so I can refer you (we'll both get discounts!).
+
+## daycare
+
+The Université de Montréal's student association ([FAÉCUM](http://www.faecum.qc.ca/)) offers a daycare called Le Baluchon. Emails are sent out before each semester offering student-parents the chance to sign up for slots at the daycare, but we emailed later than the deadline and still managed to get some spots. And it's very affordable---$5.50 for a half-day (4.5 hours) or $11 for a full day (08h-17h). We've heard it can be pretty difficult to get a spot at a daycare, so as a member of UdeM this was probably our best bet.
 
 ## **Welcome to Canada!** 🇨🇦
 
