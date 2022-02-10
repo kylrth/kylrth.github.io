@@ -3,7 +3,7 @@ title: "Learning transferable visual models from natural language supervision (C
 link: "https://arxiv.org/abs/2103.00020"
 date: 2022-02-02T12:35:03-05:00
 draft: false
-tags: ["deep-learning", "nlp"]
+tags: ["deep-learning", "neural-scaling", "nlp"]
 ---
 
 *This post was created as an assignment in Irina Rish's neural scaling laws course ([IFT6167](https://sites.google.com/view/nsl-course)) in winter 2022. The post contains no summarization, only questions and thoughts.*

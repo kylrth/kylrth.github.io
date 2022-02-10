@@ -3,7 +3,7 @@ title: "Parallel training of deep networks with local updates"
 link: "https://arxiv.org/abs/2012.03837"
 date: 2022-02-09T10:50:21-05:00
 draft: false
-tags: ["deep-learning", "optimization"]
+tags: ["deep-learning", "neural-scaling", "optimization"]
 ---
 
 *This post was created as an assignment in Irina Rish's neural scaling laws course ([IFT6167](https://sites.google.com/view/nsl-course)) in winter 2022. The post contains no summarization, only questions and thoughts.*
