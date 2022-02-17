@@ -19,7 +19,7 @@ Go to [matrix.kylrth.com/register](https://matrix.kylrth.com/register) to create
 
 Once you've successfully registered, sign in from the Element app on your phone or computer. (If you're going to log in on the computer, it'll be better to download the [desktop version](https://element.io/get-started), so that in the future you don't lose your session when you clear cookies in your browser.)
 
-To sign in, you'll need to change the homeserver URL from matrix.org to **matrix.kylrth.com**. (Otherwise, it won't know who you are because you don't have an account on matrix.org.) On mobile this is found under "advanced server options". Once you've signed in, the first thing it'll do is ask you to set up a recovery passphrase. There is an option to skip this step, but we want you to use cross-signing, so please do set it up. (This will make sense when you read the section on cross-signing.)
+To sign in, you'll need to change the homeserver URL from matrix.org to **<https://matrix.kylrth.com>**. (Otherwise, it won't know who you are because you don't have an account on matrix.org.) On mobile this is found under "advanced server options". **Be sure to include the https://.** Once you've signed in, the first thing it'll do is ask you to set up a recovery passphrase. There is an option to skip this step, but we want you to use cross-signing, so please do set it up. (This will make sense when you read the section on cross-signing.)
 
 **If you don't see a prompt to set up cross-signing**, don't worry. You can set it up from the settings page. Once you've set up cross-signing, send me a message `@kyle:kylrth.com`. Please keep reading to understand how you will sign in to multiple devices.
 
