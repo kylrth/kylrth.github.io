@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <article class="p-article">
     <header>
-        <h1><a href={{ printf "%s" $.Params.goodreads }}>{{ .Title }}</a></h1>
+        <h1><em><a href={{ printf "%s" $.Params.goodreads }}>{{ .Title }}</a></em></h1>
         <div>
             <p>by {{ .Params.author }}</p>
             {{ if not .Params.hideDate }}
