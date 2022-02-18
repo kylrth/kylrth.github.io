@@ -5,7 +5,9 @@ draft: false
 tags: ["self-hosted", "machine-learning", "programming"]
 ---
 
-This is how I set up my headless home server with a Jupyter Lab Docker container with an Nvidia GPU runtime.
+This is how I set up my headless home server with a Jupyter Lab Docker container with an Nvidia GPU runtime. Login is handled by a GitHub OAuth application.
+
+## Nvidia drivers and the container runtime
 
 First, check [here](https://docs.nvidia.com/cuda/archive/11.4.2/cuda-toolkit-release-notes/index.html) (replacing the CUDA version in the URL with your own) to see which Nvidia drivers you need for the CUDA toolkit version you want. I'm using CUDA 11.4.2, which means I need at least driver version 470.
 
@@ -28,21 +30,41 @@ sudo systemctl restart docker
 docker run --rm --runtime=nvidia all nvidia/cuda:11.4.2-base nvidia-smi  # test
 ```
 
+## building the images
+
 Now, clone my repo:
 
 ```sh
 git clone https://github.com/kylrth/GPU-Jupyterhub.git
 ```
 
-This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/base-notebook/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook-images/dl-notebook/Dockerfile) used to build a CUDA-enabled Jupyter Lab image. The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds deep learning packages like PyTorch, TensorFlow, and scikit-learn. If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Add the packages you need before continuing.
+This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/base/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/dl/Dockerfile) used to build a CUDA-enabled Jupyter Lab image. The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds the packages I want (including PyTorch, TensorFlow, scikit-learn, geopandas, and the Go toolchain). If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Change the packages to install as you like before continuing.
 
-After modifying the notebook image builds to your taste, open the main Dockerfile. Since we're using PAM authentication for now, you actually need to manually build your usernames and passwords into the image. Edit the last few lines of this Dockerfile to refer to your own username (instead of `kyle`), and add passwords. When I get some time I'd like to switch my setup back to GitHub auth to avoid this cumbersome method.
+After modifying the notebook image builds to your taste, open the base Dockerfile and edit the following line to change the deep user's sudo password to something else:
 
-Once you've updated the Dockerfiles, you will be able to build the images by calling `make`.
+```Dockerfile
+RUN echo "deep:changeme" | chpasswd
+```
 
-Now take a look at the sample [`docker-compose.yml`](https://github.com/kylrth/GPU-Jupyterhub/blob/master/docker-compose.yml). You'll notice that it mounts `./data/configs/` to the Hub container. Check out that directory yourself, and you'll find `jupyterhub_config.py` and `userlist`. Edit `userlist` to reflect the users you previously added to the Dockerfile, marking the admin users as desired. Now edit `jupyterhub_config.py`. You need to create a token for `c.ConfigurableHTTPProxy.auth_token`, and update the paths in `c.DockerSpawner.volumes` to point to the paths on the host computer where the user data and shared data will be stored. Finally, add the users you just added to the `userlist` to `c.Authenticator.allowed_users` and `c.Authenticator.admin_users`.
+You can also remove that line and the line before it if you don't want users to have sudo access in their containers.
 
-Now run `docker-compose up` and you should be up and running! To test your installation, run the following in a Jupyter notebook:
+Once you've updated the Dockerfile, you will be able to build the images by calling `make`.
+
+## configuring the Hub service
+
+Make the following changes to `docker-compose.yml`:
+
+- update `POSTGRES_PASSWORD` (in both places it appears) to something secret
+- create a new GitHub OAuth application [here](https://github.com/settings/applications/new), setting the authorization callback URL to `https://<domain>/hub/oauth_callback`. Fill the `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` variables in the `docker-compose.yml` with the values from your GitHub OAuth application.
+
+Make the following changes to `jupyterhub_config.py`:
+
+- create a token for `c.ConfigurableHTTPProxy.auth_token`
+- update the paths in `c.DockerSpawner.volumes` to point to the paths on the host computer where the user data and shared data will be stored
+- update `c.GitHubOAuthenticator.oauth_callback_url` with your domain
+- add the permitted GitHub users to `c.Authenticator.allowed_users` and optionally `c.Authenticator.admin_users`
+
+Now run `docker-compose up` and you should be up and running! To test your installation, login and run the following in a Jupyter notebook:
 
 ```python
 import torch
@@ -51,7 +73,6 @@ print(torch.cuda.is_available())
 print(tf.config.list_physical_devices("GPU"))
 ```
 
-Here are some **known issues**:
+## known issues
 
-- PAM authentication is kind of annoying here, so when I get time I'd like to switch to GitHub auth like in [this tutorial](https://github.com/jupyterhub/jupyterhub-deploy-docker).
-- When a new user is added, you'll need to manually `mkdir /path/on/HOST/to/user_data/{username}`, otherwise Docker will do it for you as root and the user won't be able to use the directory.
+When a new user is added, you'll need to manually `mkdir /path/on/HOST/to/user_data/${username}`, otherwise Docker will do it for you as root and the user won't be able to use the directory.
