@@ -1,6 +1,6 @@
 ---
 title: "My search for truth about the church and its teachings"
-date: 2021-01-03T08:50:12-08:00
+date: 2021-11-19T08:50:12-08:00
 draft: true
 tags: ["religion"]
 mathjax: true
@@ -9,7 +9,7 @@ mathjax: true
 I have undergone a faith transition. It started very suddenly one day after discovering some information about church history online. Very early on as I studied I knew I needed to record my evidence and conclusions somewhere, and this post has grown out of that document. There are a few things I want to keep in mind as I write here:
 
 - In all my reading, studying, and thinking since that moment, I've noticed that there is a *lot* of information out there, and it tends to be dumped together all at once as "unequivocal proof" that the church is false. If you add up all of these unlikelihoods, the argument goes, it becomes impossible for the church to be directed by God. This can end up overwhelming reason in a sort of [*argumentum ad nauseam*](https://en.wikipedia.org/wiki/Proof_by_assertion): if you discover that one argument against the church isn't really strong enough to be a problem for you, the attacker can say that that particular argument isn't necessary to support the conclusion because there are all these other arguments. I want to record the facts that lead me to believe that the church is not what it says it is, but I want to narrow it down to just the most compelling issues to make sure I'm not succumbing to *argumentum ad nauseam*.
-- I want to be able to back up what I say with reachable, trustable sources. When I say reachable, I mean that you don't have to leave your computer to find them. By trustable, I mean sources that can't easily be made out to be anti-Mormon lies.  Here are examples of trustable sources:
+- I'll only say things I can back up with reachable, trustable sources. When I say reachable, I mean that you don't have to leave your computer to find them. By trustable, I mean sources that can't easily be made out to be anti-Mormon lies.  Here are examples of trustable sources:
   - the source text of the revelatory productions of Joseph Smith
   - journals, letters, and other materials produced by people who were present
   - [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) and [general conference talks](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), because they're the "party line" of the church
@@ -159,6 +159,10 @@ In addition, archaeologists have not found examples of writing on metal plates a
 
 On the other hand if Joseph wrote the Book of Mormon the choice of Egyptian for both the brass and gold plates makes more sense. Early 19th-century America was fascinated with ancient Egypt. Napoleon had recently taken control of Egypt and all sorts of artifacts were being brought back to the West, including the mummies and papyri that later came into the possession of Joseph Smith ([source](https://www.churchofjesuschrist.org/study/manual/gospel-topics/translation-and-historicity-of-the-book-of-abraham); look under "Origin of the Book of Abraham"). At this time many believed that hieroglyphs were pictographic, not phonetic ([source](https://archive.org/details/egyptancientmode00russ/page/140/mode/2up), p. 140; see also Noah Webster's [definition](http://webstersdictionary1828.com/Dictionary/Hieroglyph) of *hieroglyph* from 1828). It was a common belief that Egyptian hieroglyphs could represent the equivalent of whole sentences or paragraphs in English (TODO source). An extremely compressed, undeciphered language is a good choice if Joseph's going to pretend to translate a 268,163-word book from plates that are the size mentioned above.
 
+#### todo
+
+- [ideas about hieroglyphs](https://publicdomainreview.org/essay/athanasius-kircher-and-the-hieroglyphic-sphinx)
+
 ### 19th-century American ideas about indigenous Americans
 
 As Europeans arrived in the New World, they wanted to be able to explain the existence of the indigenous population they encountered. For Americans, a prominent source of intrigue was the mounds that could be found all over the Ohio river valley (see known mound locations [here](https://www.google.com/maps/d/viewer?msa=0&mid=1R2PaO3dIlkDTiJnG2mvYUjzEtsE)). Various theories abounded, but the major theme was that the Native Americans currently living there were not culturally capable of accomplishing such massive constructions. The overriding belief was that the "savage" Native Americans must have come and destroyed whatever civilization had built these mounds. It's now understood that the mounds were built by the same culture that lived there at the time of European arrival in Ohio in the 17th century. You can read more about the moundbuilder myth in this [Ohio history article](https://web.archive.org/web/20201112000735/https://www.ohiohistory.org/learn/collections/archaeology/archaeology-blog/2011/june-2011/the-moundbuilder-myth).
@@ -254,6 +258,7 @@ The Book of Mormon contains 19th-century Christian theology that would not have 
 - look at Grant Palmer's thoughts on the preaching
 - read about [anachronistic Christian doctrine](https://www.churchistrue.com/blog/anachronistic-christian-doctrine-in-book-of-mormon/) in the Book of Mormon
 - Discuss Bokovoy's thoughts on the Christology in the Book of Mormon
+- 1-2 Nephi seems very aware of the contents of Mosiah-Moroni, but Mosiah-Moroni seems unaware of the contents of 1-2 Nephi (Jesus being named Jesus by an angel in Mosiah when Nephi already knew, for example).
 
 ## Book of Mormon translation process
 
@@ -271,6 +276,10 @@ This is the one thing about the church that is hard to explain from a critical s
 - read *On Bullshit*
 - mention how the revelations in the BoM are very specific (Jesus, America, Joseph son of Joseph, etc.), but then not so specific afterward ([ldsdiscussions](https://www.ldsdiscussions.com/influences))
   - also the 116 pages and how sketchy that is
+- talk about how [D&C 9](https://www.reddit.com/r/mormon/comments/ovw0gr/was_translation_by_inspiration_hidden_right_under/) supports a loose translation
+- talk about how Joseph claims a literal translation during the process, and also later in Times and Seasons
+- Dan Vogel thinks that Joseph taught everyone how he received revelation, which was just thinking and a burning in the bosom. Vogel thinks that's how Joseph received the Book of Mormon, as evidenced by D&C 8 with Oliver.
+- The Book of Mormon matches *better* with Joseph's 19th century American context than the archaeology we have of the New World. That's what convinces me it's a modern creation. Mention Nahom and chiasmus and point to this [interview with Dan Vogel](https://youtu.be/eJV_B2JZZ-4) where he explains why Nahom and chiasmus don't show much.
 
 ## other translation efforts of Joseph Smith
 
@@ -320,6 +329,7 @@ Joseph married 32-38 women, some of whom were only 14 years old. Others were alr
 
 - [ ] study this and get sources for it
 - Joseph's [last sermon](http://www.utlm.org/onlineresources/sermons_talks_interviews/smithboastingandpolygamydenial.htm) was pretty fiery
+- This was not ok during Joseph's time, as evidenced in cases like [this](https://www.reddit.com/r/mormon/comments/oym0df/what_did_nauvoo_society_in_the_1840s_consider_to/).
 
 ## the temple
 
@@ -384,6 +394,7 @@ None of this disproves Mormonism, but it does mean that the method it asks you t
   - find out why people of indigenous faith believe what they do
   - find out why Buddhists/Hindus/Sikhs/Taoists believe what they do
   - read studies about spiritual experience
+- To show you why this is true, I'm going to demonstrate to you that the Book of Mormon is probably not an ancient book, but was in fact written in the 19th century. This will hopefully show you how a book can teach good things without being factual.
 
 ## the modern church
 
@@ -427,6 +438,8 @@ The church spends billions of dollars on building temples, while spending far le
 - [happiness is not a good test for truth of the church](https://www.reddit.com/r/exmormon/comments/o8zhdg/the_mormon_churchs_claimed_monopoly_on_happiness/)
 - The church's population and evolution are exactly what you'd expect from a relatively high-demand religion produced in America.
 - The First Presidency announced in 1969 that God himself commanded the treatment of black people. Also check out this First Presidency [official statement](https://faenrandir.github.io/a_careful_examination/aug-2020-church-historian-communication-on-1949-first-presidency-statement/).
+- Talk about the [charity](https://www.reddit.com/r/mormon/comments/oxvfi0/there_was_a_recent_post_about_the_charitable_work/) the church provides.
+- discussion on [race](https://www.reddit.com/r/mormon/comments/pe4dh7/my_struggles_processing_race_priesthood_and_the/)
 
 ## what this all says about God
 
@@ -443,6 +456,7 @@ The church spends billions of dollars on building temples, while spending far le
 
 ## to do
 
+- Make a tree of evidence -> conclusions so that it's clear what I'm proving and how it might be taken down.
 - read Repicturing the Restoration
 - read [Line upon Line: Essays on Mormon Doctrine](http://signaturebookslibrary.org/line-upon-line/)
 - read The LDS Gospel Topics Series: A Scholarly Engagement
@@ -481,4 +495,31 @@ The church spends billions of dollars on building temples, while spending far le
 - work out the thesis statement a bit better
 - What I'm really emphasizing are sources that can be backed up from right at home using your computer.
 - MAKE TOTALLY SURE THAT THIS DOCUMENT IS *NOT* COMPREHENSIVE. JUST MAKE THE STRONGEST, MOST CONCISE POINTS POSSIBLE AND POINT PEOPLE ELSEWHERE FOR MORE RESOURCES.
-- Put spiritual witnesses next to the BITE model discussion so that together they describe all of the powerful emotions attached to membership in the church.
+- Put spiritual witnesses next to the BITE model discussion so that together they describe all of the powerful emotions attached to membership in the church. The song "Where We'll Never Grow Old" by The Lower Lights still gets me now, because the hope for that sort of place is so strong.
+- The church hijacks healthy practices and claims them as their own. Take for example the repentance process. In reality, anyone can recognize a mistake, plead forgiveness of those wronged, and choose to do better. It doesn't require someone to pay for the sin. We don't even need Jesus in order to forgive someone who we feel has wronged us, which is clear when you watch Mormon Stories 1457, ending at 46:54. People experience feelings of unconditional forgiveness and redemption without the need to believe someone else paid for the sin. But the church teaches people that those feelings come from the Savior, and so it causes people to feel reliant on the church/gospel to have access to those feelings. The same thing comes up about spiritual promptings, around 1:04:00.
+- Talk about how Joseph Smith said the ordinances would never be changed. Who do we trust?
+- Talk about how hypnosis and missionary teaching both use methods of suggested emotion to convince people. See [this conversation with Nolan](https://matrix.to/#/!iYdNOFdgBixuOiakEp:kylrth.com/$V-evPywU74QX3LUrrxFQqCiv9gL0Xk_Vowt3nMEp7kA?via=kylrth.com)
+- [false statements of prophets](https://archive.org/details/standard_of_truth/mode/2up)
+- [more false prophecy](https://www.reddit.com/r/mormon/comments/pyrk5p/if_you_want_prophets_to_prophecy_this_weekend_at/)
+- [pushing right through the BoM](https://libreddit.kylrth.com/r/mormon/comments/px0qe5/crawling_over_or_under_or_around_the_book_of/)
+- [JS translation projects](https://libreddit.kylrth.com/r/mormon/comments/q1vtec/comprehensive_list_of_joseph_smith_translation/)
+- Dan Vogel's anti-universalist context video talks about how the distinction between "from their sins" and "in their sins" was a common discussion among (anti-)Universalists in Joseph's time.
+- [this BYU professor who was kicked out](https://berlinkaufusi.wixsite.com/website/post/the-inquisitions-and-my-retreat-into-the-wilderness)
+- u/TracingWoodgrains' [question](https://libreddit.kylrth.com/r/exmormon/comments/721659/convince_me/) about the BoM on r/exmormon, and his [post](https://libreddit.kylrth.com/r/exmormon/comments/72x6ip/update_you_convinced_me/) about becoming convinced.
+- hard [questions](https://faenrandir.github.io/a_careful_examination/questions-to-ask/) from faenrandir
+- notes from Stephen Hassan's Mormon Stories interview:
+  - Lots of religions/cults teach that contrary ideas come from evil spirits or Satan. This is a thought-stopping technique.
+  - Loaded language is vocabulary that the cult uses as thought-stopping cliche (examples plz)
+  - Boredom is an effective way to induce hypnotic states
+  - Burning of the bosom could be induced by hallucinating the concept that was suggested to you
+  - Phobia indoctrination: if they leave, terrible things will happen
+  - When you have the phobia, you can only generate negative visualizations of life if you left
+- Include stuff like where the idea of a restoration of all things (Alma) comes from
+- How does flat earth theory get debunked? [On technicalities.](https://youtu.be/sq0GmI1JFkw)
+- Prophets speaking as men is just "the philosophies of men, mingled with scripture". see [here](http://unexaminedfaith.blogspot.com/2019/03/speaking-as-man-is-not-good-defense.html?m=1)
+- this guy's [doc](https://libreddit.kylrth.com/r/mormon/comments/reqffo/101_questions_in_context_of_mormon_history_and/)
+- [compare](https://libreddit.kylrth.com/r/exmormon/comments/iuq189/hey_uuhhhh_how_many_of_these_human_trafficking/) missionary work to the signs of human trafficking
+- [cinnamon rolls block the Spirit](https://libreddit.kylrth.com/r/exmormon/comments/rpw9f3/help_me_out_who_gave_that_ridiculous_talk_about/)
+- [on conflict between the Spirit and the authority of the prophet](https://libreddit.kylrth.com/r/mormon/comments/s2xjyq/why_obedience_to_the_current_prophet_is_paramount/)
+- [the quote here supports not trusting prophets but trusting God](https://youtu.be/F9SU0QWs__I?t=604)
+- [list of misleading statements from prophets](https://libreddit.kylrth.com/r/exmormon/comments/slxbwu/comprehensive_list_of_false_contradictory_or/)
