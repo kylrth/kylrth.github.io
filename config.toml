@@ -13,6 +13,8 @@ paginate = 5
   tag = "tags"
 
 [params]
+  defaultAuthor = "Kyle Roth"
+
   github = "kylrth"
   linkedin = "kyle-roth"
   matrix = "@kyle:kylrth.com"
