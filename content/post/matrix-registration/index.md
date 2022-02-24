@@ -30,7 +30,7 @@ Once you've done both of these things, message `@kyle:kylrth.com` to say hi! Ple
 
 ### encryption, cross-signing, and verification
 
-One of the cool parts about Matrix is that you can use *end-to-end encryption* (E2EE) to secure your chats. This means that when you send your message it is encoded so that not even my server can read your message. Then, when the server sends it to the receiving device, the receiving device can decrypt it because it has the decryption key.
+One of the cool parts about Matrix is that you can use *end-to-end encryption* (E2EE) to secure your chats. This means that when you send a message it is encoded so that not even the servers that are carrying your message can read it. Then, when the server gives it to the receiving device, the receiving device can decrypt it because it has the decryption key.
 
 When someone sends a message in an encrypted room, the keys to decrypt that message are shared with all the logins **currently in the room**. That includes both my phone and my laptop, for example. If I log in with a new session, it will invite me to *cross-sign* by approving the login with one of my other logged-in devices. Cross-signing allows my new device to ask my old devices for the keys to see old messages, or get them from the backup that we set up earlier.
 
