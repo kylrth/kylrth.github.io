@@ -18,9 +18,3 @@ Here's some of my favorite art.
 {{< zoom-img src="architect_home_in_the_ravine.jpg" >}}
 
 ([source](https://www.wikiart.org/en/peter-doig/architect-s-home-in-the-ravine-1991))
-
-## Jorge Cocco Santángelo, *The Call*, 2015
-
-{{< zoom-img src="the_call.jpg">}}
-
-([source](https://www.pinterest.com/pin/121949102389563108/))
