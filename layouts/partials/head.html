@@ -7,6 +7,8 @@
   {{ else }}
   <title>{{ $title }}</title>
   {{ end }}
+  <meta http-equiv="onion-location"
+    content="http://kylrthjj7mpvktolz7u6fnudt3hpdvjw4hzquanjpepgsf5vcq5divad.onion{{ .Permalink | relURL }}" />
   <meta property="og:title" content="{{ $title }}" />
   <meta name="twitter:title" content="{{ $title }}" />
 
