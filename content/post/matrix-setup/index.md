@@ -196,3 +196,5 @@ sudo systemctl start services
 ```
 
 Message me [@kyle:kylrth.com](https://matrix.to/#/@kyle:kylrth.com) and tell me how it went!
+
+You can read a more extensive beginner's guide to using Matrix [here](https://joinmatrix.org/).
