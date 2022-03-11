@@ -35,6 +35,7 @@ PREFIX=kylrth
 git clone https://github.com/cathugger/mkp224o.git
 pushd mkp224o
 docker build -f contrib/docker/Dockerfile -t mkp224o .
+mkdir output
 docker run -it --rm -u 1000:1000 -v $(pwd)/output:/stuff mkp224o ${PREFIX} -v -n 1 -d /stuff
 popd
 mv mkp224o/output/${PREFIX}* data/onionserver/
