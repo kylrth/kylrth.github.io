@@ -1,1 +1,3 @@
-{ "m.server": "matrix.kylrth.com:443" }
+{
+    "m.server": "matrix.kylrth.com:443"
+}
