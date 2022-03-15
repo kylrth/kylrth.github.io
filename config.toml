@@ -15,6 +15,7 @@ paginate = 5
 [params]
   defaultAuthor = "Kyle Roth"
 
+  rss = true
   github = "kylrth"
   linkedin = "kyle-roth"
   matrix = "@kyle:kylrth.com"

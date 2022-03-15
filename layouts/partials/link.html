@@ -1,5 +1,21 @@
-{{ if or ( $.Param "medium" ) ( $.Param "twitter" ) ( $.Param "facebook" ) ( $.Param "instagram" ) ( $.Param "github" ) ( $.Param "gitlab" ) ( $.Param "npm" ) ( $.Param "codepen" ) ( $.Param "dribbble" ) ( $.Param "fivehundredpx" ) ( $.Param "flickr" ) ( $.Param "pinterest" ) ( $.Param "tumblr" ) ( $.Param "vimeo" ) ( $.Param "youtube" ) ( $.Param "linkedin" ) ( $.Param "strava" ) }}
+{{ if or ( eq ( $.Param "rss" ) true ) ( $.Param "medium" ) ( $.Param "twitter" ) ( $.Param
+"facebook" ) ( $.Param "instagram" ) ( $.Param "github" ) ( $.Param "gitlab" ) ( $.Param "npm" ) (
+$.Param "codepen" ) ( $.Param "dribbble" ) ( $.Param "fivehundredpx" ) ( $.Param "flickr" ) (
+$.Param "pinterest" ) ( $.Param "tumblr" ) ( $.Param "vimeo" ) ( $.Param "youtube" ) ( $.Param
+"linkedin" ) ( $.Param "strava" ) }}
 <ul class="c-links">
+  {{ if ( $.Param "rss" ) }}
+  {{ with .OutputFormats.Get "rss" -}}
+  <li class="c-links__item">
+    <a href="{{ .Permalink }}" target="_blank">
+      <svg viewBox="0 0 30 28" class="c-links__icon">
+        <title>RSS</title>
+        <use xlink:href="#icon-feed"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end -}}
+  {{ end }}
   {{ with ($.Param "matrix") }}
   <li class="c-links__item">
     <a href="https://matrix.to/#/{{ . }}" target="_blank">
