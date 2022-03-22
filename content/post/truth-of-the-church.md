@@ -523,3 +523,5 @@ The church spends billions of dollars on building temples, while spending far le
 - [on conflict between the Spirit and the authority of the prophet](https://libreddit.kylrth.com/r/mormon/comments/s2xjyq/why_obedience_to_the_current_prophet_is_paramount/)
 - [the quote here supports not trusting prophets but trusting God](https://youtu.be/F9SU0QWs__I?t=604)
 - [list of misleading statements from prophets](https://libreddit.kylrth.com/r/exmormon/comments/slxbwu/comprehensive_list_of_false_contradictory_or/)
+- [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tdqzym/these_really_hit_home_for_me/)
+- [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tjl090/in_1820_a_palmyra_newspaper_advertised_a_book/)
