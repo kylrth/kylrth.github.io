@@ -1,8 +1,8 @@
 ---
-title: "quotes from a Lex Fridman interview with Peter Wang"
+title: "meaning-making in the post-modern world"
 date: 2022-02-01T14:35:37-05:00
 draft: false
-tags: ["philosophy"]
+tags: ["philosophy", "lex-fridman"]
 ---
 
 Here are some snippets from a Lex Fridman [interview](https://lexfridman.com/peter-wang/) with Peter Wang, co-founder and CEO of Anaconda:

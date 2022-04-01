@@ -2,7 +2,7 @@
 title: "quotes from a Lex Fridman interview with Philip Goff"
 date: 2022-03-09T09:39:16-05:00
 draft: false
-tags: ["philosophy"]
+tags: ["philosophy", "lex-fridman"]
 ---
 
 Here are some snippets from a Lex Fridman [interview](https://lexfridman.com/philip-goff/) with Philip Goff, a panpsychist.
