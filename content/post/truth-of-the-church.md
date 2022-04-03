@@ -515,7 +515,7 @@ The church spends billions of dollars on building temples, while spending far le
   - Phobia indoctrination: if they leave, terrible things will happen
   - When you have the phobia, you can only generate negative visualizations of life if you left
 - Include stuff like where the idea of a restoration of all things (Alma) comes from
-- How does flat earth theory get debunked? [On technicalities.](https://youtu.be/sq0GmI1JFkw)
+- How does flat earth theory get debunked? [On technicalities.](https://youtu.be/sq0GmI1JFkw) Analyze the arguments of flat earthers and show how they're similar to Rod Meldrum or others. Look at what Michael Stevens says at timestamp 16:24 on his [interview](https://lexfridman.com/michael-stevens/) with Lex Fridman
 - Prophets speaking as men is just "the philosophies of men, mingled with scripture". see [here](http://unexaminedfaith.blogspot.com/2019/03/speaking-as-man-is-not-good-defense.html?m=1)
 - this guy's [doc](https://libreddit.kylrth.com/r/mormon/comments/reqffo/101_questions_in_context_of_mormon_history_and/)
 - [compare](https://libreddit.kylrth.com/r/exmormon/comments/iuq189/hey_uuhhhh_how_many_of_these_human_trafficking/) missionary work to the signs of human trafficking
