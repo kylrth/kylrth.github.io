@@ -525,3 +525,4 @@ The church spends billions of dollars on building temples, while spending far le
 - [list of misleading statements from prophets](https://libreddit.kylrth.com/r/exmormon/comments/slxbwu/comprehensive_list_of_false_contradictory_or/)
 - [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tdqzym/these_really_hit_home_for_me/)
 - [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tjl090/in_1820_a_palmyra_newspaper_advertised_a_book/)
+- [patterns of apologetics](http://libreddit.kylrth.com/r/exmormon/comments/ukgdse/my_mom_trying_to_downplay_temple_ceremonies_and/i7ow8lh/?context=3)
