@@ -18,7 +18,7 @@ This isn't very clear on the Canadian immigration website, but as a US citizen t
 
 If my wife had wanted a work visa, she would have applied for the CAQ and submitted her Canadian work permit application with mine. My wife and daughter did not need to apply for any visa beforehand, because they qualified as "reuniting with family". I'll explain more about that in the next section.
 
-UPDATE: We now wish that we had applied for my wife to get a work visa, because being here on just an extended visitor permit means she doesn't have a Social Insurance Number (SIN), can't put her name on a Canadian bank account, doesn't get any credit history in Canada, and can't sign up for the Communauto car share service. On top of that, her status as an extended visitor complicates things everywhere we have to prove Canadian immigration status. For example, we're not sure whether she'll be able to take the free French courses that are sponsored by the Québec government for immigrants. And then there's the obvious fact that having a work permit would give her the flexibility to find a job if she wanted.
+**UPDATE 2022-02-08**: We now wish we had applied for my wife to get a work visa, because being here on just an extended visitor permit means she doesn't have a Social Insurance Number (SIN), can't put her name on a Canadian bank account, doesn't get any credit history in Canada, and can't sign up for the Communauto car share service. She also won't be able to take the free French courses that are sponsored by the Québec government for immigrants. On top of that, her status as an extended visitor complicates things everywhere we have to prove Canadian immigration status. Finally, there's the obvious fact that having a work permit would give her the flexibility to find a job if she wanted.
 
 ## crossing the border
 
@@ -38,9 +38,11 @@ The process at the Montréal airport was a bit stressful because it wasn't immed
 
 ## the car
 
-As a student your home driver's license is good for the duration of your stay in Québec, but otherwise it needs to be exchanged for a Québec license within 6 months of arrival (see the SAAQ [website](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-drivers-licence)). Luckily as Americans there is a straightforward process for exchanging our licenses for Québec ones, and we won't even need to take a test. Be sure to schedule that quickly though because those types of appointments will be booked out like a month in advance.
+As a student your home driver's license is good for the duration of your stay in Québec, but otherwise it needs to be exchanged for a Québec license within 6 months of arrival (see the SAAQ [website](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-drivers-licence)). Luckily as Americans there is a straightforward process for exchanging our licenses for Québec ones, and we didn't even need to take a test. Be sure to schedule that quickly though because those types of appointments will be booked out like a month in advance.
 
 Originally we planned to keep our car, and we learned too late that this meant we should have exported the car at a customs office in Detroit before crossing, and then applied for a temporary import at the Canadian border. Since we'd already entered Canada with the car, that was going to mean driving back to the US, getting the car inspected and exported, re-entering Canada, applying for a temporary import into Canada, and registering the vehicle and getting auto insurance in Québec. All of this extra effort and cost (plus some convincing from [Not Just Bikes](https://youtu.be/OObwqreAJ48) and [5kids1condo](http://5kids1condo.com/access-the-good-life-dont-own-it/)) led us to decide to sell our car and sign up for a [car share service](https://montreal.communauto.com/) instead. I've actually lost 15 pounds in the last two months just by biking to school. 👍🚴🚆
+
+**UPDATE 2022-05-11**: We're 8 months car free and still loving it. We use [Communauto](https://montreal.communauto.com/) for short trips and traditional car rental services for longer trips.
 
 ## health insurance
 
@@ -52,12 +54,20 @@ Because the United States has no public health insurance and thus no social secu
 
 That last one applies to us!
 
-Unfortunately, we still ended up paying for the student health insurance this semester (CA$300) because we found out too late that the insurance we got doesn't cover enough to count for the exemption. BEI didn't have these requirements on their website, so I'll list what I've found so far in my emails with them:
+Unfortunately, we still ended up paying for the student health insurance this year (CA$900) because we found out too late that the insurance we got doesn't cover enough to count for the exemption. BEI didn't have these requirements on their website, so I'll list what I've found so far in my emails with them:
 
 - The total reimbursable amount of the policy must be at least equivalent to the UdeM medical insurance which is CA$700,000.
 - The insurance must reimburse 100% of reasonable and customary health care including hospitalization fees.
 
 We're still working on getting our policy upgraded, so I'll update here when this is resolved.
+
+## phone service
+
+Our American phone plans include free roaming in Canada, so we decided to keep them for our stay here. The only downside is that many Canadian phone plans charge extra to communicate with American numbers, and since the US and Canada share a country code (+1) it's not immediately clear to people that our number is American. This has lead to situations where we don't get important information because a Canadian caller is unable to reach us.
+
+I recently discovered a cool tool called [MySudo](https://mysudo.com/) that solves this problem for us. MySudo lets privacy-minded people create digital profiles with burner email addresses and phone numbers, to prevent the collection of their personal info by data aggregators. For CA$1.29/month you get one such profile, and crucially you can choose a phone number in the US, the UK, or Canada.
+
+The amount of calling and texting is limited, so we only give the number out when we have to. But conveniently you can install the MySudo app on multiple devices, so incoming calls ring on both of our phones. It's worked pretty well for us so far.
 
 ## banking
 
@@ -70,6 +80,14 @@ There are a lot of options for getting our money transferred from our American a
 ## daycare
 
 The Université de Montréal's student association ([FAÉCUM](http://www.faecum.qc.ca/)) offers a daycare called Le Baluchon. Emails are sent out before each semester offering student-parents the chance to sign up for slots at the daycare, but we emailed later than the deadline and still managed to get some spots. And it's very affordable---$5.50 for a half-day (4.5 hours) or $11 for a full day (08h-17h). We've heard it can be pretty difficult to get a spot at a daycare, so as a member of UdeM this was probably our best bet.
+
+## learning French
+
+In just a few months we've gotten pretty good at reading road signs and getting the gist of documents in French, but we'd like to get comfortable communicating in French as well. Fortunately, Québec has a ton of resources for French learners. For example, I'm currently attending a free weekly French conversation workshop at a community center up the street from our apartment.
+
+The Québec government also sponsors free [French courses](https://www.quebec.ca/en/education/learn-french) to help integrate immigrants into Québec society. The courses are run by various local non-profits and educational institutions. They also offer financial assistance under certain conditions (one of which being that you have a social insurance number). I'm currently signed up to start a 12 hour/week course in July, and they're offering CA$25 per 3-hour session. The courses are in high demand, so you'll have to watch the registration page of the institution in your area to make sure you can get registered. Registration usually opens several months in advance of the start date, and fills up within a week or so.
+
+To be clear, it's not necessary to know French to live in Montréal. We've been able to function just fine, especially since we live in a neighborhood with a large English-speaking population. In our neighborhood, the store clerks speak to you in English first, and switch if responded to in French. But this is not the norm in most of Montréal, let alone the rest of Québec. And even in our situation, you need to be comfortable with a little bit of confusion when you go out and have to read signs or interact with people. Learning French is also essential if you want to be social outside of the immigrant community.
 
 ## **Welcome to Canada!** 🇨🇦
 
