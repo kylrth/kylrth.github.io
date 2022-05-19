@@ -34,7 +34,7 @@ The rest of the family flew from SLC to YUL. At the time of writing you still ne
 
 In order to enter Canada to reunite with family, my wife needed the marriage certificate, the birth certificate for our daughter, and a copy of my study permit (which I sent her after getting it at the border).
 
-The process at the Montréal airport was a bit stressful because it wasn't immediately clear to the immigration officer what kind of visa they needed, since neither of them were going to be working or studying. He eventually gave each of them a visitor visa valid for the same period as my study permit. We'll need to renew their visas when I renew my permit.
+The process at the Montréal airport was a bit stressful because it wasn't immediately clear to the immigration officer what kind of visa they needed, since neither of them were going to be working or studying. He eventually gave each of them a visitor visa valid for the same period as my study permit. We'll need to renew their visas when I renew my permit. Université Laval has a useful [page](https://www.ulaval.ca/en/international/immigration/obtaining-permits-for-family-members) documenting the options for bringing family members with you to Québec.
 
 ## the car
 
