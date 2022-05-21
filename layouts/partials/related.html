@@ -6,8 +6,14 @@
     {{ range . }}
     <li class="p-related__item js-related__item">
       <a href="{{ .RelPermalink }}"
-        {{ with .Params.thumbnail }}
-          style="background-image: url({{ . }});"
+        {{ if ((isset .Params "thumbnail" ) | and (ne .Params.thumbnail "" )) }}
+        {{ $thumb := "" }}
+        {{ if ((hasPrefix .Params.thumbnail "https://" ) | or (hasPrefix .Params.thumbnail "http://" )) }}
+        {{ $thumb = .Params.thumbnail }}
+        {{ else }}
+        {{ $thumb = path.Join .RelPermalink .Params.thumbnail }}
+        {{ end }}
+        style="background-image: url({{ $thumb }});"
         {{ end }}>
         <span>{{ .Title }}</span>
       </a>
