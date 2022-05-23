@@ -12,11 +12,11 @@ The Canadian government's [travel website](https://travel.gc.ca/) is really quit
 
 ## Certificat d'Acceptation du Quebec (CAQ) and Canadian visas
 
-As soon as we were sure I'd be able to study at UdeM, I submitted my application for the CAQ. This is a requirement for all students and temporary workers looking to enter Québec, *in addition* to the visa issued by the Canadian federal government. Normally, you are required to receive your CAQ before applying for the Canadian study permit, but due to COVID-19 I was allowed to apply as long as I submitted proof that I had *applied* for the CAQ. Both of these processes worked out for me without any issues.
+As soon as we were sure I'd be able to study at UdeM, I submitted my application for the CAQ. This is a requirement for all students and temporary workers looking to enter Québec, *in addition* to the permit issued by the Canadian federal government. Normally, you are required to receive your CAQ before applying for the Canadian study permit, but due to COVID-19 I was allowed to apply as long as I submitted proof that I had *applied* for the CAQ. Both of these processes worked out for me without any issues.
 
 This isn't very clear on the Canadian immigration website, but as a US citizen the study permit is the only documentation you need to enter Canada (apart from your passport of course). You do not need an electronic travel authorization (eTA) or visitor visa.
 
-If my wife had wanted a work visa, she would have applied for the CAQ and submitted her Canadian work permit application with mine. My wife and daughter did not need to apply for any visa beforehand, because they qualified as "reuniting with family". I'll explain more about that in the next section.
+If my wife had wanted a work permit, she would have applied for the CAQ and submitted her Canadian work permit application with mine. My wife and daughter did not need to apply for any permit beforehand, because they qualified as "reuniting with family" and were issued a visitor permit on arrival. I'll explain more about that in the next section.
 
 **UPDATE 2022-02-08**: We now wish we had applied for my wife to get a work visa, because being here on just an extended visitor permit means she doesn't have a Social Insurance Number (SIN), can't put her name on a Canadian bank account, doesn't get any credit history in Canada, and can't sign up for the Communauto car share service. She also won't be able to take the free French courses that are sponsored by the Québec government for immigrants. On top of that, her status as an extended visitor complicates things everywhere we have to prove Canadian immigration status. Finally, there's the obvious fact that having a work permit would give her the flexibility to find a job if she wanted.
 
@@ -34,7 +34,7 @@ The rest of the family flew from SLC to YUL. At the time of writing you still ne
 
 In order to enter Canada to reunite with family, my wife needed the marriage certificate, the birth certificate for our daughter, and a copy of my study permit (which I sent her after getting it at the border).
 
-The process at the Montréal airport was a bit stressful because it wasn't immediately clear to the immigration officer what kind of visa they needed, since neither of them were going to be working or studying. He eventually gave each of them a visitor visa valid for the same period as my study permit. We'll need to renew their visas when I renew my permit. Université Laval has a useful [page](https://www.ulaval.ca/en/international/immigration/obtaining-permits-for-family-members) documenting the options for bringing family members with you to Québec.
+The process at the Montréal airport was a bit stressful because it wasn't immediately clear to the immigration officer what kind of visa they needed, since neither of them were going to be working or studying. He eventually gave each of them a visitor permit valid for the same period as my study permit. We'll need to renew their permits when I renew mine. Université Laval has a useful [page](https://www.ulaval.ca/en/international/immigration/obtaining-permits-for-family-members) documenting the options for bringing family members with you to Québec.
 
 ## the car
 

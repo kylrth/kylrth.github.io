@@ -49,7 +49,7 @@ The rational responses to those reasons are:
 - In that case, maybe it's better to never do it. When I see it in the task manager I'll be more rational about whether it's worth doing.
 - Add more comments to the task to save the context.
 
-## TL;DR
+## in summary
 
 - Use a task manager.
 - Close all of your tabs right now by either adding them to the task manager or deciding they're not important.

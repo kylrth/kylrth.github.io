@@ -26,7 +26,7 @@ This statement by Socrates clearly distinguishes justice from outcome. His assum
 
 This opinion results in the feeling that "not life, but a good life, is to be chiefly valued".
 
-Later in the dialogue Socrates seems to go against this argument by saying that he would "make [himself] rediculous by escaping out of the city", due to the evil that would result for his friends and the evil that would be thought of him by citizens of all good states.
+Later in the dialogue Socrates seems to go against this argument by saying that he would "make [himself] ridiculous by escaping out of the city", due to the evil that would result for his friends and the evil that would be thought of him by citizens of all good states.
 
 ## "did we not bring you into existence?"
 
@@ -36,7 +36,7 @@ When Socrates personifies the laws of Athens, he argues that since the state reg
 
 Later Socrates points out that he would have been able to discard his relationship with the state at any time if he had simply left the city, but because up until his conviction he never left he was now bound by that social contract to stay and suffer the penalty.
 
-> ... we further proclaim to any Athenian by the liberty which we allow him, that if he does not like us [the laws] when he has become of age and has seen the ways of the city, and made our [the laws'] acquaintance, he may go where he pleases and take his goods with him. None of us laws will forbit him or interfere with him. ... But he who has experience of the manner in which we order justice and administer the state, and still remains, has entered into an **implied contract** that he will do as we command him.
+> ... we further proclaim to any Athenian by the liberty which we allow him, that if he does not like us [the laws] when he has become of age and has seen the ways of the city, and made our [the laws'] acquaintance, he may go where he pleases and take his goods with him. None of us laws will forbid him or interfere with him. ... But he who has experience of the manner in which we order justice and administer the state, and still remains, has entered into an **implied contract** that he will do as we command him.
 
 It's interesting to see how Socrates considers himself a gadfly to the state, and yet feels completely responsible to obey the state even when it does unjustly. This probably comes from the way that Socrates conceptualizes the implied contract between him and the state as an inherently unequal. This is different from the modern (Lockean) conception of a social contract which is one that you voluntarily enter into. (Although Socrates does point out that he could have exited the contract with the Athenian state by physically leaving.)
 

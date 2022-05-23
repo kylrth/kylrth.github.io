@@ -8,7 +8,7 @@ tags: ["math", "modernism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015.jpg"
 ---
 
-> In fact, I saw all kinds of parallels between finance and Big Data. Both industries gobble up the same pool of talent, much of it from elite universities like MIT, Princeton, or Stanford. These new hires are ravenous for success and have been focused on external metrics--like SAT scores and college admissions--their entire lives. Whether in finance or tech, the message they've received is that they will be rich, that they will run the world. Their productivity indicates that they're on the right track, and it translates into dollars. This leads to the fallacious conclusion that whatever they're doing to bring in more money is good. It "adds value." Otherwise, why would the market reward it?"
+> In fact, I saw all kinds of parallels between finance and Big Data. Both industries gobble up the same pool of talent, much of it from elite universities like MIT, Princeton, or Stanford. These new hires are ravenous for success and have been focused on external metrics--like SAT scores and college admissions--their entire lives. Whether in finance or tech, the message they've received is that they will be rich, that they will run the world. Their productivity indicates that they're on the right track, and it translates into dollars. This leads to the fallacious conclusion that whatever they're doing to bring in more money is good. It "adds value." Otherwise, why would the market reward it?
 
 **^ This is the problem for me if I'm not careful.**
 

@@ -26,7 +26,7 @@ mv data/server/world/DIM-1 data/server/world_nether/DIM-1
 mv data/server/world/DIM1 data/server/world_the_end/DIM1
 ```
 
-Here's the map from vanilla Minecraft directories to Spigot directories:
+Here's the map from vanilla Minecraft directories to Spigot directories (which is what itzg's container uses):
 
 - `world/ -> world/`
 - `world/DIM-1 -> world_nether/DIM-1`
@@ -34,7 +34,7 @@ Here's the map from vanilla Minecraft directories to Spigot directories:
 
 At this point go ahead and start it with `docker-compose up`. When it first starts, it downloads the Minecraft implementation we specified with the `TYPE` environment variable (in my case [Paper](https://papermc.io/)).
 
-If you want the server to run as a Systemd service, follow the instructions for enabling a docker-compose Systemd service [here](https://kylrth.com/post/matrix-setup/#enabling-the-services-with-systemd).
+If you want the server to run as a Systemd service, follow the instructions for enabling a docker-compose Systemd service [here]({{< relref "self-hosting#systemd-and-docker" >}}).
 
 ## exposing two Minecraft servers on the same machine
 

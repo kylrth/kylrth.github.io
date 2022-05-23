@@ -5,7 +5,7 @@ draft: false
 tags: ["self-hosted", "matrix"]
 ---
 
-This is how I set up my own [Matrix](https://matrix.org) server on a Raspberry Pi with Docker. Unfortunately, the Matrix community has stopped releasing ARM images, so the latest version that will work on ARM is v1.26.0. The instructions will work the same for x86_64 systems, except you'll be able to use the default x86_64 images in the docker-compose file.
+This is how I set up my own [Matrix](https://matrix.org) server on a Raspberry Pi with Docker. Unfortunately, the Matrix community has stopped releasing ARM images, so the latest version that will work on ARM is v1.26.0. These instructions will work the same for x86_64 systems, except you'll be able to use the default x86_64 images in the docker-compose file.
 
 This installation comes with [Maubot](https://github.com/maubot/maubot) and [matrix-registration](https://github.com/ZerataX/matrix-registration) containers too. If you don't want to use those features, leave out those sections of the docker-compose config and don't follow the instructions in the corresponding sections.
 
@@ -147,7 +147,7 @@ wget https://raw.githubusercontent.com/ZerataX/matrix-registration/master/config
     -O data/registration/config.yaml
 ```
 
-Update the config to your liking, making sure to update the following objects:
+Update the config to your liking, making sure to update the following elements:
 
 ```yaml
 server_location: 'http://synapse'
@@ -183,5 +183,3 @@ sudo systemctl start services
 ```
 
 Message me [@kyle:kylrth.com](https://matrix.to/#/@kyle:kylrth.com) and tell me how it went!
-
-You can read a more extensive beginner's guide to using Matrix [here](https://joinmatrix.org/).

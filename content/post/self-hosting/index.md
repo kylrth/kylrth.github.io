@@ -111,7 +111,7 @@ sudo systemctl start services
 sudo systemctl stop services
 ```
 
-Although you can just use `docker-compose {up,down}`.
+Although I prefer `docker-compose {up,down}`.
 
 ## status checks
 
