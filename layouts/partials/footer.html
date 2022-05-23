@@ -3,13 +3,24 @@
 <footer class="l-footer">
   {{ partial "link.html" . }}
 
+  {{ $hash := "" -}}
+  {{ with site.Params.git.last_commit -}}
+  {{ $hash = .hash -}}
+  {{ end -}}
+  {{ if ne $hash "" -}}
   <p class="p-copyright">
-    {{ if and (eq .Kind "page") (not .IsHome) }}
-    <a href="https://github.com/kylrth/kylrth.com/blob/{{ .GitInfo.Hash }}/content/{{ .File.Path }}">page source</a>
-    {{ else }}
-    <a href="https://github.com/kylrth/kylrth.com/tree/{{ ( .Site.GetPage "/book/apology" ).GitInfo.Hash }}">source code</a>
-    {{ end }}
+  {{ $written := false -}}
+  {{ with .File -}}
+  {{ if ne .Path "" -}}
+  <a href="https://github.com/kylrth/kylrth.com/blob/{{ $hash }}/content/{{ .Path }}">page source</a>
+  {{ $written = true -}}
+  {{ end -}}
+  {{ end -}}
+  {{ if (not $written) -}}
+  <a href="https://github.com/kylrth/kylrth.com/tree/{{ $hash }}">source code</a>
+  {{ end -}}
   </p>
+  {{ end }}
 </footer>
 
 </body>
