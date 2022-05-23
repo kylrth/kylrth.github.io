@@ -7,6 +7,12 @@ tags: ["art"]
 
 Here's some of my favorite art.
 
+## Edvard Munch, *The Scream*, 1893
+
+{{< zoom-img src="scream.jpg" >}}
+
+([source](https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg))
+
 ## Ben Shahn, *All That Is Beautiful*, 1966
 
 {{< zoom-img src="all_that_is_beautiful.jpg" >}}
