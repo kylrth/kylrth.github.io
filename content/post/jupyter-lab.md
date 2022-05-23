@@ -9,16 +9,15 @@ This is how I set up my headless home server with a Jupyter Lab Docker container
 
 ## Nvidia drivers and the container runtime
 
-First, check [here](https://docs.nvidia.com/cuda/archive/11.4.2/cuda-toolkit-release-notes/index.html) (replacing the CUDA version in the URL with your own) to see which Nvidia drivers you need for the CUDA toolkit version you want. I'm using CUDA 11.4.2, which means I need at least driver version 470.
+First, check [here](https://docs.nvidia.com/cuda/archive/11.4.2/cuda-toolkit-release-notes/index.html) (replacing the CUDA version in the URL with your own) to see which Nvidia drivers you need for the CUDA toolkit version you want. I'm using CUDA 11.4.2, which means I need at least driver version 470.{{% sidenote %}}You can use `sudo apt purge nvidia-*` to cleanly remove older drivers (or broken installs) before installing the desired version.{{% /sidenote %}}
 
 ```sh
 sudo add-apt-repository ppa:graphics-drivers/ppa
-# sudo apt purge nvidia-*  # if you have an older driver version installed
 sudo apt install nvidia-headless-470 nvidia-utils-470
 sudo reboot
 ```
 
-Now do the following to install the Nvidia container runtime. (I borrowed some of this from Nvidia's container runtime installation instructions [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker).)
+Now do the following to install the Nvidia container runtime.{{% sidenote %}}I borrowed some of this from Nvidia's container runtime installation instructions [here](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker).{{% /sidenote %}}
 
 ```sh
 distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \

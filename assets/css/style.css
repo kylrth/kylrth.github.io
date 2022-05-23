@@ -175,7 +175,8 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    counter-reset: sidenote-counter
 }
 
 article,
@@ -1090,4 +1091,54 @@ img {
 papertitle {
     font-size: 14px;
     font-weight: 700
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter
+}
+
+.sidenote {
+    font-size: 80%;
+    position: relative
+}
+
+@media(min-width:1400px) {
+    .sidenote {
+        float: inline-end;
+        clear: inline-end;
+        margin-right: -23vw;
+        top: -3rem;
+        width: 20vw;
+        margin-top: 1rem
+    }
+
+    .sidenote-number:hover .sidenote,
+    .sidenote-number:hover {
+        background-color: rgba(128, 128, 128, 0.2)
+    }
+}
+
+@media(max-width:1400px) {
+    .sidenote {
+        float: inline-end;
+        width: 100%;
+        margin: 1rem 0;
+        padding-left: 10%
+    }
+}
+
+.sidenote::before {
+    content: counter(sidenote-counter) " ";
+    position: relative;
+    vertical-align: baseline;
+    font-size: 1.2em;
+    font-weight: bold
+}
+
+.sidenote-number::after {
+    content: counter(sidenote-counter);
+    vertical-align: super;
+    font-size: 0.7em;
+    font-weight: bold;
+    margin-right: 0.2rem
 }

@@ -25,6 +25,4 @@ Here are some snippets from a Lex Fridman [interview](https://lexfridman.com/pet
 
 > ...
 
-> **What gives me hope is that we have little tremors now, shaking people out of the reverie of the fiction of modernity that they've been living in, kind of a late 20th century style modernity.** That's good I think because ... people are kind of burning out on some of the social media stuff. They're sort of seeing the ugly side. ... It's quite clear these things are not quite all they're cracked up to be.
-
-These things he is saying about the world may not be objectively true about the world, but as JrEg [says](https://youtu.be/_ZNCCttVMg8?t=1592), "when we talk about them, we create them."
+> **What gives me hope is that we have little tremors now, shaking people out of the reverie of the fiction of modernity that they've been living in, kind of a late 20th century style modernity.** That's good I think because ... people are kind of burning out on some of the social media stuff. They're sort of seeing the ugly side. ... It's quite clear these things are not quite all they're cracked up to be.{{% sidenote %}}These things he is saying about the world may not be objectively true about the world, but as JrEg [says](https://youtu.be/_ZNCCttVMg8?t=1592), "when we talk about them, we create them."{{% /sidenote %}}

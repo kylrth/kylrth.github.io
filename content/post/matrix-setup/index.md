@@ -54,7 +54,7 @@ You'll note that in several places I set the user to `1000:1000`. I did this so 
 
 ## SSL certificate
 
-We're going to set up certbot with a new SSL certificate from LetsEncrypt. Since I host other things on this server besides matrix.kylrth.com, I do a wildcard certificate (`*.kylrth.com`), which requires DNS verification by creating a TXT record in the DNS settings for my domain. You can use `host -t txt _acme-challenge.kylrth.com` to make sure the TXT records have been updated before having LetsEncrypt check them.
+We're going to set up certbot with a new SSL certificate from LetsEncrypt. Since I host other things on this server besides matrix.kylrth.com, I do a wildcard certificate (`*.kylrth.com`), which requires DNS verification by creating a TXT record in the DNS settings for my domain.{{% sidenote %}}You can use `host -t txt _acme-challenge.kylrth.com` to make sure the TXT records have been updated before having LetsEncrypt check them.{{% /sidenote %}}
 
 ```sh
 mkdir -p data/certbot/conf
@@ -103,7 +103,7 @@ wget {{< resource-ref "app.conf" >}} \
 
 ## Synapse
 
-Before doing anything else, make sure you have the version you want in the docker-compose config for the Synapse container. The last version to support ARM was v1.26.0, so if you're on ARM you'll need to use that. Otherwise, update the docker-compose config to use whatever version is latest. It's not a good idea to use the tag `latest`, because version upgrades often require changes to be made. You can see the upgrade instructions [here](https://matrix-org.github.io/synapse/develop/upgrade).
+Before doing anything else, make sure you have the version you want in the docker-compose config for the Synapse container. The last version to support ARM was v1.26.0, so if you're on ARM you'll need to use that. Otherwise, update the docker-compose config to use whatever version is latest.{{% sidenote %}}In general it's not a good idea to use the default `latest` tag for remote images, because version upgrades often require changes to be made. You can see the upgrade instructions for Synapse [here](https://matrix-org.github.io/synapse/develop/upgrade).{{% /sidenote %}}
 
 Now generate the initial configuration for Synapse:
 

@@ -526,3 +526,4 @@ The church spends billions of dollars on building temples, while spending far le
 - [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tjl090/in_1820_a_palmyra_newspaper_advertised_a_book/)
 - [patterns of apologetics](http://libreddit.kylrth.com/r/exmormon/comments/ukgdse/my_mom_trying_to_downplay_temple_ceremonies_and/i7ow8lh/?context=3)
 - There's a useful quote about how conspiracy theories meet people's emotional needs and make them think they're saving the world [here](https://jigsaw.google.com/the-current/conspiracy-theories/).
+- add sidenotes where needed
