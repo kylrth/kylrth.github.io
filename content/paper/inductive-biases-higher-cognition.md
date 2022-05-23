@@ -44,7 +44,3 @@ The authors talk about meta-learning being similar to the scaled hierarchy of le
 As knowledge learning is shifted up the hierarchy, it is able to be applied to lower areas of the hierarchy without having to learn it anew.
 
 Current methods take a hit in performance when particular combinations of linguistic concepts are not included in the training data but are present in the test data. But humans have a compositional representation of language that allows them to avoid this. We need to redefine metrics of success to be based on the ability to generalize to out-of-distribution test data.
-
-## inductive biases based on higher-level cognition as a path towards systems that generalize OOD
-
-*to be continued*
