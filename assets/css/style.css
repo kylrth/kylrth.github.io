@@ -497,7 +497,12 @@ pre {
 
 code {
     line-height: 1.8;
-    font-size: 1.4rem
+    font-size: 1.4rem;
+    word-break: break-all;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
+    background-color: rgba(128, 128, 128, 0.1);
 }
 
 table {
