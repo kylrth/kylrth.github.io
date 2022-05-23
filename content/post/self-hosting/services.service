@@ -4,9 +4,11 @@
 #     sudo systemctl enable /home/kyle/services/services.service
 
 [Unit]
-Description=web services behind NGINX
+Description=My web services
 
 [Service]
+User=kyle
+Group=kyle
 ExecStart=/home/kyle/services/service.sh start
 ExecStop=/home/kyle/services/service.sh stop
 RemainAfterExit=yes

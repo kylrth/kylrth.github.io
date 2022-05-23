@@ -3,7 +3,7 @@ title: "Faith is not blind"
 author: "Bruce and Marie Hafen"
 goodreads: "https://www.goodreads.com/book/show/42975561-faith-is-not-blind"
 date: 2021-01-18T08:11:23-07:00
-draft: true
+draft: false
 tags: ["religion", "faith"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543434219l/42975561._SY475_.jpg"
 ---

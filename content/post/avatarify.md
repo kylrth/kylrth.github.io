@@ -9,7 +9,7 @@ tags: ["self-hosted", "deep-learning"]
 
 ## setting up the server
 
-Be sure you've installed the Nvidia Docker runtime so that the Docker container can use the GPU. You can see how I did that [here]({{< relref "jupyter-lab.md" >}}). Run the following on the server:
+Be sure you've installed the Nvidia Docker runtime so that the Docker container can use the GPU. You can see how I did that [here]({{< relref "jupyter-lab" >}}). Run the following on the server:
 
 ```sh
 mkdir avatarify

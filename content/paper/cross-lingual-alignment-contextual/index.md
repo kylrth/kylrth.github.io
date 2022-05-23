@@ -7,7 +7,7 @@ tags: ["nlp", "embedding"]
 mathjax: true
 ---
 
-Recent contextual word embeddings (e.g. [ELMo]({{< relref "deep-contextualized-word-representations.md" >}})) have shown to be much better than "static" embeddings (where there's a one-to-one mapping from token to representation). This paper is exciting because they were able to create a multi-lingual embedding space that used *contextual* word embeddings.
+Recent contextual word embeddings (e.g. [ELMo]({{< relref "deep-contextualized-word-representations" >}})) have shown to be much better than "static" embeddings (where there's a one-to-one mapping from token to representation). This paper is exciting because they were able to create a multi-lingual embedding space that used *contextual* word embeddings.
 
 Each token will have a "point cloud" of embedding values, one point for each context containing the token. They define the *embedding anchor* as the average of all those points for a particular token. Here's a figure from the paper that displays a two-dimensional PCA of the contextual representations for four Spanish words, along with their anchors:
 

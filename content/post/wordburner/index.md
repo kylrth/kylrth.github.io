@@ -6,6 +6,8 @@ tags: ["machine-learning", "language-learning", "nlp"]
 thumbnail: "icon.png"
 ---
 
+**Update 2022-04-27**: The beta is over, but the apk is still installable with the instructions below and any feedback sent from inside the app will be received by me. I'm going to be working on this more over the summer, and eventually publishing it on the app store. :)
+
 Ever since learning Spanish, it has been a dream of mine to create a vocabulary study app that meets my needs. Duolingo won't cover advanced vocabulary, Anki requires manually-generated decks, and other apps have expensive subscription plans.
 
 For a group project in my [NLP class](http://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) this semester I finally got started on this project. We've written the basic functionality of the app for learning French from English. Beta testing starts now!

@@ -3,7 +3,7 @@ title: "The infinite Atonement"
 author: "Tad Callister"
 goodreads: "https://www.goodreads.com/book/show/9948.The_Infinite_Atonement"
 date: 2021-03-30T06:30:00-07:00
-draft: true
+draft: false
 tags: ["religion"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391107048l/9948.jpg"
 ---

@@ -4,12 +4,10 @@
   {{ partial "link.html" . }}
 
   <p class="p-copyright">
-    {{ with .Site.Copyright | safeHTML }}
-    {{ . }}
+    {{ if and (eq .Kind "page") (not .IsHome) }}
+    <a href="https://github.com/kylrth/kylrth.com/blob/{{ .GitInfo.Hash }}/content/{{ .File.Path }}">page source</a>
     {{ else }}
-    &copy;&nbsp;
-    {{ .Site.LastChange.Format "2006" }}
-    {{ .Site.Title }}
+    <a href="https://github.com/kylrth/kylrth.com/tree/{{ ( .Site.GetPage "/book/apology" ).GitInfo.Hash }}">source code</a>
     {{ end }}
   </p>
 </footer>

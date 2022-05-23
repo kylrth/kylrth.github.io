@@ -6,7 +6,7 @@ draft: false
 tags: ["nlp", "optimization"]
 ---
 
-[BERT]({{< relref "bert.md" >}}) optimizes the Masked Language Model (MLM) objective by masking word pieces *uniformly at random* in its training data and attempting to predict the masked values. With SpanBERT, spans of tokens are masked and the model is expected to predict the text in the spans from the representations of the words on the boundary. Span lengths follow a geometric distribution, and span start points are uniformly random.
+[BERT]({{< relref "bert" >}}) optimizes the Masked Language Model (MLM) objective by masking word pieces *uniformly at random* in its training data and attempting to predict the masked values. With SpanBERT, spans of tokens are masked and the model is expected to predict the text in the spans from the representations of the words on the boundary. Span lengths follow a geometric distribution, and span start points are uniformly random.
 
 To predict each individual masked token, a two-layer feedforward network was provided with the boundary token representations plus the position embedding of the target token, and the output vector representation was used to predict the masked token and compute cross-entropy loss exactly as in standard MLM.
 

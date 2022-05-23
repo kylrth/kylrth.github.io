@@ -3,7 +3,7 @@ title: "How not to diet: the groundbreaking science of healthy, permanent weight
 author: "Michael Greger"
 goodreads: "https://www.goodreads.com/book/show/43252570-how-not-to-diet"
 date: 2021-03-03T07:00:37-07:00
-draft: true
+draft: false
 tags: ["health"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566114222l/43252570._SY475_.jpg"
 ---

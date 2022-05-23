@@ -37,9 +37,6 @@
 
   {{ if .IsPage }}
   <meta property="og:type" content="article" />
-  {{ with ($.Param "facebook") }}
-  <meta property="og:article:author" content="https://facebook.com/{{ . }}" />
-  {{ end }}
   {{ else }}
   <meta property="og:type" content="website" />
   {{ end }}

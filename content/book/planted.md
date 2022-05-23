@@ -3,7 +3,7 @@ title: "Planted: belief and belonging in an age of doubt"
 author: "Patrick Mason"
 goodreads: "https://www.goodreads.com/book/show/27863812-planted"
 date: 2021-04-18T10:21:00-06:00
-draft: true
+draft: false
 tags: ["religion", "modernism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447995681l/27863812._SY475_.jpg"
 ---
@@ -251,4 +251,4 @@ The church (as a people) needs to create spaces for people who don't meet the no
 
 - *How can we know that this institution (and only this institution) is the God-approved community Mason think it is? Many other religions inspire the same genuine feelings of faith, community, and Christ-like love, whether they believe in Jesus or not.*
 - *Isn't it possible for a church community to exist that similarly strives for the unity and inclusion of a Zion community without being factually true or inspired of God?*
-- *If the church is to be "a moral critic of society and other social institutions and an exemplar of right behavior" (p. 142), why doesn't it seem to bring much that is unique to current moral discussions about things like racism, political polarization, or poverty?*
+- *If the church is to be "a moral critic of society and other social institutions and an exemplar of right behavior" (p. 142), why doesn't it bring much that is unique to current moral discussions about things like racism, political polarization, consumerism, poverty, or even more mundane things like social media or nutrition?*

@@ -18,7 +18,7 @@ sudo fdisk -l  # find the path (e.g. "/dev/sda") of the USB device
 sudo dd bs=4M if=path/to/downloaded.iso of=/dev/sda
 ```
 
-I run all of my services in Docker, and for GPU-enabled services I've set up the Nvidia Docker runtime. You can see how I installed that [here]({{< relref "jupyter-lab.md" >}}).
+I run all of my services in Docker, and for GPU-enabled services I've set up the Nvidia Docker runtime. You can see how I installed that [here]({{< relref "jupyter-lab" >}}).
 
 ## boot settings
 
@@ -89,9 +89,29 @@ Now you know that you're connecting to the server you think you are.
 
 Now whenever the server reboots I SSH into the dropbear instance, run `cryptroot-unlock`, and provide the decryption key. Note that if you shut down the server from inside the dropbear instance instead of booting into Ubuntu, Wake-on-LAN will not be enabled for the next boot.
 
-## systemd and docker
+## Systemd and Docker
 
-TODO
+I run everything with docker-compose, so I borrowed a systemd service file from [this guide](https://selfhostedhome.com/start-docker-compose-using-systemd-on-debian/) so that the services are started when the computer boots up. It starts the containers with docker-compose and then uses a script to wait for the NGINX container to start responding to requests on port 443. To set this up, copy these three files to where your `docker-compose.yml` is.
+
+```sh
+wget https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh \
+    -O wait-for-it.sh
+chmod +x wait-for-it.sh
+wget {{< resource-ref "service.sh" >}} -O service.sh
+chmod +x service.sh
+wget {{< resource-ref "services.service" >}} -O services.service
+sed -i "s|/home/kyle/services|$(pwd)|g" services.service
+sudo systemctl enable $(pwd)/services.service
+```
+
+Now you can start or stop all of the services with this:
+
+```sh
+sudo systemctl start services
+sudo systemctl stop services
+```
+
+Although you can just use `docker-compose {up,down}`.
 
 ## status checks
 

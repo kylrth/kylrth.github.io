@@ -8,7 +8,7 @@ tags: ["religion", "mormonism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388188757l/236609.jpg"
 ---
 
-*I'm reading this book at the same time as* [No man knows my history: the life of Joseph Smith]({{< relref "no-man-knows.md" >}}) *by Fawn Brodie, and I'm comparing what the two cover. Interesting things that appear in both books might be covered here or there.*
+*I'm reading this book at the same time as* [No man knows my history: the life of Joseph Smith]({{< relref "no-man-knows" >}}) *by Fawn Brodie, and I'm comparing what the two cover. Interesting things that appear in both books might be covered here or there.*
 
 *I appreciate that when Bushman leaves out a primary source, he usually explains why that's a reasonable thing to do (as with the Hurlbut affidavits or Ingersoll's testimony). I also appreciate the detail with which Bushman compares Joseph's theology with the doctrines of other religious groups of the period. It gives me a good context to understand the innovations Joseph actually brought.*
 

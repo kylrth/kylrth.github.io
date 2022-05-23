@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Bash script to start and stop a docker-compose service.
 # stolen from https://selfhostedhome.com/start-docker-compose-using-systemd-on-debian/
 
@@ -9,7 +10,7 @@ start() {
     cd ${DIR}
 
     docker-compose up -d
-    ${WAIT} --timeout=120 localhost:80
+    ${WAIT} --timeout=120 localhost:443
 }
 
 stop() {

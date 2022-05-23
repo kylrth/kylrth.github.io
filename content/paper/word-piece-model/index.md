@@ -7,7 +7,7 @@ tags: ["nlp"]
 mathjax: true
 ---
 
-*This was mentioned in the paper on [Google's Multilingual Neural Machine Translation System]({{< relref "google-zero-shot.md" >}}). It's regarded as the original paper to use the word-piece model, which is the focus of my notes here.*
+*This was mentioned in the paper on [Google's Multilingual Neural Machine Translation System]({{< relref "google-zero-shot" >}}). It's regarded as the original paper to use the word-piece model, which is the focus of my notes here.*
 
 ## the WordPieceModel
 

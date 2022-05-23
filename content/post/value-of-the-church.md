@@ -1,5 +1,5 @@
 ---
-title: "My search for value in the church"
+title: "my search for value in the church"
 date: 2021-01-12T06:26:11-08:00
 draft: true
 tags: ["religion"]
@@ -11,7 +11,7 @@ I believe that anyone who reevaluates their relationship with their religion has
 
 I don't think Mormonism is God's true religion on earth. At this point I feel fully intellectually out. If I ever get exposed to something that'll make me reconsider, I'm open to that, because I loved the promises of the church and really wanted them to be true. But I don't think that's going to happen.
 
-While listening to [this podcast interview](https://www.scholarsandsaints.net/1298003/7059058-producing-ancient-scripture-w-michael-hubbard-mackay-and-mark-ashurst-mcgee) with the editors of [*Producing Ancient Scripture*]({{< relref "/book/producing-ancient-scripture.md" >}}), I realized that studying church history is so much more fulfilling and interesting when I'm not worried about its implications for the church's truth claims. Despite my disbelief, I've found that I really enjoy the study and the experience of Mormonism. As I've learned about church history (and religious history in general), I've been able to see better my own motivations and shortcomings through the lens of history.
+While listening to [this podcast interview](https://www.scholarsandsaints.net/1298003/7059058-producing-ancient-scripture-w-michael-hubbard-mackay-and-mark-ashurst-mcgee) with the editors of [*Producing Ancient Scripture*](https://www.goodreads.com/book/show/49415714-producing-ancient-scripture), I realized that studying church history is so much more fulfilling and interesting when I'm not worried about its implications for the church's truth claims. Despite my disbelief, I've found that I really enjoy the study and the experience of Mormonism. As I've learned about church history (and religious history in general), I've been able to see better my own motivations and shortcomings through the lens of history.
 
 I used to be frustrated that I had been "under the thumb" of the church for so long, that they had extorted me for my money and time. While I plan on eventually making modifications to my religious practice, I'm happy to continue participating in the church because it gives me the chance to discuss morals and family-raising with others, and it gives me the opportunity to participate in a community that works well for me.[^privilege] At the same time, I am also not going to lie or pretend to believe things that I do not. I don't need to subscribe to anything that I see as nonsensical or of little value, and I can recognize the shortcomings of the community and try to help.
 
@@ -51,6 +51,7 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - thoughts on the hard problem of consciousness in this [Lex Fridman interview](https://open.spotify.com/episode/4gIFuUyepwl5V2Eh7HlW2x?si=MXkZUNBmRMiVnGER8s9cWQ&utm_source=sms&dl_branch=1)
 - It's a relatively new idea to identify ourselves according to our beliefs about things (communist, capitalist, deist, atheist, liberal, etc.). I want to be careful about the terms I use to identify myself, because I don't hold all of my beliefs with 100% confidence. So I might choose not to identify as atheist, even though I don't think that any of the religions are likely to be right.
 - Antimormonism feels so harmful and antagonistic because it IS antagonizing a culture that's just as valid as any other. Just because it's historically problematic doesn't mean it's not a valid culture and religion.
+- [how to handle when your parents target you a little](https://libreddit.kylrth.com/r/exmormon/comments/urg8yt/mom_bears_her_testimony_and_i_gently_explain_why/)
 - Bokovoy, in his Mormon Stories interview part 3:
   - on religion:
 

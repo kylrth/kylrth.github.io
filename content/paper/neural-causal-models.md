@@ -7,7 +7,7 @@ tags: ["generalization"]
 mathjax: true
 ---
 
-*This is a follow-on to [A meta-transfer objective for learning to disentangle causal mechanisms]({{< relref "meta-transfer-objective-for-causal-mechanisms.md" >}})*
+*This is a follow-on to [A meta-transfer objective for learning to disentangle causal mechanisms]({{< relref "meta-transfer-objective-for-causal-mechanisms" >}})*
 
 Here we describe an algorithm for predicting the causal graph structure of a set of visible random variables, each possibly causally dependent on any of the other variables.
 

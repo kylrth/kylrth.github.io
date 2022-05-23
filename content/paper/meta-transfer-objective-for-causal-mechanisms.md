@@ -15,4 +15,4 @@ The meta-learning objective here is to optimize the regret over choice of weight
 
 Anyway, the point of this paper is not to train a better model but to use this meta-learning objective to tease out the causal graph. It is left to future work to determine how to use this to create models that use these disentangled representations.
 
-*[Learning neural causal models from unknown interventions]({{< relref "neural-causal-models.md" >}}) is a follow-on to this paper.*
+*[Learning neural causal models from unknown interventions]({{< relref "neural-causal-models" >}}) is a follow-on to this paper.*

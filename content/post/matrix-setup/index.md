@@ -176,20 +176,7 @@ Read about your options for managing tokens [here](https://github.com/ZerataX/ma
 
 ## enabling the services with Systemd
 
-Now we're going to use Systemd to make this set of containers a background service that starts at boot.
-
-```sh
-wget https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh \
-    -O wait-for-it.sh
-chmod +x wait-for-it.sh
-wget {{< resource-ref "service.sh" >}} -O service.sh
-chmod +x service.sh
-wget {{< resource-ref "services.service" >}} -O services.service
-sed -i "s|kyle|$USER|g" services.service
-sudo systemctl enable /home/$USER/services/services.service
-```
-
-Now we're finally ready to get everything started.
+See [this section]({{< relref "self-hosting#systemd-and-docker" >}}) of my self-hosting post to learn how to use Systemd to make this set of containers a background service that starts at boot. Now we're finally ready to get everything started.
 
 ```sh
 sudo systemctl start services

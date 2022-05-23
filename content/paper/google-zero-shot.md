@@ -6,9 +6,9 @@ draft: false
 tags: ["nlp", "attention", "machine-translation"]
 ---
 
-They use the word-piece model from ["Japanese and Korean Voice Search"]({{< relref "word-piece-model.md" >}}), with 32,000 word pieces. (This is a lot less than the 200,000 used in that paper.) They state in the paper that the shared word-piece model is very similar to Byte-Pair-Encoding, which was used for NMT in [this paper](https://www.aclweb.org/anthology/P16-1162.pdf) by researchers at U of Edinburgh.
+They use the word-piece model from ["Japanese and Korean Voice Search"]({{< relref "word-piece-model" >}}), with 32,000 word pieces. (This is a lot less than the 200,000 used in that paper.) They state in the paper that the shared word-piece model is very similar to Byte-Pair-Encoding, which was used for NMT in [this paper](https://www.aclweb.org/anthology/P16-1162.pdf) by researchers at U of Edinburgh.
 
-The model and training process are exactly as in [Google's earlier paper]({{< relref "google-nmt-2016.md" >}}). It takes *3 weeks* on *100 GPUs* to train, even after increasing batch size and learning rate.
+The model and training process are exactly as in [Google's earlier paper]({{< relref "google-nmt-2016" >}}). It takes *3 weeks* on *100 GPUs* to train, even after increasing batch size and learning rate.
 
 They played with oversampling data so that all language pairs were equally represented, performing word-piece segmentation after the fact.
 

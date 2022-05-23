@@ -32,13 +32,7 @@ docker run --rm --runtime=nvidia all nvidia/cuda:11.4.2-base nvidia-smi  # test
 
 ## building the images
 
-Now, clone my repo:
-
-```sh
-git clone https://github.com/kylrth/GPU-Jupyterhub.git
-```
-
-This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/base/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/dl/Dockerfile) used to build a CUDA-enabled Jupyter Lab image. The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds the packages I want (including PyTorch, TensorFlow, scikit-learn, geopandas, and the Go toolchain). If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Change the packages to install as you like before continuing.
+Now make a fork of my [repo](https://github.com/kylrth/GPU-Jupyterhub), and clone it. This repo has Dockerfiles for building custom CUDA-enabled Jupyter images. The main [Dockerfile](https://github.com/kylrth/GPU-Jupyterhub/blob/master/Dockerfile) builds the Jupyter Hub image, and there are [two](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/base/Dockerfile) [Dockerfiles](https://github.com/kylrth/GPU-Jupyterhub/blob/master/notebook/dl/Dockerfile) used to build a CUDA-enabled Jupyter Lab image. The first Dockerfile builds a base image with Jupyter Lab installed, and the second adds the packages I want (including PyTorch, TensorFlow, scikit-learn, geopandas, and the Go toolchain). If you're using a different version of CUDA than I am, update the `FROM` directive as necessary. Change the packages to install as you like before continuing.
 
 After modifying the notebook image builds to your taste, open the base Dockerfile and edit the following line to change the deep user's sudo password to something else:
 

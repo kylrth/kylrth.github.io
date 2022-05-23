@@ -7,7 +7,7 @@ tags: ["deep-learning", "generalization"]
 mathjax: true
 ---
 
-This paper builds on what we learned in ["Understanding deep learning requires rethinking generalization"]({{< relref "understanding-requires-rethinking-generalization.md" >}}). In that paper they showed that DNNs are able to fit pure noise in the same amount of time as it can fit real data, which means that our optimization algorithm (SGD, Adam, etc.) is not what's keeping DNNs from overfitting.
+This paper builds on what we learned in ["Understanding deep learning requires rethinking generalization"]({{< relref "understanding-requires-rethinking-generalization" >}}). In that paper they showed that DNNs are able to fit pure noise in the same amount of time as it can fit real data, which means that our optimization algorithm (SGD, Adam, etc.) is not what's keeping DNNs from overfitting.
 
 ## experiments for detecting easy/hard samples
 

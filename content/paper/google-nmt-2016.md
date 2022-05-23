@@ -6,6 +6,6 @@ draft: false
 tags: ["nlp", "attention", "machine-translation"]
 ---
 
-*This model was superseded by [this one]({{< relref "google-zero-shot.md" >}}).*
+*This model was superseded by [this one]({{< relref "google-zero-shot" >}}).*
 
 They did some careful things with residual connections to make sure it was very parallelizable. They put each LSTM layer on a separate GPU. They quantized the models such that they could train using full floating-point computations with a couple restrictions and then convert the models to quantized versions.
