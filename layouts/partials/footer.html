@@ -3,24 +3,18 @@
 <footer class="l-footer">
   {{ partial "link.html" . }}
 
-  {{ $hash := "" -}}
-  {{ with site.Params.git.last_commit -}}
-  {{ $hash = .hash -}}
-  {{ end -}}
-  {{ if ne $hash "" -}}
   <p class="p-copyright">
-  {{ $written := false -}}
-  {{ with .File -}}
-  {{ if ne .Path "" -}}
-  <a href="https://github.com/kylrth/kylrth.com/blob/{{ $hash }}/content/{{ .Path }}">page source</a>
-  {{ $written = true -}}
-  {{ end -}}
-  {{ end -}}
-  {{ if (not $written) -}}
-  <a href="https://github.com/kylrth/kylrth.com/tree/{{ $hash }}">source code</a>
-  {{ end -}}
+    {{ $written := false -}}
+    {{ with .File -}}
+    {{ if ne .Path "" -}}
+    <a href="https://github.com/kylrth/kylrth.com/commits/main/content/{{ .Path }}">page history</a>
+    {{ $written = true -}}
+    {{ end -}}
+    {{ end -}}
+    {{ if (not $written) -}}
+    <a href="https://github.com/kylrth/kylrth.com">source code</a>
+    {{ end -}}
   </p>
-  {{ end }}
 </footer>
 
 </body>

@@ -6,10 +6,6 @@ I started this website from the [Pickles theme](https://github.com/mismith0227/h
 
 ## building
 
-The command I use to generate the static files for hosting is the following:
-
 ```sh
-HUGOxPARAMSxGITxLAST_COMMITxHASH=$(git log -1 --format=%H) hugo --gc --minify
+hugo --gc --minify
 ```
-
-The environment variable enables the source code links in the footer. It's inspired from [this](https://github.com/gohugoio/hugo/issues/9738#issuecomment-1086669372).
