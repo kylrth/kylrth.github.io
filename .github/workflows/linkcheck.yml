@@ -12,6 +12,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: load cache
+      id: hit-cache
+      uses: actions/cache@v3
+      with:
+        path: tmp/.htmltest
+        key: htmltest-cache
+
     - name: set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
