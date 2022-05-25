@@ -7,7 +7,7 @@ I started this website from the [Pickles theme](https://github.com/mismith0227/h
 ## building
 
 ```sh
-hugo --gc --minify
+make
 ```
 
 ## onion site

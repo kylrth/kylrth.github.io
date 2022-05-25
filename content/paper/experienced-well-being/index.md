@@ -4,7 +4,7 @@ link: "https://www.pnas.org/doi/10.1073/pnas.2016976118"
 date: 2022-03-30T13:34:53-04:00
 draft: false
 tags: ["policy", "philosophy"]
-thumbnail: "https://www.pnas.org/cms/10.1073/pnas.2016976118/asset/ee275066-8143-4b27-afed-65178dd8f88c/assets/images/large/pnas.2016976118fig01.jpg"
+thumbnail: "plot.webp"
 ---
 
 **Turns out that money does buy happiness.** You may have heard that people's average happiness stops improving once you make more than $75,000/year? Researchers did a better survey with more data and found that that was not the case.

@@ -1,0 +1,15 @@
+DirectoryPath: public/
+EnforceHTTPS: true
+IgnoreCanonicalBrokenLinks: false
+IgnoreURLs:
+  # these consistently return weird status codes:
+  - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
+  - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
+  - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
+  - "^https://wise\\.com/$"
+  # onion sites
+  - "http://.*\\.onion"
+  # HTTPS is broken on these sites
+  - "http://bei\\.umontreal\\.ca"
+  - "http://www\\.faecum\\.qc\\.ca"
+  - "http://jur\\.byu\\.edu"

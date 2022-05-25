@@ -10,7 +10,7 @@ thumbnail: "icon.png"
 
 Ever since learning Spanish, it has been a dream of mine to create a vocabulary study app that meets my needs. Duolingo won't cover advanced vocabulary, Anki requires manually-generated decks, and other apps have expensive subscription plans.
 
-For a group project in my [NLP class](http://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) this semester I finally got started on this project. We've written the basic functionality of the app for learning French from English. Beta testing starts now!
+For a group project in my [NLP class](https://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) this semester I finally got started on this project. We've written the basic functionality of the app for learning French from English. Beta testing starts now!
 
 ## downloading the beta testing app
 

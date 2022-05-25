@@ -7,7 +7,7 @@ tags: ["deep-learning"]
 thumbnail: "samoyed.png"
 ---
 
-*This post was created as an assignment in Bang Liu's [IFT6289](http://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) course in winter 2022. The structure of the post follows the structure of the assignment: summarization followed by my own comments.*
+*This post was created as an assignment in Bang Liu's [IFT6289](https://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) course in winter 2022. The structure of the post follows the structure of the assignment: summarization followed by my own comments.*
 
 ## paper summarization
 
