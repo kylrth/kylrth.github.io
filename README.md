@@ -9,3 +9,7 @@ I started this website from the [Pickles theme](https://github.com/mismith0227/h
 ```sh
 hugo --gc --minify
 ```
+
+## onion site
+
+The site is also accessible through Tor at [kylrthjj7mpvktolz7u6fnudt3hpdvjw4hzquanjpepgsf5vcq5divad.onion](http://kylrthjj7mpvktolz7u6fnudt3hpdvjw4hzquanjpepgsf5vcq5divad.onion/).
