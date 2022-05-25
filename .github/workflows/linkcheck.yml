@@ -1,0 +1,24 @@
+name: link checking
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: latest
+
+    - name: download htmltest
+      run: curl https://htmltest.wjdp.uk | sudo bash -s -- -b /usr/local/bin
+
+    - name: run htmltest
+      run: make htmltest  # also builds site

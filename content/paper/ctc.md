@@ -1,6 +1,6 @@
 ---
 title: "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks"
-link: "http://www.cs.toronto.edu/~graves/icml_2006.pdf"
+link: "https://www.cs.toronto.edu/~graves/icml_2006.pdf"
 date: 2020-07-10T09:14:59-06:00
 draft: false
 tags: ["speech"]

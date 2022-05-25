@@ -26,17 +26,17 @@ paginate = 5
 
 [[menu.main]]
     name = "posts"
-    url = "/post"
+    url = "/post/"
     weight = 2
 
 [[menu.main]]
     name = "paper notes"
-    url = "/paper"
+    url = "/paper/"
     weight = 3
 
 [[menu.main]]
     name = "book notes"
-    url = "/book"
+    url = "/book/"
     weight = 4
 
 [related]

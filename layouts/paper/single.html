@@ -9,7 +9,7 @@
             </div>
             {{ end }}
             {{ range .Params.tags }}
-            <a href="/tags/{{ . | urlize }}" class="c-tag">{{ . }}</a>
+            <a href="/tags/{{ . | urlize }}/" class="c-tag">{{ . }}</a>
             {{ end }}
         </div>
     </header>

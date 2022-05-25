@@ -7,7 +7,7 @@ tags: ["deep-learning", "simulation"]
 mathjax: true
 ---
 
-*This post was created as an assignment in Bang Liu's [IFT6289](http://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) course in winter 2022. The structure of the post follows the structure of the assignment: summarization followed by my own comments.*
+*This post was created as an assignment in Bang Liu's [IFT6289](https://www-labs.iro.umontreal.ca/~liubang/IFT%206289%20-%20Winter%202022.htm) course in winter 2022. The structure of the post follows the structure of the assignment: summarization followed by my own comments.*
 
 To summarize, the authors create a unifying framework for describing message-passing neural networks, which they apply to the problem of predicting the structural properties of chemical compounds in the QM9 dataset.
 
