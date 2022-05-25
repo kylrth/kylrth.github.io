@@ -53,7 +53,7 @@ One day I'd like to get a UPS with [apcupsd](https://www.pontikis.net/blog/apc-u
 
 ## remote disk unlocking
 
-I have encrypted the hard drive with LUKS, so in case of an unexpected reboot while I'm away I've set up remote unlocking ([source](https://hamy.io/post/0009/how-to-install-luks-encrypted-ubuntu-18.04.x-server-and-enable-remote-unlocking/)):{{% sidenote %}}Note that here I'm copying the `authorized_keys` file from my normal SSH folder to the dropbear config folder, allowing any device that can log into my server as me to also log into the dropbear instance. You may want to further restrict access.{{% /sidenote %}}
+I have encrypted the boot drive with LUKS, so in case of an unexpected reboot while I'm away I've set up remote unlocking ([source](https://hamy.io/post/0009/how-to-install-luks-encrypted-ubuntu-18.04.x-server-and-enable-remote-unlocking/)):{{% sidenote %}}Note that here I'm copying the `authorized_keys` file from my normal SSH folder to the dropbear config folder, allowing any device that can log into my server as me to also log into the dropbear instance. You may want to further restrict access.{{% /sidenote %}}
 
 ```sh
 sudo apt install dropbear-initramfs
@@ -88,6 +88,10 @@ echo "MvNwpNyBnzkV4OqoQ6PWfxYji+w" | base64 --decode \
 Now you know that you're connecting to the server you think you are.
 
 Now whenever the server reboots I SSH into the dropbear instance, run `cryptroot-unlock`, and provide the decryption key.{{% sidenote %}}Note that if you shut down the server from inside the dropbear instance instead of booting into Ubuntu, Wake-on-LAN will not be enabled for the next boot because the Systemd service didn't have a chance to run.{{% /sidenote %}}
+
+## other encrypted drives
+
+You can follow [this guide](https://www.xmodulo.com/how-to-create-encrypted-disk-partition-on-linux.html) to set up other encrypted drives to unlock automatically on boot. In that guide the key file is placed in `/root`. Wherever you choose to put it, be sure that location is itself on an encrypted drive, otherwise someone with physical access to your machine could read the key file and decrypt the encrypted drive.
 
 ## Systemd and Docker
 
