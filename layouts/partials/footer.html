@@ -7,12 +7,13 @@
     {{ $written := false -}}
     {{ with .File -}}
     {{ if ne .Path "" -}}
-    <a href="https://github.com/kylrth/kylrth.com/commits/main/content/{{ .Path }}">page history</a>
+    <a href="https://github.com/kylrth/kylrth.github.io/commits/main/content/{{ .Path }}">page
+      history</a>
     {{ $written = true -}}
     {{ end -}}
     {{ end -}}
     {{ if (not $written) -}}
-    <a href="https://github.com/kylrth/kylrth.com">source code</a>
+    <a href="https://github.com/kylrth/kylrth.github.io">source code</a>
     {{ end -}}
   </p>
 </footer>

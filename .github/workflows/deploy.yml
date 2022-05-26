@@ -1,4 +1,4 @@
-name: link checking
+name: build/link check
 
 on:
   push:
@@ -7,12 +7,12 @@ on:
     branches: [ main ]
 
 jobs:
-  check:
+  main:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
 
-    - name: load cache
+    - name: load htmltest cache
       id: hit-cache
       uses: actions/cache@v3
       with:
@@ -27,5 +27,14 @@ jobs:
     - name: download htmltest
       run: curl https://htmltest.wjdp.uk | sudo bash -s -- -b /usr/local/bin
 
+    # build site and check links
     - name: run htmltest
-      run: make htmltest  # also builds site
+      run: make htmltest
+
+    # deploy to GitHub pages if this is the main branch
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
