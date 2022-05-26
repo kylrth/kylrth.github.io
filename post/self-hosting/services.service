@@ -1,0 +1,17 @@
+# systemd service for a docker-compose service
+
+# set me to start on boot by running
+#     sudo systemctl enable /home/kyle/services/services.service
+
+[Unit]
+Description=My web services
+
+[Service]
+User=kyle
+Group=kyle
+ExecStart=/home/kyle/services/service.sh start
+ExecStop=/home/kyle/services/service.sh stop
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
