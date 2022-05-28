@@ -56,7 +56,7 @@ Since I use Hugo to build my site, I can direct users to the onion version of th
 
 ```html
 <meta http-equiv="onion-location"
-    content="http://kylrthjj7mpvktolz7u6fnudt3hpdvjw4hzquanjpepgsf5vcq5divad.onion{{ .Permalink | relURL }}" />
+    content="http://kylrthjj7mpvktolz7u6fnudt3hpdvjw4hzquanjpepgsf5vcq5divad.onion{{ .RelPermalink }}" />
 ```
 
 In cases where you have less control of the documents, you can instead add an `Onion-Location` header with a reverse proxy. Here's how you do it with NGINX:

@@ -1,6 +1,6 @@
 <article class="c-article p-list-article">
   <header>
-    <h2 class="c-title c-article__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <h2 class="c-title c-article__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p class="c-article__meta">
       {{ partial "timestamp.html" . }}
     </p>
@@ -9,6 +9,6 @@
     {{ .Summary | plainify | safeHTML }}
   </div>
   {{ if .Truncated }}
-  <a href="{{ .Permalink }}" class="c-article__btn p-list-article__btn">Read more</a>
+  <a href="{{ .RelPermalink }}" class="c-article__btn p-list-article__btn">Read more</a>
   {{ end }}
 </article>
