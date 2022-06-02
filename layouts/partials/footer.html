@@ -4,10 +4,14 @@
   {{ partial "link.html" . }}
 
   <p class="p-copyright">
+    {{ $ref := "main" -}}
+    {{ with .GitInfo -}}
+    {{ $ref = .Hash -}}
+    {{ end }}
     {{ $written := false -}}
     {{ with .File -}}
     {{ if ne .Path "" -}}
-    <a href="https://github.com/kylrth/kylrth.github.io/commits/main/content/{{ .Path }}">page
+    <a href="https://github.com/kylrth/kylrth.github.io/commits/{{ $ref }}/content/{{ .Path }}">page
       history</a>
     {{ $written = true -}}
     {{ end -}}
