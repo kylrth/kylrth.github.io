@@ -7,7 +7,7 @@ tags: ["deep-learning", "nlp"]
 thumbnail: "prompt_format.png"
 ---
 
-T0 builds on T5 by adding more natural prompts and testing the model's generalization to held-out tasks.
+T0 builds on T5 by fine-tuning on more natural prompts and testing the model's generalization to held-out tasks.
 
 Compare the training format diagrams for T5 (top) and T0 (bottom):
 
