@@ -528,3 +528,6 @@ The church spends billions of dollars on building temples, while spending far le
 - There's a useful quote about how conspiracy theories meet people's emotional needs and make them think they're saving the world [here](https://jigsaw.google.com/the-current/conspiracy-theories/).
 - add sidenotes where needed
 - add notes to other "religion" posts that may be outdated
+- [A Little Bit Culty interviews Amanda Montell](https://podcastaddict.com/episode/130313698)
+- [list of sources for leaders saying to avoid doubters](https://libreddit.kylrth.com/r/exmormon/comments/v7v083/need_links_to_church_leaders_telling_members_to/)
+- [Dr. Lowry Nelson responding to racist church questions about Cubans](https://libreddit.kylrth.com/r/exmormon/comments/v7r01c/lowry_nelson_my_favorite_mormon_social_justice/)
