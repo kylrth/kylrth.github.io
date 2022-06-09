@@ -4,5 +4,5 @@ public: $(SRCFILES)
 	hugo --gc --minify
 
 .PHONY: htmltest
-htmltest: public
+htmltest: public .htmltest.yml
 	htmltest

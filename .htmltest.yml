@@ -1,12 +1,15 @@
 DirectoryPath: public/
 EnforceHTTPS: true
 IgnoreCanonicalBrokenLinks: false
+ExternalTimeout: 30
 IgnoreURLs:
   # these consistently return weird status codes:
   - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
   - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
   - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
-  - "^https://wise\\.com/$"
+  - "^https://wise\\.com/"
+  - "https://docs\\.github\\.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch"
+  - "https://docs\\.github\\.com/en/github/authenticating-to-github/telling-git-about-your-signing-key"
   # onion sites
   - "http://.*\\.onion"
   # HTTPS is broken on these sites
