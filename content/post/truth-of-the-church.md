@@ -280,6 +280,7 @@ This is the one thing about the church that is hard to explain from a critical s
 - talk about how Joseph claims a literal translation during the process, and also later in Times and Seasons
 - Dan Vogel thinks that Joseph taught everyone how he received revelation, which was just thinking and a burning in the bosom. Vogel thinks that's how Joseph received the Book of Mormon, as evidenced by D&C 8 with Oliver.
 - The Book of Mormon matches *better* with Joseph's 19th century American context than the archaeology we have of the New World. That's what convinces me it's a modern creation. Mention Nahom and chiasmus and point to this [interview with Dan Vogel](https://youtu.be/eJV_B2JZZ-4) where he explains why Nahom and chiasmus don't show much.
+- [deep dive](https://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-10/) on Mosiah priority
 
 ## other translation efforts of Joseph Smith
 
@@ -531,3 +532,7 @@ The church spends billions of dollars on building temples, while spending far le
 - [A Little Bit Culty interviews Amanda Montell](https://podcastaddict.com/episode/130313698)
 - [list of sources for leaders saying to avoid doubters](https://libreddit.kylrth.com/r/exmormon/comments/v7v083/need_links_to_church_leaders_telling_members_to/)
 - [Dr. Lowry Nelson responding to racist church questions about Cubans](https://libreddit.kylrth.com/r/exmormon/comments/v7r01c/lowry_nelson_my_favorite_mormon_social_justice/)
+- quote this person's [post](https://libreddit.kylrth.com/r/exmormon/comments/vfv5jj/its_a_trap/) about how the mission/endowment combo is a cult-like trap
+- [good summary](https://libreddit.kylrth.com/r/exmormon/comments/vlzr3m/why_was_joseph_smith_killed/) of Joseph's murder
+- [feelings epistemology](https://libreddit.kylrth.com/r/exmormon/comments/vwkxoy/those_feelings_in_your_gut_tell_you_that_the/)
+- [BY explicitly saying that he was speaking as prophet](https://libreddit.kylrth.com/r/exmormon/comments/vwjrwo/shall_i_tell_you_the_law_of_god_in_regard_to_the/ifrxrg0/?context=3)
