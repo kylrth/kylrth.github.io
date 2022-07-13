@@ -3,7 +3,7 @@ title: "moving to Québec"
 date: 2021-10-29T11:55:00-04:00
 draft: false
 tags: ["canada"]
-thumbnail: "https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2020/08/quebec-flag-e1597676946633.jpg"
+thumbnail: "flags.webp"
 ---
 
 We just moved our family from Utah, USA, to Montréal, Québec, Canada. I entered Canada on August 18, 2021 [by car](https://www.google.com/maps/dir/Salt+Lake+City,+UT/montreal/@42.7334015,-101.7162703,5z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8910474!2d40.7607793!1m5!1m1!1s0x4cc91a541c64b70d:0x654e3138211fefef!2m2!1d-73.567256!2d45.5016889), and my wife and daughter entered a few days later by air. The process actually began on April 27 when I got my acceptance letter to the Université de Montréal as a master's student in the [Département d'informatique et de recherche opérationelle](https://diro.umontreal.ca/accueil/). After a few days of scrambling to find out if I would be able to study there without knowing French (turns out you can as a grad student at DIRO!), I started the process of applying to enter Canada and live in Québec as a student.
