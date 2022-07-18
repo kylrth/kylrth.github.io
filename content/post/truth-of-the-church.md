@@ -536,3 +536,5 @@ The church spends billions of dollars on building temples, while spending far le
 - [good summary](https://libreddit.kylrth.com/r/exmormon/comments/vlzr3m/why_was_joseph_smith_killed/) of Joseph's murder
 - [feelings epistemology](https://libreddit.kylrth.com/r/exmormon/comments/vwkxoy/those_feelings_in_your_gut_tell_you_that_the/)
 - [BY explicitly saying that he was speaking as prophet](https://libreddit.kylrth.com/r/exmormon/comments/vwjrwo/shall_i_tell_you_the_law_of_god_in_regard_to_the/ifrxrg0/?context=3)
+- [this post and comment](https://libreddit.kylrth.com/r/exmormon/comments/vz7afb/teaching_my_children_about_the_veil_of/ig6vjjp/?context=3) about how the veil exists because God wants to test us without any knowledge, but then he gives us knowledge and ruins the test by revealing the church and the gospel
+- [more on speaking as a man](https://libreddit.kylrth.com/r/exmormon/comments/vzrh1b/perfect_response_to_tbm_calling_you_out_for/)
