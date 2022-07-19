@@ -12,7 +12,7 @@ This post contains my research notes as I try to understand how model scaling af
 Here's my executive summary of what we accomplished during the semester:
 
 - We wrote a solid training routine with the following options:
-  - **datasets**: [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (gender prediction), [Waterbirds](https://github.com/kohpangwei/group_DRO#waterbirds); easily extensible to other datasets in [WILDS](https://github.com/p-lambda/wilds)
+  - **datasets**: [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (hair color prediction), [Waterbirds](https://github.com/kohpangwei/group_DRO#waterbirds); easily extensible to other datasets in [WILDS](https://github.com/p-lambda/wilds)
   - **models**: ResNets, ViT; need to extend to sizes not provided by PyTorch
   - **pretraining**: ImageNet pretraining, randomly initialized; need to extend to sizes not provided by PyTorch
   - **objective**: [ERM](https://en.wikipedia.org/wiki/Empirical_risk_minimization), [IRM](https://arxiv.org/abs/1907.02893), [ILC](https://arxiv.org/abs/2009.00329)
