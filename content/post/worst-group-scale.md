@@ -5,7 +5,7 @@ draft: false
 tags: ["deep-learning", "neural-scaling", "generalization", "research-notes"]
 ---
 
-I think it's valuable to be working in the open whenever possible, so I'm going to keep my research notes here. Maybe my ideas are bad enough nobody will care to scoop me.
+I think it's valuable to be working in the open whenever possible, so I'm going to keep my research notes here. These notes will hopefully be full of good (and bad) ideas, so if someone happens to borrow the right idea and publish on it then I'll be happy to have a new collaborator for the future.
 
 This post contains my research notes as I try to understand how model scaling affects worst-group performance. This started as a group project in the neural scaling laws course at Mila in winter 2022. We presented about an existing [paper]({{< relref "effect-of-model-size-on-worst-group-generalization.md" >}}) and presented our preliminary results [in class](https://sites.google.com/view/nsl-course/schedule#h.o7ntdr3dzoiv). The repository for this project is [here](https://github.com/kylrth/worst_group_scale/).
 
