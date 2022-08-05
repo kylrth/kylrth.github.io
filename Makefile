@@ -5,4 +5,4 @@ public: $(SRCFILES)
 
 .PHONY: htmltest
 htmltest: public .htmltest.yml
-	htmltest
+	htmltest || htmltest

@@ -1,7 +1,8 @@
 DirectoryPath: public/
 EnforceHTTPS: true
 IgnoreCanonicalBrokenLinks: false
-ExternalTimeout: 30
+HTTPConcurrencyLimit: 32
+ExternalTimeout: 60
 IgnoreURLs:
   # these consistently return weird status codes:
   - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
