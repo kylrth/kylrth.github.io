@@ -63,3 +63,5 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
   - He sees the church as a good place for people just like any other religion can be a good place. If I can't see Mormons as good or the Mormon church as somewhat good, I'm in error.
   - The lack of scriptural historicity isn't a problem for him because you can learn from the books, but the real problem is the social issues now. For me, literalism is a problem and implies the truth claims aren't what the church says they are. That plus the social issues *are* my problem.
 - [conspiracism in the church](https://tokensandsigns.org/conspiracist-enculturation/)
+- [systemic problems](https://libreddit.kylrth.com/r/exmormon/comments/wi7mj4/i_almost_hope_my_close_tbm_family_doesnt_hear/)
+- [people in Africa working  for four years to go on a mission](https://www.churchofjesuschrist.org/study/ensign/2011/01/the-lord-needs-missionaries/bike-to-the-future?lang=eng)

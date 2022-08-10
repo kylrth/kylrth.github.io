@@ -539,3 +539,4 @@ The church spends billions of dollars on building temples, while spending far le
 - [this post and comment](https://libreddit.kylrth.com/r/exmormon/comments/vz7afb/teaching_my_children_about_the_veil_of/ig6vjjp/?context=3) about how the veil exists because God wants to test us without any knowledge, but then he gives us knowledge and ruins the test by revealing the church and the gospel
 - [more on speaking as a man](https://libreddit.kylrth.com/r/exmormon/comments/vzrh1b/perfect_response_to_tbm_calling_you_out_for/)
 - the concept of [indirect directives](https://libreddit.kylrth.com/r/exmormon/comments/wcskjw/help_my_brain_is_going_to_explode/iifbwkk/?context=3), quoting from [here](https://recoveringagency.com/articles/the-methods-of-thought-reform/)
+- this guy's [big list](https://libreddit.kylrth.com/r/exmormon/comments/whpk45/what_is_the_biggest_realization_that_caused_you/ij70sxi/?context=3)
