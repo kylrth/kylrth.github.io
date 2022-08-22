@@ -11,25 +11,25 @@ I have undergone a faith transition. It started very suddenly one day after disc
 - In all my reading, studying, and thinking since that moment, I've noticed that there is a *lot* of information out there, and it tends to be dumped together all at once as "unequivocal proof" that the church is false. If you add up all of these unlikelihoods, the argument goes, it becomes impossible for the church to be directed by God. This can end up overwhelming reason in a sort of [*argumentum ad nauseam*](https://en.wikipedia.org/wiki/Proof_by_assertion): if you discover that one argument against the church isn't really strong enough to be a problem for you, the attacker can say that that particular argument isn't necessary to support the conclusion because there are all these other arguments. I want to record the facts that lead me to believe that the church is not what it says it is, but I want to narrow it down to just the most compelling issues to make sure I'm not succumbing to *argumentum ad nauseam*.
 - I'll only say things I can back up with reachable, trustable sources. When I say reachable, I mean that you don't have to leave your computer to find them. By trustable, I mean sources that can't easily be made out to be anti-Mormon lies.  Here are examples of trustable sources:
   - the source text of the revelatory productions of Joseph Smith
-  - journals, letters, and other materials produced by people who were present
-  - [Gospel Topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) and [general conference talks](https://www.churchofjesuschrist.org/study/general-conference?lang=eng), because they're the "party line" of the church
+  - journals, letters, and other materials produced by people who were present (as a primary source for that person's beliefs and experiences)
+  - [gospel topics essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/essays?lang=eng) and [general conference talks](https://www.churchofjesuschrist.org/study/general-conference?lang=eng)
   - scholarly publications describing research experiments, or scholarly discussion with references to the actual experiments
   - the words of people who are sharing their beliefs and experiences (as a primary source for discussion of beliefs and experiences)
 
   I am also willing to cite secondary sources when they compile information from primary sources that are generally reachable and trustable too.
-- Church leaders have [often](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng) [asked](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=eng) us to stick to church-approved sources and arguments when looking at church history. I'm not going to do that, because if the church were fraudulent, the disaffected members would be the ones with the true story. To only look at accounts from those who remained faithful would be [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). But if, as the church suggests, Satan has put in the hearts of the enemies of the church to create anti-Mormon lies, they will either be lies about facts (i.e. false accounts) or false argumentation. Shady facts can be handled by comparing several accounts and considering the context of the person writing, and shady argumentation can be handled by watching for fallacies and reading both sides of the argument.
+- Church leaders have [often](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng) [asked](https://www.churchofjesuschrist.org/study/general-conference/2018/10/truth-and-the-plan?lang=eng) us to stick to church-approved sources and arguments when looking at church history. I'm not going to do that, because to only listen to accounts from those who are faithful would be [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). But if, as the church suggests, Satan has put in the hearts of the enemies of the church to create anti-Mormon lies, they will either be lies about facts (i.e. false accounts) or false argumentation. Shady facts can be handled by comparing several accounts and considering the context of the person writing, and shady argumentation can be handled by watching for fallacies and reading both sides of the argument.
 
 In publishing this to a broader audience than just myself, my point is not to disparage the church or the good that it does. I am also not trying to scare believers out of the church with surprising facts. Here is what I hope to demonstrate:
 
 - The Book of Mormon is likely not an ancient document because
-  - it contains borrowed text and themes that did not exist until after Moroni supposedly buried the record in 400 CE, and
+  - it contains borrowed ideas and text that did not exist until after Moroni is supposed to have buried the record in 400 CE, and
   - its story is not plausible when compared with data that we do have about ancient America.
-- The other revelatory productions of Joseph Smith are most easily explained as pseudepigrapha rather than authentic translations or revelations.
-- The method for determining that the church is true (i.e. "Moroni's Promise") functions by the same method that convinces all religious people of their respective beliefs.
+- The other revelatory productions of Joseph Smith are most easily explained as [pseudepigrapha](https://en.wikipedia.org/wiki/Pseudepigrapha) rather than authentic translations or revelations.
+- The method for determining that the church is true (i.e. "Moroni's Promise") functions by the same method that convinces other religious people of their respective beliefs.
 - The church's method for receiving revelation is faulty because prophets have claimed to be speaking for God when proclaiming doctrine and principles which were later recanted by the church. This leaves us without a way to reliably determine what God wants us to think when facing modern problems.
 - The church is full of "philosophies of men" and prizes obedience more highly than morality.
 
-Like I said earlier, this doesn't contain every single reason not to believe in the church, but these are what I believe to be the strongest reasons.
+Like I said earlier, this doesn't contain every single reason not to believe the church's exceptional claims, but these are what I think are the strongest reasons.
 
 ## impactful posts, articles, videos, or podcasts
 
@@ -540,3 +540,6 @@ The church spends billions of dollars on building temples, while spending far le
 - [more on speaking as a man](https://libreddit.kylrth.com/r/exmormon/comments/vzrh1b/perfect_response_to_tbm_calling_you_out_for/)
 - the concept of [indirect directives](https://libreddit.kylrth.com/r/exmormon/comments/wcskjw/help_my_brain_is_going_to_explode/iifbwkk/?context=3), quoting from [here](https://recoveringagency.com/articles/the-methods-of-thought-reform/)
 - this guy's [big list](https://libreddit.kylrth.com/r/exmormon/comments/whpk45/what_is_the_biggest_realization_that_caused_you/ij70sxi/?context=3)
+- rename this document something about "falsehoods" (and the other something about "harms"), and make a point at the beginning to note several of the true things the church teaches
+- maybe use [this quote](https://www.brainyquote.com/quotes/arthur_schopenhauer_103608) from Schopenhauer
+- [notes](https://www.cumorah.com/articles/ldsGrowthCaseStudies/247) on church growth?

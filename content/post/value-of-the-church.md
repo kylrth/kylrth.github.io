@@ -65,3 +65,5 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [conspiracism in the church](https://tokensandsigns.org/conspiracist-enculturation/)
 - [systemic problems](https://libreddit.kylrth.com/r/exmormon/comments/wi7mj4/i_almost_hope_my_close_tbm_family_doesnt_hear/)
 - [people in Africa working  for four years to go on a mission](https://www.churchofjesuschrist.org/study/ensign/2011/01/the-lord-needs-missionaries/bike-to-the-future?lang=eng)
+- rename this document something about "harms" (and the other something about "falsehoods"), and make a point at the beginning to note several great things the church does and teaches
+- [ZotS points out the ways the church has a superiority complex](https://youtu.be/EthUsdmkIZk)
