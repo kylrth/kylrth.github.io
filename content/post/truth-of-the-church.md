@@ -341,6 +341,7 @@ You aren't even told beforehand what you're promising, and when you're there the
 ### to do
 
 - [ ] study this and get sources for it
+- how [masonic](https://www.masonicexchange.com/Masonic-Ceremonial-Clothing_b_39.html) [clothing](http://www.westgatelodge.org/category/stated-meeting/) is similar to temple clothing
 
 ## faith and confirmations from the Spirit
 
@@ -543,3 +544,4 @@ The church spends billions of dollars on building temples, while spending far le
 - rename this document something about "falsehoods" (and the other something about "harms"), and make a point at the beginning to note several of the true things the church teaches
 - maybe use [this quote](https://www.brainyquote.com/quotes/arthur_schopenhauer_103608) from Schopenhauer
 - [notes](https://www.cumorah.com/articles/ldsGrowthCaseStudies/247) on church growth?
+- apparently there was an [awesome takedown](https://libreddit.kylrth.com/r/exmormon/comments/6jd4fm/budding_apologists_create_book_of_mormon_nahom/) of the whole Nahom thing
