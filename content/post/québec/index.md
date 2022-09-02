@@ -12,13 +12,15 @@ The Canadian government's [travel website](https://travel.gc.ca/) is really quit
 
 ## Certificat d'Acceptation du Quebec (CAQ) and Canadian visas
 
-As soon as we were sure I'd be able to study at UdeM, I submitted my application for the CAQ. This is a requirement for all students and temporary workers looking to enter Québec, *in addition* to the permit issued by the Canadian federal government. Normally, you are required to receive your CAQ before applying for the Canadian study permit, but due to COVID-19 I was allowed to apply as long as I submitted proof that I had *applied* for the CAQ. Both of these processes worked out for me without any issues.
+As soon as we were sure I'd be able to study at UdeM, I submitted my application for the CAQ. This is a requirement for all students and temporary workers looking to enter Québec, *in addition* to the permit issued by the Canadian federal government. Normally, you are required to receive your CAQ before applying for the Canadian study permit, but due to COVID-19 I was allowed to apply as long as I submitted proof that I had *applied* for the CAQ. Both of these processes worked out for me without any issues.{{% sidenote %}}There's a really useful [Reddit thread](https://www.reddit.com/r/ImmigrationCanada/comments/rtdus4/megathread_processing_times_temporary_resident/) ([Libreddit](https://libreddit.kylrth.com/r/ImmigrationCanada/comments/rtdus4/megathread_processing_times_temporary_resident/)) where people share how long they had to wait for their permits to come back.{{% /sidenote %}}
 
 This isn't very clear on the Canadian immigration website, but as a US citizen the study permit is the only documentation you need to enter Canada (apart from your passport of course). You do not need an electronic travel authorization (eTA) or visitor visa.
 
 If my wife had wanted a work permit, she would have applied for the CAQ and submitted her Canadian work permit application with mine. My wife and daughter did not need to apply for any permit beforehand, because they qualified as "reuniting with family" and were issued a visitor permit on arrival. I'll explain more about that in the next section.
 
 **UPDATE 2022-02-08**: We now wish we had applied for my wife to get a work visa, because being here on just an extended visitor permit means she doesn't have a Social Insurance Number (SIN), can't put her name on a Canadian bank account, doesn't get any credit history in Canada, and can't sign up for the Communauto car share service. She also won't be able to take the free French courses that are sponsored by the Québec government for immigrants. On top of that, her status as an extended visitor complicates things everywhere we have to prove Canadian immigration status. Finally, there's the obvious fact that having a work permit would give her the flexibility to find a job if she wanted.
+
+**UPDATE 2022-09-03**: I've now converted my program into a PhD, which meant that I need to apply for a new CAQ. This is because, unlike the Canadian study permit, the CAQ is program-specific. I'm still waiting to get my renewed study permit which I applied for back in April, but I'll be able to use that study permit during my PhD.
 
 ## crossing the border
 
@@ -59,7 +61,7 @@ Unfortunately, we still ended up paying for the student health insurance this ye
 - The total reimbursable amount of the policy must be at least equivalent to the UdeM medical insurance which is CA$700,000.
 - The insurance must reimburse 100% of reasonable and customary health care including hospitalization fees.
 
-We're still working on getting our policy upgraded, so I'll update here when this is resolved.
+Unfortunately, after looking super hard we never found anything but "travel insurance" that would cover us while we're temporary residents. Travel insurance usually doesn't cover anything routine, like check-ups. This means it makes more sense for us to keep regular student insurance for me (since it's available), and travel insurance for the rest of the family.
 
 ## phone service
 
@@ -73,7 +75,7 @@ The amount of calling and texting is limited, so we only give the number out whe
 
 Before coming to Canada we made sure we had a couple of credit cards with no foreign transaction fees. We still had trouble a few times with our cards being declined, but Visa's fraud detection models seem to have gotten used to our new location now. We still needed a Canadian bank account to pay for things that require an Interac transfer (tuition, rent, and utilities), and we've discovered several instances where we can't use our American cards because the system doesn't like our American cards having a Canadian billing address.
 
-To get a bank account, you need a Social Insurance Number (SIN) from the government of Canada. You can fill out a form online to start the process, but the response time is several weeks. You can also go in person to a ServiceCanada office and get it the same day, which is what I tried to do. For me there was some kind of problem on the immigration office side, and I ended up needing to submit for it the regular way there in the ServiceCanada office. So it was a while before I got that in the mail, and then I was finally able to schedule an appointment with Scotiabank to open an account.
+To get a bank account, you need a Social Insurance Number (SIN) from the government of Canada. You can't get this on a visitor permit, so this is another reason we wish we'd gotten an open work permit for my wife when we were first applying. You can fill out a form online to start the process, but the response time is several weeks. You can also go in person to a ServiceCanada office and get it the same day, which is what I tried to do. For me there was some kind of problem on the immigration office side, and I ended up needing to submit for it the regular way there in the ServiceCanada office. So it was a while before I got that in the mail, and then I was finally able to schedule an appointment with Scotiabank to open an account.
 
 There are a lot of options for getting our money transferred from our American account to our Canadian account, each with their own fees and rules. So far the lowest-cost option seems to be a transfer with [Wise](https://wise.com/).{{% sidenote %}}We use the direct debit option instead of a wire because our bank charges $30 for wires.{{% /sidenote %}} If you do a transfer there you should use my [referral link](https://wise.com/invite/u/kyler387) (we'll both get discounts!).
 
@@ -85,9 +87,15 @@ The Université de Montréal's student association ([FAÉCUM](http://www.faecum.
 
 In just a few months we've gotten pretty good at reading road signs and getting the gist of documents in French, but we'd like to get comfortable communicating in French as well. Fortunately, Québec has a ton of resources for French learners. For example, I'm currently attending a free weekly French conversation workshop at a community center up the street from our apartment.
 
-The Québec government also sponsors free [French courses](https://www.quebec.ca/en/education/learn-french) to help integrate immigrants into Québec society. The courses are run by various local non-profits and educational institutions.{{% sidenote %}}They also offer financial assistance under certain conditions (one of which being that you have a social insurance number).{{% /sidenote %}} I'm currently signed up to start a 12 hour/week course in July, and they're offering CA$25 per 3-hour session. The courses are in high demand, so you'll have to watch the registration page of the institution in your area to make sure you can get registered. Registration usually opens several months in advance of the start date, and fills up within a week or so.
+The Québec government also sponsors free [French courses](https://www.quebec.ca/en/education/learn-french) to help integrate immigrants into Québec society. The courses are run by various local non-profits and educational institutions.{{% sidenote %}}They also offer financial assistance under certain conditions (one of which being that you have a social insurance number). I took a 12 hour/week course starting in July, and I received offering CA$25 per 3-hour session.{{% /sidenote %}} The courses are in high demand, so you'll have to watch the registration page of the institution in your area to make sure you can get registered. Registration usually opens several months in advance of the start date, and fills up within a week or so.
 
 To be clear, it's not necessary to know French to live in Montréal. We've been able to function just fine, especially since we live in a neighborhood with a large English-speaking population. In our neighborhood, the store clerks speak to you in English first, and switch if responded to in French. But this is not the norm in most of Montréal, let alone the rest of Québec. And even in our situation, you need to be comfortable with a little bit of confusion when you go out and have to read signs or interact with people. Learning French is also essential if you want to be social outside of the immigrant community.
+
+## community services
+
+The government here provides a lot of cool community services for free/cheap that are a lot more expensive in other places we've lived. For example, community pools have free swim periods that are completely open to the public. You just walk in, no pass or registration needed. There are also community centers like [CELO](https://celocdn.org/) where you can participate in classes and activities, some (like French conversation workshops) at reduced rates.
+
+In addition to the French courses, the government also funds non-profits to help immigrants understand the institutions in Canada and more specifically Québec. We had a free meeting at [ALAC](https://www.alac.qc.ca/) where they were able to answer a lot of our questions about paths to permanent residency.
 
 ## **Welcome to Canada!** 🇨🇦
 
