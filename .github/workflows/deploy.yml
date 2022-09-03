@@ -10,14 +10,27 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
+
+    # Instead of running `actions/cache@v3` directly, check it out locally.
+    - name: Checkout cache action
+      uses: actions/checkout@v3
+      with:
+        repository: actions/cache
+        ref: v3
+        path: tmp/actions/cache
+    - name: Make actions/cache@v3 run always, not only when job succeeds
+      run: |
+        sed -i -e '/ post-if: /d' tmp/actions/cache/action.yml
 
     - name: load htmltest cache
-      id: hit-cache
-      uses: actions/cache@v3
+      uses: ./tmp/actions/cache
       with:
         path: tmp/.htmltest
-        key: htmltest-cache
+        # We want the latest cache to hit and be updated every time.
+        key: htmltest-${{ github.run_id }}
+        restore-keys: |
+          htmltest
 
     - name: set up Hugo
       uses: peaceiris/actions-hugo@v2
