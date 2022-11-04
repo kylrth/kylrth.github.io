@@ -2,10 +2,12 @@
 {{ partial "menu.html" . }}
 <img src="images/my_face.png" alt="my face" style="float:right;max-width:40%">
 <div>
-    <p>I'm a computer science PhD student at <a href="https://diro.umontreal.ca/accueil/">DIRO</a>
-        at the <a href="https://www.umontreal.ca/">Université de Montréal</a> studying machine
-        learning and NLP. I am advised by <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang
-            Liu</a>.</p>
+    <p>I'm a first-year computer science PhD student at <a
+            href="https://diro.umontreal.ca/accueil/">DIRO</a> at the <a
+            href="https://www.umontreal.ca/">Université de Montréal</a>, studying machine learning
+        and NLP. I am advised by <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>,
+        and I'm currently thinking about worst-group generalization and extracting procedural
+        knowledge from technical documents.</p>
     <p>Previously I was a speech scientist at <a href="https://cobaltspeech.com">Cobalt Speech &
             Language</a>, a company that designs custom speech recognition, text-to-speech, and
         dialogue models. While at Cobalt I worked on some neat projects, including language modeling
@@ -54,40 +56,39 @@
             <use xlink:href="#icon-permalink"></use>
         </svg></a></h2>
 <p>
-    My first foray into ML research was when I received a grant to apply a variable-order CRF model
-    to a morphological parsing task in Basque, <a href="http://jur.byu.edu/?p=24280">achieving</a>
-    71.3% accuracy. A few months later I started working with the <a
-        href="https://camacholab.byu.edu/research/computational-photonics">computational
-        photonics</a> group at <a href="https://camacholab.byu.edu/">CamachoLab</a>, where I worked
-    to simulate photonic components using DNNs as replacements for expensive FDTD simulations when
-    designing chip components.
+    I'm currently developing methods to use language models to extract procedural knowledge from
+    technical documents (e.g. generating WikiHow from reference documents.) This is in a <a
+        href="https://www.mitacs.ca/en">Mitacs</a> collaboration with <a
+        href="https://www.thalesgroup.com/en/americas/canada">Thales Canada</a>.
+</p>
+<p>
+    I'm also interested in how model size affects the performance of models on hard examples
+    (worst-group generalization). It's currently unclear whether model scale <a
+        href="https://arxiv.org/abs/2005.04345">hurts</a> or <a
+        href="paper/effect-of-model-size-on-worst-group-generalization/">helps</a> performance on
+    rare subgroups, but what we know seems to suggest that the answer depends on the optimization
+    objective (ERM, IRM, etc.). This started as a class project and turned into a research
+    interest; see my research notes <a href="post/worst-group-scale/">here</a>.
 </p>
 
-<h2 id="projects">projects <a class="header-link" href="#projects"><svg class="c-links__icon">
+<h2 id="projects">other projects <a class="header-link" href="#projects"><svg class="c-links__icon">
             <title>permalink</title>
             <use xlink:href="#icon-permalink"></use>
         </svg></a></h2>
-<p>
-    In my spare time I'm working on an <b>app for language learners</b> to use to develop their
-    vocabulary. Users can add words to their active list, and the app will recommend additional
-    words that they might also want to learn. I hope this app will make it easier for displaced
-    people to adapt to the culture where they find themselves, even when their language skills are
-    intermediate or advanced.
-</p>
-<p>Here are some projects I've worked on:</p>
-<a href="https://github.com/kylrth/attention_review/blob/master/main.pdf"><img
-        src="images/attention.png" alt="attention graph for a sample sentence in NMT"
-        style="float:left;width:30%;padding:0 20px 0 0"></a>
+<a href="post/wordburner/"><img src="post/wordburner/icon.png" alt="WordBurner icon"
+        style="float:left;width:30%;padding:10px 20px 30px 10px"></a>
 <div style="overflow:hidden">
-    <a href="https://github.com/kylrth/attention_review/blob/master/main.pdf">
-        <papertitle>an attention review</papertitle>
+    <a href="post/wordburner/">
+        <papertitle>WordBurner</papertitle>
     </a>
     <p>
-        I felt I had a poor understanding of attention mechanisms, so for a writing assignment I
-        created a literature review of the important work being done with neural attention. I wrote
-        about the various formulations of attention found in the literature, and discussed important
-        applications. I learned a lot as I studied this. You can check out my write-up <a
-            href="https://github.com/kylrth/attention_review/blob/master/main.pdf">here</a>.
+        In my spare time I'm working on an app for language learners to use to develop their
+        vocabulary. Users can add words to their active list, and the app will recommend additional
+        words that they might also want to learn. In addition to my personal use <a
+            href="post/learning-french/">learning French</a>, I hope this app will make it easier
+        for
+        displaced people to adapt to the culture where they find themselves, even when their
+        language skills are already advanced.
     </p>
 </div>
 <div style="clear:both"></div>
@@ -111,19 +112,5 @@
     </p>
 </div>
 <div style="clear:both"></div>
-<a href="https://github.com/kylrth/slurm_gen" style="width:30%"><img src="images/slurm.png"
-        alt="SLURM logo" style="float:left;width:30%;padding:10px 20px 30px 10px"></a>
-<div style="overflow:hidden">
-    <a href=" https://github.com/kylrth/slurm_gen">
-        <papertitle>SLURM_gen</papertitle>
-    </a>
-    <p>
-        SLURM_gen makes it easy to generate and handle arbitrarily-sized
-        datasets on a SLURM HPC environment. I used this tool during my
-        undergrad while working on computational photonics research. (I used
-        the BYU supercomputer to generate FDTD simulations, which were then
-        used as training data for the neural network model.)
-    </p>
-</div>
 
 {{ partial "footer.html" . }}
