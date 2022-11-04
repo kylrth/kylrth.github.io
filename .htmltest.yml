@@ -11,9 +11,10 @@ IgnoreURLs:
   - "^https://wise\\.com/"
   - "https://docs\\.github\\.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch"
   - "https://docs\\.github\\.com/en/github/authenticating-to-github/telling-git-about-your-signing-key"
+  - "^https://towardsdatascience\\.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10$"
   # onion sites
   - "http://.*\\.onion"
-  # HTTPS is broken on these sites
+IgnoreHTTPS:
   - "http://bei\\.umontreal\\.ca"
   - "http://www\\.faecum\\.qc\\.ca"
   - "http://jur\\.byu\\.edu"
