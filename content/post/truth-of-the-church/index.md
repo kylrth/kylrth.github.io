@@ -553,3 +553,8 @@ The church spends billions of dollars on building temples, while spending far le
 - [this post](https://libreddit.kylrth.com/r/exmormon/comments/xvw7d0/so_whos_right_hahahahahayou_cant_make_this_kind/) can be used to make a really simple point about the difficulty of listening to a prophet's teachings. It's easy because it's a small issue, which can then be compared with big issues (e.g. the temple/priesthood ban for black people)
 - the bit from God's Socialist part 2 from the Martyrmade podcast, around 1:30:00, where he describes the pull he felt at a Billy Graham event
 - also the part around 2:22:00 taken from Hyde when he talks about what it was like being a messenger of communism
+- This quote from Holland in 2022:
+
+    > No-one should tolerate any ludicrous, even laughable, middle-ground about "what a wonderful contour of the young boy's imagination, or his remarkable facility for turning a literary phrase". That is NOT an acceptable position to take morally, literarily, historically, or theologically.
+
+    It's from [this video](https://www.churchofjesuschrist.org/broadcasts/watch/devotional-for-single-adults/2022/11?lang=eng). 1:23:35 for the whole segment, 1:27:09 for the quote.
