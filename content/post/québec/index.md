@@ -54,14 +54,14 @@ Because the United States has no public health insurance and thus no social secu
 - you get health insurance from a scholarship, or
 - you are here with your family and have a family coverage plan through one of the listed providers.
 
-That last one applies to us!
-
-Unfortunately, we still ended up paying for the student health insurance this year (CA$900) because we found out too late that the insurance we got doesn't cover enough to count for the exemption. BEI didn't have these requirements on their website, so I'll list what I've found so far in my emails with them:
+If you find family insurance that works for all of you, there are certain requirements the policy has to meet to qualify you to be exempt from the student insurance. BEI didn't have these requirements on their website, so I'll list what I found so far in my emails with them:
 
 - The total reimbursable amount of the policy must be at least equivalent to the UdeM medical insurance which is CA$700,000.
 - The insurance must reimburse 100% of reasonable and customary health care including hospitalization fees.
 
-Unfortunately, after looking super hard we never found anything but "travel insurance" that would cover us while we're temporary residents. Travel insurance usually doesn't cover anything routine, like check-ups. This means it makes more sense for us to keep regular student insurance for me (since it's available), and travel insurance for the rest of the family.
+Unfortunately, after looking super hard we never found anything but travel insurance that would cover us while we're temporary residents. Travel insurance usually doesn't cover anything routine, like check-ups. This means it makes more sense for us to keep regular student insurance for me and travel insurance for my wife.
+
+**Update**: Kids are now always covered by RAMQ no matter the parents' immigration status. You can register kids for RAMQ by signing up for a phone interview [here](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/register).
 
 ## phone service
 
