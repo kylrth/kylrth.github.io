@@ -12,19 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    # Instead of running `actions/cache@v3` directly, check it out locally.
-    - name: Checkout cache action
-      uses: actions/checkout@v3
-      with:
-        repository: actions/cache
-        ref: v3
-        path: tmp/actions/cache
-    - name: Make actions/cache@v3 run always, not only when job succeeds
-      run: |
-        sed -i -e '/ post-if: /d' tmp/actions/cache/action.yml
-
-    - name: load htmltest cache
-      uses: ./tmp/actions/cache
+    - name: restore htmltest cache
+      uses: actions/cache/restore@v3
       with:
         path: tmp/.htmltest
         # We want the latest cache to hit and be updated every time.
@@ -43,6 +32,13 @@ jobs:
     # build site and check links
     - name: run htmltest
       run: make htmltest
+
+    - name: save htmltest cache
+      uses: actions/cache/save@v3
+      if: always()
+      with:
+        path: tmp/.htmltest
+        key: htmltest-${{ github.run_id }}
 
     # deploy to GitHub pages if this is the main branch
     - name: deploy
