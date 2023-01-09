@@ -5,7 +5,7 @@ draft: false
 tags: ["philosophy", "sociology", "ethics", "capitalism", "lex-fridman"]
 ---
 
-Here are some snippets from a Lex Fridman [interview](https://lexfridman.com/john-abramson/) with John Abramson, outspoken critic of Big Pharma.
+Here are some snippets from a Lex Fridman [interview](https://web.archive.org/web/20221222002108/https://lexfridman.com/john-abramson/) with John Abramson, outspoken critic of Big Pharma.
 
 > **Lex**: Are people corrupt? Are people malevolent? Are people ignorant that work at the low level and at the high level, at Pfizer for example? How is this possible? I believe that most people are good, and I actually believe if you join Big Pharma your life trajectory often involves dreaming, wanting, and enjoying helping people. And then we look at the outcomes that you're describing and that's why the narrative takes hold that Pfizer CEO Albert Bourla is malevolent. The sense is that these companies are evil. So if the different parts are people that are good and they want to do good, how are we getting these outcomes?
 

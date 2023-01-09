@@ -1,21 +1,20 @@
 DirectoryPath: public/
 EnforceHTTPS: true
-IgnoreCanonicalBrokenLinks: false
-HTTPConcurrencyLimit: 32
 ExternalTimeout: 60
+HTTPConcurrencyLimit: 32
+HTTPHeaders:
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0
+IgnoreCanonicalBrokenLinks: false
+IgnoreHTTPS:
+  - "http://bei\\.umontreal\\.ca"
+  - "http://jur\\.byu\\.edu"
+  - "http://www\\.ahc\\.umontreal\\.ca/ActivitesJumelage/interlinguistique\\.htm"
+  - "^http://www\\.faecum\\.qc\\.ca/$"
 IgnoreURLs:
   # these consistently return weird status codes:
   - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
   - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
   - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
-  - "^https://wise\\.com/"
-  - "https://docs\\.github\\.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch"
-  - "https://docs\\.github\\.com/en/github/authenticating-to-github/telling-git-about-your-signing-key"
-  - "^https://towardsdatascience\\.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10$"
-  - "^http://www\\.faecum\\.qc\\.ca/$"
+  - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
   # onion sites
   - "http://.*\\.onion"
-IgnoreHTTPS:
-  - "http://bei\\.umontreal\\.ca"
-  - "http://jur\\.byu\\.edu"
-  - "http://www\\.ahc\\.umontreal\\.ca/ActivitesJumelage/interlinguistique\\.htm"

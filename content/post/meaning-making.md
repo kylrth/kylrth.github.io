@@ -5,7 +5,7 @@ draft: false
 tags: ["philosophy", "lex-fridman"]
 ---
 
-Here are some snippets from a Lex Fridman [interview](https://lexfridman.com/peter-wang/) with Peter Wang, co-founder and CEO of Anaconda:
+Here are some snippets from a Lex Fridman [interview](https://web.archive.org/web/20221227111818/https://lexfridman.com/peter-wang/) with Peter Wang, co-founder and CEO of Anaconda:
 
 > For a lot of human history, there wasn't so much a meaning crisis as just a food and not getting eaten by bears crisis. Once you get to a point where you can make food there was a not getting killed by other humans crisis. Sitting around wondering what it's all about is a relatively recent luxury.
 
