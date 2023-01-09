@@ -1,3 +1,4 @@
+CacheExpires: "672h"  # 4 weeks
 DirectoryPath: public/
 EnforceHTTPS: true
 ExternalTimeout: 60
