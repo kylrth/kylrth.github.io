@@ -10,7 +10,6 @@
 :root {
     --white: #FFFFFF;
     --gray224: rgb(224, 224, 224);
-    --gray224: rgb(224, 224, 224);
     --gray192: rgb(192, 192, 192);
     --gray160: rgb(160, 160, 160);
     --gray128: rgb(128, 128, 128);
@@ -18,7 +17,7 @@
     --gray64: rgb(64, 64, 64);
     --gray32: rgb(32, 32, 32);
     --darkgray: #55707D;
-    --grayblue: #37474F;
+    --grayblue: #45374f;
     --lightblue: #6FA8DC;
     --paleblue: #A4C2F4;
     --lightgreen: #93C47D;
@@ -144,7 +143,7 @@
 /* Hyperlinks */
 a,
 a>code {
-    color: var(--lightturquoise);
+    color: var(--lightblue);
     text-decoration: underline;
 }
 
