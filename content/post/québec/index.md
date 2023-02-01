@@ -95,7 +95,13 @@ To be clear, it's not necessary to know French to live in Montréal.{{% sidenote
 
 The government here provides a lot of cool community services for free/cheap that are a lot more expensive in other places we've lived. For example, community pools have free swim periods that are completely open to the public. You just walk in, no pass or registration needed. There are also community centers like [CELO](https://celocdn.org/) where you can participate in classes and activities, some (like French conversation workshops) at reduced rates.
 
-In addition to the French courses, the government also funds non-profits to help immigrants understand the institutions in Canada and more specifically Québec. We had a free meeting at [ALAC](https://www.alac.qc.ca/) where they were able to answer a lot of our questions about paths to permanent residency.
+In addition to the French courses, the government also funds non-profits to help immigrants understand the institutions in Canada and more specifically Québec. We had a free meeting at [ALAC](https://www.alac.qc.ca/) where they were able to answer a lot of our questions about paths to permanent residency. ALAC (and I'm sure other centres like it) also has plenty of generally useful meetings and presentations where they explain things like how waste collection works, how the school system works, etc.
+
+## random links
+
+- [Ca va où?](https://www.recyc-quebec.gouv.qc.ca/appmobile-cavaou/) is an app where you can find out how to get rid of materials, whether it goes in the compost bins, recycling bins, garbage bins, or to an [ecocentre](https://montreal.ca/en/topics/ecocentres).
+- You can find out about the garbage collection schedule by putting in your postal code and building number on the [Info-collectes service](https://servicesenligne2.ville.montreal.qc.ca/sel/infocollectes/recherche).
+- [GUEPE](https://guepe.qc.ca) offers [free winter sport equipment rental](https://www.guepe.qc.ca/activites/location-de-ski-de-fond) for Montréal residents!
 
 ## **Welcome to Canada!** 🇨🇦
 
