@@ -1,6 +1,6 @@
 ---
 title: "Google's multilingual neural machine translation system"
-link: "https://arxiv.org/pdf/1611.04558.pdf"
+link: "https://arxiv.org/abs/1611.04558"
 date: 2020-06-26T08:02:12-06:00
 draft: false
 tags: ["nlp", "attention", "machine-translation"]

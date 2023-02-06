@@ -1,6 +1,6 @@
 ---
 title: "Google's neural machine translation system: bridging the gap between human and machine translation"
-link: "https://arxiv.org/pdf/1609.08144.pdf"
+link: "https://arxiv.org/abs/1609.08144"
 date: 2020-06-30T08:22:30-06:00
 draft: false
 tags: ["nlp", "attention", "machine-translation"]
