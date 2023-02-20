@@ -7,6 +7,8 @@ tags: ["deep-learning", "alignment"]
 thumbnail: "trolley_abstract.png"
 ---
 
+*I also presented this paper in Bang Liu's research group meeting on 2023-02-20. You can view the slides I used [here](https://docs.google.com/presentation/d/1LZIUXqq2fLqJu4Z6sUtCrd9nFNUUCrGk-NvI0XyXOgg/edit?usp=sharing).*
+
 > Behind each vision for ethically-aligned AI sits a deeper question. How are we to decide which principles or objectives to encode in AI—and who has the right to make these decisions—given that we live in a pluralistic world that is full of competing conceptions of value? Is there a way to think about AI value alignment that avoids a situation in which some people simply impose their views on others?
 
 This paper provides an overview of the ethical and philosophical considerations that underpin the topic of AI alignment. It divides "the value alignment question" into two parts, technical and normative. *Technical* refers to the challenge of encoding values or principles into the systems we create. *Normative* asks what principles ought to be included. This paper focuses on the normative question of alignment.{{% sidenote %}}The thumbnail for this post was generated with stable diffusion, positive prompt "trolley problem, people tied to the track, cartoon, surreal" and negative prompt "realistic, photo".{{% /sidenote %}}
