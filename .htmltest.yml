@@ -19,3 +19,5 @@ IgnoreURLs:
   - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
   # onion sites
   - "http://.*\\.onion"
+  # expired HTTPS cert
+  - "https://5kids1condo\\.com/access-the-good-life-dont-own-it/"
