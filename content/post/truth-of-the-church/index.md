@@ -337,6 +337,7 @@ Joseph married 32-38 women, some of whom were only 14 years old. Others were alr
 - This was not ok during Joseph's time, as evidenced in cases like [this](https://www.reddit.com/r/mormon/comments/oym0df/what_did_nauvoo_society_in_the_1840s_consider_to/).
 - [rebuttals to justifications for teenage brides](https://libreddit.kylrth.com/r/exmormon/comments/zuc4cb/rebuttals_to_justifications_for_teenage_brides/)
   - rename this section to "teenage brides" because that's really the problem (see [this coverage of Sarah Jane Ingram](https://libreddit.kylrth.com/r/exmormon/comments/zyiklz/the_disgusting_reality_of_churchsanctioned/))
+- Joseph had [weird](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-addenda/20) [ideas](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64.9-10#9) about being excused for sins.
 
 ## the temple
 
