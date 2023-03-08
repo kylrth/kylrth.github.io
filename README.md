@@ -6,6 +6,8 @@ I started this website from the [Pickles theme](https://github.com/mismith0227/h
 
 ## building
 
+This web page is built with [Hugo](https://github.com/gohugoio/hugo).
+
 ```sh
 make
 ```
