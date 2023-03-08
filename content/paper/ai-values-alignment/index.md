@@ -7,7 +7,7 @@ tags: ["deep-learning", "alignment"]
 thumbnail: "trolley_abstract.png"
 ---
 
-*I also presented this paper in Bang Liu's research group meeting on 2023-02-20. You can view the slides I used [here](https://docs.google.com/presentation/d/1LZIUXqq2fLqJu4Z6sUtCrd9nFNUUCrGk-NvI0XyXOgg/edit?usp=sharing).*
+*I presented this paper in Bang Liu's research group meeting in two installments on 2023-02-20 and 2023-02-27, and also in Irina Rish's scaling and alignment course ([IFT6760A](https://sites.google.com/view/towards-agi-course/course-description)) on 2023-03-07. You can view the slides I used [here](https://docs.google.com/presentation/d/1I4VPhMF32CDB3W3vWQl3TTy1GR5jxqSAAfSgjuk8enI/edit?usp=sharing).*
 
 > Behind each vision for ethically-aligned AI sits a deeper question. How are we to decide which principles or objectives to encode in AI—and who has the right to make these decisions—given that we live in a pluralistic world that is full of competing conceptions of value? Is there a way to think about AI value alignment that avoids a situation in which some people simply impose their views on others?
 
