@@ -11,8 +11,9 @@ IgnoreHTTPS:
   - "http://jur\\.byu\\.edu"
   - "http://www\\.ahc\\.umontreal\\.ca/ActivitesJumelage/interlinguistique\\.htm"
   - "^http://www\\.faecum\\.qc\\.ca/$"
+  - "^http://www\\.stablediffusionfrivolous.com/$"
 IgnoreURLs:
-  # these consistently return weird status codes:
+  # these consistently return weird status codes for GitHub:
   - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
   - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
   - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
