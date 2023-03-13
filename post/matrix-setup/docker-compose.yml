@@ -4,7 +4,7 @@ version: "3.9"
 
 services:
   nginx:
-    image: nginx:1.15-alpine
+    image: nginx:1.23.3-alpine
     restart: unless-stopped
     volumes:
       - ./data/nginx:/etc/nginx/conf.d
@@ -13,23 +13,22 @@ services:
     ports:
       - "80:80"
       - "443:443"
-    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
   # the certbot container won't start unless asked (like if we're renewing a cert)
   certbot:
     image: certbot/certbot
+    profiles:
+      - cert_renew  # don't start this container unless explicitly asked
     restart: unless-stopped
     volumes:
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
-    profiles:
-      - cert_renew  # don't start this container unless explicitly asked
 
   postgres:
-    image: arm32v7/postgres:12.5  # postgres:12.5 on x86_64
+    image: postgres:13  # arm32v7/postgres:13 on arm64
     user: 1000:1000
     restart: unless-stopped
     networks:
-      - synapse
+      - postgres
     volumes:
      - ./data/postgres:/var/lib/postgresql/data
     environment:
@@ -37,39 +36,43 @@ services:
      - POSTGRES_USER=synapse
      - POSTGRES_INITDB_ARGS=--locale C --encoding UTF8
   synapse:
-    image: matrixdotorg/synapse:v1.26.0  # later tags are recommended for x86_64
+    image: matrixdotorg/synapse:v1.78.0  # you'll have to find an arm64 image for this
     restart: unless-stopped
     depends_on:
      - postgres
     networks:
       - default
-      - synapse
+      - postgres
     volumes:
      - ./data/synapse:/data
     environment:
-     - UID=1000
-     - GID=1000
+     UID: 1000
+     GID: 1000
 
   maubot:
-    image: kylrth/maubot:latest  # dock.mau.dev/maubot/maubot:latest on x86_64
+    image: dock.mau.dev/maubot/maubot:v0.4.0  # instructions to build for arm64: https://hub.docker.com/r/kylrth/maubot
     restart: unless-stopped
     depends_on:
       - synapse
+      - postgres
+    networks:
+      - default
+      - postgres
     volumes:
-     - ./data/maubot:/data:z
+     - ./data/maubot:/data
     environment:
-     - UID=1000
-     - GID=1000
+     UID: 1000
+     GID: 1000
 
   registration:
-    image: kylrth/matrix-registration  # zeratax/matrix-registration:v0.9.1 on x86_64
+    image: zeratax/matrix-registration:v0.9.1  # https://github.com/kylrth/matrix-registration-docker-arm
+    user: 1000:1000
     restart: unless-stopped
     depends_on:
       - synapse
     volumes:
      - ./data/registration:/data
-    user: 1000:1000
     command: serve
 
 networks:
-  synapse:
+  postgres:
