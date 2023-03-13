@@ -5,21 +5,14 @@ draft: false
 tags: ["self-hosted", "matrix"]
 ---
 
-This is how I set up my own [Matrix](https://matrix.org) server on a Raspberry Pi with Docker. Unfortunately, the Matrix community has stopped releasing ARM images, so the latest version that will work on ARM is v1.26.0. These instructions will work the same for x86_64 systems, except you'll be able to use the default x86_64 images in the docker-compose file.
+This is how I set up my own [Matrix](https://matrix.org) server with Docker.{{% sidenote %}}These instructions were originally for ARM, back when I ran this server on a Raspberry Pi. Unfortunately, the Matrix community stopped releasing ARM images, so the latest version that will work on ARM without QEMU is v1.26.0, which is very old now. These instructions have been updated to use `amd64` images, but I'll preserve the references to ARM images as comments. If you're going to work from a Pi, be sure to switch it to run in 64-bit mode for optimal performance: `echo 'arm_64bit=1' | sudo tee -a /boot/config.txt && sudo systemctl reboot`.{{% /sidenote %}} There is an [Ansible playbook](https://github.com/spantaleev/matrix-docker-ansible-deploy) that's quite popular, but I host a lot of other services with Docker on the same server and I wanted to continue managing all of them together, just with `docker-compose`.
 
 This installation comes with [Maubot](https://github.com/maubot/maubot) and [matrix-registration](https://github.com/ZerataX/matrix-registration) containers too. If you don't want to use those features, leave out those sections of the docker-compose config and don't follow the instructions in the corresponding sections.
 
-First, switch the Raspberry Pi to 64-bit kernel mode for performance:
+First create a directory for the services we're going to provide:
 
 ```sh
-echo 'arm_64bit=1' | sudo tee -a /boot/config.txt
-sudo systemctl reboot
-```
-
-Create a directory for the services we're going to provide:
-
-```sh
-mkdir -p ~/services/data/{certbot,maubot,nginx,postgres,registration,synapse,www}
+mkdir -p ~/services/data/{certbot,maubot,nginx,postgres,registration,synapse}
 cd ~/services
 ```
 
@@ -84,7 +77,7 @@ wget {{< resource-ref "scripts/update_cert.sh" >}} \
 chmod +x scripts/update_cert.sh
 ```
 
-To set the certbot container to renew a non-wildcard certificate,  remove the `profiles` section from the certbot container in the docker-compose.yml so that the container runs with the rest of the services, and add the following instead:
+If you want to set the certbot container to renew a **non-wildcard** certificate,  remove the `profiles` section from the certbot container in the docker-compose.yml so that the container runs with the rest of the services, and add the following instead:
 
 ```yaml
 entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
@@ -103,7 +96,7 @@ wget {{< resource-ref "app.conf" >}} \
 
 ## Synapse
 
-Before doing anything else, make sure you have the version you want in the docker-compose config for the Synapse container. The last version to support ARM was v1.26.0, so if you're on ARM you'll need to use that. Otherwise, update the docker-compose config to use whatever version is latest.{{% sidenote %}}In general it's not a good idea to use the default `latest` tag for remote images, because version upgrades often require changes to be made. You can see the upgrade instructions for Synapse [here](https://matrix-org.github.io/synapse/develop/upgrade).{{% /sidenote %}}
+Before doing anything else, make sure you have the version you want in the docker-compose config for the Synapse container.{{% sidenote %}}The last version to support ARM was v1.26.0, so if you're on ARM you'll need to use that.{{% /sidenote %}} Update the docker-compose config to use whatever version is latest.{{% sidenote %}}In general it's not a good idea to use the default `latest` tag for remote images, because version upgrades often require config updates. Always check the upgrade instructions for Synapse [here](https://matrix-org.github.io/synapse/develop/upgrade).{{% /sidenote %}}
 
 Now generate the initial configuration for Synapse:
 
@@ -115,7 +108,7 @@ docker-compose run --rm \
 
 Now edit `data/synapse/homeserver.yaml` to your liking. Here are some things I did:
 
-- change `max_upload_size` to `"50M"` or something
+- change `max_upload_size` to `"100M"` or something
 - enable URL previews
 
 Run `docker-compose run -v /etc/passwd:/etc/passwd:ro postgres` to give Postgres the chance to initialize the database before Synapse looks for it.
@@ -156,7 +149,7 @@ registration_shared_secret: <registration secret from data/synapse/homeserver.ya
 admin_api_shared_secret: <invent a secret string here>
 base_url: ''
 db: 'sqlite:////data/db.sqlite3'
-host: '0.0.0.0'  # super important
+host: '0.0.0.0'  # super important for running in Docker
 logging:
   handlers:
     file:
