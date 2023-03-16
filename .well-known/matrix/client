@@ -4,8 +4,5 @@
     },
     "im.vector.riot.jitsi": {
         "preferredDomain": "meet.kylrth.com"
-    },
-    "io.element.e2ee": {
-        "secure_backup_required": true
     }
 }
