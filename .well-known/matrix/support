@@ -1,10 +1,10 @@
 {
-    admins: [
+    "admins": [
         {
-            matrix_id: "@kyle:kylrth.com",
-            email_address: "kylrth@gmail.com",
-            role: "admin"
+            "matrix_id": "@kyle:kylrth.com",
+            "email_address": "kylrth@gmail.com",
+            "role": "admin"
         }
     ],
-    support_page: "https://kylrth.com/post/matrix-registration/"
+    "support_page": "https://kylrth.com/post/matrix-registration/"
 }
