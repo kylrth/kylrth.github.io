@@ -17,7 +17,7 @@ Go to [matrix.kylrth.com/register](https://matrix.kylrth.com/register) to create
 
 ## signing in
 
-Once you've successfully registered, sign in from the Element app on your phone or computer.{{% sidenote %}}If you're going to log in on the computer, it'll be better to download the [desktop version](https://element.io/get-started#download), so that in the future you don't lose your session when you clear cookies in your browser.{{% /sidenote %}} To sign in, you'll need to change the homeserver URL from matrix.org to **<https://matrix.kylrth.com>**.{{% sidenote %}}On mobile this is found under "advanced server options".{{% /sidenote %}} Otherwise, it won't know who you are because you don't have an account on matrix.org. **Be sure to include the https://.**
+Once you've successfully registered, sign in from the Element app on your phone or computer.{{% sidenote %}}If you're going to log in on the computer, it'll be better to download the [desktop version](https://element.io/get-started#download), so that you don't lose your session in the future when you clear cookies in your browser.{{% /sidenote %}} To sign in, use your full username (e.g. `@kyle:kylrth.com`) so that you connect to our server, instead of matrix.org.
 
 Once you've signed in, you need to complete the following two steps:
 

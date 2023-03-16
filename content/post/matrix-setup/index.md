@@ -20,7 +20,7 @@ The rest of the commands below will assume the working directory is `~/services`
 
 ## federation
 
-The homeserver is going to be hosted on matrix.kylrth.com, but the server name is kylrth.com. (That way usernames can be `@kyle:kylrth.com` instead of `@kyle:matrix.kylrth.com`, which would be sort of like having an email address `kyle@email.kylrth.com`.) For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create the file `kylrth.com/.well_known/matrix/server` with the contents `{ "m.server": "matrix.kylrth.com:443" }`. We should also add the following line to `/etc/hosts` so that any outgoing requests to matrix.kylrth.com are routed right back to the machine:
+The homeserver is going to be hosted on matrix.kylrth.com, but the server name is kylrth.com. (That way usernames can be `@kyle:kylrth.com` instead of `@kyle:matrix.kylrth.com`, which would be sort of like having an email address `kyle@email.kylrth.com`.) For federation to work correctly, other servers need to know that kylrth.com uses matrix.kylrth.com as its server. To do that, create the file `kylrth.com/.well-known/matrix/server` with the contents `{"m.server": "matrix.kylrth.com:443"}`, and the file `kylrth.com/.well-known/matrix/client` with `{"m.homeserver": {"base_url": "https://matrix.kylrth.com/"}}`.{{% sidenote %}}You can also add a `support` file in that same directory, following my example [here](https://kylrth.com/.well-known/matrix/support).{{% /sidenote %}} We should also add the following line to `/etc/hosts` so that any outgoing requests to matrix.kylrth.com are routed right back to the machine:
 
 ```text
 127.0.0.1 matrix.kylrth.com
