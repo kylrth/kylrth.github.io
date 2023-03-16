@@ -9,7 +9,7 @@ Matrix is a *federated*, open source chat system. By federated, we mean that peo
 
 {{< zoom-img src="federation.png" >}}
 
-In our case, I host the server at matrix.kylrth.com, and you and I can connect to it with various [clients](https://matrix.org/clients-matrix/). We can write each other messages, but we can also communicate with people on other Matrix servers. There are a ton of cool features to Matrix, such as [bridging](https://matrix.org/bridges/), voice and video calls (still not supported by my server), and encryption.{{% sidenote %}}You can read a more extensive beginner's guide to Matrix [here](https://joinmatrix.org/). Also check out the Matrix [website](https://matrix.org).{{% /sidenote %}}
+In our case, I host the server at matrix.kylrth.com, and you and I can connect to it with various [clients](https://matrix.org/clients-matrix/). We can write each other messages, but we can also communicate with people on other Matrix servers. There are a ton of cool features to Matrix, such as [bridging](https://matrix.org/bridges/), voice and video calls, and encryption.{{% sidenote %}}You can read a more extensive beginner's guide to Matrix [here](https://joinmatrix.org/). Also check out the Matrix [website](https://matrix.org).{{% /sidenote %}}
 
 ## creating an account
 
@@ -21,19 +21,29 @@ Once you've successfully registered, sign in from the Element app on your phone 
 
 Once you've signed in, you need to complete the following two steps:
 
-- **set up a recovery passphrase**: There is an option to skip this step, but we want you to use cross-signing, so please do set it up and record the recovery passphrase somewhere. (This will make sense when you read the section on cross-signing.) If you don't see a prompt to set up cross-signing, you can set it up from the settings page.
-- **set up encryption backups**: This is done under the "Security & Privacy" tab of the settings page. This is important if you want to be able to see old messages when you log in from a new device.
+- **set up a secure key**: There is an option to skip this step, but you need this in order to use encryption safely. Record the secure key somewhere.{{% sidenote %}}ideally in your password manager, alongside your account password{{% /sidenote %}} If you don't see a prompt to set up cross-signing, you can set it up from the settings page.
+- **set up secure backups**: This is done under the "Security & Privacy" tab of the settings page. This safely backs up your encrypted messages on the server.
 
-Once you've done both of these things, message `@kyle:kylrth.com` to say hi! Please keep reading to understand how you will sign in to multiple devices.
+These two steps are essential if you want to ensure you'll always have access to encrypted chats, even if you break your laptop or get a new phone.
 
-### encryption, cross-signing, and verification
+Once you've finished these steps, message `@kyle:kylrth.com` to say hi! Please keep reading to understand how you will sign in to multiple devices.
+
+### encryption and cross-signing
 
 One of the cool parts about Matrix is that you can use *end-to-end encryption* (E2EE) to secure your chats. This means that when you send a message it is encoded so that not even the servers that are carrying your message can read it. Then, when the server gives it to the receiving device, the receiving device can decrypt it because it has the decryption key.
 
-When someone sends a message in an encrypted room, the keys to decrypt that message are shared with all the logins **currently in the room**. That includes both my phone and my laptop, for example. If I log in with a new session, it will invite me to *cross-sign* by approving the login with one of my other logged-in devices. Cross-signing allows my new device to ask my old devices for the keys to see old messages, or get them from the backup that we set up earlier.
+**In order to not lose access to your encrypted messages** when you reset your device or change your phone, every time you sign in you need to:
 
-In general it's important to limit the number of logged-in sessions. You can log out other sessions within Element. Any time you log in with a new session, make sure to cross-verify from your phone or other device so that other people know to trust your new device. If you ever lose all logged-in devices, you can enter your recovery passphrase to recover old decryption keys and start cross-signing new devices again.
+- cross-sign from an existing device (this is 2-factor authentication, which is what happens when your bank texts you a code finish logging in),
+- activate secure backup, and
+- restore from that backup.
 
-Before, I said that whenever someone sends a message the decryption keys are sent to all logins **currently in the room**. This means that as soon as my new device is logged in, people sending messages will send decryption keys to the new session (regardless of whether I've cross-signed the new session). This is where *verification* comes in. Verification is used to ensure that you trust the devices that messages are being sent to. You want to be sure that my laptop and phone are the devices you think they are. So, before sending me any encrypted messages, you and I perform verification. If we both use cross-signing, verification only needs to be performed once between you and each person you chat with. From then on, as long as I cross-sign my new logins you will continue to see a green shield next to my name, meaning that you trust all of the devices I'm using. You can still send messages without the green shield and they will be readable from the untrusted devices, but it's a little less safe because it means that my old devices don't yet trust my new ones. 👀
+Otherwise, old messages will appear but won't be decrypted. But not to worry: even if you lose all of your logged in devices at once, as long as you still have your username, password, and secure key, you will be able to restore your encrypted messages from the secure backup.
+
+In general it's important to limit the number of logged-in sessions. You can log out other sessions within Element. If you ever lose all logged-in devices, you can enter your secure key to recover decryption keys for old messages and start cross-signing new devices again.
+
+### verification
+
+For extra security, you may want to know that the person you're messaging is the one you think they are. This is where *verification* comes in. Verification is used to ensure that you trust the devices that messages are being sent to. You want to be sure that my laptop and phone are the devices you think they are. So, before sending me any encrypted messages, you and I perform verification. If we both use cross-signing, verification only needs to be performed once between you and each person you chat with. From then on, as long as I cross-sign any new logins, you will continue to see a green shield next to my name, meaning that you can trust that all of these logins are trusted by me. If an unrecognized login is added, the shield will turn red. You can still send messages, but they will be readable from the untrusted devices unless you have explicitly disallowed this in settings.
 
 Verification is done by going to the list of people in a chat room, clicking on the user, and then choosing to verify. During verification, you and I will be shown a set of emojis, and we need to use an external mode of communication to confirm we're seeing the same ones. Obviously the most secure would be to do it in person, but when that's not possible I usually do it through some other established mode of communication.
