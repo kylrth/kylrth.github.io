@@ -19,6 +19,7 @@ IgnoreURLs:
   - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
   - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
   - "^https://wise\\.com/"
+  - "^https://www\\.datanami\\.com/"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
