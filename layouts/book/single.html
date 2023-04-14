@@ -15,7 +15,8 @@
         </div>
     </header>
     {{ with .Params.thumbnail }}
-    <img src="{{ . }}" alt="thumbnail" class="p-article__thumbnail" style="max-width: 150px">
+    <img src="{{ . }}" {{ with $.Params.thumbnail_alt }} title="{{ . }}" alt="{{ . }}" {{ else }}
+        alt="thumbnail" {{ end }} class="p-article__thumbnail" style="max-height: 150px">
     {{ end }}
     <section id="js-article" class="p-article__body">
         {{ .Content }}

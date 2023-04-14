@@ -5,13 +5,14 @@ date: 2023-02-10T08:09:15-05:00
 draft: false
 tags: ["deep-learning", "alignment"]
 thumbnail: "trolley_abstract.png"
+thumbnail_alt: "image generated with stable diffusion, positive prompt 'trolley problem, people tied to the track, cartoon, surreal' and negative prompt 'realistic, photo'"
 ---
 
-*I presented this paper in Bang Liu's research group meeting in two installments on 2023-02-20 and 2023-02-27, and also in Irina Rish's scaling and alignment course ([IFT6760A](https://sites.google.com/view/towards-agi-course/course-description)) on 2023-03-07. You can view the slides I used [here](https://docs.google.com/presentation/d/1I4VPhMF32CDB3W3vWQl3TTy1GR5jxqSAAfSgjuk8enI/edit?usp=sharing).*
+*I presented this paper in Bang Liu's research group meeting in two installments on 2023-02-20 and 2023-02-27, and also in Irina Rish's scaling and alignment course ([IFT6760A](https://sites.google.com/view/towards-agi-course/course-description)) on 2023-03-07. You can view the slides I used [here](https://docs.google.com/presentation/d/1I4VPhMF32CDB3W3vWQl3TTy1GR5jxqSAAfSgjuk8enI/edit?usp=sharing).*{{% sidenote %}}The thumbnail for this post was generated with stable diffusion! See the alt text for details.{{% /sidenote %}}
 
 > Behind each vision for ethically-aligned AI sits a deeper question. How are we to decide which principles or objectives to encode in AI—and who has the right to make these decisions—given that we live in a pluralistic world that is full of competing conceptions of value? Is there a way to think about AI value alignment that avoids a situation in which some people simply impose their views on others?
 
-This paper provides an overview of the ethical and philosophical considerations that underpin the topic of AI alignment. It divides "the value alignment question" into two parts, technical and normative. *Technical* refers to the challenge of encoding values or principles into the systems we create. *Normative* asks what principles ought to be included. This paper focuses on the normative question of alignment.{{% sidenote %}}The thumbnail for this post was generated with stable diffusion, positive prompt "trolley problem, people tied to the track, cartoon, surreal" and negative prompt "realistic, photo".{{% /sidenote %}}
+This paper provides an overview of the ethical and philosophical considerations that underpin the topic of AI alignment. It divides "the value alignment question" into two parts, technical and normative. *Technical* refers to the challenge of encoding values or principles into the systems we create. *Normative* asks what principles ought to be included. This paper focuses on the normative question of alignment.
 
 The author further distinguishes between *minimalist* and *maximalist* approaches to alignment. The former view says the best approach is to encode a minimal representation of "some plausible schema of human value", and then mitigate unsafe outcomes. The maximalist view is that we ought to discover the "correct or best scheme of human values" and encode that. The minimalist approach acknowledges that optimizing for a specific metric nearly always results in bad outcomes{{% sidenote %}}See [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law).{{% /sidenote %}}, while the maximalist approach may be more likely to accomplish what we want.
 
