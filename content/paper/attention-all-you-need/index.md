@@ -49,6 +49,6 @@ The benefits of this attention-only model are several:
 
 ## experiments
 
-They used a byte-pair encoding, which is explained [here](https://towardsdatascience.com/byte-pair-encoding-the-dark-horse-of-modern-nlp-eb36c7df4f10) and is basically the same as the [word-piece model]({{< relref "word-piece-model" >}}). They created a shared encoding for both the source and target languages.
+They used a byte-pair encoding, which is explained [here](https://archive.kylrth.com/archive/1653659773.144488/index.html) and is basically the same as the [word-piece model]({{< relref "word-piece-model" >}}). They created a shared encoding for both the source and target languages.
 
 They used beam search as described in the [GNMT paper]({{< relref "google-nmt-2016" >}}). Remember, because of the auto-regressive property we can predict one token at a time by getting the output and then just doing the argmax on the output for the next timestep.
