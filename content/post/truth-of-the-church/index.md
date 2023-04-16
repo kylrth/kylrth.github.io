@@ -449,6 +449,7 @@ The church spends billions of dollars on building temples, while spending far le
 - The First Presidency announced in 1969 that God himself commanded the treatment of black people. Also check out this First Presidency [official statement](https://faenrandir.github.io/a_careful_examination/aug-2020-church-historian-communication-on-1949-first-presidency-statement/).
 - Talk about the [charity](https://www.reddit.com/r/mormon/comments/oxvfi0/there_was_a_recent_post_about_the_charitable_work/) the church provides.
 - discussion on [race](https://www.reddit.com/r/mormon/comments/pe4dh7/my_struggles_processing_race_priesthood_and_the/)
+- ambiguity of statements like [this](https://libreddit.kylrth.com/r/exmormon/comments/12nqbet/breaking_news_elder_cook_has_seen_jesus/) and Oaks' statement on not having seen God
 
 ## what this all says about God
 
