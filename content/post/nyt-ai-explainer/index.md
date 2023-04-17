@@ -1,0 +1,26 @@
+---
+title: "the NYT AI explainer misses the point"
+date: 2023-04-17T10:07:35-04:00
+draft: false
+tags: ["politics", "machine-learning", "alignment"]
+thumbnail: "surveillance.png"
+thumbnail_alt: "Image generated with stable diffusion. Building and background generated with positive prompt 'dark office building, security cameras, cloudy sky, ominous, dreary'. Camera generated with inpainting based on prompt 'surveillance camera'."
+---
+
+In late March 2023, the NYT released a series of explainer articles about AI. The [first article in the series](https://www.nytimes.com/article/ai-artificial-intelligence-chatbot.html){{% sidenote %}}You can also [read it on Archive.org](https://web.archive.org/web/20230415130643/https://www.nytimes.com/article/ai-artificial-intelligence-chatbot.html) if you don't have a subscription.{{% /sidenote %}} characterizes the recent history of AI as a progression of new technological ideas appearing over time. Of course that's partially true, but it gets the order wrong and misses important non-technical events that are key to understanding our current position.
+
+First, the article claims neural networks were invented in 2012, when in fact the ideas had gained real traction by the 1950s at the latest.{{% sidenote %}}[According to Wikipedia](https://en.wikipedia.org/wiki/Neural_network#History), some of the earliest ideas about neural networks were being discussed in the late 19th century. See *Mind and Body: the theories of their relation* by Alexander Bain in 1873 ([GoodReads](https://www.goodreads.com/book/show/8411156-mind-and-body), [Archive.org](https://archive.org/details/mindbodytheories00bain)). For developments in the mid-20th century, see the Wikipedia articles on [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) and [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener).{{% /sidenote %}} What *actually* happened in 2012 was the first use of GPUs to run the neural networks, which made it possible to run networks big enough to do interesting things on a standard computer.{{% sidenote %}}We're talking about [AlexNet](https://en.wikipedia.org/wiki/AlexNet), from Krizhevsky et al. (2012) "ImageNet Classification with Deep Convolutional Neural Networks" ([NeurIPS proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)).{{% /sidenote %}} The modern AI boom was kicked off by an adjacent technological change (GPUs) brought about for unrelated purposes (graphics rendering).
+
+More importantly, the modern AI boom has been driven by corporate data collection at a scale unprecedented in human history. From a [tweet thread](https://twitter.com/mer__edith/status/1647649090237353985) ([proxy link](https://nitter.kylrth.com/mer__edith/status/1647649090237353985#m)) by Meredith Whittaker:
+
+> NYT "AI" explainer misleads. Deep learning techniques date from the 1980s, & "AI" had been hot/cold for decades, not slow until 2012. There was no new "single idea" in 2012. What WAS new, & propelled the AI boom, was concentrated resources (data/compute) controlled by tech cos
+
+> The access to massive data (aka surveillance) and compute made old "AI" techniques do new things. And showed that "AI" could profitably expand "what could be done" with the surveillance data already created by the targeted ad companies that dominated the industry.
+
+If we see the recent developments in AI as purely technological developments, we miss the fact that what makes these massive models possible (and profitable) is the mass data collection that's been aggregating into the hands of powerful tech companies for decades. The NYT explainer completely misses this.
+
+The author of the tweet instead points us to the [2023 Landscape report](https://ainowinstitute.org/general/2023-landscape-executive-summary) by the [AI Now Institute](https://en.wikipedia.org/wiki/AI_Now_Institute),{{% sidenote %}}I wasn't familiar with some of these people and organizations, so here's a quick summary: Meredith is the president of the Signal Foundation and a co-founder of the AI Now Institute. AI Now [is funded](https://ainowinstitute.org/about) by [Open Society Foundations](https://en.wikipedia.org/wiki/Open_Society_Foundations) ([George Soros](https://en.wikipedia.org/wiki/George_Soros)), the [Ford Foundation](https://en.wikipedia.org/wiki/Ford_Foundation), and the [Luminate Group](https://luminategroup.com/about) (the [Omidyars](https://en.wikipedia.org/wiki/Pierre_Omidyar)). I think it's important to know [where the money comes from]({{< relref "/book/winners-take-all" >}}) when ideas are given a platform.{{% /sidenote %}} which takes a socially-aware stance:
+
+> Only once we stop seeing AI as synonymous with progress can we establish popular control over the trajectory of these technologies and meaningfully confront their serious social, economic, and political impacts—from exacerbating patterns of inequality in housing, credit, healthcare, and education to inhibiting workers’ ability to organize and incentivizing content production that is deleterious to young people’s mental and physical health.
+
+When we see the history of technology as an inevitable march in a predetermined direction, we stop seeing technological change as social change, leaving power in the hands of those creating the technology.
