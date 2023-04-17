@@ -30,7 +30,7 @@ thumbnail: "poster.jpg"
 
 **Crawford**: We need social scientists and humanists thinking about what kinds of regulatory structures would provide reliable forms of accountability. So little investment has gone into these humanistic questions, compared to the massive amounts going to the technical research.
 
-**Bengio**: We need to  go even further. We need to rethink our societies, both nationally and globally. This misalignment of capitalism becomes more and more of a problem as these tools become more powerful. What we have now is a race to the bottom in terms of ethics. Are there other political or economic models that are alternatives to what we have now? If we don't do this, humanity and civilization won't be here in 50 years. And that's not even thinking about pandemics or climate change, which our system is not capable of effectively dealing with. We should invest in serious research about what are options are for building a different world.
+**Bengio**: We need to  go even further. We need to rethink our societies, both nationally and globally. This misalignment of capitalism becomes more and more of a problem as these tools become more powerful. What we have now is a race to the bottom in terms of ethics. Are there other political or economic models that are alternatives to what we have now? If we don't do this, humanity and civilization won't be here in 50 years. And that's not even thinking about pandemics or climate change, which our system is not capable of effectively dealing with. We should invest in serious research about what our options are for building a different world.
 
 **Valerie (moderator)**: We need to think about this stuff at Mila too.
 
