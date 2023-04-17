@@ -2,7 +2,7 @@
 title: "the inherent subjectivity of reality"
 date: 2023-04-14T14:45:44-04:00
 draft: false
-tags: ["philosophy", "science", "lex-fridman"]
+tags: ["philosophy", "science", "lex-fridman", "alignment"]
 thumbnail: "billiards.png"
 thumbnail_alt: "image generated with stable diffusion, positive prompt 'chaotic action shot of billiard balls'"
 ---
@@ -18,3 +18,5 @@ Paradoxes and confusion arise from our lenses on reality. We find the wave-parti
 There are questions about reality that can't be answered, mostly around subjectivity. To Frenkel this makes the universe ineffable. Math claims to be objective, but hides its subjectivity in the axioms of the formal system. Gödel's incompleteness theorem and the halting problem demonstrate that there are facts about the universe that we won't be able to arrive at rationally. And then there's all the subjectivity inherent in quantum physics.
 
 We've known about a lot of this for about a century, and yet still the culture of science hasn't really dealt with it. We still talk as though everything is billiard balls, and free will is an illusion, while at the same time acknowledging on paper the fundamental subjectivity of reality, consciousness, etc.
+
+In a conversation after a [presentation about alignment]({{< relref "paper/ai-values-alignment" >}}), I briefly discussed the idea that our problem with trusting AI to do things is that we can't be confident that they take in the full context that a human will when making a decision. I then wondered if in the future there could be more powerful systems that could take into account even more context than a human can. What Frenkel says about the subjective nature of reality makes me believe that this is impossible *and* dangerous to attempt. **Who is (wo)man to judge whether a system takes more into account than the human can?** By claiming such, the human is in reality simply exercising power by implementing their own idea of reality in the system they've created.
