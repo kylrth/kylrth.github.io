@@ -1109,8 +1109,8 @@ papertitle {
 
 @media(min-width:1400px) {
     .sidenote {
-        float: inline-end;
-        clear: inline-end;
+        float: right;
+        clear: both;
         margin-right: -23vw;
         top: -3rem;
         width: 20vw;
@@ -1125,7 +1125,7 @@ papertitle {
 
 @media(max-width:1400px) {
     .sidenote {
-        float: inline-end;
+        float: right;
         width: 100%;
         margin: 1rem 0;
         padding-left: 10%
