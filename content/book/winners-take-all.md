@@ -42,7 +42,7 @@ The original "Gospel of Wealth" by Carnegie argues that inequality is inevitable
 
 ## rich guilt
 
-> The giving she does is not institutional change or systemic change. "I'm gonna leave that to my kids.", she said. But if she was being honest, the guilt also gives her something she is reluctant to part with: a sense of superiority over rich people less guilty and more indulgent than she is.
+> The giving she does is not institutional change or systemic change. "I'm gonna leave that to my kids," she said. But if she was being honest, the guilt also gives her something she is reluctant to part with: a sense of superiority over rich people less guilty and more indulgent than she is.
 
 ## globalism
 
@@ -50,7 +50,7 @@ There's a deep conflict between the globalizing interests of corporations (who f
 
 > "Today,” she said, "too many people in positions of power behave as though they have more in common with international elites than with the people down the road, the people they employ, the people they pass on the street. But if you believe you are a citizen of the world, you are a citizen of nowhere. You don’t understand what citizenship means."
 
-Quotes about Clinton's activity vs democracy
+There were also some good quotes about Clinton's post-presidential activism versus what democratic action looks like:
 
 > For people to question this view is not to deny the good it is capable of doing, any more than to question monarchy is to say that kings always botch up the economy. It is to say that it does not matter what kind of job the king is doing. It is to say that even the best he can do is not good enough, because of how it is done: the insulation, the chancing of everything on the king's continued beneficence, the capacity of royal mistakes to alter lives they should not be touching.
 
