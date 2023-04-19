@@ -562,3 +562,4 @@ The church spends billions of dollars on building temples, while spending far le
     > No-one should tolerate any ludicrous, even laughable, middle-ground about "what a wonderful contour of the young boy's imagination, or his remarkable facility for turning a literary phrase". That is NOT an acceptable position to take morally, literarily, historically, or theologically.
 
     It's from [this video](https://www.churchofjesuschrist.org/broadcasts/watch/devotional-for-single-adults/2022/11?lang=eng). 1:23:35 for the whole segment, 1:27:09 for the quote.
+- This [funny thing about earwax](https://libreddit.kylrth.com/r/exmormon/comments/12rsced/earwax_helped_break_my_shelf/) (along with all the other genetic stuff) pigeonholes apologists into saying that Lehite DNA disappeared in America and the Polynesians.
