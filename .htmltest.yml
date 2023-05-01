@@ -13,6 +13,8 @@ IgnoreHTTPS:
   - "^http://www\\.faecum\\.qc\\.ca/$"
   - "^http://www\\.stablediffusionfrivolous.com/$"
 IgnoreURLs:
+  # Reddit gives 429s to GitHub
+  - "^https://www\\.reddit\\.com/"
   # these consistently return weird status codes for GitHub:
   - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
   - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
