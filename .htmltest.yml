@@ -22,6 +22,7 @@ IgnoreURLs:
   - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
   - "^https://wise\\.com/"
   - "^https://www\\.datanami\\.com/"
+  - "^https://devdojo\\.com/bobbyiliev/how-to-install-docker-and-docker-compose-on-raspberry-pi$"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
