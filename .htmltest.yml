@@ -13,15 +13,15 @@ IgnoreHTTPS:
   - "^http://www\\.faecum\\.qc\\.ca/$"
   - "^http://www\\.stablediffusionfrivolous.com/$"
 IgnoreURLs:
-  # Reddit gives 429s to GitHub
+  # these sites don't like GitHub
   - "^https://www\\.reddit\\.com/"
-  # these consistently return weird status codes for GitHub:
-  - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
-  - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
-  - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
-  - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
+  - "^https://twitter\\.com/"
   - "^https://wise\\.com/"
   - "^https://www\\.datanami\\.com/"
+  - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
+  - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
+  - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
+  - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
   - "^https://devdojo\\.com/bobbyiliev/how-to-install-docker-and-docker-compose-on-raspberry-pi$"
   # onion sites
   - "http://.*\\.onion"
