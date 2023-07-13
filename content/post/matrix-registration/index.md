@@ -9,7 +9,7 @@ Matrix is a *federated*, open source chat system. By federated, we mean that peo
 
 {{< zoom-img src="federation.png" >}}
 
-In our case, I host the server at matrix.kylrth.com, and you and I can connect to it with various [clients](https://matrix.org/clients-matrix/). We can write each other messages, but we can also communicate with people on other Matrix servers. There are a ton of cool features to Matrix, such as [bridging](https://matrix.org/bridges/), voice and video calls, and encryption.{{% sidenote %}}You can read a more extensive beginner's guide to Matrix [here](https://joinmatrix.org/). Also check out the Matrix [website](https://matrix.org).{{% /sidenote %}}
+In our case, I host the server at matrix.kylrth.com, and you and I can connect to it with various [clients](https://matrix.org/ecosystem/clients/). We can write each other messages, but we can also communicate with people on other Matrix servers. There are a ton of cool features to Matrix, such as [bridging](https://matrix.org/bridges/), voice and video calls, and encryption.{{% sidenote %}}You can read a more extensive beginner's guide to Matrix [here](https://joinmatrix.org/). Also check out the Matrix [website](https://matrix.org).{{% /sidenote %}}
 
 ## creating an account
 
