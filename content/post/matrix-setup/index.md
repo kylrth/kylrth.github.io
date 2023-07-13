@@ -87,7 +87,7 @@ Note that changing the entrypoint this way will break the previous `docker-compo
 
 ## NGINX
 
-To set up NGINX, download the `app.conf` I've got [here]({{< resource-ref "docker-compose.yml" >}}) (and modify it to your liking):
+To set up NGINX, download the `app.conf` I've got [here]({{< resource-ref "app.conf" >}}) (and modify it to your liking):
 
 ```sh
 wget {{< resource-ref "app.conf" >}} \
