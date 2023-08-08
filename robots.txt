@@ -1,12 +1,29 @@
 # If you are a human and would like to scrape my site for a specific purpose, please consider
 # downloading and building the static site using the instructions at
-# https://github.com/kylrth/kylrth.github.io.
+# https://github.com/kylrth/kylrth.github.io, or reaching out to say hi.
 
 User-agent: *
 Allow: /
 
+# no online advertising
+User-Agent: Adsbot
+Disallow: /
+Allow: /ads.txt
+Allow: /app-ads.txt
+
 # disallow for ML model training
+User-agent: ChatGPT-User
 User-agent: GPTBot
+Disallow: /
+
+# disallow bots that use content to stop plagiarism and intellectual property violations
+# (see https://seirdy.one/robots.txt)
+User-agent: TurnitinBot
+User-agent: NPBot
+User-agent: SlySearch
+User-agent: BLEXBot
+User-agent: CheckMarkNetwork/1.0
+User-agent: BrandVerity/1.0
 Disallow: /
 
 # disallow SEO web crawlers
