@@ -1,0 +1,20 @@
+# If you are a human and would like to scrape my site for a specific purpose, please consider
+# downloading and building the static site using the instructions at
+# https://github.com/kylrth/kylrth.github.io.
+
+User-agent: *
+Allow: /
+
+# disallow for ML model training
+User-agent: GPTBot
+Disallow: /
+
+# disallow SEO web crawlers
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: SEOkicks
+Disallow: /
+
+Sitemap: https://kylrth.com/sitemap.xml
