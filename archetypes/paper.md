@@ -4,6 +4,6 @@ link: "link://to.abstract.com/"
 date: {{ .Date }}
 draft: true
 tags: []
-thumbnail: "path/thumbnail.jpg"
+thumbnail: "thumbnail.png"
 mathjax: true
 ---
