@@ -61,7 +61,11 @@ If you find family insurance that works for all of you, there are certain requir
 
 Unfortunately, after looking super hard we never found anything but travel insurance that would cover us while we're temporary residents. Travel insurance usually doesn't cover anything routine, like check-ups. This means it makes more sense for us to keep regular student insurance for me and travel insurance for my wife.
 
-**Update**: Kids are now always covered by RAMQ no matter the parents' immigration status. You can register kids for RAMQ by signing up for a phone interview [here](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/register).
+**Update**: Since 2021, kids are always covered by RAMQ no matter the parents' immigration status. You can register kids for RAMQ by signing up for a phone interview [here](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/register). Once you have the physical RAMQ health card for your kids, you can sign them up for the family doctor waiting list [here](https://www.quebec.ca/en/health/finding-a-resource/quebec-family-doctor-finder). You'll also need the RAMQ number of a "guarantor", who is generally the parent but in our case since we don't have RAMQ numbers we were told it could be anyone we knew who was willing to act as guarantor.
+
+### dental insurance
+
+As an international student at UdeM I have access to dental insurance through ASEQ, and you can [sign up family members](https://www.aseq.ca/rte/fr/FA%C3%89CUM_Changementdecouverture_Inscrivezvotrefamille) for this plan. Children have [some dental care](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/dental-services) covered by RAMQ, notably excluding cleanings.
 
 ## phone service
 
@@ -89,7 +93,7 @@ In just a few months we've gotten pretty good at reading road signs and getting 
 
 The Québec government also sponsors free [French courses](https://www.quebec.ca/en/education/learn-french) to help integrate immigrants into Québec society. The courses are run by various local non-profits and educational institutions.{{% sidenote %}}They also offer financial assistance under certain conditions (one of which being that you have a social insurance number). I took a 12 hour/week course starting in July, and I received offering CA$25 per 3-hour session.{{% /sidenote %}} The courses are in high demand, so you'll have to watch the registration page of the institution in your area to make sure you can get registered. Registration usually opens several months in advance of the start date, and fills up within a week or so.
 
-To be clear, it's not necessary to know French to live in Montréal.{{% sidenote %}}But I think you really do need to learn French [if you want to self-actualize in Montreal](https://youtu.be/Xpbp_Y2qFvg).{{% /sidenote %}} We've been able to function just fine, especially since we live in a neighborhood with a large English-speaking population. In our neighborhood, the store clerks speak to you in English first, and switch if responded to in French. But this is not the norm in most of Montréal, let alone the rest of Québec. And even in our situation, you need to be comfortable with a little bit of confusion when you go out and have to read signs or interact with people. Learning French is also essential if you want to be social outside of the immigrant community.
+To be clear, it's not necessary to know French to live in Montréal.{{% sidenote %}}But I think you really do need to learn French [if you want to self-actualize in Montreal](https://youtu.be/Xpbp_Y2qFvg).{{% /sidenote %}} We've been able to function just fine, especially since we live in a neighborhood with a large English-speaking population. In our neighborhood, the store clerks speak to you in English first, and switch if responded to in French. But this is not the norm in most of Montréal, let alone the rest of Québec. And even in our situation, you need to be comfortable with a little bit of confusion when you go out and have to read signs or interact with people. Learning French is also essential if you want to be social outside of the immigrant community. You can follow my progress learning French [here]({{< relref "learning-french" >}})!
 
 ## community services
 
