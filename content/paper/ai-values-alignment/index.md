@@ -3,7 +3,7 @@ title: "Artificial intelligence, values, and alignment"
 link: "https://arxiv.org/abs/2001.09768"
 date: 2023-02-10T08:09:15-05:00
 draft: false
-tags: ["deep-learning", "alignment"]
+tags: ["deep-learning", "ethics"]
 thumbnail: "trolley_abstract.png"
 thumbnail_alt: "image generated with stable diffusion, positive prompt 'trolley problem, people tied to the track, cartoon, surreal' and negative prompt 'realistic, photo'"
 ---

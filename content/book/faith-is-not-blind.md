@@ -4,7 +4,7 @@ author: "Bruce and Marie Hafen"
 goodreads: "https://www.goodreads.com/book/show/42975561-faith-is-not-blind"
 date: 2021-01-18T08:11:23-07:00
 draft: false
-tags: ["religion", "faith"]
+tags: ["religion", "mormonism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543434219l/42975561._SY475_.jpg"
 ---
 

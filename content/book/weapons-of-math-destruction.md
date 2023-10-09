@@ -4,7 +4,7 @@ author: "Cathy O'Neil"
 goodreads: "https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction"
 date: 2020-08-30T06:46:49-06:00
 draft: false
-tags: ["math", "modernism"]
+tags: ["mathematics", "ethics"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015.jpg"
 ---
 

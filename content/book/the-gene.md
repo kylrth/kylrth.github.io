@@ -4,7 +4,7 @@ author: "Siddhartha Mukherjee"
 goodreads: "https://www.goodreads.com/book/show/27276428-the-gene"
 date: 2021-01-22T06:14:58-07:00
 draft: false
-tags: ["modernism", "science"]
+tags: ["science"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463591739l/27276428._SY475_.jpg"
 ---
 

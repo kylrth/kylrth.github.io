@@ -2,7 +2,7 @@
 title: "for a socially beneficial and responsible development of AI"
 date: 2023-03-20T14:04:51-04:00
 draft: false
-tags: ["alignment", "machine-learning"]
+tags: ["ethics", "machine-learning"]
 thumbnail: "poster.jpg"
 ---
 

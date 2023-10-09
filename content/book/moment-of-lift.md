@@ -4,7 +4,7 @@ author: "Melinda Gates"
 goodreads: "https://www.goodreads.com/book/show/40776644-the-moment-of-lift"
 date: 2020-09-01T05:25:38-06:00
 draft: false
-tags: ["modernism"]
+tags: ["feminism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540299907l/40776644.jpg"
 ---
 

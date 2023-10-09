@@ -4,7 +4,7 @@ author: "K David Harrison"
 goodreads: "https://www.goodreads.com/book/show/8440917-the-last-speakers"
 date: 2021-05-31T08:29:00-06:00
 draft: false
-tags: ["linguistics", "modernity"]
+tags: ["linguistics", "science"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405305998l/8440917.jpg"
 ---
 

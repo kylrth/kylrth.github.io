@@ -4,7 +4,7 @@ author: "Paul Scharre"
 goodreads: "https://www.goodreads.com/book/show/40180025-army-of-none"
 date: 2023-02-14T13:33:19-05:00
 draft: false
-tags: ["alignment", "politics"]
+tags: ["ethics", "politics"]
 thumbnail: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529056546i/40180025.jpg"
 ---
 

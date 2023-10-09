@@ -4,7 +4,7 @@ author: "Malcolm Gladwell"
 goodreads: "https://www.goodreads.com/book/show/40102.Blink"
 date: 2020-11-17T20:44:48-07:00
 draft: false
-tags: ["modernism"]
+tags: []
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440763417l/40102._SX318_.jpg"
 ---
 

@@ -4,7 +4,7 @@ author: "Tara Westover"
 goodreads: "https://www.goodreads.com/book/show/57661485-educated"
 date: 2022-02-17T09:51:11-05:00
 draft: false
-tags: ["philosophy", "religion"]
+tags: ["philosophy", "religion", "mormonism"]
 thumbnail: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626735286i/57661485.jpg"
 ---
 

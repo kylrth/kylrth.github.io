@@ -2,7 +2,7 @@
 title: "the inherent subjectivity of reality"
 date: 2023-04-14T14:45:44-04:00
 draft: false
-tags: ["philosophy", "science", "lex-fridman", "alignment"]
+tags: ["philosophy", "science", "lex-fridman", "ethics"]
 thumbnail: "billiards.png"
 thumbnail_alt: "image generated with stable diffusion, positive prompt 'chaotic action shot of billiard balls'"
 ---

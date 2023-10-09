@@ -3,7 +3,7 @@ title: "Unsolved problems in ML safety"
 link: "https://arxiv.org/abs/2109.13916"
 date: 2023-02-06T11:39:33-05:00
 draft: false
-tags: ["deep-learning", "alignment"]
+tags: ["deep-learning", "ethics"]
 thumbnail: "icons.png"
 ---
 

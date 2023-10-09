@@ -4,7 +4,7 @@ author: "Amanda Ripley"
 goodreads: "https://www.goodreads.com/book/show/13259960-the-smartest-kids-in-the-world"
 date: 2021-03-30T07:00:00-07:00
 draft: false
-tags: ["modernism", "education"]
+tags: ["education"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408912974l/13259960.jpg"
 ---
 

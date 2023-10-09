@@ -4,7 +4,7 @@ author: "Brad Smith, Carol Ann Browne"
 goodreads: "https://www.goodreads.com/book/show/44334073-tools-and-weapons"
 date: 2020-12-03T20:58:02-07:00
 draft: false
-tags: ["modernism", "technology"]
+tags: ["ethics", "technology"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556243936l/44334073.jpg"
 ---
 

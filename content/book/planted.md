@@ -4,7 +4,7 @@ author: "Patrick Mason"
 goodreads: "https://www.goodreads.com/book/show/27863812-planted"
 date: 2021-04-18T10:21:00-06:00
 draft: false
-tags: ["religion", "modernism"]
+tags: ["religion", "mormonism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447995681l/27863812._SY475_.jpg"
 ---
 

@@ -2,7 +2,7 @@
 title: "my search for value in the church"
 date: 2021-01-12T06:26:11-08:00
 draft: true
-tags: ["religion"]
+tags: ["religion", "mormonism"]
 ---
 
 Do I like my ward? Do I find community?
@@ -67,3 +67,7 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - [people in Africa working  for four years to go on a mission](https://www.churchofjesuschrist.org/study/ensign/2011/01/the-lord-needs-missionaries/bike-to-the-future?lang=eng)
 - rename this document something about "harms" (and the other something about "falsehoods"), and make a point at the beginning to note several great things the church does and teaches
 - [ZotS points out the ways the church has a superiority complex](https://youtu.be/EthUsdmkIZk)
+- <https://libreddit.kylrth.com/r/exmormon/comments/13numyo/deconstruct_mormonism_by_asking_what_would_jesus/>
+- <https://libreddit.kylrth.com/r/exmormon/comments/13nhg6a/im_a_social_worker_and_we_keep_a_list_of_various/>
+- <https://libreddit.kylrth.com/r/exmormon/comments/13vttyb/im_sad_deconstructing_the_second_coming/>
+- [using the idea of Satan to police your thoughts](https://libreddit.kylrth.com/r/exmormon/comments/16qm8fb/the_lds_church_isnt_bad_because_of_its_weird/)

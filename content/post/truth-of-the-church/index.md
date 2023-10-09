@@ -2,7 +2,7 @@
 title: "my search for truth about the church and its teachings"
 date: 2021-11-19T08:50:12-08:00
 draft: true
-tags: ["religion"]
+tags: ["religion", "mormonism"]
 mathjax: true
 ---
 
