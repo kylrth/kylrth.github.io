@@ -25,6 +25,7 @@ IgnoreURLs:
   - "^https://devdojo\\.com/bobbyiliev/how-to-install-docker-and-docker-compose-on-raspberry-pi$"
   - "foundation.mozilla.org"
   - "www.google.com/maps/dir"
+  - "fee.org"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
