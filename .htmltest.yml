@@ -26,6 +26,7 @@ IgnoreURLs:
   - "foundation.mozilla.org"
   - "www.google.com/maps/dir"
   - "fee.org"
+  - "papers\\.nips\\.cc"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
