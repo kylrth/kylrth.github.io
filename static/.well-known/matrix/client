@@ -4,5 +4,8 @@
     },
     "im.vector.riot.jitsi": {
         "preferredDomain": "meet.kylrth.com"
+    },
+    "org.matrix.msc3575.proxy": {
+        "url": "https://matrix.kylrth.com"
     }
 }
