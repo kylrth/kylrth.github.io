@@ -27,6 +27,7 @@ IgnoreURLs:
   - "www.google.com/maps/dir"
   - "fee.org"
   - "papers\\.nips\\.cc"
+  - "^https://byu\\.edu$"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
