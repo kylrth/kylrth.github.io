@@ -26,8 +26,12 @@ IgnoreURLs:
   - "foundation.mozilla.org"
   - "www.google.com/maps/dir"
   - "fee.org"
-  - "papers\\.nips\\.cc"
+  - "papers.nips.cc"
   - "^https://byu\\.edu$"
+  - "digitalcommons.usu.edu"
+  - "news.ag.org"
+  - "tech.churchofjesuschrist.org"
+  - "philpapers.org"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
