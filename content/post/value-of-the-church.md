@@ -49,7 +49,7 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - thoughts on the hard problem of consciousness in this [Lex Fridman interview](https://open.spotify.com/episode/4gIFuUyepwl5V2Eh7HlW2x?si=MXkZUNBmRMiVnGER8s9cWQ&utm_source=sms&dl_branch=1)
 - It's a relatively new idea to identify ourselves according to our beliefs about things (communist, capitalist, deist, atheist, liberal, etc.). I want to be careful about the terms I use to identify myself, because I don't hold all of my beliefs with 100% confidence. So I might choose not to identify as atheist, even though I don't think that any of the religions are likely to be right.
 - Antimormonism feels so harmful and antagonistic because it IS antagonizing a culture that's just as valid as any other. Just because it's historically problematic doesn't mean it's not a valid culture and religion.
-- [how to handle when your parents target you a little](https://libreddit.kylrth.com/r/exmormon/comments/urg8yt/mom_bears_her_testimony_and_i_gently_explain_why/)
+- [how to handle when your parents target you a little](https://redlib.kylrth.com/r/exmormon/comments/urg8yt/mom_bears_her_testimony_and_i_gently_explain_why/)
 - Bokovoy, in his Mormon Stories interview part 3:
   - on religion:
 
@@ -63,11 +63,11 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
   - He sees the church as a good place for people just like any other religion can be a good place. If I can't see Mormons as good or the Mormon church as somewhat good, I'm in error.
   - The lack of scriptural historicity isn't a problem for him because you can learn from the books, but the real problem is the social issues now. For me, literalism is a problem and implies the truth claims aren't what the church says they are. That plus the social issues *are* my problem.
 - [conspiracism in the church](https://tokensandsigns.org/conspiracist-enculturation/)
-- [systemic problems](https://libreddit.kylrth.com/r/exmormon/comments/wi7mj4/i_almost_hope_my_close_tbm_family_doesnt_hear/)
+- [systemic problems](https://redlib.kylrth.com/r/exmormon/comments/wi7mj4/i_almost_hope_my_close_tbm_family_doesnt_hear/)
 - [people in Africa working  for four years to go on a mission](https://www.churchofjesuschrist.org/study/ensign/2011/01/the-lord-needs-missionaries/bike-to-the-future?lang=eng)
 - rename this document something about "harms" (and the other something about "falsehoods"), and make a point at the beginning to note several great things the church does and teaches
 - [ZotS points out the ways the church has a superiority complex](https://youtu.be/EthUsdmkIZk)
-- <https://libreddit.kylrth.com/r/exmormon/comments/13numyo/deconstruct_mormonism_by_asking_what_would_jesus/>
-- <https://libreddit.kylrth.com/r/exmormon/comments/13nhg6a/im_a_social_worker_and_we_keep_a_list_of_various/>
-- <https://libreddit.kylrth.com/r/exmormon/comments/13vttyb/im_sad_deconstructing_the_second_coming/>
-- [using the idea of Satan to police your thoughts](https://libreddit.kylrth.com/r/exmormon/comments/16qm8fb/the_lds_church_isnt_bad_because_of_its_weird/)
+- <https://redlib.kylrth.com/r/exmormon/comments/13numyo/deconstruct_mormonism_by_asking_what_would_jesus/>
+- <https://redlib.kylrth.com/r/exmormon/comments/13nhg6a/im_a_social_worker_and_we_keep_a_list_of_various/>
+- <https://redlib.kylrth.com/r/exmormon/comments/13vttyb/im_sad_deconstructing_the_second_coming/>
+- [using the idea of Satan to police your thoughts](https://redlib.kylrth.com/r/exmormon/comments/16qm8fb/the_lds_church_isnt_bad_because_of_its_weird/)

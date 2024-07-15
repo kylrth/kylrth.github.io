@@ -93,7 +93,8 @@ Each one of these issues, taken in isolation, could be explained away by saying 
 
 ### todo
 
-- [good point](https://libreddit.kylrth.com/r/exmormon/comments/x7k80l/what_is_the_biggest_most_indelible_piece_of/incxoa5/?context=3) about Nephi's use of Isaiah
+- [good point](https://redlib.kylrth.com/r/exmormon/comments/x7k80l/what_is_the_biggest_most_indelible_piece_of/incxoa5/?context=3) about Nephi's use of Isaiah
+- [problem with the explanation that Nephi was racist](https://libreddit.strongthany.cc/r/exmormon/comments/1902y0n/tscc_is_now_blaming_nephi_for_the_book_of_mormons/)
 
 ## historicity of the Book of Mormon narrative
 
@@ -285,6 +286,7 @@ This is the one thing about the church that is hard to explain from a critical s
 - Dan Vogel thinks that Joseph taught everyone how he received revelation, which was just thinking and a burning in the bosom. Vogel thinks that's how Joseph received the Book of Mormon, as evidenced by D&C 8 with Oliver.
 - The Book of Mormon matches *better* with Joseph's 19th century American context than the archaeology we have of the New World. That's what convinces me it's a modern creation. Mention Nahom and chiasmus and point to this [interview with Dan Vogel](https://youtu.be/eJV_B2JZZ-4) where he explains why Nahom and chiasmus don't show much.
 - [deep dive](https://signaturebookslibrary.org/new-approaches-to-the-book-of-mormon-10/) on Mosiah priority
+- [Joseph was not a humble farm boy](https://redlib.kylrth.com/r/exmormon/comments/13vy75u/joseph_smith_was_not_a_humble_simple_farm_boy/)
 
 ## other translation efforts of Joseph Smith
 
@@ -335,9 +337,11 @@ Joseph married 32-38 women, some of whom were only 14 years old. Others were alr
 - [ ] study this and get sources for it
 - Joseph's [last sermon](http://www.utlm.org/onlineresources/sermons_talks_interviews/smithboastingandpolygamydenial.htm) was pretty fiery
 - This was not ok during Joseph's time, as evidenced in cases like [this](https://www.reddit.com/r/mormon/comments/oym0df/what_did_nauvoo_society_in_the_1840s_consider_to/).
-- [rebuttals to justifications for teenage brides](https://libreddit.kylrth.com/r/exmormon/comments/zuc4cb/rebuttals_to_justifications_for_teenage_brides/)
-  - rename this section to "teenage brides" because that's really the problem (see [this coverage of Sarah Jane Ingram](https://libreddit.kylrth.com/r/exmormon/comments/zyiklz/the_disgusting_reality_of_churchsanctioned/))
+- [rebuttals to justifications for teenage brides](https://redlib.kylrth.com/r/exmormon/comments/zuc4cb/rebuttals_to_justifications_for_teenage_brides/)
+  - rename this section to "teenage brides" because that's really the problem (see [this coverage of Sarah Jane Ingram](https://redlib.kylrth.com/r/exmormon/comments/zyiklz/the_disgusting_reality_of_churchsanctioned/))
 - Joseph had [weird](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-c-1-addenda/20) [ideas](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64.9-10#9) about being excused for sins.
+- case of [Helen Kimball](https://redlib.kylrth.com/r/exmormon/comments/13cozxp/how_my_shelf_broke_joseph_smith_asked_heber_c/)
+- [not the usual concerns](https://redlib.kylrth.com/r/mormon/comments/13di19e/i_already_know_all_the_challenging_aspects_of/)
 
 ## the temple
 
@@ -349,6 +353,7 @@ You aren't even told beforehand what you're promising, and when you're there the
 
 - [ ] study this and get sources for it
 - how [masonic](https://www.masonicexchange.com/Masonic-Ceremonial-Clothing_b_39.html) [clothing](http://www.westgatelodge.org/category/stated-meeting/) is similar to temple clothing
+- refer to [this compilation of the changes to the endowment](https://redlib.kylrth.com/r/exmormon/comments/13xhbtp/i_made_a_book_of_all_the_endowment_transcript/)
 
 ## faith and confirmations from the Spirit
 
@@ -449,12 +454,13 @@ The church spends billions of dollars on building temples, while spending far le
 - The First Presidency announced in 1969 that God himself commanded the treatment of black people. Also check out this First Presidency [official statement](https://faenrandir.github.io/a_careful_examination/aug-2020-church-historian-communication-on-1949-first-presidency-statement/).
 - Talk about the [charity](https://www.reddit.com/r/mormon/comments/oxvfi0/there_was_a_recent_post_about_the_charitable_work/) the church provides.
 - discussion on [race](https://www.reddit.com/r/mormon/comments/pe4dh7/my_struggles_processing_race_priesthood_and_the/)
-- ambiguity of statements like [this](https://libreddit.kylrth.com/r/exmormon/comments/12nqbet/breaking_news_elder_cook_has_seen_jesus/) and Oaks' statement on not having seen God
+- ambiguity of statements like [this](https://redlib.kylrth.com/r/exmormon/comments/12nqbet/breaking_news_elder_cook_has_seen_jesus/) and Oaks' statement on not having seen God
 - quotes from [Stephen's interview with Jon Bialecki](https://scholarssaints.buzzsprout.com/1298003/12735830-baptism-for-the-dead-the-anthropology-of-spirit-possession-feat-jon-bialecki):
     > ... If you're to have a crystalline structure, you have to have regulating authority so everyone has the same understanding. And this is usually abetted through, you know, various institutional forms in the Church, but also because you have a monopoly on living prophets, right? You have 15 people that individually or collectively, can go and speak authoritatively. At least that's the common understanding. And they have what's close to a monopoly on the production of religious truth. It's more complicated than that in actual life, because oftentimes they are lagging indicators of where the center of Mormon religious intellectual life is from time to time. But that's simply where it looks to me from the outside.
     >
     > ... it has to do with governance and an aspect of governance is legitimacy. And this is a claim to legitimacy because you have a transference. And if one were to imagine an alternate scenario in which Joseph Smith was possessed by Adam, Or Paul or Peter or John or whoever wills right. Well, that would grant Joseph Smith or whoever's in the body of Joseph Smith at that moment, like almost unrivaled authority until the moment of possession passes. And then Joseph Smith would lose access to it. So, you really do need to have transfer of “keys.” You need to have some kind of shift, some kind of continuation or passing on of legitimacy and power in ways that spirit possession could not give in a stable manner. And if you're thinking about institution building, and we know that Joseph Smith was fascinated with institution building, you can see that that's absolutely something that you need. Because when you take a look at possession religions or possession phenomena that's associated with religion, to go back to it, one of the things we noted is usually these are on the fringes of religion, and one reason, arguably one can say is because you can't build institutions in possession. You may have some powerful moments and peak affective phenomena, but once the spirit leaves, it's gone. And if you want to do something, you have to recreate the phenomena again and again and again, rather than being able to go and build on it. Like one can when you have a transfer of keys, when you have the, how shall I say, when you have the priesthood power returning after the Great Apostasy.
-- [If any of you lack wisdom... answers are not the solution](https://libreddit.kylrth.com/r/exmormon/comments/13bngm8/yeah_joseph_answers_arent_the_solution_satan_was/)
+- [If any of you lack wisdom... answers are not the solution](https://redlib.kylrth.com/r/exmormon/comments/13bngm8/yeah_joseph_answers_arent_the_solution_satan_was/)
+- Ronald Poelman's [talk was censored and re-recorded](https://www.youtube.com/watch?v=6qIr30dtCvo) because he spoke about the distinction between the church and the gospel and [spoke of allowing space for individuals](https://redlib.kylrth.com/r/exmormon/comments/15o6nvh/came_across_this_gem_cue_the_cough_track/).
 
 ## what this all says about God
 
@@ -515,11 +521,11 @@ The church spends billions of dollars on building temples, while spending far le
 - Talk about how hypnosis and missionary teaching both use methods of suggested emotion to convince people. See [this conversation with Nolan](https://matrix.to/#/!iYdNOFdgBixuOiakEp:kylrth.com/$V-evPywU74QX3LUrrxFQqCiv9gL0Xk_Vowt3nMEp7kA?via=kylrth.com)
 - [false statements of prophets](https://archive.org/details/standard_of_truth/mode/2up)
 - [more false prophecy](https://www.reddit.com/r/mormon/comments/pyrk5p/if_you_want_prophets_to_prophecy_this_weekend_at/)
-- [pushing right through the BoM](https://libreddit.kylrth.com/r/mormon/comments/px0qe5/crawling_over_or_under_or_around_the_book_of/)
-- [JS translation projects](https://libreddit.kylrth.com/r/mormon/comments/q1vtec/comprehensive_list_of_joseph_smith_translation/)
+- [pushing right through the BoM](https://redlib.kylrth.com/r/mormon/comments/px0qe5/crawling_over_or_under_or_around_the_book_of/)
+- [JS translation projects](https://redlib.kylrth.com/r/mormon/comments/q1vtec/comprehensive_list_of_joseph_smith_translation/)
 - Dan Vogel's anti-universalist context video talks about how the distinction between "from their sins" and "in their sins" was a common discussion among (anti-)Universalists in Joseph's time.
 - [this BYU professor who was kicked out](https://berlinkaufusi.wixsite.com/website/post/the-inquisitions-and-my-retreat-into-the-wilderness)
-- u/TracingWoodgrains' [question](https://libreddit.kylrth.com/r/exmormon/comments/721659/convince_me/) about the BoM on r/exmormon, and his [post](https://libreddit.kylrth.com/r/exmormon/comments/72x6ip/update_you_convinced_me/) about becoming convinced.
+- u/TracingWoodgrains' [question](https://redlib.kylrth.com/r/exmormon/comments/721659/convince_me/) about the BoM on r/exmormon, and his [post](https://redlib.kylrth.com/r/exmormon/comments/72x6ip/update_you_convinced_me/) about becoming convinced.
 - hard [questions](https://faenrandir.github.io/a_careful_examination/questions-to-ask/) from faenrandir
 - notes from Stephen Hassan's Mormon Stories interview:
   - Lots of religions/cults teach that contrary ideas come from evil spirits or Satan. This is a thought-stopping technique.
@@ -528,38 +534,39 @@ The church spends billions of dollars on building temples, while spending far le
   - Burning of the bosom could be induced by hallucinating the concept that was suggested to you
   - Phobia indoctrination: if they leave, terrible things will happen
   - When you have the phobia, you can only generate negative visualizations of life if you left
+- [quotes from general authorities](https://redlib.kylrth.com/r/exmormon/comments/13wy1m6/what_made_you_realize_the_lds_church_is_a_cult/jme89ou/?context=3) checking the boxes of the BITE model
 - Include stuff like where the idea of a restoration of all things (Alma) comes from
 - How does flat earth theory get debunked? [On technicalities.](https://youtu.be/sq0GmI1JFkw) Analyze the arguments of flat earthers and show how they're similar to Rod Meldrum or others. Look at what Michael Stevens says at timestamp 16:24 on his [interview](https://lexfridman.com/michael-stevens/) with Lex Fridman
 - Prophets speaking as men is just "the philosophies of men, mingled with scripture". see [here](http://unexaminedfaith.blogspot.com/2019/03/speaking-as-man-is-not-good-defense.html?m=1)
-- this guy's [doc](https://libreddit.kylrth.com/r/mormon/comments/reqffo/101_questions_in_context_of_mormon_history_and/)
-- [compare](https://libreddit.kylrth.com/r/exmormon/comments/iuq189/hey_uuhhhh_how_many_of_these_human_trafficking/) missionary work to the signs of human trafficking
-- [cinnamon rolls block the Spirit](https://libreddit.kylrth.com/r/exmormon/comments/rpw9f3/help_me_out_who_gave_that_ridiculous_talk_about/)
-- [on conflict between the Spirit and the authority of the prophet](https://libreddit.kylrth.com/r/mormon/comments/s2xjyq/why_obedience_to_the_current_prophet_is_paramount/)
+- this guy's [doc](https://redlib.kylrth.com/r/mormon/comments/reqffo/101_questions_in_context_of_mormon_history_and/)
+- [compare](https://redlib.kylrth.com/r/exmormon/comments/iuq189/hey_uuhhhh_how_many_of_these_human_trafficking/) missionary work to the signs of human trafficking
+- [cinnamon rolls block the Spirit](https://redlib.kylrth.com/r/exmormon/comments/rpw9f3/help_me_out_who_gave_that_ridiculous_talk_about/)
+- [on conflict between the Spirit and the authority of the prophet](https://redlib.kylrth.com/r/mormon/comments/s2xjyq/why_obedience_to_the_current_prophet_is_paramount/)
 - [the quote here supports not trusting prophets but trusting God](https://youtu.be/F9SU0QWs__I?t=604)
-- [list of misleading statements from prophets](https://libreddit.kylrth.com/r/exmormon/comments/slxbwu/comprehensive_list_of_false_contradictory_or/)
-- [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tdqzym/these_really_hit_home_for_me/)
-- [another thing](https://libreddit.kylrth.com/r/exmormon/comments/tjl090/in_1820_a_palmyra_newspaper_advertised_a_book/)
-- [patterns of apologetics](http://libreddit.kylrth.com/r/exmormon/comments/ukgdse/my_mom_trying_to_downplay_temple_ceremonies_and/i7ow8lh/?context=3)
+- [list of misleading statements from prophets](https://redlib.kylrth.com/r/exmormon/comments/slxbwu/comprehensive_list_of_false_contradictory_or/)
+- [another thing](https://redlib.kylrth.com/r/exmormon/comments/tdqzym/these_really_hit_home_for_me/)
+- [another thing](https://redlib.kylrth.com/r/exmormon/comments/tjl090/in_1820_a_palmyra_newspaper_advertised_a_book/)
+- [patterns of apologetics](http://redlib.kylrth.com/r/exmormon/comments/ukgdse/my_mom_trying_to_downplay_temple_ceremonies_and/i7ow8lh/?context=3)
 - There's a useful quote about how conspiracy theories meet people's emotional needs and make them think they're saving the world [here](https://jigsaw.google.com/the-current/conspiracy-theories/).
 - add sidenotes where needed
 - add notes to other "religion" posts that may be outdated
 - [A Little Bit Culty interviews Amanda Montell](https://podcastaddict.com/episode/130313698)
-- [list of sources for leaders saying to avoid doubters](https://libreddit.kylrth.com/r/exmormon/comments/v7v083/need_links_to_church_leaders_telling_members_to/)
-- [Dr. Lowry Nelson responding to racist church questions about Cubans](https://libreddit.kylrth.com/r/exmormon/comments/v7r01c/lowry_nelson_my_favorite_mormon_social_justice/)
-- quote this person's [post](https://libreddit.kylrth.com/r/exmormon/comments/vfv5jj/its_a_trap/) about how the mission/endowment combo is a cult-like trap
-- [good summary](https://libreddit.kylrth.com/r/exmormon/comments/vlzr3m/why_was_joseph_smith_killed/) of Joseph's murder
-- [feelings epistemology](https://libreddit.kylrth.com/r/exmormon/comments/vwkxoy/those_feelings_in_your_gut_tell_you_that_the/)
-- [BY explicitly saying that he was speaking as prophet](https://libreddit.kylrth.com/r/exmormon/comments/vwjrwo/shall_i_tell_you_the_law_of_god_in_regard_to_the/ifrxrg0/?context=3)
-- [this post and comment](https://libreddit.kylrth.com/r/exmormon/comments/vz7afb/teaching_my_children_about_the_veil_of/ig6vjjp/?context=3) about how the veil exists because God wants to test us without any knowledge, but then he gives us knowledge and ruins the test by revealing the church and the gospel
-- [more on speaking as a man](https://libreddit.kylrth.com/r/exmormon/comments/vzrh1b/perfect_response_to_tbm_calling_you_out_for/)
-- the concept of [indirect directives](https://libreddit.kylrth.com/r/exmormon/comments/wcskjw/help_my_brain_is_going_to_explode/iifbwkk/?context=3), quoting from [here](https://recoveringagency.com/articles/the-methods-of-thought-reform/)
-- this guy's [big list](https://libreddit.kylrth.com/r/exmormon/comments/whpk45/what_is_the_biggest_realization_that_caused_you/ij70sxi/?context=3)
+- [list of sources for leaders saying to avoid doubters](https://redlib.kylrth.com/r/exmormon/comments/v7v083/need_links_to_church_leaders_telling_members_to/)
+- [Dr. Lowry Nelson responding to racist church questions about Cubans](https://redlib.kylrth.com/r/exmormon/comments/v7r01c/lowry_nelson_my_favorite_mormon_social_justice/)
+- quote this person's [post](https://redlib.kylrth.com/r/exmormon/comments/vfv5jj/its_a_trap/) about how the mission/endowment combo is a cult-like trap
+- [good summary](https://redlib.kylrth.com/r/exmormon/comments/vlzr3m/why_was_joseph_smith_killed/) of Joseph's murder
+- [feelings epistemology](https://redlib.kylrth.com/r/exmormon/comments/vwkxoy/those_feelings_in_your_gut_tell_you_that_the/)
+- [BY explicitly saying that he was speaking as prophet](https://redlib.kylrth.com/r/exmormon/comments/vwjrwo/shall_i_tell_you_the_law_of_god_in_regard_to_the/ifrxrg0/?context=3)
+- [this post and comment](https://redlib.kylrth.com/r/exmormon/comments/vz7afb/teaching_my_children_about_the_veil_of/ig6vjjp/?context=3) about how the veil exists because God wants to test us without any knowledge, but then he gives us knowledge and ruins the test by revealing the church and the gospel
+- [more on speaking as a man](https://redlib.kylrth.com/r/exmormon/comments/vzrh1b/perfect_response_to_tbm_calling_you_out_for/)
+- the concept of [indirect directives](https://redlib.kylrth.com/r/exmormon/comments/wcskjw/help_my_brain_is_going_to_explode/iifbwkk/?context=3), quoting from [here](https://recoveringagency.com/articles/the-methods-of-thought-reform/)
+- this guy's [big list](https://redlib.kylrth.com/r/exmormon/comments/whpk45/what_is_the_biggest_realization_that_caused_you/ij70sxi/?context=3)
 - rename this document something about "falsehoods" (and the other something about "harms"), and make a point at the beginning to note several of the true things the church teaches
 - maybe use [this quote](https://www.brainyquote.com/quotes/arthur_schopenhauer_103608) from Schopenhauer
 - [notes](https://www.cumorah.com/articles/ldsGrowthCaseStudies/247) on church growth?
-- apparently there was an [awesome takedown](https://libreddit.kylrth.com/r/exmormon/comments/6jd4fm/budding_apologists_create_book_of_mormon_nahom/) of the whole Nahom thing
+- apparently there was an [awesome takedown](https://redlib.kylrth.com/r/exmormon/comments/6jd4fm/budding_apologists_create_book_of_mormon_nahom/) of the whole Nahom thing
 - port my YouTube playlist to here
-- [this post](https://libreddit.kylrth.com/r/exmormon/comments/xvw7d0/so_whos_right_hahahahahayou_cant_make_this_kind/) can be used to make a really simple point about the difficulty of listening to a prophet's teachings. It's easy because it's a small issue, which can then be compared with big issues (e.g. the temple/priesthood ban for black people)
+- [this post](https://redlib.kylrth.com/r/exmormon/comments/xvw7d0/so_whos_right_hahahahahayou_cant_make_this_kind/) can be used to make a really simple point about the difficulty of listening to a prophet's teachings. It's easy because it's a small issue, which can then be compared with big issues (e.g. the temple/priesthood ban for black people)
 - the bit from God's Socialist part 2 from the Martyrmade podcast, around 1:30:00, where he describes the pull he felt at a Billy Graham event
 - also the part around 2:22:00 taken from Hyde when he talks about what it was like being a messenger of communism
 - This quote from Holland in 2022:
@@ -567,4 +574,9 @@ The church spends billions of dollars on building temples, while spending far le
     > No-one should tolerate any ludicrous, even laughable, middle-ground about "what a wonderful contour of the young boy's imagination, or his remarkable facility for turning a literary phrase". That is NOT an acceptable position to take morally, literarily, historically, or theologically.
 
     It's from [this video](https://www.churchofjesuschrist.org/broadcasts/watch/devotional-for-single-adults/2022/11?lang=eng). 1:23:35 for the whole segment, 1:27:09 for the quote.
-- This [funny thing about earwax](https://libreddit.kylrth.com/r/exmormon/comments/12rsced/earwax_helped_break_my_shelf/) (along with all the other genetic stuff) pigeonholes apologists into saying that Lehite DNA disappeared in America and the Polynesians.
+- This [funny thing about earwax](https://redlib.kylrth.com/r/exmormon/comments/12rsced/earwax_helped_break_my_shelf/) (along with all the other genetic stuff) pigeonholes apologists into saying that Lehite DNA disappeared in America and the Polynesians.
+- good stuff from Greg Prince: [one](https://redlib.kylrth.com/r/mormon/comments/ay6zpr/reflections_on_the_question_what_would_it_take/), [two](https://redlib.kylrth.com/r/exmormon/comments/13naqh2/my_dad_sent_me_this_out_of_nowhere_this_morning_i/jkyig04/?context=3)
+- [smashing comment](https://redlib.kylrth.com/r/exmormon/comments/16opis5/the_church_is_evolving_into_a_shit_storm_these/k1m5zyq/?context=3) on the emotional experience that the church re-interprets for you as the Spirit
+- [3 degrees of glory through Campbell](https://redlib.kylrth.com/r/exmormon/comments/17da7jd/joseph_ripped_three_degrees_from_alexander/)
+
+![a meme about how the reason one leaves the church is simply that it wasn't true, not that they want to sin, etc.](reasons.png)
