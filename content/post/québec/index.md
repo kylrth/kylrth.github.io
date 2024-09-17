@@ -61,7 +61,7 @@ If you find family insurance that works for all of you, there are certain requir
 
 Unfortunately, after looking super hard we never found anything but travel insurance that would cover us while we're temporary residents. Travel insurance usually doesn't cover anything routine, like check-ups. This means it makes more sense for us to keep regular student insurance for me and travel insurance for my wife.
 
-**Update**: Since 2021, kids are always covered by RAMQ no matter the parents' immigration status. You can register kids for RAMQ by signing up for a phone interview [here](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/register). Once you have the physical RAMQ health card for your kids, you can sign them up for the family doctor waiting list [here](https://www.quebec.ca/en/health/finding-a-resource/quebec-family-doctor-finder). You'll also need the RAMQ number of a "guarantor", who is generally the parent but in our case since we don't have RAMQ numbers we were told it could be anyone we knew who was willing to act as guarantor.
+**Update**: Since 2021, kids are always covered by RAMQ no matter the parents' immigration status. You can register kids for RAMQ by signing up for a phone interview [here](https://www.ramq.gouv.qc.ca/en/citizens/health-insurance/register). Once you have the physical RAMQ health card for your kids, you can sign them up for the family doctor waiting list [here](https://www.quebec.ca/en/health/finding-a-resource/quebec-family-doctor-finder). You'll also need the RAMQ number of a "guarantor", who is generally the parent but in our case since we don't have RAMQ numbers we were told it could be anyone we knew who was willing to act as guarantor. While on the waiting list, you can book appointments for immunizations through your local CLSC. They won't give physical check-ups, but if you're on the waiting list you can call +1 514 488 2266 to get an appointment without a family doctor.
 
 ### dental insurance
 
@@ -82,6 +82,10 @@ Before coming to Canada we made sure we had a couple of credit cards with no for
 To get a bank account, you need a Social Insurance Number (SIN) from the government of Canada. You can't get this on a visitor permit, so this is another reason we wish we'd gotten an open work permit for my wife when we were first applying. You can fill out a form online to start the process, but the response time is several weeks. You can also go in person to a ServiceCanada office and get it the same day, which is what I tried to do. For me there was some kind of problem on the immigration office side, and I ended up needing to submit for it the regular way there in the ServiceCanada office. So it was a while before I got that in the mail, and then I was finally able to schedule an appointment with Scotiabank to open an account.
 
 There are a lot of options for getting our money transferred from our American account to our Canadian account, each with their own fees and rules. So far the lowest-cost option seems to be a transfer with [Wise](https://wise.com/).{{% sidenote %}}We use the direct debit option instead of a wire because our bank charges $30 for wires.{{% /sidenote %}} If you do a transfer there you should use my [referral link](https://wise.com/invite/u/kyler387) (we'll both get discounts!).
+
+## child tax benefits
+
+After living in Canada for 18 months, you become eligible for the [Canada Child Benefit](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview.html) and [Québec Family Allowance](https://www.rrq.gouv.qc.ca/en/programmes/soutien_enfants/paiement/Pages/paiment.aspx), which are substantially helpful with the costs of raising children.
 
 ## daycare
 
