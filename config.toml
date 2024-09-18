@@ -1,7 +1,7 @@
 baseURL = "https://kylrth.com/"
 languageCode = "en-us"
 title = "Kyle Roth"
-paginate = 5
+pagination.pagerSize = 5
 enableGitInfo = true
 
 [markup]
