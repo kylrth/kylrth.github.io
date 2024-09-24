@@ -2,12 +2,11 @@
 {{ partial "menu.html" . }}
 <img src="images/my_face.png" alt="my face" style="float:right;max-width:40%">
 <div>
-    <p>I'm a second-year computer science PhD student at <a
+    <p>I'm a third-year computer science PhD student at <a
             href="https://diro.umontreal.ca/accueil/">DIRO</a> at the <a
-            href="https://www.umontreal.ca/">Université de Montréal</a>, studying machine learning
-        and NLP. I am advised by <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>,
-        and I'm currently working on augmenting large language models (LLMs) to better interact with
-        procedural knowledge. Here's my <a
+            href="https://www.umontreal.ca/">Université de Montréal</a>, studying NLP for
+        procedural knowledge. I am advised by <a
+            href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>. Here's my <a
             href="https://raw.githubusercontent.com/kylrth/resume/main/main.pdf">resume</a> (and the
         <a href="https://raw.githubusercontent.com/kylrth/resume/academic/main.pdf">academic
             version</a>).
@@ -39,7 +38,7 @@
         </svg></a></h2>
 <p>
     Around the web I'm known by the username <code>kylrth</code>. I prefer to be contacted through
-    the <a href="https://matrix.org">Matrix</a> protocol (<code>@kyle:kylrth.com</code>). (If you'd
+    the <a href="https://matrix.org">Matrix</a> protocol (<code>@kyle:kylrth.com</code>). If you'd
     like an account on my Matrix server, follow the instructions <a
         href="post/matrix-registration/">here</a>.) My GPG public key is <a href="gpg.pub">here</a>.
 </p>
@@ -60,52 +59,83 @@
 <p>Here's my <a href="https://raw.githubusercontent.com/kylrth/resume/academic/main.pdf">academic
         CV</a>.</p>
 <p>
-    I'm currently developing methods to augment large language models to more effectively produce
-    coherent procedures when the knowledge comes from retrieved documents. This is a <a
-        href="https://www.mitacs.ca/en">Mitacs</a> collaboration with <a
-        href="https://www.thalesgroup.com/en/americas/canada">Thales Canada</a>.
+    I'm currently thinking about how to augment LLM-based systems to more effectively handle
+    procedural knowledge like recipes, tutorials, or step-by-step instructions.
 </p>
-
-<h2 id="projects">other projects <a class="header-link" href="#projects"><svg class="c-links__icon">
-            <title>permalink</title>
-            <use xlink:href="#icon-permalink"></use>
-        </svg></a></h2>
-<a href="post/wordburner/"><img src="post/wordburner/icon.png" alt="WordBurner icon"
+<a href="https://arxiv.org/abs/2409.01344"><img src="images/icon_aag.png"
+        alt="icon of a procedural knowledge database"
         style="float:left;width:30%;padding:10px 20px 30px 10px"></a>
 <div style="overflow:hidden">
-    <a href="post/wordburner/">
-        <papertitle>WordBurner</papertitle>
+    <a id="aag" href="https://arxiv.org/abs/2409.01344">
+        <papertitle>analogy-augmented generation</papertitle>
     </a>
     <p>
-        In my spare time I'm working on an app for language learners to use to develop their
-        vocabulary. Users can add words to their active list, and the app will recommend additional
-        words that they might also want to learn. In addition to my personal use <a
-            href="post/learning-french/">learning French</a>, I hope this app will make it easier
-        for
-        displaced people to adapt to the culture where they find themselves, even when their
-        language skills are already advanced.
+        We are developing a custom retrieval-augmented generation (RAG) system to leverage LLMs to
+        work with arbitrary procedural knowledge. We test this system on three datasets: cooking
+        recipes, coding tutorials, and step-by-step math solutions. A preliminary version is <a
+            href="https://arxiv.org/abs/2409.01344">on arXiv</a>, and an expanded version
+        representing procedural knowledge as graphs will be out soon.
     </p>
 </div>
 <div style="clear:both"></div>
-<a href="https://github.com/jarednielsen/speech2phone"><img src="images/vowel_trapezoid.png"
-        alt="the trapezoid used to picture vowels in phonology"
-        style="float:left;width:30%;padding:0 20px 0 0"></a>
+<img src="images/icon_code_search.png" alt="annealing results plot for code search project"
+    style="float:left;width:30%;padding:10px 20px 30px 10px">
 <div style="overflow:hidden">
-    <a
-        href="https://github.com/jarednielsen/speech2phone/blob/master/results/winter_semester_report.pdf">
-        <papertitle>speech2phone</papertitle>
-    </a>
+    <papertitle>code search</papertitle>
     <p>
-        <i>speech2phone</i> was a class project I worked on with two other ACME students our senior
-        year. We tried to tackle the problem of phoneme recognition on the TIMIT corpus by splitting
-        it into the tasks of segmentation and classification. We had some fun exploring various
-        algorithms and architectures. We didn't yet have a good sense for the current state of the
-        art research and so we sort of threw everything at the problem and watched what happened.
-        You can see the repo <a href="https://github.com/jarednielsen/speech2phone">here</a> and the
-        final report <a
-            href="https://github.com/jarednielsen/speech2phone/blob/master/results/winter_semester_report.pdf">here</a>.
+        In this work we developed a pipeline that first searches over unique functions called in the
+        codebase, then leverages a standard static analysis tool to find all snippets that call the
+        top functions, and finally checks those snippets using several dense models of varying sizes
+        (and runtimes) to selectively filter these snippets by each model's confidence. The
+        thresholds of this pipeline are optimized for search speed using simulated annealing over a
+        small dataset of query-snippet pairs, with a constraint on false positives and false
+        negatives. This system has been deployed in production on the <a
+            href="https://www.moderne.ai/">Moderne</a> platform to perform high-quality code search
+        on industrial-scale codebases.
     </p>
 </div>
+<div style="clear:both"></div>
+<img src="images/icon_redharbour.webp" alt="RedHarbour icon"
+    style="float:left;width:30%;padding:10px 20px 30px 10px">
+<div style="overflow:hidden">
+    <papertitle>RedHarbour</papertitle>
+    <p>
+        I am currently leading a project to design an open-source, privacy-oriented, extensible chat
+        UI and LLM application framework. The application framework defines a set of "skills" as
+        Python code that calls upon resources such as LLMs, retrievers, local files, conversational
+        memory, multi-modal models, or web services. These sandboxed skill scripts can be developed
+        and shared by humans, or automatically generated and fine-tuned using LLMs. The project is
+        designed to logically separate the skill system from the local UI application so the former
+        can be generally applicable in new environments. This will build on the formalisms we have
+        developed for <a href="#aag">AAG</a>.
+    </p>
+</div>
+<div style="clear:both"></div>
+
+<h2 id="other">other stuff <a class="header-link" href="#other"><svg class="c-links__icon">
+            <title>permalink</title>
+            <use xlink:href="#icon-permalink"></use>
+        </svg></a></h2>
+<ul>
+    <li>other projects:</li>
+    <ul>
+        <li><b><a href="post/wordburner/">WordBurner</a></b> (in development): an app for language
+            learners to use to develop their vocabulary. Users can add words to their active list,
+            and the app will recommend additional words that they might also want to learn. In
+            addition to my personal use <a href="post/learning-french/">learning French</a>, I hope
+            this app will make it easier for displaced people to adapt to the culture where they
+            find themselves, even when their language skills are already advanced.</li>
+    </ul>
+    <li><a href="tags/self-hosted/">my posts about self-hosting</a></li>
+    <li>fun websites:</li>
+    <ul>
+        <li><a href="https://unicornycopia.com/ezm/">https://unicornycopia.com/ezm/</a></li>
+        <li><a
+                href="https://potatoware.alienmelon.com/potatoware.html">https://potatoware.alienmelon.com/potatoware.html</a>
+        </li>
+        <li><a href="https://www.pizzabouquet.ca/">https://www.pizzabouquet.ca/</a></li>
+    </ul>
+</ul>
 <div style="clear:both"></div>
 
 {{ partial "footer.html" . }}
