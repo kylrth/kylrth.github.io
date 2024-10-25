@@ -32,6 +32,7 @@ IgnoreURLs:
   - "news.ag.org"
   - "tech.churchofjesuschrist.org"
   - "philpapers.org"
+  - "nytimes\\.com"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert

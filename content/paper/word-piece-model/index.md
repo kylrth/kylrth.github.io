@@ -1,6 +1,6 @@
 ---
 title: "Japanese and Korean voice search"
-link: "https://storage.googleapis.com/pub-tools-public-publication-data/pdf/37842.pdf"
+link: "https://archive.kylrth.com/archive/1653659773.147786/index.html"
 date: 2020-06-24T14:44:02-06:00
 draft: false
 tags: ["nlp"]
@@ -47,7 +47,7 @@ They also do something important to make sure the ASR output text has spaces for
 
 ## LM
 
-They use entropy-pruned 3- to 5-grams with Katz back-off after removing unwanted symbols etc. as much as possible similar to what is described in [a previous voice search paper from Google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36732.pdf).
+They use entropy-pruned 3- to 5-grams with Katz back-off after removing unwanted symbols etc. as much as possible similar to what is described in [a previous voice search paper from Google](https://archive.kylrth.com/archive/1653659773.147733/index.html).
 
 ## pronunciation dictionary
 
