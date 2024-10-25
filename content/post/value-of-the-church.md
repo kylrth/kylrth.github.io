@@ -71,3 +71,4 @@ I used to be frustrated that I had been "under the thumb" of the church for so l
 - <https://redlib.kylrth.com/r/exmormon/comments/13nhg6a/im_a_social_worker_and_we_keep_a_list_of_various/>
 - <https://redlib.kylrth.com/r/exmormon/comments/13vttyb/im_sad_deconstructing_the_second_coming/>
 - [using the idea of Satan to police your thoughts](https://redlib.kylrth.com/r/exmormon/comments/16qm8fb/the_lds_church_isnt_bad_because_of_its_weird/)
+- Singing *The Spirit of God* with a bunch of other people who know how to sing is really fun.
