@@ -4,10 +4,11 @@
 <div>
     <p>I'm a third-year computer science PhD student at <a
             href="https://diro.umontreal.ca/accueil/">DIRO</a> at the <a
-            href="https://www.umontreal.ca/">Université de Montréal</a>, studying NLP for
-        procedural knowledge. I am advised by <a
-            href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>. Here's my <a
-            href="https://raw.githubusercontent.com/kylrth/resume/main/main.pdf">resume</a> (and the
+            href="https://www.umontreal.ca/">Université de Montréal</a>, advised by <a
+            href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>. I study the structured
+        use of LLMs within larger pipelines and agent systems, from both robustness and
+        sociotechnical perspectives. Here's my
+        <a href="https://raw.githubusercontent.com/kylrth/resume/main/main.pdf">resume</a> (and the
         <a href="https://raw.githubusercontent.com/kylrth/resume/academic/main.pdf">academic
             version</a>).
     </p>
@@ -59,8 +60,10 @@
 <p>Here's my <a href="https://raw.githubusercontent.com/kylrth/resume/academic/main.pdf">academic
         CV</a>.</p>
 <p>
-    I'm currently thinking about how to augment LLM-based systems to more effectively handle
-    procedural knowledge like recipes, tutorials, or step-by-step instructions.
+    Several of my projects center on providing LLM systems with formal structure for procedural
+    (how-to) knowledge. Providing explicit structure for procedure planning allows developers and
+    users to "open the hood" on the planning and action phases of a pipeline, and allows us to build
+    "skill libraries" of procedures that can be adapted to new tasks.
 </p>
 <a href="https://arxiv.org/abs/2409.01344"><img src="images/icon_aag.png"
         alt="icon of a procedural knowledge database"
@@ -70,11 +73,28 @@
         <papertitle>analogy-augmented generation</papertitle>
     </a>
     <p>
-        We are developing a custom retrieval-augmented generation (RAG) system to leverage LLMs to
-        work with arbitrary procedural knowledge. We test this system on three datasets: cooking
-        recipes, coding tutorials, and step-by-step math solutions. A preliminary version is <a
-            href="https://arxiv.org/abs/2409.01344">on arXiv</a>, and an expanded version
-        representing procedural knowledge as graphs will be out soon.
+        We developed a simple formalism for procedural knowledge, built a custom retrieval system
+        using this formal structure, and designed a custom LLM pipeline to retrieve and adapt known
+        procedures to new tasks by analogy. We test this system on three datasets: cooking recipes,
+        coding tutorials, and step-by-step math solutions. This version is <a
+            href="https://arxiv.org/abs/2409.01344">on arXiv</a>, and we're now building a version
+        that uses a more complex, graph-based formalism.
+    </p>
+</div>
+<div style="clear:both"></div>
+<img src="images/icon_redharbour.webp" alt="RedHarbour icon"
+    style="float:left;width:30%;padding:10px 20px 30px 10px">
+<div style="overflow:hidden">
+    <papertitle>RedHarbour</papertitle>
+    <p>
+        I am currently leading a project to design an open-source, privacy-oriented, extensible chat
+        UI and LLM application framework. The application framework defines a set of "skills" as
+        Python code that calls upon resources such as LLMs, retrievers, local files, conversational
+        memory, multi-modal models, or web services. These sandboxed skill scripts can be developed
+        and shared by humans, or automatically generated and fine-tuned using LLMs. The project is
+        designed to logically separate the skill system from the local UI application so the former
+        can be generally applicable in new environments. This will build on the formal
+        representations we have developed for <a href="#aag">AAG</a>.
     </p>
 </div>
 <div style="clear:both"></div>
@@ -92,22 +112,6 @@
         negatives. This system has been deployed in production on the <a
             href="https://www.moderne.ai/">Moderne</a> platform to perform high-quality code search
         on industrial-scale codebases.
-    </p>
-</div>
-<div style="clear:both"></div>
-<img src="images/icon_redharbour.webp" alt="RedHarbour icon"
-    style="float:left;width:30%;padding:10px 20px 30px 10px">
-<div style="overflow:hidden">
-    <papertitle>RedHarbour</papertitle>
-    <p>
-        I am currently leading a project to design an open-source, privacy-oriented, extensible chat
-        UI and LLM application framework. The application framework defines a set of "skills" as
-        Python code that calls upon resources such as LLMs, retrievers, local files, conversational
-        memory, multi-modal models, or web services. These sandboxed skill scripts can be developed
-        and shared by humans, or automatically generated and fine-tuned using LLMs. The project is
-        designed to logically separate the skill system from the local UI application so the former
-        can be generally applicable in new environments. This will build on the formalisms we have
-        developed for <a href="#aag">AAG</a>.
     </p>
 </div>
 <div style="clear:both"></div>
