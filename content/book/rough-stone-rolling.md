@@ -2,7 +2,7 @@
 title: "Joseph Smith: rough stone rolling"
 author: "Richard Bushman"
 goodreads: "https://www.goodreads.com/book/show/236609.Joseph_Smith"
-date: TODO
+date: 1900-01-01T00:00:00-08:00
 draft: true
 tags: ["religion", "mormonism"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388188757l/236609.jpg"

@@ -2,8 +2,8 @@
 title: "Nonviolent communication: a language of life"
 author: "Marshall Rosenberg"
 goodreads: "https://www.goodreads.com/book/show/71730.Nonviolent_Communication"
-date: TODO
-draft: true
+date: 2024-10-25T15:39:56-04:00
+draft: false
 tags: ["relationships"]
 thumbnail: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925124l/71730.jpg"
 ---
