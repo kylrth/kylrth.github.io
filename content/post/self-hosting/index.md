@@ -95,7 +95,7 @@ You can follow [this guide](https://www.xmodulo.com/how-to-create-encrypted-disk
 
 ## Systemd and Docker
 
-I run everything with docker-compose, so I borrowed a systemd service file from [this guide](https://selfhostedhome.com/start-docker-compose-using-systemd-on-debian/) so that the services are started when the computer boots up. It starts the containers with docker-compose and then uses a script to wait for the NGINX container to start responding to requests on port 443. To set this up, copy these three files to where your `docker-compose.yml` is.
+I run everything with docker-compose, so I borrowed a systemd service file from [this guide](https://web.archive.org/web/20241228220703/https://selfhostedhome.com/start-docker-compose-using-systemd-on-debian/) so that the services are started when the computer boots up. It starts the containers with docker-compose and then uses a script to wait for the NGINX container to start responding to requests on port 443. To set this up, copy these three files to where your `docker-compose.yml` is.
 
 ```sh
 wget https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh \

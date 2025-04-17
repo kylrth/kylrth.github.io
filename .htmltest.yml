@@ -33,6 +33,11 @@ IgnoreURLs:
   - "tech.churchofjesuschrist.org"
   - "philpapers.org"
   - "nytimes\\.com"
+  - "www\\.semanticscholar\\.org"
+  - "www\\.mdpi\\.com"
+  - "www\\.jstor\\.org"
+  - "www\\.urbandictionary\\.com"
+  - "unesdoc\\.unesco\\.org"
   # onion sites
   - "http://.*\\.onion"
   # expired HTTPS cert
