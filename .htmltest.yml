@@ -7,38 +7,9 @@ HTTPHeaders:
   User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0
 IgnoreCanonicalBrokenLinks: false
 IgnoreHTTPS:
-  - "http://bei\\.umontreal\\.ca"
-  - "http://jur\\.byu\\.edu"
-  - "http://www\\.ahc\\.umontreal\\.ca/ActivitesJumelage/interlinguistique\\.htm"
+  - "^http://bei\\.umontreal\\.ca"
+  - "^http://jur\\.byu\\.edu"
+  - "^http://www\\.ahc\\.umontreal\\.ca/ActivitesJumelage/interlinguistique\\.htm"
   - "^http://www\\.faecum\\.qc\\.ca/$"
   - "^http://www\\.stablediffusionfrivolous.com/$"
-IgnoreURLs:
-  # these sites don't like GitHub
-  - "^https://www\\.reddit\\.com/"
-  - "^https://twitter\\.com/"
-  - "^https://wise\\.com/"
-  - "^https://www\\.datanami\\.com/"
-  - "^https://www\\.linkedin\\.com/in/kyle-roth/$"
-  - "^https://openreview\\.net/pdf\\?id=ryxWIgBFPS$"
-  - "^https://www\\.pnas\\.org/doi/10\\.1073/pnas\\.2016976118$"
-  - "^https://www\\.wsj\\.com/articles/futures-exchange-reins-in-runaway-trading-algorithms-11572377375$"
-  - "^https://devdojo\\.com/bobbyiliev/how-to-install-docker-and-docker-compose-on-raspberry-pi$"
-  - "foundation.mozilla.org"
-  - "www.google.com/maps/dir"
-  - "fee.org"
-  - "papers.nips.cc"
-  - "^https://byu\\.edu$"
-  - "digitalcommons.usu.edu"
-  - "news.ag.org"
-  - "tech.churchofjesuschrist.org"
-  - "philpapers.org"
-  - "nytimes\\.com"
-  - "www\\.semanticscholar\\.org"
-  - "www\\.mdpi\\.com"
-  - "www\\.jstor\\.org"
-  - "www\\.urbandictionary\\.com"
-  - "unesdoc\\.unesco\\.org"
-  # onion sites
-  - "http://.*\\.onion"
-  # expired HTTPS cert
-  - "https://5kids1condo\\.com/access-the-good-life-dont-own-it/"
+  - "^http://[^/]\\.onion"
