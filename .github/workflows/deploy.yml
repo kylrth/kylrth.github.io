@@ -31,7 +31,7 @@ jobs:
 
     # build site and check links
     - name: run htmltest
-      run: make htmltest
+      run: make lint
 
     - name: save htmltest cache
       uses: actions/cache/save@v4
