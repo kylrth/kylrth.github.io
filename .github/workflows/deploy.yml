@@ -10,10 +10,10 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
 
     - name: restore htmltest cache
-      uses: actions/cache/restore@v4
+      uses: actions/cache/restore@v6
       with:
         path: tmp/.htmltest
         # We want the latest cache to hit and be updated every time.
@@ -22,19 +22,20 @@ jobs:
           htmltest
 
     - name: set up Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: latest
 
-    - name: download htmltest
-      run: curl https://htmltest.wjdp.uk | sudo bash -s -- -b /usr/local/bin
+    - name: build site
+      run: make public
 
-    # build site and check links
     - name: run htmltest
-      run: make lint
+      uses: wjdp/htmltest-action@31be84a95c860a331e0cf9a99f71e3eb39d2f86b
+      with:
+        skip_external: true
 
     - name: save htmltest cache
-      uses: actions/cache/save@v4
+      uses: actions/cache/save@v6
       if: always()
       with:
         path: tmp/.htmltest
@@ -42,7 +43,7 @@ jobs:
 
     # deploy to GitHub pages if this is the main branch
     - name: deploy
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       if: github.ref == 'refs/heads/main'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
