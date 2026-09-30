@@ -6,7 +6,7 @@ tags: ["politics", "critique", "ethics"]
 thumbnail: "ltfr-cover.jpg"
 ---
 
-*You can view this episode [here](https://www.teamhuman.fm/episodes/265-dennis-yi-tenen), and you can download a transcript I made with whisper-medium [here](https://dl.kylrth.com/teamhuman_tenen.txt). I accept responsibility for errors in the transcript, alongside OpenAI, all people whose voices exist on the web, and the rest of humanity. :)*
+*You can view this episode [here](https://www.teamhuman.fm/episodes/265-dennis-yi-tenen), and you can download a transcript I made with whisper-medium [here](https://dl.kylrth.com/web/transcript_teamhuman_tenen.txt). Please let me know if there are errors in the transcript.*
 
 ## writing technology
 
